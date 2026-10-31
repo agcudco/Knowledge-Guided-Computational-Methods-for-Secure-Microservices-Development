@@ -1,0 +1,15 @@
+(
+  "Document Title":"software architecture"
+  OR "Document Title":"architectural design"
+  OR "Document Title":"microservice architecture"
+  OR "Document Title":microservice*
+)
+AND
+(
+  "knowledge-guided"
+  OR "knowledge-informed"
+  OR "knowledge-grounded"
+  OR "knowledge graph"
+  OR "retrieval-augmented generation"
+  OR "neuro-symbolic"
+)

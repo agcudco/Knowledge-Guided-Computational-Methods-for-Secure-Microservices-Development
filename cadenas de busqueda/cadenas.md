@@ -1,0 +1,7 @@
+### Tabla. Cadenas conceptuales generales utilizadas en la revisión
+
+| **Código** | **Objetivo** | **Cadena general** |
+|---|---|---|
+| **S1** | Identificar métodos guiados por conocimiento utilizados en arquitectura y diseño arquitectónico de software. | `("knowledge-guided" OR "knowledge-informed" OR "knowledge-driven" OR "knowledge graph*" OR ontolog* OR "rule-based" OR "semantic reasoning" OR "retrieval-augmented generation") AND ("software architecture" OR "architectural design" OR "architectural decision*" OR "microservice architecture*")` |
+| **S2** | Identificar conocimiento especializado utilizado para orientar decisiones de seguridad arquitectónica y diseño seguro. | `("architectural security" OR "security architecture" OR "security by design" OR "secure by design" OR "security requirement*" OR vulnerab*) AND ("knowledge graph*" OR ontolog* OR "rule-based" OR "semantic reasoning" OR "knowledge-guided" OR "knowledge-informed")` |
+| **S3** | Identificar métodos guiados por conocimiento aplicados a generación, verificación, validación o refinamiento arquitectónico. | `("software architecture" OR "architectural design" OR "architectural model*" OR "microservice architecture*") AND (generat* OR synthes* OR verif* OR validat* OR conform* OR refin* OR repair*) AND ("knowledge-guided" OR "knowledge-informed" OR "knowledge-based" OR "knowledge graph*" OR ontolog* OR "rule-based" OR "semantic reasoning")` |

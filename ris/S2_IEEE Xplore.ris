@@ -1,0 +1,1140 @@
+TY  - CONF
+TI  - Automated Security Analysis for Microservice Architecture
+T2  - 2020 IEEE International Conference on Software Architecture Companion (ICSA-C)
+SP  - 79
+EP  - 82
+AU  - N. Chondamrongkul
+AU  - J. Sun
+AU  - I. Warren
+PY  - 2020
+KW  - Security
+KW  - Computer architecture
+KW  - Connectors
+KW  - Ontologies
+KW  - Containers
+KW  - Tools
+KW  - Analytical models
+KW  - Microservice Architecture
+KW  - Security Analysis
+KW  - Ontology Web Language
+KW  - Model Checking
+DO  - 10.1109/ICSA-C50368.2020.00024
+JO  - 2020 IEEE International Conference on Software Architecture Companion (ICSA-C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Software Architecture Companion (ICSA-C)
+Y1  - 16-20 March 2020
+AB  - Designing a software system that applied the microservice architecture style is a challenging task, as its characteristics are vulnerable to various security attacks. Software architect, therefore, needs to pinpoint the security flaws in the design before the implementation can proceed. This task is error-prone as it requires manual analysis on the design model, to identify security threats and trace possible attack scenarios. This paper presents an automated security analysis approach for microservice architecture. Our approach can automatically identify security threats according to a collection of formally defined security characteristics and provide an insightful result that demonstrates how the attack scenarios may happen. A collection of formally defined security characteristics can be extended to support other security characteristics not addressed in this paper.
+ER  - 
+
+TY  - CONF
+TI  - Sarch-Checks: A Method for Checking Software Architecture Security Properties Using a Knowledge Graph
+T2  - 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)
+SP  - 135
+EP  - 142
+AU  - J. Vergara-Vargas
+AU  - S. Sadou
+AU  - C. Tibermacine
+AU  - F. Restrepo-Calle
+PY  - 2024
+KW  - Analytical models
+KW  - Software architecture
+KW  - Knowledge graphs
+KW  - Computer architecture
+KW  - NIST
+KW  - Software systems
+KW  - Security
+KW  - Security property
+KW  - software architecture description
+KW  - checking method
+KW  - knowledge graph
+DO  - 10.1109/ICSA-C63560.2024.00030
+JO  - 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)
+IS  - 
+SN  - 2768-4288
+VO  - 
+VL  - 
+JA  - 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)
+Y1  - 4-8 June 2024
+AB  - Checking the security properties of a software system during design is essential to enable the construction of a foundationally secure system. However, combining design tasks with security checks leads to a difficult and error-prone activity. This paper presents a checking method for security properties, called Sarch-Checks. This method allows analyzing the context of architectural elements in terms of an expected security property and identifying the presence of countermeasures and vulnerabilities. It uses an architectural description of the system to be analyzed, through the use of a modeling language. It also uses a knowledge graph, modeled and built from the elements of the software architecture, and cybersecurity elements taken from official information sources such as NIST and MITRE. This solution is an aide to the architect to design more secure architectures. Additionally, a validation process of the proposed method is presented through a case study based on a real report of a vulnerability in an open-source software system.
+ER  - 
+
+TY  - CONF
+TI  - Design and Implementation of Vulnerability Platform Based on Knowledge Graph
+T2  - 2024 IEEE Annual Congress on Artificial Intelligence of Things (AIoT)
+SP  - 99
+EP  - 104
+AU  - Y. Chen
+AU  - Z. Huang
+AU  - X. Cao
+AU  - X. Li
+AU  - Y. Zhang
+PY  - 2024
+KW  - Fuses
+KW  - Redundancy
+KW  - Crawlers
+KW  - Knowledge graphs
+KW  - Maintenance engineering
+KW  - Market research
+KW  - Internet of Things
+KW  - Vulnerability platform
+KW  - Knowledge graph
+KW  - Fusion framework
+KW  - Crawler system
+KW  - Web server side
+DO  - 10.1109/AIoT63253.2024.00029
+JO  - 2024 IEEE Annual Congress on Artificial Intelligence of Things (AIoT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 IEEE Annual Congress on Artificial Intelligence of Things (AIoT)
+Y1  - 24-26 July 2024
+AB  - Security vulnerabilities are an important part of the cybersecurity field. These vulnerabilities are dispersed across numerous websites and forums, exhibiting multi-source heterogeneity and data redundancy, and showing a significant growth trend. This presents a challenge for the collection, sharing, and analysis of vulnerability information. To address this issue, this paper presents a novel knowledge graph-based vulnerability platform. The platform fuses the vulnerability data collected by crawlers through a knowledge graph, obtaining 1.72 times more vulnerability data than NVD, 2.05 times more than CNVD, and 4.69 times more than NSFocus. This reflects the effectiveness of knowledge graph in fusing heterogeneous vulnerability data. Furthermore, the vulnerability platform provides data services that are easily queryable and retrievable, thus facilitating the early warning and repair of security vulnerabilities.
+ER  - 
+
+TY  - CONF
+TI  - AI-Based Cross-Layer Vulnerability Management for Cloud-Native Systems
+T2  - 2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)
+SP  - 1
+EP  - 3
+AU  - O. Polishchuk
+AU  - K. Babii
+PY  - 2026
+KW  - Cross layer design
+KW  - Runtime
+KW  - Correlation
+KW  - Noise reduction
+KW  - Noise
+KW  - Microservice architectures
+KW  - Computer security
+KW  - Artificial intelligence
+KW  - Anomaly detection
+KW  - AI-based Vulnerability Management
+KW  - Cybersecurity
+KW  - Temporal Graph Learning
+KW  - Cloud-Native Systems
+KW  - Self-Supervised Anomaly Detection
+DO  - 10.1109/ICAIC67076.2026.11395769
+JO  - 2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)
+Y1  - 18-20 Feb. 2026
+AB  - Cloud-native systems introduce complex and dynamic attack surfaces driven by microservice architectures, identity-centric access models, and continuously evolving runtime behavior. Traditional vulnerability management approaches rely on static severity scoring and siloed security signals, resulting in excessive alert noise and limited insight into real-world exploitability.This paper presents a novel AI-driven cross-layer vulnerability management framework that models exploitation risk as an evolving behavioral process rather than a static property of individual vulnerabilities. The proposed approach represents cloud-native environments as temporal cross-layer graphs and applies self-supervised sequence learning, graph-based risk propagation, and anomaly detection to identify multi-stage exploitation paths spanning application, identity, runtime, and endpoint layers.Unlike conventional prioritization techniques, the framework learns how risk propagates across layers over time and adapts to previously unseen attack strategies without reliance on labeled exploit data. A simulated Kubernetes-based case study demonstrates substantial alert noise reduction while preserving exploitation-relevant signals, outperforming severity-based and rule-based correlation approaches.
+ER  - 
+
+TY  - CONF
+TI  - Enforcing Architectural Security Decisions
+T2  - 2020 IEEE International Conference on Software Architecture (ICSA)
+SP  - 35
+EP  - 45
+AU  - S. Jasser
+PY  - 2020
+KW  - Computer architecture
+KW  - Authorization
+KW  - Software measurement
+KW  - Software architecture
+KW  - Software systems
+KW  - Software-Architecture
+KW  - Security-Architecture
+KW  - Architecture-Rules
+KW  - Security-Rules
+KW  - Security-by-Design
+KW  - Architecture-Enforcement
+KW  - Architecture-Conformance
+KW  - CNL
+KW  - Ontology
+DO  - 10.1109/ICSA47634.2020.00012
+JO  - 2020 IEEE International Conference on Software Architecture (ICSA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Software Architecture (ICSA)
+Y1  - 16-20 March 2020
+AB  - Software architects should specify security measures for a software system on an architectural level. However, the implementation often diverges from this intended architecture including its security measures. This may lead to severe vulnerabilities that have a wide impact on the system and are hard to fix afterwards. In this paper, we propose an approach for checking the implementation’s conformance with the defined security measures using architectural security rules: We extend a controlled natural language approach to formalize these rules and use dynamic analysis techniques to extract information on the actual system behavior for the conformance check. We evaluate our approach by an industrial case study to show the applicability and flexibility of our conformance checking approach.
+ER  - 
+
+TY  - CONF
+TI  - Ensuring Privacy Policy Compliance of Wearables with IoT Regulations
+T2  - 2023 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)
+SP  - 247
+EP  - 256
+AU  - K. U. Echenim
+AU  - L. Elluri
+AU  - K. P. Joshi
+PY  - 2023
+KW  - Privacy
+KW  - Data privacy
+KW  - Ontologies
+KW  - NIST
+KW  - Regulation
+KW  - Internet of Things
+KW  - Wearable devices
+KW  - Wearables
+KW  - Wearable Devices
+KW  - IoT
+KW  - Semantic Web
+KW  - Ontology
+KW  - Privacy
+KW  - Compliance
+KW  - Microservices
+DO  - 10.1109/TPS-ISA58951.2023.00039
+JO  - 2023 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 5th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA)
+Y1  - 1-4 Nov. 2023
+AB  - In an era where wearables, particularly those in non-hospital settings, collect and transmit sensitive personal data, it is imperative to implement stringent privacy safeguards. The National Institute of Standards and Technology (NIST) Internal Report 8228 provides regulations for securing Internet of Things (IoT) devices, data, and the privacy of individuals. We have developed a novel framework for examining the privacy policies governing the data and information utilized by wearable devices to ensure that these IoT devices work in adherence to the NIST controls. Our approach entails constructing an ontology of the pertinent NIST regulations, extracting key regulation terms, establishing clear annotation guidelines, and reasoning over the developed ontology. Our primary contribution is developing a novel method to accurately retrieve the expectations, privacy risk mitigation areas, and the associated regulations using Natural Language Processing and Semantic Web concepts. Ultimately, vendors and users can use our publicly available ontology to semi-automate the privacy compliance process for wearables, ensuring that the data collected and transmitted through the devices are secure, thereby protecting both the devices and the individuals who use them.
+ER  - 
+
+TY  - CONF
+TI  - GeneticSecOps: Harnessing Heuristic Genetic Algorithms for Automated Security Testing and Vulnerability Detection in DevSecOps
+T2  - 2023 6th International Conference on Contemporary Computing and Informatics (IC3I)
+SP  - 2271
+EP  - 2278
+AU  - P. Thantharate
+AU  - A. T
+PY  - 2023
+KW  - Heuristic algorithms
+KW  - Software algorithms
+KW  - Telecommunication traffic
+KW  - Feature extraction
+KW  - Software
+KW  - Software reliability
+KW  - Security
+KW  - DevSecOps Automation
+KW  - Automated Security Testing
+KW  - Vulnerability Detection Tools
+KW  - Genetic Algorithm Optimization
+KW  - Cybersecurity in Software Development
+DO  - 10.1109/IC3I59117.2023.10398075
+JO  - 2023 6th International Conference on Contemporary Computing and Informatics (IC3I)
+IS  - 
+SN  - 
+VO  - 6
+VL  - 6
+JA  - 2023 6th International Conference on Contemporary Computing and Informatics (IC3I)
+Y1  - 14-16 Sept. 2023
+AB  - This paper addresses security testing and vulnerability detection within the DevSecOps framework, emphasizing the need for automated tools to streamline and enhance security practices. Current challenges are identified, and related work is reviewed to establish context. Our Python-based solution offers two main components: an automated security testing tool for rigorous testing throughout the software development lifecycle and an automated vulnerability detection tool to identify potential vulnerabilities in system logs and network traffic. To optimize feature selection in the vulnerability detection tool, we employ the Genetic Algorithm (GA). The GA efficiently explores potential feature combinations, selecting the most relevant features to maximize vulnerability detection accuracy while minimizing the number of features. Simulated results validate the effectiveness of our solution in real-world scenarios, with the optimal solution achieving a fitness score of 0.982. By automating security testing and vulnerability detection, our approach enhances the security and reliability of software development. The paper concludes by discussing the implications of our findings and proposes future research directions. Embracing automation in security testing fortifies software applications and safeguards critical data from threats. Our proposed solution offers a promising avenue for advancing automated security testing and vulnerability detection within the DevSecOps paradigm.
+ER  - 
+
+TY  - CONF
+TI  - Integrating AI into DevSecOps Pipelines for Secure Cloud Microservices Management
+T2  - 2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)
+SP  - 1
+EP  - 7
+AU  - A. K. Dash
+PY  - 2026
+KW  - Pipelines
+KW  - Microservice architectures
+KW  - Organizations
+KW  - Games
+KW  - Computer architecture
+KW  - Threat assessment
+KW  - Security
+KW  - Artificial intelligence
+KW  - Surface treatment
+KW  - Testing
+KW  - DevSecOps
+KW  - Artificial Intelligence
+KW  - Cloud Security
+KW  - Microservices Architecture
+KW  - Secure Software Development Lifecycle
+KW  - Containerized Workloads
+DO  - 10.1109/ICAIC67076.2026.11395671
+JO  - 2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE 5th International Conference on AI in Cybersecurity (ICAIC)
+Y1  - 18-20 Feb. 2026
+AB  - The modern era of technology encompasses many innovative areas such as cloud computing and the applications and services within them. These workloads, primarily based on microservices architectures, have ushered in blazing fast applications and cloud services. The entire lifecycle of these workloads embedded within traditional DevOps model has been redefined with a shift left approach to security. This is where DevSecOps promises to be a major game changer in this context. This paper explores the overall merger between such cloud workloads and artificial intelligence (AI). While such a combination is pretty much in its nascent stage, this study delves deeper into ways in which such integrations can work seamlessly across stakeholders. The issues of containerized workloads across various pipeline stages, including code commit, build, testing, deployment, and runtime monitoring are investigated and given adequate attention. The paper also explores the trade-offs involved in meeting exponential consumer demand with improved security and threat surface minimization of these cloud-based microservices inclusive of real-world examples. The current AI-driven security automation processes are examined and the limitations of such static rule based, and reactive models are also touched upon. AI-driven techniques such as anomaly detection, predictive risk scoring, intelligent vulnerability prioritization, and automated policy enforcement are further looked at from a regulatory perspective for large enterprise environments. AI-driven DevSecOps provides a step forward in enhancing the security and reliability of cloud-native applications. The present study further calls out AI explainability and real-world validation, specifically from a microservices architecture standpoint and how to manage them effectively to accelerate industry wide adoption.
+ER  - 
+
+TY  - CONF
+TI  - A Taxonomy of Information Security for Service-Centric Systems
+T2  - 33rd EUROMICRO Conference on Software Engineering and Advanced Applications (EUROMICRO 2007)
+SP  - 5
+EP  - 12
+AU  - P. Savolainen
+AU  - E. Niemela
+AU  - R. Savola
+PY  - 2007
+KW  - Taxonomy
+KW  - Information security
+KW  - Communication system security
+KW  - Software quality
+KW  - Ontologies
+KW  - Data security
+KW  - Computer architecture
+KW  - Service oriented architecture
+KW  - Web services
+KW  - ISO standards
+DO  - 10.1109/EUROMICRO.2007.12
+JO  - 33rd EUROMICRO Conference on Software Engineering and Advanced Applications (EUROMICRO 2007)
+IS  - 
+SN  - 2376-9505
+VO  - 
+VL  - 
+JA  - 33rd EUROMICRO Conference on Software Engineering and Advanced Applications (EUROMICRO 2007)
+Y1  - 28-31 Aug. 2007
+AB  - Pervasive communications and the rapid expansion of Internet trigger a myriad of concerns about trust and information security. Moreover, composing software from components and services, originating from diverse sources, without a thorough quality assurance practices may expose serious weaknesses that open up the systems for malicious attacks and misuse. In order to guarantee the security of the systems we need a uniform understanding about what security is and how to measure it. This paper introduces a taxonomy of information security, intended for the use of software architects of service centric systems. The security taxonomy extends our quality oriented architecting environment (QoAE) - an integrated tool environment for defining quality ontologies, describing the quality properties of service architectures, and analyzing quality requirement satisfaction at the level of proposed architecture.
+ER  - 
+
+TY  - CONF
+TI  - Towards Trustworthy AI Software Development Assistance
+T2  - 2024 IEEE/ACM 46th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)
+SP  - 112
+EP  - 116
+AU  - D. Maninger
+AU  - K. Narasimhan
+AU  - M. Mezini
+PY  - 2024
+KW  - Training
+KW  - Codes
+KW  - Software architecture
+KW  - Semantics
+KW  - Computer architecture
+KW  - Knowledge graphs
+KW  - Software
+KW  - Security
+KW  - Artificial intelligence
+KW  - Software development management
+DO  - 10.1145/3639476.3639770
+JO  - 2024 IEEE/ACM 46th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)
+IS  - 
+SN  - 2832-7632
+VO  - 
+VL  - 
+JA  - 2024 IEEE/ACM 46th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)
+Y1  - 14-20 April 2024
+AB  - It is expected that in the near future, AI software development assistants will play an important role in the software industry. However, current software development assistants tend to be unreliable, often producing incorrect, unsafe, or low-quality code. We seek to resolve these issues by introducing a holistic architecture for constructing, training, and using trustworthy AI software development assistants. In the center of the architecture, there is a foundational LLM trained on datasets representative of real-world coding scenarios and complex software architectures, and fine-tuned on code quality criteria beyond correctness. The LLM will make use of graph-based code representations for advanced semantic comprehension. We envision a knowledge graph integrated into the system to provide up-to-date background knowledge and to enable the assistant to provide appropriate explanations. Finally, a modular framework for constrained decoding will ensure that certain guarantees (e.g., for correctness and security) hold for the generated code.
+ER  - 
+
+TY  - CONF
+TI  - Goal-Based Policies for Self-Protecting Systems
+T2  - 2012 IEEE 26th International Conference on Advanced Information Networking and Applications
+SP  - 360
+EP  - 367
+AU  - J. Schutte
+PY  - 2012
+KW  - Security
+KW  - Engines
+KW  - Middleware
+KW  - Planning
+KW  - Unified modeling language
+KW  - Semantics
+KW  - Adaptation models
+KW  - self-protection
+KW  - goal-based policies
+KW  - policy-based configuration
+DO  - 10.1109/AINA.2012.141
+JO  - 2012 IEEE 26th International Conference on Advanced Information Networking and Applications
+IS  - 
+SN  - 2332-5658
+VO  - 
+VL  - 
+JA  - 2012 IEEE 26th International Conference on Advanced Information Networking and Applications
+Y1  - 26-29 March 2012
+AB  - With the constantly growing complexity and heterogeneity of distributed system, the ability to control their security mechanisms in a human-understandable way becomes increasingly important. Policies, for specifying the behavior of a system in terms of non-functional requirements, have been in use for several years and the Event-Condition-Action (ECA) pattern has been applied in various systems in order to define appropriate reactions to changing conditions. However, ECA policies do not reflect the desired system state but rather on specific actions the system should perform upon the occurrence of certain events, thereby demanding in-depth knowledge about the inner workings of a system and preventing the development of truly "self-protecting" systems, i.e. systems which are able to automatically adapt themselves so as to achieve certain security goals. In this paper, we present a policy framework that abstracts the ECA model to situation-goal (SG) policies, stating which security requirements should hold in a certain situation and thereby bring policies closer to the actual security model the user has in mind. A prototypical implementation of the framework has been done in form of a module for the Apollon policy system.
+ER  - 
+
+TY  - JOUR
+TI  - Security and privacy for cloud-based data management in the health network service chain: a microservice approach
+T2  - IEEE Communications Magazine
+SP  - 102
+EP  - 108
+AU  - C. Esposito
+AU  - A. Castiglione
+AU  - C. -A. Tudorica
+AU  - F. Pop
+PY  - 2017
+KW  - Medical services
+KW  - Computer security
+KW  - Cloud computing
+KW  - Data privacy
+KW  - Medical services
+KW  - Electronic medical records
+DO  - 10.1109/MCOM.2017.1700089
+JO  - IEEE Communications Magazine
+IS  - 9
+SN  - 1558-1896
+VO  - 55
+VL  - 55
+JA  - IEEE Communications Magazine
+Y1  - Sept. 2017
+AB  - New and useful tools that facilitate the harmonization and interconnection of health data have become a requirement for monitoring and preventing illness and also for sharing medical knowledge. Nowadays, cloud-based solutions can support collaborative data science platforms and deliver all types of processing operations through the network service chain. In this article we deal with healthcare-related data management and exchange, and we propose security and privacy requirements together with a novel microservices approach. We investigate how cloud computing can be adopted within healthcare systems. The interoperability of existing technologies will improve the quality of life and the efficiency of healthcare systems by making them more personalized and centered on patients, together with reducing operational costs and medical errors. To have a socially acceptable health network service chain, the security and privacy issues need to be analyzed and addressed. We explore the the security and privacy requirements and implications, and also discuss existing methods, and in the end propose an architecture of a secure manager for cloud-based healthcare-related data management and exchange.
+ER  - 
+
+TY  - CONF
+TI  - Security Architecture as a Service (SAaaS) for Visual Modeling and Trade-off Analysis of Security, Availability, and Maintainability
+T2  - 2025 Cyber Awareness and Research Symposium (CARS)
+SP  - 1
+EP  - 8
+AU  - R. K. Gautam
+AU  - P. Ranganathan
+PY  - 2025
+KW  - Visualization
+KW  - Analytical models
+KW  - Organizations
+KW  - Machine learning
+KW  - Ontologies
+KW  - Security
+KW  - Risk analysis
+KW  - Optimization
+KW  - Monitoring
+KW  - Resilience
+KW  - Security Architecture as a Service (SAaaS)
+KW  - Intelligent Visual Modeling
+KW  - Architecture Trade-off Analysis
+DO  - 10.1109/CARS67163.2025.11337544
+JO  - 2025 Cyber Awareness and Research Symposium (CARS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 Cyber Awareness and Research Symposium (CARS)
+Y1  - 27-30 Oct. 2025
+AB  - To be resilient and lasting, modern system archi-tectures need to fulfill multiple non-functional requirements simultaneously, including security, availability, and maintainability. Traditional static security design approaches are no longer sufficient in the midst of continually evolving cybersecurity threats and rapidly changing regulatory landscapes. This paper presents Security Architecture as a Service (SAaaS), a framework that uses visual modeling and trade-off analysis to integrate security, compliance, and resilience into system lifecycles. The framework is particularly relevant for regulated industries such as financial services, where continuous compliance and resilience are critical.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing DevSecOps with Generative AI for Secure Code Review and Threat Modeling
+T2  - 2026 6th International Conference on Image Processing and Capsule Networks (ICIPCN)
+SP  - 912
+EP  - 920
+AU  - A. K. Bhardwaj
+PY  - 2026
+KW  - Threat modeling
+KW  - Codes
+KW  - Reviews
+KW  - Generative AI
+KW  - Prevention and mitigation
+KW  - Real-time systems
+KW  - Time measurement
+KW  - Software
+KW  - Security
+KW  - Resilience
+KW  - DevSecOps
+KW  - Generative AI
+KW  - Threat Modeling
+KW  - Secure Code Review
+KW  - Machine Learning
+KW  - Continuous Security
+DO  - 10.1109/ICIPCN67432.2026.11438709
+JO  - 2026 6th International Conference on Image Processing and Capsule Networks (ICIPCN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 6th International Conference on Image Processing and Capsule Networks (ICIPCN)
+Y1  - 27-29 Jan. 2026
+AB  - As development pipelines grow increasingly automated, ensuring that security keeps pace with speed remains a major challenge. Conventional static and dynamic analysis tools flag common coding weaknesses but rarely understand the developer’s intent or the broader design context. This paper introduces a framework that embeds Generative Artificial Intelligence (GenAI) into the DevSecOps workflow to support contextual and explainable security decisions. The proposed approach uses large language models to perform real-time reasoning during code review and threat modeling, reducing false positives while improving insight into potential risks. Experiments show that combining generative analysis with existing CI/CD tooling produces measurable gains in accuracy, review efficiency, and developer confidence, while also enabling teams to detect subtle design flaws earlier, streamline collaboration across security and engineering groups, and maintain stronger governance without slowing delivery cycles. Additionally, the framework enhances traceability, supports more adaptive threat modeling practices, and provides actionable recommendations tailored to project-specific architectures, thereby strengthening the overall resilience of modern software ecosystems.
+ER  - 
+
+TY  - CONF
+TI  - Analysing the Safety and Security of a UV-C Disinfection Robot
+T2  - 2023 IEEE International Conference on Robotics and Automation (ICRA)
+SP  - 12729
+EP  - 12736
+AU  - D. Nurchalifah
+AU  - S. Blumenthal
+AU  - L. Lo Iacono
+AU  - N. Hochgeschwender
+PY  - 2023
+KW  - Terminology
+KW  - Knowledge graphs
+KW  - Ontologies
+KW  - Software
+KW  - Hazards
+KW  - Hardware
+KW  - Safety
+DO  - 10.1109/ICRA48891.2023.10160527
+JO  - 2023 IEEE International Conference on Robotics and Automation (ICRA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Robotics and Automation (ICRA)
+Y1  - 29 May-2 June 2023
+AB  - Safety is paramount for robots used in environments they share with humans. In such scenarios, security is also growing in importance. However, conventional approaches to analysing safety requirements are aimed at identifying hazards only. Security-related aspects such as cyber threats, cyber attacks and vulnerabilities have hardly been integrated into analysis and design methods to date. The methods available so far for the joint analysis of safety and security are based on established methods of safety engineering, where the amount of information is very large and usually stored in text- and table-based documents. This makes it challenging for engineers to systematically assess and maintain safety and security information. Thus, adequate tool support for robot engineers is required to cope with the increased complexity and to manage the safety and security risks. In this paper, we demonstrate that robot's safety and security information can be expressed, stored, analysed and queried in a knowledge graph representation paving the way to automated analysis. More specifically, we apply an integrated, systems-oriented safety and security co-analysis approach, namely STPA-Safesec, to a robot performing disinfection tasks in domestic environments. By querying the resulting graph of safety and security artefacts, we automatically retrieve hazardous scenarios, identify gaps in the analysis and increase our understanding of the overall risks of the robot.
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Cybersecurity Monitoring for Resilient Vehicular Architectures
+T2  - 2023 IEEE Vehicular Networking Conference (VNC)
+SP  - 41
+EP  - 48
+AU  - D. Grimm
+AU  - M. Zink
+AU  - M. Schindewolf
+AU  - E. Sax
+PY  - 2023
+KW  - Runtime
+KW  - Filtering
+KW  - Soft sensors
+KW  - Instruments
+KW  - Computer architecture
+KW  - Knowledge graphs
+KW  - Computer security
+KW  - cybersecurity monitoring
+KW  - vehicles
+KW  - resilience
+KW  - container
+KW  - ROS 2
+KW  - syslog-ng
+KW  - network monitoring
+KW  - security
+DO  - 10.1109/VNC57357.2023.10136321
+JO  - 2023 IEEE Vehicular Networking Conference (VNC)
+IS  - 
+SN  - 2157-9865
+VO  - 
+VL  - 
+JA  - 2023 IEEE Vehicular Networking Conference (VNC)
+Y1  - 26-28 April 2023
+AB  - The use of new technologies in vehicles, such as automation and connectivity, results in the addition of more software components, which in turn increases the potential vulnerabilities and attack surfaces for the vehicle. To address this, cybersecurity monitoring of vehicle fleets is required to detect and respond to potential cyber threats and vulnerabilities. The aim of this research is to explore a technological approach to fleet monitoring using established IT standards and techniques. The approach involves collecting, filtering, and forwarding cybersecurity information from multiple sources within the vehicle by instrumenting the ROS 2-based architecture and integrating these data sources with the log management tool syslog-ng. The logging configuration can be adapted at runtime using a ROS 2 interface that we developed. The approach is demonstrated with our fleet simulation setup “Fleet in the Loop” and a sophisticated data collection in a Knowledge Graph. The approach at hand can be used to seamlessly integrate ROS 2 in common IT monitoring tools and efficiently increase the resilience of vehicles by integrating adaptive security monitoring.
+ER  - 
+
+TY  - CONF
+TI  - An Overview of LLM-Based AI Chatbots
+T2  - 2026 49th MIPRO ICT and Electronics Convention (MIPRO)
+SP  - 842
+EP  - 849
+AU  - A. Rista
+AU  - E. Xhaferra
+AU  - L. Mukli
+PY  - 2026
+KW  - Cognition
+KW  - Cognitive systems
+KW  - Generative Pre-trained transformer
+KW  - Modeling
+KW  - Context
+KW  - Large language models
+KW  - Printing
+KW  - Architecture
+KW  - Computer architecture
+KW  - Transformers
+KW  - Large Language Models (LLMs)
+KW  - Transformer
+KW  - Artificial Lntelligence
+KW  - Chatbots
+DO  - 10.1109/MIPRO70003.2026.11591907
+JO  - 2026 49th MIPRO ICT and Electronics Convention (MIPRO)
+IS  - 
+SN  - 1847-3938
+VO  - 
+VL  - 
+JA  - 2026 49th MIPRO ICT and Electronics Convention (MIPRO)
+Y1  - 25-29 May 2026
+AB  - Large Language Models (LLMs) have greatly advanced the field of AI chatbots, making multimodal generation, long-context reasoning, complex task solving, and automated workflows possible. This article examines the progression of chatbot technologies, from early rule-based and retrieval-oriented models to contemporary generative and multimodal LLM-based systems. Models are examined in terms of architectural design, performance evaluation, applications, limitations, strengths, safety, and ethical considerations, based on the analysis of technical reports, benchmark results, and analyses reported in the literature. From this perspective, a classification of them across domains has been done, highlighting that different chatbot models have different strengths and weaknesses across applications, and model selection should balance performance, security, and user requirements. The results indicate that autoregressive Transformer-based architecture demonstrates great performance in generative and open-domain chatbots, while encoder and task-oriented architecture models are suitable for specific Natural Language Processing (NLP) tasks. Integration of Mixture-of-Experts (MoE) approaches with multimodal and long-context shows exceptional performance in long-context understanding, complex task solution, and automation workflow. This paper presents a valuable contribution, offering guidelines for users, developers, and researchers.
+ER  - 
+
+TY  - CONF
+TI  - AI-Assisted Runtime Vulnerability Prediction in CI/CD Pipelines Using Behavioral Telemetry
+T2  - 2026 Fourth International Conference on Secure Cyber Computing and Communications (ICSCCC)
+SP  - 1320
+EP  - 1325
+AU  - S. Arora
+AU  - Anupriya
+PY  - 2026
+KW  - Pipelines
+KW  - Modeling
+KW  - Runtime
+KW  - Security
+KW  - Artificial intelligence
+KW  - Telemetry
+KW  - Signal detection
+KW  - Printing
+KW  - Testing
+KW  - Aluminum
+KW  - Runtime Security
+KW  - CI/CD Pipelines
+KW  - Vulnerability Prediction
+KW  - Behavioral Telemetry
+KW  - AI-Assisted Security
+KW  - DevSecOps
+DO  - 10.1109/ICSCCC69031.2026.11600256
+JO  - 2026 Fourth International Conference on Secure Cyber Computing and Communications (ICSCCC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 Fourth International Conference on Secure Cyber Computing and Communications (ICSCCC)
+Y1  - 29-31 May 2026
+AB  - Security enforcement in Continuous Integration and Continuous Deployment (CI/CD) pipelines largely depends on static and rule-based analysis techniques, which are ineffective in identifying vulnerabilities that manifest during runtime execution. Exposure to security risks is worsened by the delay in the existing vulnerability discovery processes. Subsequently, this paper presents an AI-supported Runtime vulnerability prediction system which uses behavioral telemetry collected in CI/CD pipeline executions. The framework constantly guides the indicators of runtime, such as execution history, API communications and resource usage statistics, and uses a lightweight machine-learning model to predict the vulnerabilities at the earliest possible phases of the pipeline. The main contributions are: (i) introduction of runtime-aware security in CI/CD pipelines; (ii) development of telemetry-based behavioral features of vulnerability prediction and (iii) application of an efficient AI-based prediction model, which can be implemented in a real world environment. Experimental results prove that the vulnerability discovery capabilities can be better detected and have lower latency compared to traditional statical security tools. The suggested methodology, in its turn, strengthens proactive security in the DevSecOps ecosystems, which creates more resilient, secure development pipelines in the form of software delivery.
+ER  - 
+
+TY  - CONF
+TI  - From Diagrams to Code: An Exploration into Automated Cloud Template Creation
+T2  - 2025 IEEE 15th International Conference on Electronics Information and Emergency Communication (ICEIEC)
+SP  - 48
+EP  - 55
+AU  - V. Chandrashekar
+AU  - V. P. Menezes
+AU  - T. Ganesh
+AU  - I. S. Prabhu
+AU  - C. P. Chavan
+PY  - 2025
+KW  - Deep learning
+KW  - Cloud computing
+KW  - Codes
+KW  - Automation
+KW  - Image processing
+KW  - Pipelines
+KW  - Manuals
+KW  - Service-oriented architecture
+KW  - Maintenance
+KW  - Security
+KW  - Infrastructure as Code (IaC)
+KW  - Cloud Automation
+KW  - CloudFormation
+KW  - AWS Architecture Diagrams
+KW  - Image Processing
+DO  - 10.1109/ICEIEC65904.2025.11273135
+JO  - 2025 IEEE 15th International Conference on Electronics Information and Emergency Communication (ICEIEC)
+IS  - 
+SN  - 2377-844X
+VO  - 
+VL  - 
+JA  - 2025 IEEE 15th International Conference on Electronics Information and Emergency Communication (ICEIEC)
+Y1  - 21-22 June 2025
+AB  - Infrastructure as Code is the ability to provision and manage cloud infrastructure through code instead of manual and error-prone processes. Despite its benefits, the initial creation and maintenance of Infrastructure as Code templates remains tedious. Manual template creation may lead to security vulnerabilities and inconsistencies between design and implementation. Furthermore, cloud architecture complexity makes it harder to prevent configuration drift, where infrastructure deviates from its intended use case. Moreover, a lack of automation in template creation hinders rapid deployment and leads to inefficiencies. This paper presents an automated system for converting Amazon Web Service cloud architecture diagrams into CloudFormation templates. Using deep learning models and image processing techniques accompanied by a deterministic rule set, the system detects Amazon Web Services’ service components and their relationships from the input architecture diagram. The system detects the various icons (depicting services) present in the diagram with an accuracy of 98.40%. Simultaneously, a group detection module recognises various logical and physical boundaries such as Virtual Private Clouds or Security groups that define network and security segmentation. Rule-based suggestions are made on the extracted information to infer services that are not explicitly illustrated. Finally, the CloudFormation template is generated based on the aggregated output. Through this pipeline, the solution streamlines the automatic creation of CloudFormation templates with a latency under 15 seconds, minimising errors and development effort.
+ER  - 
+
+TY  - CONF
+TI  - Towards a Security Stress-Test for Cloud Configurations
+T2  - 2022 IEEE 15th International Conference on Cloud Computing (CLOUD)
+SP  - 191
+EP  - 196
+AU  - F. Minna
+AU  - F. Massacci
+AU  - K. Tuma
+PY  - 2022
+KW  - Cloud computing
+KW  - Scalability
+KW  - Heuristic algorithms
+KW  - Containers
+KW  - Benchmark testing
+KW  - Security
+KW  - Risk analysis
+KW  - knowledge graph
+KW  - AND/OR graphs
+KW  - containers
+KW  - security
+KW  - microservices
+KW  - cloud
+DO  - 10.1109/CLOUD55607.2022.00038
+JO  - 2022 IEEE 15th International Conference on Cloud Computing (CLOUD)
+IS  - 
+SN  - 2159-6190
+VO  - 
+VL  - 
+JA  - 2022 IEEE 15th International Conference on Cloud Computing (CLOUD)
+Y1  - 10-16 July 2022
+AB  - Securing cloud configurations is an elusive task, which is left up to system administrators who have to base their decisions on "trial and error" experimentations or by observing good practices (e.g., CIS Benchmarks). We propose a knowledge, AND/OR, graphs approach to model cloud deployment security objects and vulnerabilities. In this way, we can capture relationships between configurations, permissions (e.g., CAP_SYS_ADMIN), and security profiles (e.g., AppArmor and SecComp). Such an approach allows us to suggest alternative and safer configurations, support administrators in the study of what-if scenarios, and scale the analysis to large scale deployments. We present an initial validation and illustrate the approach with three real vulnerabilities from known sources.
+ER  - 
+
+TY  - CONF
+TI  - Application of Blockchain Technology in Ontology Management for Enhanced Data Security in Web Platforms
+T2  - 2024 International Conference on Trends in Quantum Computing and Emerging Business Technologies
+SP  - 1
+EP  - 6
+AU  - K. Aswini
+AU  - A. Rana
+AU  - U. Reddy
+AU  - A. Nagpal
+AU  - Praveen
+AU  - A. M. Mohammed
+PY  - 2024
+KW  - Technological innovation
+KW  - Quantum computing
+KW  - Data security
+KW  - Ecosystems
+KW  - Ontologies
+KW  - Reliability theory
+KW  - Market research
+KW  - Blockchain
+KW  - Ontology Management
+KW  - Data Security
+KW  - Web Platforms
+KW  - Cryptography
+DO  - 10.1109/TQCEBT59414.2024.10545074
+JO  - 2024 International Conference on Trends in Quantum Computing and Emerging Business Technologies
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Trends in Quantum Computing and Emerging Business Technologies
+Y1  - 22-23 March 2024
+AB  - Blockchain technology presents a transformative approach to ensuring data integrity, security, and trust in web platforms. This research explores the innovative application of blockchain as an underlying layer in ontology management systems to revolutionize data security and privacy. Ontologies, as structured frameworks for organizing information, are pivotal in enhancing understanding and interoperability among diverse web technologies. Integrating blockchain with ontology management involves creating immutable and verifiable records of ontological changes, access, and transactions. This ensures a transparent and secure mechanism for handling data, addressing the vulnerabilities inherent in centralized and less secure data management systems. The paper delves into architectural design, outlining how blockchain's decentralized nature and cryptographic algorithms contribute to robust ontology management. It presents a comparative analysis of existing data security mechanisms and illustrates the superior safeguards afforded by the blockchain-ontology model. Furthermore, the research highlights case studies from web platforms that have integrated this model, demonstrating notable improvements in data security, trust, and efficiency. The implications of this integration extend beyond enhanced security; they include improved data provenance, quality, and a reduction in fraudulent activities. This paper aims to catalyze further innovation and adoption of blockchain in web technologies, particularly in ontology management, to create a more secure and trustworthy digital ecosystem.
+ER  - 
+
+TY  - CONF
+TI  - Enhancing API Security in Spring Boot Microservices using AI-based Threat Detection
+T2  - 2026 5th International Conference on Computer Networks, Big Data and IoT (ICCBI)
+SP  - 637
+EP  - 642
+AU  - M. George
+AU  - S. Jonnalagadda
+PY  - 2026
+KW  - Modeling
+KW  - Security
+KW  - Artificial intelligence
+KW  - Application programming interfaces
+KW  - Springs
+KW  - Booting
+KW  - Timing
+KW  - Internet of Things
+KW  - Equations
+KW  - Manuals
+KW  - Spring Boot
+KW  - Microservices Security
+KW  - Artificial Intelligence
+KW  - API Threat Detection
+KW  - Machine Learning
+DO  - 10.1109/ICCBI68589.2026.11619655
+JO  - 2026 5th International Conference on Computer Networks, Big Data and IoT (ICCBI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 5th International Conference on Computer Networks, Big Data and IoT (ICCBI)
+Y1  - 18-20 June 2026
+AB  - The use of Spring Boot microservices in modern software structures is a contributor to the increase in attack surface as well the need to have a high level of security measures that would go beyond the traditional firewalls. This paper explores how artificial intelligence can be applied to identify advanced API attacks like credential stuffing, injection attacks, and broken object-level authorization. To address this, we suggest an advanced AI-based layer be used to monitor traffic patterns and detect anomalies that are not easily detected by rule-based systems. The study applies a selected set of 397 samples of network traffic logs, including both benign and malicious API calls. The main tools used in the present research are the Spring Boot platform on microservice orchestration, Python to write the machine learning models, and Scikit-learn to implement the detection algorithms. The findings show that the AI-based solution has a considerable decrease in the false positive and high rate of detection of zero-day vulnerabilities. Through automated threat hunting, the system will offer a proactive defense system that is responsive to changing attack vectors. This paper has determined that the integration of intelligence into the API gateway layer of a Spring boot ecosystem is a sure way of providing a more secure and scalable security posture in enterprise level applications.
+ER  - 
+
+TY  - CONF
+TI  - SmartCode AI: A Hybrid Static Analysis and Ensemble Transformer Framework for Secure Code Review and Automated Remediation
+T2  - 2026 9th International Conference on Inventive Computation Technologies (ICICT)
+SP  - 1640
+EP  - 1647
+AU  - N. U. Maheswari
+AU  - A. K. Prabhakaran
+AU  - R. R. Vignesh
+AU  - T. R. Prakash
+AU  - S. Sanju
+PY  - 2026
+KW  - Modeling
+KW  - Codes
+KW  - Signal detection
+KW  - Security
+KW  - Transformers
+KW  - Architecture
+KW  - Computer architecture
+KW  - Machine learning
+KW  - Printing
+KW  - Software
+KW  - Software Security
+KW  - Static Analysis
+KW  - Ensemble Transformer Models
+KW  - Vulnerability Detection
+KW  - Automated Patch Generation
+KW  - Secure Code Review
+KW  - SmartVulnBench
+DO  - 10.1109/ICICT68280.2026.11510940
+JO  - 2026 9th International Conference on Inventive Computation Technologies (ICICT)
+IS  - 
+SN  - 2767-7788
+VO  - 
+VL  - 
+JA  - 2026 9th International Conference on Inventive Computation Technologies (ICICT)
+Y1  - 15-17 April 2026
+AB  - Application security vulnerabilities continue to dominate the threat landscape, contributing to nearly seventy percent of reported security breaches. The growing volume of software applications, combined with increasing architectural complexity, has significantly expanded the attack surface. Traditional Static Application Security Testing (SAST) tools remain widely adopted; however, existing approaches suffer from critical limitations. High false positive rates, often ranging between sixty and eighty percent, create alert fatigue and reduce developer trust. Pattern-based detection mechanisms lack contextual understanding of business logic, leading to misclassification of safe code as vulnerable. The absence of automated remediation further compounds the issue, as developers must manually interpret findings and design secure fixes. This manual effort increases remediation time, delays deployment cycles, and introduces inconsistency in patch quality. Limited scalability and integration flexibility also hinder continuous security monitoring across large repositories. The proposed SmartCode AI methodology addresses these challenges through a hybrid architecture integrating rule-based static analysis with an ensemble of transformer-based deep learning models. Initial candidate detection ensures broad vulnerability coverage, while contextual verification performed by multiple models significantly reduces false positives. Consensus-driven validation enhances reliability and minimizes inconsistent predictions. Automated patch generation further transforms vulnerability management from detection-only to detection-and-repair. Multi-layer validation ensures syntactic correctness, security compliance, and functional preservation before presenting fixes. A scalable microservices deployment model supports concurrent analysis of large repositories, reducing remediation time from days to hours. Benchmark evaluations demonstrate substantial improvement in precision, recall, F1-score, and patch success rate, validating the effectiveness of the integrated framework.
+ER  - 
+
+TY  - CONF
+TI  - Fuzzing Microservice Resilience under Uncertainty with LLM-Guided Scenario Generation
+T2  - 2026 8th International Conference on Electronic Engineering and Informatics (EEI)
+SP  - 7
+EP  - 12
+AU  - F. Xue
+AU  - T. Ying
+AU  - P. Hu
+AU  - L. Wang
+AU  - Z. Qing
+AU  - T. Ding
+PY  - 2026
+KW  - Modeling
+KW  - Uncertainty
+KW  - Large language models
+KW  - Printing
+KW  - Propagation
+KW  - Resilience
+KW  - Topology
+KW  - Chaos
+KW  - Testing
+KW  - Fuzzing
+KW  - microservices
+KW  - resilience testing
+KW  - fuzzing
+KW  - fault injection
+KW  - uncertainty
+KW  - large language models
+KW  - chaos engineering
+DO  - 10.1109/EEI70303.2026.11640489
+JO  - 2026 8th International Conference on Electronic Engineering and Informatics (EEI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 8th International Conference on Electronic Engineering and Informatics (EEI)
+Y1  - 26-28 June 2026
+AB  - Modern microservice systems face multidimensional runtime uncertainties ranging from request-pattern bursts and latency spikes to nondeterministic AI component outputs and retry amplification storms. Existing resilience-testing approaches—including classical fault injection and rule-based chaos engineering—focus on single-service failures and predefined disruption templates, leaving cross-service uncertainty propagation substantially under-explored. We propose UncertainFuzz, a system-level fuzzing framework that uses a large language model (LLM) to synthesize multi-stage uncertainty campaigns: coherent sequences of correlated perturbations drawn from service topology, historical incidents, and SLO definitions. A lightweight injector instantiates each campaign across a live benchmark cluster, while a graph-based evaluator measures fault-propagation depth and resilience score. We evaluate UncertainFuzz on DeathStarBench and Google Online Boutique against three baselines. UncertainFuzz discovers 56% more new failure paths per campaign and achieves 86% aggregate SLO-violation coverage after ten campaigns, compared to 62% for rule-based chaos and 48% for random fault injection. Ablation experiments confirm that LLM conditioning and topology-aware planning each contribute measurably, though gains are more modest when historical incident data are sparse.
+ER  - 
+
+TY  - CONF
+TI  - From Traditional to Digital: A Simulation-Based Approach on the Digital Transformation of MultiTier Automotive Parts Supply Chain Based on Cloud SCM Platform
+T2  - 2026 International Conference on Intelligent Computing (ICONIC)
+SP  - 1
+EP  - 5
+AU  - Y. Dong
+AU  - S. Jin
+PY  - 2026
+KW  - Supply chains
+KW  - Modeling
+KW  - Optimization
+KW  - Printing
+KW  - Automotive engineering
+KW  - Long short term memory
+KW  - Costing
+KW  - Costs
+KW  - Technology
+KW  - Digital twins
+KW  - Multi-level supply chain
+KW  - digital transformation
+KW  - cloud platform
+KW  - artificial intelligence
+KW  - supply chain resilience
+KW  - knowledge graph
+KW  - digital twin
+DO  - 10.1109/ICONIC67661.2026.11517868
+JO  - 2026 International Conference on Intelligent Computing (ICONIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Intelligent Computing (ICONIC)
+Y1  - 27-28 March 2026
+AB  - Purpose] Under the deep convergence of global economic integration and the fourth industrial revolution, the automotive manufacturing industry is undergoing a profound paradigm shift. Traditional legacy systems expose serious vulnerabilities and the “bullwhip effect” within complex multi-level global networks. [Methodology] To address these issues and bridge the theoretical gap in interdisciplinary technological integration, this study constructs a full-stack cloud-based supply chain management (SCM) platform architecture. It fundamentally synergizes artificial intelligence (multimodal LSTM, PSO), the Internet of Things, knowledge graphs, and digital twins. The proposed approach is rigorously evaluated through a hybrid simulation framework encompassing system dynamics and discrete event modeling. [Findings] The simulation results demonstrate that this digital paradigm significantly increases the network visibility of Tier-2 suppliers from $\mathbf{1 4. 2} \%$ to $\mathbf{8 7. 6} \%$. Furthermore, it structurally reduces the total global operating costs by 30.0% and compresses production line downtime to zero during extreme supply disruption stress tests. Ultimately, this framework provides both theoretical innovations and actionable guidelines for automotive enterprises to achieve optimal system resilience.
+ER  - 
+
+TY  - CONF
+TI  - Semantic Search System For Real Time Occupancy
+T2  - 2021 IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS)
+SP  - 49
+EP  - 55
+AU  - P. Singh
+AU  - K. S. Acharya
+AU  - M. J. Beliatis
+AU  - M. Presser
+PY  - 2021
+KW  - Productivity
+KW  - Costs
+KW  - Semantic search
+KW  - Scalability
+KW  - Metadata
+KW  - Real-time systems
+KW  - Planning
+KW  - NGSI-LD ontologies
+KW  - IoT
+KW  - IoTCrawler
+KW  - Real Time occupancy
+KW  - semantic search space
+KW  - booking system
+DO  - 10.1109/IoTaIS53735.2021.9628719
+JO  - 2021 IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS)
+Y1  - 23-24 Nov. 2021
+AB  - This paper presents an IoT enabled real time occupancy semantic search system leveraging ETSI defined context information and interface meta model standard- “Next Generation Service Interface for Linked Data” (NGSI-LD). It facilitates interoperability, integration and federation of information exchange related to spatial infrastructure among geo-distributed deployed IoT entities, different stakeholders, and process domains. This system, in the presented use case, solves the problem of adhoc booking of meetings in real time through semantic discovery of spatial data and metadata related to room occupancy and thus enables optimum utilization of spatial infrastructure in university campuses. Therefore, the proposed system has the capability to save on effort, cost and productivity in institutional spatial management contexts in the longer run and as well provide a new enriched user experience in smart public buildings. Additionally, the system empowers different stakeholders to plan, forecast and fulfill their spatial infrastructure requirements through semantic data search analysis and real time data driven planning. The initial performance results of the system have shown quick response enabled semantic discovery of data and metadata (<2 seconds mostly). The proposed system would be a steppingstone towards smart management of spatial infrastructure which offers scalability, federation, vendor agnostic ecosystem, seamless interoperability and integration and security by design. The proposed system provides the fundamental work for its extension and potential in relevant spatial domains of the future.
+ER  - 
+
+TY  - CONF
+TI  - JAVELIN: Java-based Architecture using LangChain4j and Intelligent metadata for Automated Log Analysis and Cybersecurity
+T2  - 2025 Conference on AI x Software Engineering (AIxSE)
+SP  - 35
+EP  - 42
+AU  - A. Tibrewala
+AU  - V. Mehra
+PY  - 2025
+KW  - Central Processing Unit
+KW  - System-on-chip
+KW  - Feedback
+KW  - Filtering
+KW  - Circuits
+KW  - Filters
+KW  - MIMICs
+KW  - Millimeter wave integrated circuits
+KW  - Monolithic integrated circuits
+KW  - Application specific integrated circuits
+KW  - Log Anomaly Detection
+KW  - Root Cause Analysis
+KW  - LangChain4j
+KW  - Differential Privacy
+KW  - Real-Time Analytics
+KW  - Microservices Architecture
+KW  - Security Information and Event Management
+DO  - 10.1109/AIxSE64906.2025.00012
+JO  - 2025 Conference on AI x Software Engineering (AIxSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 Conference on AI x Software Engineering (AIxSE)
+Y1  - 1-3 Oct. 2025
+AB  - Security Information and Event Management (SIEM) systems face significant challenges in reliably detecting anomalies and in swift identification of root causes, especially when handling massive log volumes from enterprise and IoT environments. While traditional heuristic methods and rule-based approaches struggle with accuracy, recent developments leveraging Large Language Models (LLM) offer promising improvements. However, practical adoption remains limited due to computational complexity, interpretability issues, privacy concerns and stringent security requirements. To bridge this gap, we introduce JAVELIN, a novel Java based microservices architecture designed for real time, privacy aware and semantically rich $\log$ analytics. JAVELIN integrates the LangChain4j framework with dynamic metadata enrichment, adaptive active learning, and differential privacy techniques. By utilizing flexible cloud GPU offloading, JAVELIN supports advanced analytical capabilities even on resource-constrained environments. Our rigorous evaluation on standard benchmarks (LogHub and CIC-IoT-2023) demonstrates significant improvements over baseline heuristic methods, achieving an anomaly detection accuracy of 98.1%. Additionally, JAVELIN consistently exhibits superior clustering quality and generates semantically coherent and contextually relevant log explanations. These results underscore JAVELIN’s effectiveness, scalability, and adaptability as a comprehensive, secure, and interpretable analytical solution for real-time log anomaly detection and root-cause analysis.
+ER  - 
+
+TY  - CONF
+TI  - Toward Behavior-Based Adaptive Decision-Making Systems for Cognitive Cities
+T2  - 2026 IEEE 23rd International Conference on Software Architecture Companion (ICSA-C)
+SP  - 245
+EP  - 252
+AU  - R. Alraddadi
+AU  - M. Alshayeb
+AU  - S. Mahmood
+AU  - M. Niazi
+PY  - 2026
+KW  - Computer security
+KW  - Modeling
+KW  - Urban areas
+KW  - Measurement
+KW  - Printing
+KW  - Heart
+KW  - Security
+KW  - Human factors
+KW  - Equations
+KW  - Ontologies
+KW  - Cognitive Cities
+KW  - Human-Centric Cybersecurity
+KW  - Self-Adaptive Systems
+KW  - Trust Modeling
+KW  - HEART
+KW  - Behavioral Security
+DO  - 10.1109/ICSA-C68850.2026.00056
+JO  - 2026 IEEE 23rd International Conference on Software Architecture Companion (ICSA-C)
+IS  - 
+SN  - 2768-4288
+VO  - 
+VL  - 
+JA  - 2026 IEEE 23rd International Conference on Software Architecture Companion (ICSA-C)
+Y1  - 22-26 June 2026
+AB  - Smart and cognitive cities rely on extensive human system interaction, making human behavior a critical factor in cybersecurity risk. Existing risk assessment approaches mainly focus on technical vulnerabilities, with limited support for modeling human-centric risks, particularly those influenced by trust and behavior. This paper introduces a behavior-aware architectural mechanism that integrates trustbased human error estimation into runtime system adaptation for cognitive city systems. The proposed framework was developed through a focused literature review of human-factor cybersecurity models, behavioral trust metrics, and human reliability analysis, followed by a conceptual integration of behavior-based trust indicators into the Human Error Assessment and Reduction Technique (HEART). Behavioral trust indicators are derived from observable system interactions rather than self-reported measures, enabling their use as runtime behavioral signals in adaptive cognitive city systems. The paper presents conceptual trust-aware extension of human error estimation that illustrates how behavioral trust can serve as a runtime architectural signal for dynamic system reconfiguration in cognitive cities. By linking trust metrics to adaptive control flows, the framework demonstrates how security controls can self-adjust based on real-time human reliability. The proposed approach provides a conceptual foundation for incorporating human behavioral evidence into system architectures for cognitive cities.
+ER  - 
+
+TY  - CONF
+TI  - A Machine Learning Framework for Fault Detection in IoT Enabled Smart Sensor Networks
+T2  - 2025 Global Conference on Information Technology and Communication Networks (GITCON)
+SP  - 1
+EP  - 6
+AU  - O. Gurrapu
+AU  - J. V. Suman
+PY  - 2025
+KW  - Training
+KW  - Cloud computing
+KW  - Adaptation models
+KW  - Analytical models
+KW  - Fault detection
+KW  - Real-time systems
+KW  - Vectors
+KW  - Internet of Things
+KW  - Intelligent sensors
+KW  - Testing
+KW  - IoT
+KW  - fault detection
+KW  - machine learning
+KW  - smart sensor networks
+KW  - cloud deployment
+DO  - 10.1109/GITCON65266.2025.11377003
+JO  - 2025 Global Conference on Information Technology and Communication Networks (GITCON)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 Global Conference on Information Technology and Communication Networks (GITCON)
+Y1  - 29-31 Aug. 2025
+AB  - The growth of Internet-of-Things (IoT) devices and smart sensors has transformed the data collection and automated decision-making capabilities in various fields, from industrial automation to environmental monitoring. However, with this rapid growth comes considerable risk due to vulnerabilities where spoofed sensors can place false data into mission-critical systems. Most traditional fault detection techniques rely on rule based thresholds or human-defined heuristic rules that cannot adapt to changing attack vectors and complex, high-dimensional datasets in the same way that a human reviews a practical environment. The contribution of this work is a unified machine learning framework for real-time fault detection in IoT-enabled smart sensor networks, using ensemble and deep-learning models constructed for deployment in cloud environments. The framework will include feature extraction, model training, and real-time inference and automated response modules that will allow for fast isolation and mitigation of anomalies. Evaluation of the approach on a simulated smart factory dataset shows that this approach is able to detect both abrupt and gradual sensor faults with an F1-score of 0.94, which is 12% improvement over baseline methods. Finally, the integration with cloud orchestration tools, allows for a scalable solution for the deployment of multiple model instances along with dynamic resource management for the purpose of ensuring low-latency responses at varying loads.
+ER  - 
+
+TY  - JOUR
+TI  - FOGAAL: A Domain-Specific Language for Fog Computing in Ambient Assisted Living Environments
+T2  - IEEE Access
+SP  - 143058
+EP  - 143073
+AU  - P. Cedillo
+AU  - W. Valdez-Solis
+AU  - L. Erazo-Garzón
+AU  - P. Cardenas-Delgado
+PY  - 2024
+KW  - DSL
+KW  - Internet of Things
+KW  - Ambient assisted living
+KW  - Cloud computing
+KW  - Ontologies
+KW  - Domain specific languages
+KW  - Computer architecture
+KW  - Edge computing
+KW  - Medical services
+KW  - Computational modeling
+KW  - Ambient assisted living
+KW  - cloud computing
+KW  - domain specific language
+KW  - fog computing
+KW  - Internet of Things
+DO  - 10.1109/ACCESS.2024.3471412
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+AB  - The Internet of Things (IoT) has revolutionized numerous sectors, with healthcare being a prominent beneficiary. One key area of advancement is Ambient Assisted Living (AAL), which leverages Information and Communication Technologies (ICT) like IoT to improve the quality of life for vulnerable populations, particularly seniors. However, despite efforts to tailor solutions to the needs of these environments, the prevailing approach often becomes overly focused on intricate implementation details rather than the core characteristics of the problem domain. This narrow focus inhibits generalization and leads to unsustainable solutions due to these environments’ diverse, dynamic, and scalable nature. In response, emerging technology paradigms, such as Fog Computing (FC), have emerged to enhance performance and other quality aspects. FC enables the deployment of distributed, latency-aware applications and services. Therefore, this paper introduces FOGAAL, a Domain-Specific Language (DSL) tool crafted to design AAL architectures, including the FC advantages. To demonstrate FOGAAL’s practical applicability, this contribution uses FOGAAL to build an AAL architecture for a real scenario; in addition, it has an empirical evaluation employing the Technology Acceptance Model (TAM) to gauge user perceptions while utilizing the tool for modeling AAL Architectures. The evaluation, conducted as a quasi-experiment, underscore the tool’s alignment with requirements and its potential for adoption, as evidenced by software engineers who have expressed their intention to use FOGAAL when creating architecture for AAL environments.
+ER  - 
+
+TY  - CONF
+TI  - Child Growth Indicator Web App
+T2  - 2022 IEEE International Conference on Computing (ICOCO)
+SP  - 119
+EP  - 123
+AU  - N. L. Adam
+AU  - K. M. Rashdan
+AU  - H. F. M. Hanum
+AU  - N. A. M. Kamal
+PY  - 2022
+KW  - Knowledge engineering
+KW  - Pediatrics
+KW  - Calculators
+KW  - Standards organizations
+KW  - Organizations
+KW  - Cognition
+KW  - Nerve tissues
+KW  - Child growth
+KW  - Z-scores
+KW  - Growth Indicator
+KW  - and Web App
+DO  - 10.1109/ICOCO56118.2022.10032039
+JO  - 2022 IEEE International Conference on Computing (ICOCO)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Conference on Computing (ICOCO)
+Y1  - 14-16 Nov. 2022
+AB  - Monitoring a child’s growth is important when the nerve tissue starts to grow and mature, as it is the most vulnerable stage. If the delay in childhood development was not identified early enough for early intervention and the lack of parental knowledge, it will affect the child’s development. In this research, we want to inspect the child’s growth using the rule-based technique. Next, we want to design and develop a web application to identify the child’s growth indicator based on the standard growth chart. The agile software development life cycle has been chosen as the framework to guide the processes involved in application development. The proposed app should be able to provide the growth indicator of the child using their z-scores based on the standard growth chart by the World Health Organization (WHO).
+ER  - 
+
+TY  - JOUR
+TI  - Toward Agentic AI Intrusion Detection and Self-Healing Security for UAV Network in Next-Generation Wireless Systems
+T2  - IEEE Network
+SP  - 1
+EP  - 9
+AU  - H. M. Attaullah
+AU  - M. Ehsan
+AU  - M. T. Quasim
+AU  - S. Basheer
+AU  - A. Kumar
+PY  - 2026
+KW  - Autonomous aerial vehicles
+KW  - Security
+KW  - Modeling
+KW  - Signal detection
+KW  - Architecture
+KW  - Computer architecture
+KW  - Agentic AI
+KW  - Collaboration
+KW  - Artificial intelligence
+KW  - Wireless networks
+DO  - 10.1109/MNET.2026.3687911
+JO  - IEEE Network
+IS  - 
+SN  - 1558-156X
+VO  - 
+VL  - 
+JA  - IEEE Network
+Y1  - 
+AB  - Unmanned Aerial Vehicles (UAVs) are emerging as key enablers of next-generation wireless networks, supporting flexible connectivity, cooperative sensing, and edge intelligence in envisioned 6G systems. However, the open, highly dynamic, and resource-constrained nature of UAV networks introduces significant security challenges that are poorly addressed by conventional centralized or static intrusion detection mechanisms. This article explores an Agentic AI-driven intrusion detection and self-healing security architecture; featuring autonomous agents with local perception-decision-action loops tailored for UAV-enabled wireless networks. By embedding autonomous intelligence, trust-aware collaboration, and adaptive decision-making across sensing, detection, and response layers, the proposed architecture enables localized anomaly detection, proportional mitigation, and autonomous recovery without continuous centralized control, achieving energy efficiency through localized inference and reduced communication overhead. A simulation-driven case study evaluates metrics like detection latency and accuracy, illustrating how agentic behavior evolves across interaction cycles, demonstrating adaptive trust degradation, bounded collaboration, timely mitigation, and effective self-healing while preserving mission continuity. Comparative performance characteristics further highlight the advantages of agentic security over static rule-based and centralized AI approaches in terms of responsiveness, adaptability, and energy efficiency. Rather than focusing on algorithm-specific optimization, this work emphasizes architectural design principles and system-level behavior, offering practical insights toward resilient, explainable, and scalable security solutions for UAV-enabled 6G networks.
+ER  - 
+
+TY  - CONF
+TI  - APIECHO: Training-Less Anomaly Detection via Intra-API Behavioral Comparison for Web Applications
+T2  - 2026 IEEE Symposium on Security and Privacy (SP)
+SP  - 4072
+EP  - 4088
+AU  - Y. Peng
+AU  - Y. Wu
+AU  - D. Wu
+AU  - S. Ji
+AU  - H. Wan
+AU  - X. Zhao
+PY  - 2026
+KW  - Application programming interfaces
+KW  - Measurement units
+KW  - Signal detection
+KW  - Windows
+KW  - Security
+KW  - Modeling
+KW  - Printing
+KW  - Accuracy
+KW  - Training
+KW  - Conferences
+DO  - 10.1109/SP63933.2026.00016
+JO  - 2026 IEEE Symposium on Security and Privacy (SP)
+IS  - 
+SN  - 2375-1207
+VO  - 
+VL  - 
+JA  - 2026 IEEE Symposium on Security and Privacy (SP)
+Y1  - 18-21 May 2026
+AB  - Anomaly detection is crucial for web application security, yet existing methods like rule-based validation and learning-based models face significant limitations. Rule-based systems struggle with novel attacks, while learning-based approaches require frequent, costly retraining to adapt to dynamic application updates, often leading to high false positives. While recent self-comparison methods address retraining by comparing replicas in microservice scenarios, they are ill-suited for monolithic applications due to functional heterogeneity, offer coarse-grained detection, lack adaptive comparison baselines, and are vulnerable to coordinated poisoning. This paper presents APIEcho, a novel web server intrusion detection method for monolithic applications that operates without large-scale pre-training. APIEcho's core insight is that legitimate requests to the same API endpoint exhibit highly similar underlying behavioral patterns. Our system shifts the comparison granularity from replicas to individual requests within the same API, employing dynamic API classification, fine-grained behavioral feature extraction (including sequential and set-based features), per-API adaptive similarity thresholds, and an antipoisoning sliding window update mechanism. Extensive evaluations on 16 real-world scenarios demonstrate that APIEcho significantly outperforms state-of-the-art methods. It effectively adapts to application updates without retraining, resists coordinated poisoning attacks, surpasses existing methods in average detection score, and achieves attack recall rates exceeding 90% while maintaining benign event detection accuracy above 99%, all with low overhead, processing more than 12000 log events per second with less than 7 GB memory consumption.
+ER  - 
+
+TY  - CONF
+TI  - Real-Time Fraud Detection in Digital Banking using Explainable Machine Learning and Data Engineering Pipeline
+T2  - 2025 International Conference on Electrical and Computer Engineering Researches (ICECER)
+SP  - 1
+EP  - 6
+AU  - A. Okonkwo
+PY  - 2025
+KW  - Radio frequency
+KW  - Deep learning
+KW  - Analytical models
+KW  - Explainable AI
+KW  - Computational modeling
+KW  - Pipelines
+KW  - Data engineering
+KW  - Real-time systems
+KW  - Data models
+KW  - Fraud
+KW  - Fraud Detection
+KW  - Deep Learning
+KW  - Kafka
+KW  - Explainable AI
+KW  - Data Engineering Pipeline
+KW  - Machine Learning
+KW  - Real-Time
+DO  - 10.1109/ICECER65523.2025.11401386
+JO  - 2025 International Conference on Electrical and Computer Engineering Researches (ICECER)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Electrical and Computer Engineering Researches (ICECER)
+Y1  - 6-8 Dec. 2025
+AB  - As digital solutions grow and become indispensable to our everyday lives, personal and business information has also become omnipresent. Some of this information includes payment and financial data, which is increasingly vulnerable to exposure to fraudsters. However, many financial institutions, practitioners, and researchers have, over the years, tried to tighten their cybersecurity measures to mitigate and potentially reduce the number of fraudulent transactions. Indeed, they have adopted various approaches, including rule-based, human-in-the-loop, and more recently, machine-learning and deep-learning-based approaches. Nevertheless, financial analysts have seen many of these models as 'black-box' models whose inner workings are not transparent; thus, there is still some gap regarding exploring more explainable, interpretable, resilient, distributed, and real-time fraud-detection systems to promptly report any suspicious transaction in order to enable the financial analysts to act quickly. In this work, a combination of explainable and hybrid machine-learning approaches, along with a data-engineering pipeline, was adopted to immediately report any fraudulent transaction in real-time (in less than a second) before the transaction is committed. With an average F1-score of 98% and an AUC of 96%, the adopted explainable, interpretable, and real-time approach can inspire microfinance and other financial institutions to tighten their defenses.
+ER  - 
+
+

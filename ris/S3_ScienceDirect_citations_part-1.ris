@@ -1,0 +1,2089 @@
+TY  - JOUR
+T1  - Land information systems (electronic pages) as a part of IVHS
+AU  - Reddy, Prasuna D.V.G.
+JO  - Computers, Environment and Urban Systems
+VL  - 18
+IS  - 5
+SP  - 315
+EP  - 322
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0198-9715
+DO  - https://doi.org/10.1016/0198-9715(94)90013-2
+UR  - https://www.sciencedirect.com/science/article/pii/0198971594900132
+AB  - Electronic yellow pages (Electronic Pages) are proposed as a part of establishing information systems for an Intelligent Vehicle Highway System (IVHS) program. The basic requirement for trip planning is an information system which has a list of all available facilities (Yellow Pages). Usually the requirement for Yellow Pages is greater in nonwork trips compared to work trips. Present computerized systems are static databases of facilities, and interfaces to these types of systems are complicated with many restrictions. Additionally, the information provided by these systems does not fulfil user needs.
+ER  - 
+
+TY  - JOUR
+T1  - A review of Monte Carlo-based multiphysics coupling in nuclear reactor analysis
+AU  - Huang, Shanfang
+AU  - Liu, Guodong
+AU  - He, Ying
+AU  - Zhao, Xingyu
+AU  - Li, Zhigang
+AU  - Ma, Yugao
+AU  - Qiu, Meiming
+AU  - Wang, Yongtang
+AU  - Chen, Haisheng
+AU  - Hou, Junren
+AU  - Li, Kaiwen
+AU  - Luo, Hao
+AU  - Lu, Chuan
+AU  - Wang, Kan
+JO  - Progress in Nuclear Energy
+VL  - 192
+SP  - 106178
+PY  - 2026
+DA  - 2026/02/01/
+SN  - 0149-1970
+DO  - https://doi.org/10.1016/j.pnucene.2025.106178
+UR  - https://www.sciencedirect.com/science/article/pii/S0149197025005761
+KW  - Multiphysics phenomena
+KW  - Monte Carlo
+KW  - Coupling technologies
+KW  - Advanced reactor
+KW  - High-fidelity simulation
+AB  - The operation of nuclear reactors involves a complex interplay among multiple physical processes. Accurate reactor simulation requires the implementation of multiphysics coupling. Neutronics holds a particularly distinctive role in simulation, and can be solved via deterministic or Monte Carlo (MC) methods. Although research on deterministic-based coupling started earlier, MC-based coupling methods have been increasingly applied in recent years for both analyses of conventional reactors and designs of advanced reactors, due to their high fidelity. In view of this, this paper provides a comprehensive review of MC-based multiphysics coupling in nuclear reactors. Multiphysics coupling issues in representative reactors such as light water reactors, heat pipe-cooled reactors, and high-temperature gas-cooled reactors are systematically presented. Furthermore, multiphysics coupling technologies including cross-section treatments, coupling methods, iteration strategies, data mapping, data transfer, and convergence criteria are extensively discussed. Challenges and future exploration are also enumerated. This review indicates that while MC-based coupling demonstrates superior aptitude for simulation of advanced reactors, current research remains predominantly focused on methodological studies. Leveraging high-performance computing resources and artificial intelligence, the development of advanced algorithms such as tight, transient and full-loop coupling will accelerate the deployment. This comprehensive analysis thereby establishes the review as both a guide for newcomers and an up-to-date reference for researchers.
+ER  - 
+
+TY  - JOUR
+T1  - Regenerating rural soil and ecosystems: A 15-year systematic review of emerging methods and technologies
+AU  - Das, Sumanta
+AU  - Dutta, Suman
+AU  - Roy Choudhury, Malini
+AU  - Garai, Sourav
+AU  - Mukherjee, Siddhartha
+AU  - Sengupta, Sudip
+AU  - Jana, Soujanya
+AU  - Dey, Saikat
+AU  - Dhar, Anannya
+AU  - Dutta, Sayantika
+AU  - Awasthi, Amit
+JO  - Science of The Total Environment
+VL  - 990
+SP  - 179926
+PY  - 2025
+DA  - 2025/08/15/
+SN  - 0048-9697
+DO  - https://doi.org/10.1016/j.scitotenv.2025.179926
+UR  - https://www.sciencedirect.com/science/article/pii/S0048969725015669
+KW  - Soil regeneration
+KW  - Emerging technologies
+KW  - Agroecology
+KW  - Bioremediation
+KW  - Bibliometric analysis
+KW  - Soil restoration and health
+AB  - Rural soil and ecosystem degradation continue to threaten global food security, biodiversity, and environmental stability. While conventional remediation approaches remain cost-intensive and contextually limited, recent advancements have introduced novel methods and technologies for soil regeneration. This systematic review synthesizes 15 years (2010–2024) of peer-reviewed literature retrieved from the SCOPUS database, focused on emerging regenerative approaches, including bioremediation techniques, agroecological practices, microbial inoculants, biochar applications, and artificial intelligence (AI) and remote sensing-integrated monitoring systems. Emerging technologies are defined here as innovations developed or significantly advanced within the past two decades and demonstrating potential for field-scale application. Bibliometric and thematic analyses were conducted to map trends, collaboration networks, and conceptual thematic developments. A subsequent qualitative synthesis evaluated the effectiveness, scalability, and ecological relevance of these methods across diverse rural settings. Results indicate a significant increase in interdisciplinary research linking agronomy, soil science, ecology, and geospatial science, yet highlight persistent barriers to adoption among smallholder systems and a scarcity of localized, adaptive solutions. Unlike previous reviews, this study uniquely integrates quantitative bibliometric data synthesis with qualitative critical appraisal of real-world applications to provide a comprehensive and practice-oriented approach to soil regeneration pathways. Overall, the findings offer novel insights for designing region-specific strategies and underscore the need for scalable, technology-integrated frameworks that align scientific innovation with traditional knowledge systems. Such integrated approaches can support policymakers, researchers, and practitioners in improving soil health and promoting sustainable agricultural practices.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts
+JO  - European Urology
+VL  - 87
+SP  - S4
+EP  - S1792
+PY  - 2025
+DA  - 2025/03/01/
+T2  - Abstracts EAU25 - 40th Annual EAU Congress
+SN  - 0302-2838
+DO  - https://doi.org/10.1016/S0302-2838(25)00085-5
+UR  - https://www.sciencedirect.com/science/article/pii/S0302283825000855
+ER  - 
+
+TY  - JOUR
+T1  - The gCube system: Delivering Virtual Research Environments as-a-Service
+AU  - Assante, Massimiliano
+AU  - Candela, Leonardo
+AU  - Castelli, Donatella
+AU  - Cirillo, Roberto
+AU  - Coro, Gianpaolo
+AU  - Frosini, Luca
+AU  - Lelii, Lucio
+AU  - Mangiacrapa, Francesco
+AU  - Marioli, Valentina
+AU  - Pagano, Pasquale
+AU  - Panichi, Giancarlo
+AU  - Perciante, Costantino
+AU  - Sinibaldi, Fabio
+JO  - Future Generation Computer Systems
+VL  - 95
+SP  - 445
+EP  - 453
+PY  - 2019
+DA  - 2019/06/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2018.10.035
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X17328364
+KW  - Virtual Research Environments
+KW  - Social networking
+KW  - Science gateway
+AB  - Important changes have characterised research and knowledge production in recent decades. These changes are associated with developments in information technologies and infrastructures. The processes characterising research and knowledge production are changing through the digitalisation of science, the virtualisation of research communities and networks, the offering of underlying systems and services by infrastructures. This paper gives an overview of gCube, a software system promoting elastic and seamless access to research assets (data, services, computing) across the boundaries of institutions, disciplines and providers to favour collaboration-oriented research tasks. gCube’s technology is primarily conceived to enable Hybrid Data Infrastructures facilitating the dynamic definition and operation of Virtual Research Environments. To this end, it offers a comprehensive set of data management commodities on various types of data and a rich array of “mediators” to interface well-established Infrastructures and Information Systems from various domains. Its effectiveness has been proved by operating the D4Science.org infrastructure and serving concrete, multidisciplinary, challenging, and large scale scenarios.
+ER  - 
+
+TY  - JOUR
+T1  - A literature review on sinkhole attack detection for Internet of Things
+AU  - Nadim, Mohammad
+AU  - Eugenio, John Rhed
+AU  - Chennamaneni, Anitha
+JO  - Ad Hoc Networks
+VL  - 182
+SP  - 104081
+PY  - 2026
+DA  - 2026/03/01/
+SN  - 1570-8705
+DO  - https://doi.org/10.1016/j.adhoc.2025.104081
+UR  - https://www.sciencedirect.com/science/article/pii/S1570870525003294
+KW  - Internet of Things
+KW  - Intrusion detection system
+KW  - Sinkhole attack
+KW  - Wireless sensor networks
+AB  - The growth of the Internet of Things (IoT), driven by Wireless Sensor Networks (WSNs) and Low-Power and Lossy Networks (LLNs), has raised significant security concerns, particularly regarding sinkhole attacks. These attacks compromise data integrity by redirecting traffic through malicious nodes. This paper reviews existing detection methods for sinkhole attacks in IoT and WSNs, analyzing their effectiveness, limitations, and current research gaps. Key challenges include the lack of benchmark datasets, limited real-world validation, and issues with scalability and protocol dependence. The study highlights future research directions to enhance the security and resilience of IoT systems.
+ER  - 
+
+TY  - JOUR
+T1  - Poster Abstracts
+JO  - Research and Practice in Thrombosis and Haemostasis
+VL  - 8
+SP  - 102504
+PY  - 2024
+DA  - 2024/08/01/
+T2  - Abstracts from the 2024 Congress of the International Society of Thrombosis and Haemostasis, June 22–26, 2024
+SN  - 2475-0379
+DO  - https://doi.org/10.1016/j.rpth.2024.102504
+UR  - https://www.sciencedirect.com/science/article/pii/S2475037924001997
+ER  - 
+
+TY  - JOUR
+T1  - Full Issue PDF
+JO  - JACC: Clinical Electrophysiology
+VL  - 10
+IS  - 6
+SP  - I
+EP  - CCXXXVIII
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 2405-500X
+DO  - https://doi.org/10.1016/S2405-500X(24)00443-2
+UR  - https://www.sciencedirect.com/science/article/pii/S2405500X24004432
+ER  - 
+
+TY  - JOUR
+T1  - A systematic review of occupational safety and health in modular integrated construction
+AU  - Sadeghi, Haleh
+AU  - Cheung, Clara Man
+AU  - Yunusa-Kaltungo, Akilu
+AU  - Manu, Patrick
+JO  - Safety Science
+VL  - 189
+SP  - 106897
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 0925-7535
+DO  - https://doi.org/10.1016/j.ssci.2025.106897
+UR  - https://www.sciencedirect.com/science/article/pii/S0925753525001225
+KW  - Prefabrication
+KW  - Modular construction
+KW  - Safety Management
+KW  - Digital Technologies
+KW  - Workplace Safety
+KW  - Systematic Review
+AB  - The construction industry is facing increased pressure to enhance efficiency and safety, owing to its high incident rates. Modular integrated construction (MiC) has gained significant attention as a viable means of enhancing the overall performance of the industry. Despite its numerous advantages, MiC presents occupational safety and health (OSH) challenges due to its unique characteristics, like off-site manufacturing, standardisation, and specialised assembly processes. These complexities necessitate comprehensive management of OSH risks. Although existing studies have addressed some OSH issues in MiC, a comprehensive review that thoroughly covers OSH hazards, risk outcomes and management strategies throughout the entire lifecycle of MiC is lacking. To address this gap, a systematic literature review (SLR) following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) approach was conducted, resulting in the identification of 130 relevant articles from Scopus and Web of Science (WoS). This SLR identified the OSH areas addressed by MiC, types of OSH hazards and risk outcomes associated with MiC, hierarchies of control, types of construction work and MiC lifecycle stages, technologies used for OSH management, challenges in OSH management of MiC, and future research directions. The results show that the most commonly researched hazards that have been mitigated and introduced by MiC are fall- and health-related hazards, respectively. Additionally, administrative controls are the most common hierarchy of control in the previous studies. This in-depth knowledge offers practitioners valuable insights into hazards and risk outcomes associated with MiC while emphasising the technologies used in various studies to mitigate these risks.
+ER  - 
+
+TY  - JOUR
+T1  - Language assessment in the era of generative artificial intelligence: Opportunities, challenges, and future directions
+AU  - Chuang, Ping-Lin
+AU  - Yan, Xun
+JO  - System
+VL  - 134
+SP  - 103846
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0346-251X
+DO  - https://doi.org/10.1016/j.system.2025.103846
+UR  - https://www.sciencedirect.com/science/article/pii/S0346251X25002568
+KW  - Generative artificial intelligence
+KW  - Language testing and assessment
+KW  - Challenges and opportunities
+AB  - Recent breakthroughs in generative artificial intelligence (GenAI) have shaken the field of language assessment in unprecedented ways. On one hand, large-scale testing companies and organizations have spearheaded AI-based assessment models, infusing GenAI elements into various test development and quality management procedures. On the other hand, in local institutional contexts, although the interest in incorporating AI-based elements in instructional programs has also been soaring, little discussion has been made regarding the affordances and affordability of AI-based assessment systems in local contexts, and the impact of AI on language assessment across contexts remains underexplored. This paper presents a systematic review of 77 articles published on GenAI use in language testing and assessment, to synthesize assessment challenges, opportunities, and solutions involving GenAI. We review issues of GenAI in the domains of reliability, validity, fairness, and practicality in large-scale, local, and classroom-based assessments. Based on the findings from the systematic review, we identify principles and best practices of language assessment in the age of GenAI. Additionally, we provide future directions for assessment research and practice related to GenAI, with a focus on impact and sustainability of GenAI in language assessment across contexts. We caution researchers and practitioners about the danger of following the trend of incorporating GenAI in an unmeasured and unselective manner.
+ER  - 
+
+TY  - JOUR
+T1  - BIM-augmented reality integrated approach to risk management
+AU  - Alirezaei, Sahar
+AU  - Taghaddos, Hosein
+AU  - Ghorab, Khashayar
+AU  - Tak, Ala Nekouvaght
+AU  - Alirezaei, Sepideh
+JO  - Automation in Construction
+VL  - 141
+SP  - 104458
+PY  - 2022
+DA  - 2022/09/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2022.104458
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580522003314
+KW  - Building information modeling (BIM)
+KW  - Risk management
+KW  - Augmented reality (AR)
+KW  - Online risk assessment
+KW  - Construction automation
+AB  - Despite the acknowledged promises of adopting technologies such as BIM and AR, research addressing the challenges and opportunities of such synergies in cost and schedule risk management is still limited. This paper contributes to the literature by presenting an integrated, proactive BIM-Augmented Reality (AR) risk management system enabling an online inspection of project cost and schedule risks. This system records the actual risk data (e.g., risk type and likelihood) using AR on commercial smartphones, runs an online Risk Failure Mode and Effects Analysis (RFMEA), and updates the project's BIM model to provide informed risk-related solutions. A case study is provided to demonstrate the implementation of the proposed system in a real project. Despite the challenges cited in the post-implementation survey (e.g., system ergonomics and synchronizations of automated/non-automated subsystems), 67% of the users acknowledged the improvement in cost and schedule risk management owing to enhancement in communication, timeliness, and risk perception.
+ER  - 
+
+TY  - JOUR
+T1  - APhA 2023 Annual Meeting and Exposition Contributed Papers Program Abstracts
+JO  - Journal of the American Pharmacists Association
+VL  - 63
+IS  - 4
+SP  - 1282
+EP  - 1441
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 1544-3191
+DO  - https://doi.org/10.1016/j.japh.2023.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S1544319123001437
+ER  - 
+
+TY  - JOUR
+T1  - Critiquing expert systems for planning and management
+AU  - Shepherd, Anne
+AU  - Ortolano, Leonard
+JO  - Computers, Environment and Urban Systems
+VL  - 18
+IS  - 5
+SP  - 305
+EP  - 314
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0198-9715
+DO  - https://doi.org/10.1016/0198-9715(94)90012-4
+UR  - https://www.sciencedirect.com/science/article/pii/0198971594900124
+AB  - Critiquing expert systems differ from conventional expert systems in that system users input a proposed plan of action. The critiquing expert system provides constructive comments on the proposed plan as well as alternatives to it. This approach has two advantages over conventional expert systems: (1) users retain their authority over decision making and are not “deskilled,” and (2) complex planning and management tasks with many alternative “solutions” can be accommodated. A critiquing system developed to assist in managing the operations of the San Francisco Water Department illustrates the approach and its potential for assisting planners.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts from USCAP 2021: Gastrointestinal Pathology (311-404)
+JO  - Modern Pathology
+VL  - 34
+SP  - 501
+EP  - 620
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0893-3952
+DO  - https://doi.org/10.1038/s41379-021-00758-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0893395222001739
+ER  - 
+
+TY  - CHAP
+T1  - Suggestions for Further Reading
+BT  - Principles of Computer System Design
+PB  - Morgan Kaufmann
+CY  - San Francisco
+SP  - 375
+EP  - 423
+PY  - 2009
+DA  - 2009/01/01/
+SN  - 978-0-12-374957-4
+DO  - https://doi.org/10.1016/B978-0-12-374957-4.00018-9
+UR  - https://www.sciencedirect.com/science/article/pii/B9780123749574000189
+ER  - 
+
+TY  - JOUR
+T1  - Utilisation of waste marble dust in concrete production: A scientometric review and future research directions
+AU  - Kuoribo, Ewald
+AU  - Mahmoud, Hatem
+JO  - Journal of Cleaner Production
+VL  - 374
+SP  - 133872
+PY  - 2022
+DA  - 2022/11/10/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2022.133872
+UR  - https://www.sciencedirect.com/science/article/pii/S0959652622034461
+KW  - Waste utilisation
+KW  - Mable dust
+KW  - Concrete
+KW  - Physical properties
+KW  - Scientometric review
+AB  - The construction industry is one of the prime polluters of the global environment, in addition to the waste management menace. Over the years, waste marble dust reuse as aggregates has gained budding interest among researchers and practitioners in a diverse geographical setting as one of the ground-breaking practices integrating sustainable construction applications. However, a systematic scientometric study appraising the utilisation of waste marble dust in concrete applications remains elusive. This study intends to address this gap by performing a scientometric review of the existing documents on waste marble dust into sustainable concrete production in the Scopus database. By analysing accessible bibliometric data and finding associated document areas, sources with the most significant publications, the most often occurring keywords, scholars, and articles with the utmost citations. The scientometric analysis determines the current state of research on waste marble dust use in sustainable construction applications. The reported test conducted is discovered and discussed, the optimum proportions of percentage replacement of marble dust are determined, and the performance of other recycled aggregates with marble dust. In addition, knowledge gaps and future research directions were identified. This study adds to the motivation of in-depth knowledge in the reuse of waste marble dust in sustainable construction applications, provides a point of reference in bridging the gaps in the existing research and gives future directions for the study of marble dust.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts from USCAP 2020: Gastrointestinal Pathology (612-832)
+JO  - Modern Pathology
+VL  - 33
+SP  - 764
+EP  - 973
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0893-3952
+DO  - https://doi.org/10.1038/s41379-020-0470-y
+UR  - https://www.sciencedirect.com/science/article/pii/S0893395222001983
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 14 - AI-driven drug repurposing strategies for hepatocellular carcinoma: Unlocking new therapeutic potential
+AU  - Manoharan, Suryaa
+AU  - Santhakumar, Aksayakeerthana
+AU  - Perumal, Ekambaram
+A2  - Nagaraju, Ganji Purnachandra
+A2  - Venkatesan, Amouda
+A2  - Dinakara Rao, Ampasala
+BT  - Artificial Intelligence in Gastrointestinal Cancers
+PB  - Academic Press
+SP  - 239
+EP  - 266
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Novel approaches to overcome cancer resistance to conventional therapies
+SN  - 978-0-443-44121-9
+DO  - https://doi.org/10.1016/B978-0-443-44121-9.00010-X
+UR  - https://www.sciencedirect.com/science/article/pii/B978044344121900010X
+KW  - Artificial intelligence
+KW  - Drug repurposing
+KW  - HCC
+KW  - Machine learning
+AB  - Hepatocellular carcinoma (HCC) is a prevalent type of primary liver cancer that arises due to the malignant transformation of hepatocytes. HCC is characterized by a high recurrence rate, and the treatment landscape of HCC offers limited curative options, making it one of the most lethal forms of cancer globally. Drug repurposing represents a valuable strategy that involves finding new medical indications for existing approved drugs and accelerates the drug development timeline for HCC. The deployment of artificial intelligence (AI) in drug repurposing enhances the speed and accuracy of identifying potential drug candidates. The AI-driven models aid in the prediction of drug-disease association by utilizing diverse biological data inputs, including genomic, transcriptomic and clinical data. This chapter will explore how AI and machine learning (ML) techniques are employed to repurpose drugs for the treatment of HCC. Specifically, ML models, deep learning (DL) models, and open-source tools will be highlighted, which are used to predict drug-target interactions (DTIs), data extraction, and molecular descriptors calculation. The incorporation of an AI-powered repurposing method in multiple aspects of the HCC treatment landscape is discussed, emphasizing a holistic approach to obtain improved patient outcomes. The primary focus of this chapter will be on the application of AI in analyzing genetic as well as other omics data to target relevant proteins and pathways implicated in HCC. The integration of AI and drug repurposing strategies can unveil new therapeutic possibilities and address the challenges inherent to HCC for more effective treatments. This chapter will provide insights into current AI-driven drug repurposing methodologies, highlight key advances, and propose future directions for research and clinical applications in HCC treatment.
+ER  - 
+
+TY  - JOUR
+T1  - Teacher-oriented adaptive Web-based environment for supporting practical teaching models: a case study of “school for all”
+AU  - Lin, Chuo-Bin
+AU  - Young, Shelley Shwu-Ching
+AU  - Chan, Tak-Wai
+AU  - Chen, Yen-Hua
+JO  - Computers & Education
+VL  - 44
+IS  - 2
+SP  - 155
+EP  - 172
+PY  - 2005
+DA  - 2005/02/01/
+SN  - 0360-1315
+DO  - https://doi.org/10.1016/j.compedu.2003.11.003
+UR  - https://www.sciencedirect.com/science/article/pii/S036013150400051X
+KW  - Lifelong learning
+KW  - Authoring tools and methods
+KW  - Cooperative/collaborative learning
+KW  - Teaching strategies
+KW  - Learning community
+AB  - Web-based learning systems, if designed appropriately, offer many advantages over the traditional learning environments. This study addresses the design and development of new approaches and network technologies based on the newly induced pedagogical models to support collaborative teaching, knowledge sharing, lifelong learning opportunities for anyone to offer or participate in courses free of charge. The authors propose and implement a Web-based learning environment called “School for All” in the Web-based Educities. To satisfy the needs of individual instructors, adaptive Web-based authoring tools and methods of teaching have been proposed, including five adaptive modules – Curriculum Setting, Co-teaching and Privileges Setting, Reward Setting, Assessment Setting and Information Sharing Setting. Thirty representative courses that used this adaptive School for All system were under close observations and investigation. An additional questionnaire was also used to collect online teachers' perceptions of this Web-based learning environment. Online teachers reported that these adaptive modules could support their online teaching effectively. More results were presented and more issues regarding online teaching were discussed in this paper.
+ER  - 
+
+TY  - JOUR
+T1  - Self-calibration based on invariant view recognition: Dynamic approach to navigation
+AU  - Steinhage, Axel
+AU  - Schöner, Gregor
+JO  - Robotics and Autonomous Systems
+VL  - 20
+IS  - 2
+SP  - 133
+EP  - 156
+PY  - 1997
+DA  - 1997/06/01/
+T2  - Practice and Future of Autonomous Agents
+SN  - 0921-8890
+DO  - https://doi.org/10.1016/S0921-8890(96)00072-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0921889096000723
+KW  - Navigation
+KW  - Dynamical systems
+KW  - Vision based navigation
+KW  - Autonomous calibration
+KW  - Invariant recognition
+AB  - We extend a dynamic approach of behavior generation to the representation of spatial information. Two levels of dynamics integrate dead-reckoning, dominant far from home bases, and piloting, dominant near home bases. When the view-based piloting system recognizes a home base, visual place information recalibrates the dead-reckoning system, inverting the hierarchical ordering of the two dynamic levels by time scale inversion. Reference views taken at discrete home bases are recognized invariantly under rotation of views. This process yields compass information. Continuous translational information is obtained as a neural place representation built from view correlations with a scattered set of local views. This self-calibrating cognitive map couples into a dynamics of heading direction integrating the behaviors of obstacle avoidance and target acquisition. Targets can be designated in terms of the cognitive map. We demonstrate the dynamical model in simulation.
+ER  - 
+
+TY  - JOUR
+T1  - Papers read by title
+JO  - Journal of Hepatology
+VL  - 18
+SP  - S85
+EP  - S190
+PY  - 1993
+DA  - 1993/01/01/
+SN  - 0168-8278
+DO  - https://doi.org/10.1016/S0168-8278(05)80300-9
+UR  - https://www.sciencedirect.com/science/article/pii/S0168827805803009
+ER  - 
+
+TY  - JOUR
+T1  - Life cycle insights into construction and demolition waste management: Past, present and emerging futures
+AU  - Gao, Yu
+AU  - Yiu, Tak Wing
+AU  - Shen, Xuesong
+AU  - Tam, Vivian W.Y.
+JO  - Journal of Building Engineering
+VL  - 111
+SP  - 113441
+PY  - 2025
+DA  - 2025/10/01/
+SN  - 2352-7102
+DO  - https://doi.org/10.1016/j.jobe.2025.113441
+UR  - https://www.sciencedirect.com/science/article/pii/S235271022501678X
+KW  - Construction and demolition waste management
+KW  - Life cycle management
+KW  - Bibliometrics
+KW  - Citespace
+KW  - Knowledge map
+AB  - Construction and demolition waste (C&DW) poses a significant challenge to sustainable development and the circular economy. While research in this domain has expanded, existing reviews often focus on isolated stages or methods, lacking a comprehensive life cycle perspective. This paper presents a novel integration of bibliometric and content analysis, examining 1025 articles (2015–2024) from the Web of Science database. The review encompasses the full life cycle of C&DW management, including waste generation prediction, material identification and classification, transportation, and recycling or disposal. Key trends were identified through co-occurrence, co-citation, and cluster analysis, revealing a shift from traditional qualitative approaches to intelligent and data-driven methods. Four major research gaps were identified: limitations in predictive models, insufficient applications of intelligent technologies, inadequate multi-stakeholder governance, and the lack of standardized evaluation frameworks. Future directions are proposed to guide integrated and scalable solutions. These findings offer a holistic understanding of the field and inform more effective and sustainable C&DW management strategies.
+ER  - 
+
+TY  - JOUR
+T1  - A comprehensive review and future research directions of ensemble learning models for predicting building energy consumption
+AU  - Wang, Zeyu
+AU  - Hong, Yuelan
+AU  - Huang, Luying
+AU  - Zheng, Miaocui
+AU  - Yuan, Hongping
+AU  - Zeng, Ruochen
+JO  - Energy and Buildings
+VL  - 335
+SP  - 115589
+PY  - 2025
+DA  - 2025/05/15/
+SN  - 0378-7788
+DO  - https://doi.org/10.1016/j.enbuild.2025.115589
+UR  - https://www.sciencedirect.com/science/article/pii/S0378778825003196
+KW  - Building energy prediction
+KW  - Ensemble learning
+KW  - Heterogeneous ensemble learning
+KW  - Homogeneous ensemble learning
+AB  - Ensemble learning has garnered increasing attention in building energy prediction over the past decade due to its exceptional predictive accuracy. However, there is a lack of systematic reviews that comprehensively analyze its current research status, limitations, and challenges, particularly in the context of large-scale practical applications. To address this gap, this review article systematically evaluates the application of ensemble learning models in building energy prediction. Using the PRISMA method, 82 relevant articles published between 2013 and 2024 in the Web of Science database were analyzed. The findings indicate that heterogeneous ensemble models, which integrate diverse algorithms, and homogeneous ensemble models, which utilize multiple data subsets, both hold significant potential for enhancing prediction accuracy. Specifically, heterogeneous models achieved accuracy improvements ranging from 2.59% to 80.10%, while homogeneous models demonstrated more stable improvements of 3.83% to 33.89%. Nonetheless, the integration of multiple base models increases computational complexity, resulting in higher computation times. Despite this drawback, the improved prediction accuracy, robustness, and generalization capabilities of ensemble models justify the additional computational cost. The review identifies key limitations, including the subjective selection of learning algorithms, the lack of systematic methods for evaluating model diversity, and insufficient exploration of combination strategies. Future research should focus on developing objective criteria for algorithm selection, advancing diversity evaluation techniques, analyzing the effects of combination methods, comparing computational efficiency, and validating the robustness and generalizability of ensemble models. This study offers valuable insights for researchers and practitioners aiming to optimize ensemble learning models in building energy prediction.
+ER  - 
+
+TY  - JOUR
+T1  - USCAP 2018 Abstracts: Gastrointestinal Pathology (657–893)
+JO  - Laboratory Investigation
+VL  - 98
+SP  - 240a
+EP  - 322
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0023-6837
+DO  - https://doi.org/10.1038/labinvest.2018.9
+UR  - https://www.sciencedirect.com/science/article/pii/S0023683722015756
+ER  - 
+
+TY  - JOUR
+T1  - Reusing empirical knowledge during cloud computing adoption
+AU  - Fahmideh, Mahdi
+AU  - Beydoun, Ghassan
+JO  - Journal of Systems and Software
+VL  - 138
+SP  - 124
+EP  - 157
+PY  - 2018
+DA  - 2018/04/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2017.12.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121217303047
+KW  - Cloud computing adoption
+KW  - Legacy systems
+KW  - Evidence-based software engineering
+KW  - Goal-oriented requirement engineering
+KW  - Legacy system reengineering
+AB  - Moving existing legacy systems to cloud platforms is an ever popular option. But, such endeavour may not be hazard-free and demands a proper understanding of requirements and risks involved prior to taking any action. The time is indeed ripe to undertake a realistic view of what migrating legacy systems to cloud may offer, an understanding of exceptional situations causing system quality goal failure in such a transition, and insights on countermeasures. The cloud migration body of knowledge, although is useful, is dispersed over the current literature. It is hard for busy practitioners to digest, synthesize, and harness this body of knowledge into practice when integrating legacy systems with cloud services. We address this issue by creating an innovative synergy between the approaches evidence-based software engineering and goal-oriented modelling. We develop an evidential repository of commonly occurred obstacles and platform agnostic resolution tactics related to cloud enablement of legacy systems. The repository is further utilized during systematic goal-obstacle elaboration of given cloud migration scenarios. The applicability of our proposed framework is also demonstrated.
+ER  - 
+
+TY  - JOUR
+T1  - Artificial Intelligence for Dynamic Characterization of Composite Panel Structures: A Structured Review
+AU  - Sarfarazi, Sina
+AU  - Modano, Mariano
+AU  - Fulgione, Marcello
+JO  - Mechanics Research Communications
+VL  - 151
+SP  - 104607
+PY  - 2026
+DA  - 2026/02/01/
+SN  - 0093-6413
+DO  - https://doi.org/10.1016/j.mechrescom.2025.104607
+UR  - https://www.sciencedirect.com/science/article/pii/S009364132500240X
+KW  - a
+KW  - 
+KW  - 
+KW  - 
+KW  - 
+AB  - Dynamic characterisation of composite panels in modular construction requires approaches that can capture scale effects, variability in manufacturing, and uncertain restraints. To investigate how artificial intelligence (AI) contributes in this field, we compiled a dataset of 2,085 papers from Scopus (2001–2025) and classified them into five methodological families: surrogate models, sequence learning, physics-informed neural networks (PINNs), inverse and optimisation approaches, and explainable AI (XAI). The dataset shows strong growth after 2016. Inverse and metaheuristic optimisation are the most common, especially for laminate lay-up, core design, and finite-element (FE) model updating. Surrogate models are widely used to emulate FE runs and accelerate calibration. Sequence models and PINNs remain smaller but are expanding, supporting time-history prediction and physics-consistent parameter identification under sparse data. XAI is the least developed area and is mostly used for feature attribution in optimisation or health monitoring tasks. In addition to classification, the review presents a clear framework hat connects each method to specific dynamic tasks and provides an interactive web-based GUI where readers can filter, inspect, and export the screened corpus. This combination of systematic mapping and open access to the database creates a transparent reference point for further studies and supports the development of reliable and scalable dynamic analysis frameworks for modular composite panels.
+ER  - 
+
+TY  - JOUR
+T1  - Engineering applications of artificial intelligence: A bibliometric analysis of 30 years (1988–2018)
+AU  - Shukla, Amit K.
+AU  - Janmaijaya, Manvendra
+AU  - Abraham, Ajith
+AU  - Muhuri, Pranab K.
+JO  - Engineering Applications of Artificial Intelligence
+VL  - 85
+SP  - 517
+EP  - 532
+PY  - 2019
+DA  - 2019/10/01/
+SN  - 0952-1976
+DO  - https://doi.org/10.1016/j.engappai.2019.06.010
+UR  - https://www.sciencedirect.com/science/article/pii/S0952197619301496
+KW  - Bibliometric study
+KW  - Engineering applications of artificial intelligence
+KW  - Scientometric mapping
+KW  - Web of science
+KW  - VOSviewer
+AB  - The Engineering Applications of Artificial Intelligence (EAAI) is a journal of very high repute in the domain of Engineering and Computer Science. This paper gives a broad view of the publications in EAAI from 1988–2018, which are indexed in Web of Science (WoS) and Scopus. The main purpose of this research is to bring forward the prime impelling factors that bring about the EAAI publications and its citation structure. The publication and citation structure of EAAI is analyzed, which includes the distribution of publication over the years, citations per year and a bird’s eye view of the citation structure. Then the co-citation analysis and over the year’s trend of top keywords is given. The co-authorship networks and a geographic analysis of the sources is also provided. Further, a country-wise temporal and quantitative analysis of the publications is given along with the highly cited documents among the EAAI publications.
+ER  - 
+
+TY  - JOUR
+T1  - How does object-oriented code refactoring influence software quality? Research landscape and challenges
+AU  - Kaur, Satnam
+AU  - Singh, Paramvir
+JO  - Journal of Systems and Software
+VL  - 157
+SP  - 110394
+PY  - 2019
+DA  - 2019/11/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2019.110394
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121219301694
+KW  - Software quality
+KW  - Object-oriented software
+KW  - Refactoring activity
+KW  - Quality measures
+KW  - Systematic mapping study
+AB  - Context
+Software refactoring aims to improve software quality and developer productivity. Numerous empirical studies investigating the impact of refactoring activities on software quality have been conducted over the last two decades.
+Objective
+This study aims to perform a comprehensive systematic mapping study of existing empirical studies on evaluation of the effect of object-oriented code refactoring activities on software quality attributes.
+Method
+We followed a multi-stage scrutinizing process to select 142 primary studies published till December 2017. The selected primary studies were further classified based on several aspects to answer the research questions defined for this work. In addition, we applied vote-counting approach to combine the empirical results and their analysis reported in primary studies.
+Results
+The findings indicate that studies conducted in academic settings found more positive impact of refactoring on software quality than studies performed in industries. In general, refactoring activities caused all quality attributes to improve or degrade except for cohesion, complexity, inheritance, fault-proneness and power consumption attributes. Furthermore, individual refactoring activities have variable effects on most quality attributes explored in primary studies, indicating that refactoring does not always improve all quality attributes.
+Conclusions
+This study points out several open issues which require further investigation, e.g., lack of industrial validation, lesser coverage of refactoring activities, limited tool support, etc.
+ER  - 
+
+TY  - JOUR
+T1  - USCAP 2022 Abstracts: Gastrointestinal Pathology (372-507)
+JO  - Laboratory Investigation
+VL  - 102
+SP  - 419
+EP  - 565
+PY  - 2022
+DA  - 2022/03/01/
+SN  - 0023-6837
+DO  - https://doi.org/10.1038/s41374-022-00753-3
+UR  - https://www.sciencedirect.com/science/article/pii/S0023683722001350
+ER  - 
+
+TY  - JOUR
+T1  - Maximizing circular economy benefits for manufacturing companies: A simulation tool for defining and implementing a circular product strategy
+AU  - Wandji, Christian
+AU  - Riel, Andreas
+AU  - Ben Rejeb, Helmi
+AU  - Kanso, Mohammad
+AU  - Pitis, Florent
+JO  - Sustainable Production and Consumption
+VL  - 53
+SP  - 78
+EP  - 98
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 2352-5509
+DO  - https://doi.org/10.1016/j.spc.2024.12.002
+UR  - https://www.sciencedirect.com/science/article/pii/S2352550924003452
+KW  - Decision making
+KW  - Take-back year
+KW  - State of Health
+KW  - Circular Economy
+KW  - Circular Strategy
+KW  - Optimization
+KW  - Circular Simulation Tool
+AB  - Achieving a balance between reducing environmental impact and ensuring economic viability is essential for Originals Equipment Manufacturers adopting circular product strategies. A critical aspect of this process is determining the optimal time to take a product out of operation to facilitate the implementing of an appropriate circular strategy. However, decision-makers often lack the tools and methods to effectively answer this question, making it difficult to define and implement a strategy that is both ecologically sound and economically viable. This article presents a methodology that uses the State of Health of a product as a key indicator to identify the most advantageous year for taking back the product and applying a specific circular process (i.e., reuse, remanufacturing or recycling). Based on the State-of-Health, the environmental impact and total cost of the product are calculated annually over its lifetime using defined parameters. A circular strategy is proposed for each take-back year, determined by State of Health thresholds for various circular processes. To determine the optimum take-back year, an algorithm is applied, using a weighted sum as the objective function. This methodology is implemented within a dynamic circular strategy simulation tool to support decision-making for stakeholders. The approach is demonstrated using a case study on a circuit breaker in Genset and hospital applications. The results show environmental and economic benefits of up to 7 % and 18 %, respectively, highlighting the potential value of using this circular strategy simulation tool.
+ER  - 
+
+TY  - JOUR
+T1  - Scientometric analysis of ICT in vehicle route optimization: Practices and perspective
+AU  - Sood, Kashvi
+AU  - Pooja, 
+AU  - Sood, Sandeep Kumar
+JO  - Expert Systems with Applications
+VL  - 281
+SP  - 127531
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2025.127531
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417425011534
+KW  - Sustainable transportation
+KW  - Engineering optimization problems
+KW  - Public transportation systems
+KW  - Demand prediction
+KW  - Internet of Things
+KW  - Big data
+KW  - Cloud computing
+KW  - Quantum computing
+AB  - Recent advances in Information and Communication Technology (ICT) have enticed the attention of many researchers to revolutionize the transportation and logistics industries. The integration of ICTs with sustainable transportation infrastructure design and Vehicle Routing Problems (VRPs) has opened new avenues for innovative solutions to complex logistical challenges. This scientometric study investigates the evolution of ICT-assisted sustainable transportation infrastructure design and VRP research, drawing from a comprehensive analysis of literature indexed in the Scopus database between 2015 and 2024. The study examines key aspects such as publication trends, collaboration networks across countries, geographical distribution, and co-citation patterns of authors and documents within the relevant research categories. The findings reveal a strong emphasis on Artificial Intelligence (AI) and Machine Learning (ML) technologies as central to the development of the current knowledge domain. Moreover, the study identifies green network design, autonomous vehicles, disaster resilience, on-demand services, sustainable design, supply chain resilience, wireless communication, structural analysis, and smart grids, as pivotal themes shaping the future of sustainable transportation infrastructure design and VRPs. The analysis also highlights the growing role of international collaboration and interdisciplinary approaches, indicating a thriving research community focused on advancing the integration of ICT in transportation management systems.
+ER  - 
+
+TY  - JOUR
+T1  - Special Interest Report Abstracts
+JO  - Physiotherapy
+VL  - 97
+SP  - eS1416
+EP  - eS1638
+PY  - 2011
+DA  - 2011/06/01/
+T2  - World Physical Therapy 2011 Abstracts
+SN  - 0031-9406
+DO  - https://doi.org/10.1016/j.physio.2011.04.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0031940611000708
+ER  - 
+
+TY  - JOUR
+T1  - PDF of Full Issue
+JO  - Annals of Emergency Medicine
+VL  - 86
+IS  - 3, Supplement 1
+SP  - e1
+EP  - e277
+PY  - 2025
+DA  - 2025/09/01/
+T2  - ACEP Research Forum 2025
+SN  - 0196-0644
+DO  - https://doi.org/10.1016/S0196-0644(25)01074-1
+UR  - https://www.sciencedirect.com/science/article/pii/S0196064425010741
+ER  - 
+
+TY  - JOUR
+T1  - Front cover and table of contents
+JO  - IFAC Proceedings Volumes
+VL  - 38
+IS  - 1
+SP  - 1
+EP  - 3456
+PY  - 2005
+DA  - 2005/01/01/
+T2  - 16th IFAC World Congress
+SN  - 1474-6670
+DO  - https://doi.org/10.3182/20050703-6-CZ-1902.00001
+UR  - https://www.sciencedirect.com/science/article/pii/S147466701636013X
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts from USCAP 2021: Gastrointestinal Pathology (311-404)
+JO  - Laboratory Investigation
+VL  - 101
+SP  - 395
+EP  - 514
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0023-6837
+DO  - https://doi.org/10.1038/s41374-021-00556-y
+UR  - https://www.sciencedirect.com/science/article/pii/S0023683722001593
+ER  - 
+
+TY  - JOUR
+T1  - Behavioral psychology of LLMs: Better task guidance through punishment and reinforcement
+AU  - Peng, Sisi
+AU  - Zhang, Wenlin
+AU  - Li, Shunhang
+AU  - Qu, Dan
+AU  - Wei, Han
+JO  - Neurocomputing
+VL  - 652
+SP  - 131040
+PY  - 2025
+DA  - 2025/11/01/
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2025.131040
+UR  - https://www.sciencedirect.com/science/article/pii/S0925231225017126
+KW  - Large language model
+KW  - Prompt learning
+KW  - Cognitive appraisal
+KW  - Emotion cognition
+AB  - Recent advances in Large Language Models (LLMs) have sparked interest in their emotional intelligence, but their behavioral psychology—particularly emotion-driven decision-making akin to humans— remains poorly understood. This study introduces Behavioral Consequence Scenarios (BCSs), a structured framework simulating psychologically salient punishment and reinforcement dynamics. We test the emotional perception and empathy abilities of LLMs using psychological scales and examine the emotional variation patterns across different BCSs. The findings suggest that LLMs exhibit rudimentary emotional perception and empathy capabilities, and their emotional responses generally align with human behavior. Building on this, we propose Behavioral Consequence Scenario Prompting (BCSP), a method that injects BCS-driven emotional incentives into task instructions. Experiments on Wizard-of-Wikipedia and CMMLU demonstrate BCSP’s efficacy: in dialogue generation, BCSP achieved at least a 3.53/1.74 improvement in BLEU-2/4, and in the multi-task language understanding test, BCSP gained a 2 % improvement in overall accuracy. Our findings bridge LLMs’ alignment with human-like emotion-behavior dynamics, and encourage deeper investigation into the behavioral psychology and emotional patterns of LLMs.
+ER  - 
+
+TY  - JOUR
+T1  - Detection of damage in heritage constructions based on 3D point clouds. A systematic review
+AU  - Sánchez-Aparicio, Luis Javier
+AU  - Blanco-García, Federico Luis del
+AU  - Mencías-Carrizosa, David
+AU  - Villanueva-Llauradó, Paula
+AU  - Aira-Zunzunegui, José Ramón
+AU  - Sanz-Arauz, David
+AU  - Pierdicca, Roberto
+AU  - Pinilla-Melo, Javier
+AU  - Garcia-Gago, Jesús
+JO  - Journal of Building Engineering
+VL  - 77
+SP  - 107440
+PY  - 2023
+DA  - 2023/10/15/
+SN  - 2352-7102
+DO  - https://doi.org/10.1016/j.jobe.2023.107440
+UR  - https://www.sciencedirect.com/science/article/pii/S2352710223016200
+KW  - Damage
+KW  - Diagnosis
+KW  - Inspection
+KW  - Heritage construction
+KW  - 3D point cloud
+KW  - Terrestrial laser scanner
+KW  - Laser scanning
+KW  - Photogrammetry
+KW  - Structure from motion
+KW  - Systematic review
+AB  - 3D point clouds have emerged as a crucial source of information in the field of Cultural Heritage due to their ability to capture reality with high density and accuracy. They are commonly used as inputs for generating planimetries, Building Information Models or numerical simulations. However, their potential goes beyond these applications and can be further exploited, particularly in the realm of detecting and quantifying damage. Taking this into consideration, the aim of this study is to conduct a systematic review to compile previous experiences in which the 3D point cloud has been applied for the detection of damage in historical constructions. A total of 188 articles were analysed during this review, emphasizing the capability of this technology in detecting damage in historical constructions. The review revealed a growing trend in this approach, particularly in the structural field where the terrestrial laser scanner is the most commonly used sensor. This is due to the capacity of capturing reality with great density and accuracy, allowing for the extraction of different type of damages related to the geometry of the elements such as deflections or out-of-plane deformations. However, this is not the only valuable information. 3D point clouds, which can also be obtained through the Structure From Motion approach, are capable of storing radiometric information in the form of intensity and/or digital levels. This information can be utilized for detecting other types of damage, such as moisture or crusts, among others. All this information is properly synthetized and presented, in accordance with different aspects such as the general properties of the 3D point clouds, the use of geometric and radiometric features, the integration of additional sensors, and their use in other approaches. Additionally, the work proposes a novel classification system for damage detection based on 3D point clouds. This system is based on the type of feature/s used.
+ER  - 
+
+TY  - JOUR
+T1  - The role of GIS-based spatial analysis in strategic management in local government
+AU  - Worrall, Les
+JO  - Computers, Environment and Urban Systems
+VL  - 18
+IS  - 5
+SP  - 323
+EP  - 332
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0198-9715
+DO  - https://doi.org/10.1016/0198-9715(94)90014-0
+UR  - https://www.sciencedirect.com/science/article/pii/0198971594900140
+AB  - While GIS is becoming more commonplace in local government, the application of GIS-based spatial analysis is less well developed, as GIS applications have tended to focus more on improving the efficiency of processing administrative tasks and on asset management rather than on “higher order” managerial tasks. The objectives of this paper are to review recent trends which are affecting the role and structure of local government; to review briefly the role of GIS in local government; to discuss the potential for improving spatial analysis in a public policy development setting; and, finally, to develop a research agenda which will seek to enhance the role of GIS-based spatial analysis in strategic management both in local government and in other organisations concerned with the development and implementation of public policy.
+ER  - 
+
+TY  - JOUR
+T1  - Abstracts from USCAP 2020: Gastrointestinal Pathology (612-832)
+JO  - Laboratory Investigation
+VL  - 100
+SP  - 624
+EP  - 833
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0023-6837
+DO  - https://doi.org/10.1038/s41374-020-0386-7
+UR  - https://www.sciencedirect.com/science/article/pii/S0023683722001854
+ER  - 
+
+TY  - JOUR
+T1  - Keyword Index
+JO  - IFAC Proceedings Volumes
+VL  - 25
+IS  - 1
+SP  - 497
+EP  - 499
+PY  - 1992
+DA  - 1992/03/01/
+T2  - IFAC Symposium on Control of Power Plants and Power Systems, Munich, Germany, 9-11 March
+SN  - 1474-6670
+DO  - https://doi.org/10.1016/S1474-6670(17)50506-6
+UR  - https://www.sciencedirect.com/science/article/pii/S1474667017505066
+ER  - 
+
+TY  - JOUR
+T1  - United Nations and other international organizations
+AU  - Shaaban, Marian
+AU  - Margaitis, Vida
+JO  - Government Publications Review
+VL  - 10
+IS  - 6
+SP  - 597
+EP  - 624
+PY  - 1983
+DA  - 1983/11/01/
+SN  - 0277-9390
+DO  - https://doi.org/10.1016/0277-9390(83)90017-1
+UR  - https://www.sciencedirect.com/science/article/pii/0277939083900171
+ER  - 
+
+TY  - CHAP
+T1  - 7 - Solidification
+AU  - Boettinger, William J.
+AU  - Banerjee, Dilip K.
+A2  - Laughlin, David E.
+A2  - Hono, Kazuhiro
+BT  - Physical Metallurgy (Sixth Edition)
+PB  - Elsevier
+SP  - 629
+EP  - 858
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 978-0-443-21710-4
+DO  - https://doi.org/10.1016/B978-0-443-21710-4.00005-7
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443217104000057
+KW  - Additive manufacturing
+KW  - Casting defects
+KW  - Casting structure
+KW  - Cellular
+KW  - Dendritic solidification
+KW  - Fluid flow
+KW  - Heat transfer
+KW  - Interface kinetics
+KW  - Macrosegregation
+KW  - Microsegregation
+KW  - Nucleation and growth
+KW  - Planar
+KW  - Polyphase solidification
+KW  - Thermodynamics
+AB  - Solidification is a well-known subject. Some of the common examples of solidification are the casting of metals in industrial practice, the formation of ice, and the freezing of solder in electrical circuits. Manufacturing of almost every man-made component involves solidification at some stage. Casting of metals is one of most economic and important manufacturing processes. This chapter provides an overview of metal solidification starting with a description of the transport phenomena in solidification. Then, several important topics are covered for a thorough understanding of the solidification process. These topics are: thermodynamics of solidification including an overview of the phase field modeling approach in solidification, nucleation, growth kinetics, solidification of alloys with both planar and near planar interface, and cellular and dendritic solidification (including a description of microsegregation) in metallic systems. Polyphase solidification (e.g., eutectic, monotectic, and peritectic) is described next. Fluid flow in casting solidification is addressed next. Macrosegregation, formation of porosity and inclusions in castings, and fluidity are then discussed. Finally, Section 7.10 is dedicated to metal additive manufacturing (AM), where the focus is on the laser powder-based fusion (LPBF) process. A brief description of common AM processes and typical machines that are used for AM fabrication are provided. The physics of the metal AM process is discussed next. This includes a discussion of both continuum level models for describing fluid dynamics, heat transfer, and thermomechanical behavior and mesoscale models (e.g., phase field and cellular automata) for microstructural evolution. Then, a brief summary is provided about common alloys that are processed through the AM route. Finally, mechanical properties of AM-fabricated parts of common alloys are discussed briefly.
+ER  - 
+
+TY  - JOUR
+T1  - An evaluation of CIM modelling constructs evaluation report of constructs for views according to ENV 40 003
+AU  - Shorter, David
+JO  - Computers in Industry
+VL  - 24
+IS  - 2
+SP  - 159
+EP  - 236
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/0166-3615(94)90018-3
+UR  - https://www.sciencedirect.com/science/article/pii/0166361594900183
+AB  - This report describes standards work carried out by CEN TC310 WG1 and its precursor CEN/CENELEC WG-ARC in 1991–1993.
+ER  - 
+
+TY  - JOUR
+T1  - Numerical investigation on the thermal-hydraulic performance of LFR fuel assemblies with multi-parameter wire wrap geometries
+AU  - Wang, Xiaotian
+AU  - Cao, Qiong
+AU  - Jin, Wenjun
+AU  - Li, Zhen
+AU  - Lu, Daogang
+JO  - International Journal of Advanced Nuclear Reactor Design and Technology
+VL  - 8
+IS  - 4
+SP  - 422
+EP  - 440
+PY  - 2026
+DA  - 2026/12/01/
+SN  - 2468-6050
+DO  - https://doi.org/10.1016/j.jandt.2026.08.008
+UR  - https://www.sciencedirect.com/science/article/pii/S2468605026000554
+KW  - Lead-cooled fast reactors
+KW  - Thermal hydraulics
+KW  - Friction coefficient correlation
+AB  - Lead-cooled fast reactors (LFRs) represent a highly promising fourth-generation nuclear technology, characterized by low operating pressures, inherent safety, and compact core configurations. Within LFRs, hexagonal fuel assemblies rely heavily on wire-wrapped structures to ensure subchannel stability and enhance thermal-hydraulic performance. However, existing studies predominantly focus on isolated geometric variations, leaving the synergistic multi-parameter effects in heavy liquid metals insufficiently explored. Addressing this gap, this study conducts a comprehensive computational fluid dynamics (CFD) investigation on the Lead-Bismuth Eutectic (LBE) cooled 19-pin wire-wrapped assemblies based on the MYRRHA core. Following a rigorous validation against experimental benchmark data, a systematic parametric analysis is executed to evaluate the coupled effects of wire pitch, wire diameter, and the number of wires. Utilizing the field synergy angle and Performance Evaluation Criteria (PEC), the underlying fluid-structure interactions are explicitly elucidated to identify thermally optimized configurations. Furthermore, drawing upon the extensive CFD dataset, a new multivariate non-linear empirical model—designated as the UCTD-L correlation—is developed to predict the friction resistance coefficient. By incorporating coupled structural correction factors, the UCTD-L model reliably captures the drag characteristics of diverse geometries. Validated against an independent out-of-sample test dataset, the proposed correlation restricts the Mean Relative Error (MRE) strictly below 20%.
+ER  - 
+
+TY  - JOUR
+T1  - DELs enable the development of BRET probes for target engagement studies in cells
+AU  - Teske, Kelly A.
+AU  - Su, Wenji
+AU  - Corona, Cesear R.
+AU  - Wen, Jing
+AU  - Deng, Jason
+AU  - Ping, Yan
+AU  - Zhang, Zaihong
+AU  - Zhang, Qi
+AU  - Wilkinson, Jennifer
+AU  - Beck, Michael T.
+AU  - Nealey, Kendra R.
+AU  - Vasta, James D.
+AU  - Cong, Mei
+AU  - Meisenheimer, Poncho L.
+AU  - Kuai, Letian
+AU  - Robers, Matthew B.
+JO  - Cell Chemical Biology
+VL  - 30
+IS  - 8
+SP  - 987
+EP  - 998.e24
+PY  - 2023
+DA  - 2023/08/17/
+SN  - 2451-9456
+DO  - https://doi.org/10.1016/j.chembiol.2023.06.019
+UR  - https://www.sciencedirect.com/science/article/pii/S2451945623001976
+KW  - DNA-encoded library
+KW  - DEL
+KW  - BRET
+KW  - NanoLuc
+KW  - Nluc
+KW  - NanoBRET
+KW  - target engagement
+KW  - Aurora
+KW  - BRD4
+KW  - IDO1
+AB  - Summary
+DNA-encoded libraries (DELs) provide unmatched chemical diversity and starting points for novel drug modalities. Here, we describe a workflow that exploits the bifunctional attributes of DEL ligands as a platform to generate BRET probes for live cell target engagement studies. To establish proof of concept, we performed a DEL screen using aurora kinase A and successfully converted aurora DEL ligands as cell-active BRET probes. Aurora BRET probes enabled the validation and stratification of the chemical series identified from primary selection data. Furthermore, we have evaluated the effective repurposing of pre-existing DEL screen data to find suitable leads for BRET probe development. Our findings support the use of DEL workflows as an engine to create cell-active BRET probes independent of structure or compound SAR. The combination of DEL and BRET technology accelerates hit-to-lead studies in a live cell setting.
+ER  - 
+
+TY  - JOUR
+T1  - Digital twin for intelligent tunnel construction
+AU  - Li, Tao
+AU  - Li, Xiaojun
+AU  - Rui, Yi
+AU  - Ling, Jiaxin
+AU  - Zhao, Sicheng
+AU  - Zhu, Hehua
+JO  - Automation in Construction
+VL  - 158
+SP  - 105210
+PY  - 2024
+DA  - 2024/02/01/
+SN  - 0926-5805
+DO  - https://doi.org/10.1016/j.autcon.2023.105210
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580523004703
+KW  - Digital twin
+KW  - Intelligent tunnel construction
+KW  - Literature review
+KW  - Conceptual framework
+KW  - Building information modelling
+KW  - Knowledge graph
+KW  - Point cloud
+KW  - Machine learning
+KW  - Infrastructure
+KW  - AEC
+AB  - New-generation intelligent construction places higher demands on digitisation and intelligence of tunnel. Digital twin (DT) effectively supports high-fidelity modelling, virtual-real mapping, and analysis-based decision-making but with research in the initial stage. To begin with, this paper delves into the complexity and uncertainty inherent in tunnel construction, highlighting DT as a promising solution compared to exisiting technologies such as Building Information Modelling. Then, a systematic literature survey is conducted, revealing growing focus on DT research topics. To provide comprehensive insights into DT-related technologies and their application in tunnel construction, this paper clusters literature from perspectives of sensor networks, Internet of Things (IoT), computer vision-based twin data acquisition, communication, natural language processing (NLP), automatic control-based connection, and geometric, semantic, analytical integrated twin modelling. These aspects shed light on potentials and limitations of existing researh in developing a functional DT. In response to the challenges of information richness, timeliness, and analytical capabilities, an improved conceptual framework tailored for tunnel is proposed to close the information and control loop. Finally, the paper discusses the prospects and gaps of DT in theory and practice to leverage DT implementation.
+ER  - 
+
+TY  - JOUR
+T1  - Strategic management of next-generation connected life: Focusing on smart key and car–home connectivity
+AU  - Hong, Jihoon
+AU  - Shin, Jungwoo
+AU  - Lee, Daeho
+JO  - Technological Forecasting and Social Change
+VL  - 103
+SP  - 11
+EP  - 20
+PY  - 2016
+DA  - 2016/02/01/
+SN  - 0040-1625
+DO  - https://doi.org/10.1016/j.techfore.2015.10.006
+UR  - https://www.sciencedirect.com/science/article/pii/S0040162515002942
+KW  - Connected car
+KW  - Smart home
+KW  - Car–home connectivity function
+KW  - Multivariate probit model
+KW  - Bayesian estimation
+KW  - Consumer preference
+AB  - With the development of wireless technology, connectivity is becoming a more common feature of daily life. Connected cars and smart homes are typical examples, and the two markets are beginning to merge, as indicated by Apple's launch of “CarPlay” and “Home Kit” and iControl's partnership with Zubie. However, little research has been done on this subject because the integration of connected cars and smart homes has just begun. This study examines consumer preference for smart key functions (vehicle functions requested from outside the car) and car–home connectivity functions (communications between car and home), among others. Both revealed and stated preference datasets from a survey of U.S. drivers are used. The multivariate probit model and Bayesian estimation method are used to analyze consumer preferences. The results showed different preferences depending on socio-demographics and vehicle types. This paper provides marketing strategies for smart key functions and car–home connectivity functions by revealing socio-demographic characteristics and consumer preferences.
+ER  - 
+
+TY  - JOUR
+T1  - LIVER PATHOLOGY
+JO  - Laboratory Investigation
+VL  - 104
+IS  - 3, Supplement 
+SP  - 101663
+PY  - 2024
+DA  - 2024/03/01/
+T2  - USCAP 113th Annual Meeting: Bringing Education to Life
+SN  - 0023-6837
+DO  - https://doi.org/10.1016/j.labinv.2024.101663
+UR  - https://www.sciencedirect.com/science/article/pii/S0023683724013412
+ER  - 
+
+TY  - CHAP
+T1  - 4 - Best HR practices: Insider view
+AU  - Saha, Jayantee Mukherjee
+AU  - Rowley, Chris
+BT  - The Changing Role of the Human Resource Profession in the Asia Pacific Region
+PB  - Chandos Publishing
+SP  - 87
+EP  - 122
+PY  - 2015
+DA  - 2015/01/01/
+T2  - Chandos Asian Studies Series
+SN  - 978-0-85709-475-9
+DO  - https://doi.org/10.1016/B978-0-85709-475-9.00004-2
+UR  - https://www.sciencedirect.com/science/article/pii/B9780857094759000042
+KW  - HR challenges
+KW  - best practices
+KW  - innovative HR practices
+KW  - HR risks
+KW  - human resource industry
+KW  - green initiatives
+KW  - HR game changers
+AB  - Smart organisations know the benefits of going beyond the status quo. By innovating HR practices and policies, they surge ahead and in so doing create a sustainable future. This chapter looks at some of the HR best practices adopted by such organisations.
+ER  - 
+
+TY  - JOUR
+T1  - Expert systems in libraries: Forbes Gibb (Editor): London: Taylor Graham, 1986. 97 pp. ISBN 0947568 10 7. £12.50
+AU  - Ford, N.J.
+JO  - International Journal of Information Management
+VL  - 7
+IS  - 3
+SP  - 168
+EP  - 170
+PY  - 1987
+DA  - 1987/09/01/
+SN  - 0268-4012
+DO  - https://doi.org/10.1016/0268-4012(87)90040-5
+UR  - https://www.sciencedirect.com/science/article/pii/0268401287900405
+ER  - 
+
+TY  - JOUR
+T1  - Solar-powered agricultural robots: a systematic review of technological synergies, sustainability impacts, and future pathways for autonomous farming
+AU  - Sayed, Hassan A.A.
+AU  - Lai, Qinghui
+AU  - Tu, Jielei
+AU  - Abdelhamid, Mahmoud A.
+AU  - Abdelkader, Tarek Kh.
+AU  - Tawfik, T.M.
+AU  - Olalekan Olajide, Rasheed
+AU  - Uddin, Misbah
+AU  - Refai, Mohamed
+JO  - Computers and Electronics in Agriculture
+VL  - 243
+SP  - 111415
+PY  - 2026
+DA  - 2026/03/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2026.111415
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169926000104
+KW  - Agricultural Robots
+KW  - Solar Energy
+KW  - Agribots
+KW  - Sustainable Agriculture
+KW  - Autonomous Systems
+AB  - The integration of solar energy with agricultural robots presents a revolutionary approach to sustainable and autonomous farming by providing a clean, renewable energy source for field activities. Despite the considerable promise, a thorough understanding of the feasibility, scalability, and synergistic integration of these systems remains insufficiently investigated. This comprehensive study consolidates the existing knowledge on solar-powered agricultural robots, assessing their technological effectiveness, economic viability, and environmental consequences. In accordance with the PRISMA-ScR criteria, we reviewed literature from primary databases up to 2026. Our findings are organized according to a functional taxonomy of robotic platforms, photovoltaic (PV) integration methods, and particular agricultural applications. The assessment highlights significant advancements in energy independence, showcasing successful prototypes that demonstrate operational durability and reduced carbon emissions. Nevertheless, significant obstacles remain, including energy storage constraints, substantial initial capital requirements, performance variability under diverse agronomic conditions, and inadequate recycling mechanisms. There are also still limitations regarding the impact of the weight of solar cells and batteries on the performance of agricultural robots. The future progress of this sector depends on the development of more efficient and adaptable PV technologies, resilient economic models, sophisticated energy management systems, and robots capable of performing intricate tasks in unstructured environments. This assessment positions solar-powered agribots not only as automation tools but as essential facilitators of a resilient, data-driven, and low-carbon agricultural framework.
+ER  - 
+
+TY  - JOUR
+T1  - USCAP 2018 Abstracts: Gastrointestinal Pathology (657–893)
+JO  - Modern Pathology
+VL  - 31
+SP  - 240a
+EP  - 322
+PY  - 2018
+DA  - 2018/03/01/
+SN  - 0893-3952
+DO  - https://doi.org/10.1038/modpathol.2018.9
+UR  - https://www.sciencedirect.com/science/article/pii/S0893395222021792
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 1 Base stations, mobile RF communication systems, and antenna interferences
+A2  - Perez, Reinaldo
+BT  - Wireless Communications Design Handbook
+PB  - Academic Press
+VL  - 2
+SP  - 1
+EP  - 60
+PY  - 1999
+DA  - 1999/01/01/
+T2  - Terrestrial and Mobile Interference
+SN  - 1874-6101
+DO  - https://doi.org/10.1016/S1874-6101(98)80014-8
+UR  - https://www.sciencedirect.com/science/article/pii/S1874610198800148
+AB  - Publisher Summary
+Mutual interference in today's telecommunication systems is directly related to the International Telecommunication Union (ITU) frequency allocation laid down by that institution. There are several types of mutual interference among frequency-sharing systems: (1) interference among terrestrial stations; (2) interference between satellite–earth links; and (3) interference between terrestrial stations and earth stations. As for interference among terrestrial stations (noncellular, non-PCs, and nonsatellite), in the lower part of the frequency spectrum (<200 MHz), most of the terrestrial services do not suffer from interference problems. Mutual interference that could exist has been limited to acceptable levels by good frequency planning. At higher frequencies (above 200 MHz), there are more spectrums for new services; space communication services, such as PCs and cellular, are important above 1 GHz. The demand is constantly increasing for more ground communication systems. At these frequencies, fixed services (that is, services using ground terminals at fixed positions, such as cellular and PCs) normally use radio-relay or cellular networks to overcome the limited coverage area of personal communications systems. These ground networks employ relatively high transmitted power because of possible fading due to occasional multipath effects and are, therefore, potential interferers for other services in the same frequency band. Although, these station-to-station links use highly directional antennas that focus the beam in the forward direction, other stations may still be affected even if they are located outside the main beams. Broadcasting services are normally not exposed to interference from other stations, because most terrestrial broadcasting bands up to 1 GHz are not shared with other permitted services.
+ER  - 
+
+TY  - JOUR
+T1  - Artificial intelligence in hospital fall Prevention: Current Applications, Challenges, and Future Directions
+AU  - Osonuga, Adewoyin A.
+AU  - Osonuga, Ayokunle
+AU  - Omeni, Deborah
+AU  - Okoye, Gloria C.
+AU  - Egbon, Eghosasere
+AU  - Olawade, David B.
+JO  - Safety Science
+VL  - 196
+SP  - 107104
+PY  - 2026
+DA  - 2026/04/01/
+SN  - 0925-7535
+DO  - https://doi.org/10.1016/j.ssci.2025.107104
+UR  - https://www.sciencedirect.com/science/article/pii/S0925753525003297
+KW  - Artificial intelligence
+KW  - Machine learning
+KW  - Hospital falls
+KW  - Fall prevention
+KW  - Patient safety
+AB  - Hospital falls represent a critical patient safety challenge, affecting millions of patients globally and resulting in substantial morbidity, mortality, and healthcare costs. Traditional fall prevention strategies, whilst beneficial, often lack the precision and real-time responsiveness needed for optimal patient protection. This narrative review with systematic search examines the current applications, effectiveness, and implementation challenges of artificial intelligence (AI) technologies in hospital fall prevention. A comprehensive search was conducted across PubMed, EMBASE, IEEE Xplore, and Google Scholar databases from January 2015 to October 2024. AI technologies demonstrate promise across four primary domains: machine learning predictive models achieving AUROC of 0.85–0.97 (with calibration reported variably), computer vision systems enabling real-time behavioural monitoring (94–97% detection accuracy in controlled settings), sensor-based technologies providing continuous patient surveillance (89–96% accuracy with multi-sensor fusion), and natural language processing enhancing risk factor extraction from clinical documentation (sensitivity 95% CI in selected studies). These metrics represent primarily single-site, retrospective studies with limited external validation and variable baseline fall rates. Successful implementations report fall reduction rates of 0.9–1.2 falls per 1,000 patient-days (15–40% relative reduction) across various healthcare settings, though baseline rates ranged from 2.8 to 5.1 falls per 1,000 patient-days across different care settings, and secular trends and study design heterogeneity limit causal inference. AI-driven systems offer enhanced prediction accuracy, real-time monitoring capabilities, and personalised risk assessment. However, implementation challenges include alarm fatigue (alert rates and positive predictive value rarely reported), algorithmic bias requiring ongoing fairness audits, liability concerns when AI systems fail to prevent falls, data privacy concerns, integration complexities, clinical workflow adaptation, and substantial cost barriers for smaller institutions. Future developments should prioritize explainable AI systems, multisite external validation with standardised metrics (AUROC, AUPRC, calibration), federated learning approaches, and implementation trials examining both fall rates and care process outcomes.
+ER  - 
+
+TY  - JOUR
+T1  - Circulating markers of biological aging associated with obstructive sleep apnea or insomnia in adults: A systematic review and meta-analysis
+AU  - Chang, Tak Hou Calvin
+AU  - Hicks, Joshua B.
+AU  - Izadi, Zahra
+AU  - Marwaha, Arshdeep
+AU  - Allen, AJ Hirsch
+AU  - Hajipour, Mohammadreza
+AU  - Conklin, Annalijn I.
+AU  - Ayas, Najib T.
+JO  - Sleep Medicine Reviews
+VL  - 86
+SP  - 102255
+PY  - 2026
+DA  - 2026/04/01/
+SN  - 1087-0792
+DO  - https://doi.org/10.1016/j.smrv.2026.102255
+UR  - https://www.sciencedirect.com/science/article/pii/S1087079226000274
+KW  - Accelerated biological aging
+KW  - Sleep apnea
+KW  - Insomnia
+AB  - Obstructive sleep apnea (OSA) and insomnia could accelerate biological aging through pathways including oxidative stress and systemic inflammation. This systematic review aimed to determine the association of sleep disorders with circulating markers of biological aging. We searched MEDLINE, Embase, CINAHL, Cochrane, PsycINFO from inception to October 2024. Eligibility criteria included full manuscript English studies on adult humans examining OSA or insomnia and circulating markers of aging. Of the 1839 deduplicated records screened, 49 full-text studies were eligible for inclusion. Included studies ranged from poor to good quality and assessed telomere length (TL), DNA methylation clocks (epigenetics), mitochondrial alterations, sirtuin levels and activity, autophagy protein levels, and klotho gene expression. Telomeres were the most extensively studied marker, with our findings showing a significant association between TL and OSA, based on both unadjusted and adjusted values (SMD = −0.451, 95% CI: 0.688 to −0.215, p = 0.0026 and SMD = −3.01, 95% CI: 4.98 to −1.04, p = 0.033, respectively). Most studies linked insomnia and poor sleep quality to shorter TL. Although evidence for other aging biomarkers was more limited, the published literature supports the role of OSA and insomnia in accelerating biological aging, especially for telomere length.
+ER  - 
+
+TY  - JOUR
+T1  - Udder thermogram-based deep learning approach for mastitis detection in Murrah buffaloes
+AU  - Gayathri, S.L.
+AU  - Bhakat, M.
+AU  - Mohanty, T.K.
+AU  - Chaturvedi, K.K.
+AU  - Kumar, R.R.
+AU  - Gupta, A.
+AU  - Kumar, S.
+JO  - Computers and Electronics in Agriculture
+VL  - 220
+SP  - 108906
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0168-1699
+DO  - https://doi.org/10.1016/j.compag.2024.108906
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169924002977
+KW  - Thermogram
+KW  - Deep learning
+KW  - CNN
+KW  - Mastitis
+KW  - Murrah buffaloes
+AB  - Mastitis, a production disease with multiple etiologies, inflicts significant economic losses among dairy farmers around the globe. In this study, an attempt has been made to detect mastitis through a Convolutional Neural Networks (CNN)-based deep learning model using 7615 udder thermograms of 40 Murrah buffaloes. The thermograms were grouped separately as healthy, sub-clinical (SCM), and clinical mastitis (CM) affected udder quarters based on California Mastitis Test (CMT) scores, Somatic Cell Count (SCC) values and thermal image analysis. Results of thermogram analysis revealed a significant increase (p < 0.01) in the mean values of udder skin surface temperature (USST) among SCM and CM-affected quarters compared to healthy quarters to the tune of 1.32 and 2.61 °C, respectively. The USST showed a strong positive correlation with the CMT score (r = 0.87, p < 0.01) and log10SCC value (r = 0.88, p < 0.01). The sequential (Normal vs. Clinical and Normal vs. Sub-clinical) models had training accuracy and validation accuracy of 0.999 and 0.988, 0.991 and 0.978, respectively. The confusion matrix for Normal vs. Clinical and Normal vs. Sub-clinical models reflected a loss of 0.009 and 0.029, precision of 0.947 and 0.980, and recall of 0.996 and 0.904, respectively. Consequently, the sequential (Normal vs. Clinical and Normal vs. Sub-clinical) models achieved a testing accuracy of 0.970 and 0.943, respectively. Thus, the improved deep-learning CNN models efficiently predicted SCM and CM cases in Murrah buffaloes.
+ER  - 
+
+TY  - JOUR
+T1  - Cultural security in the context of globalization: A bibliometric analysis and trend exploration
+AU  - Meng, Haohan
+AU  - Wang, Zihan
+AU  - Li, Xiaoyu
+AU  - Sun, Jinhua
+JO  - International Journal of Intercultural Relations
+VL  - 108
+SP  - 102234
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 0147-1767
+DO  - https://doi.org/10.1016/j.ijintrel.2025.102234
+UR  - https://www.sciencedirect.com/science/article/pii/S0147176725000975
+KW  - Globalization
+KW  - Cultural security
+KW  - Bibliometrics
+KW  - Cultural diversity
+KW  - Cultural homogenization
+KW  - Cultural conflict
+KW  - Cultural protection
+KW  - National identity
+KW  - Nationalism
+AB  - As globalization advances, both cultural diversity and homogenization spread globally, intensifying local communities’ concerns about cultural security. This study uses bibliometric analysis of 520 articles from the Web of Science Core Collection, combining quantitative and qualitative methods, to explore the relationship between globalization and cultural security. It identifies key issues, examines research trends, and highlights the evolution of the field. Findings show that globalization accelerates cultural exchange through international networks but also exacerbates cultural homogenization, undermining individuals’ sense of security. The spread of foreign cultures threatens indigenous traditions, prompting nationalism and cultural protectionism, and raising awareness of cultural security. Research in this area focuses on three main themes: psychological and social behavioral changes, challenges to cultural identity and heritage preservation, and debates on nationalism. Over time, the focus has shifted from globalization’s risks to cultural identity toward strategies for cultural protection and localized responses, with a growing interest in the polarizing effects of globalization. Cultural security has become a national priority, with emphasis on both cultural preservation and integration. Regionally, cultural security imbalances persist, especially in areas where cultures face erosion or marginalization. High-impact citations underscore the need for a multidisciplinary approach to studying the sociocultural effects of globalization, though theoretical contributions remain limited. This paper offers a comprehensive overview and calls for further research and international collaboration to address the challenges of globalization on cultural security.
+ER  - 
+
+TY  - JOUR
+T1  - A bibliometric review of the innovation adoption literature
+AU  - van Oorschot, Johannes A.W.H.
+AU  - Hofman, Erwin
+AU  - Halman, Johannes I.M.
+JO  - Technological Forecasting and Social Change
+VL  - 134
+SP  - 1
+EP  - 21
+PY  - 2018
+DA  - 2018/09/01/
+SN  - 0040-1625
+DO  - https://doi.org/10.1016/j.techfore.2018.04.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0040162517303943
+KW  - Innovation adoption
+KW  - Literature review
+KW  - Bibliographic coupling
+KW  - Co-citation analysis
+AB  - Innovation adoption is of utmost importance for company survival. That is why it is important to develop a thorough understanding of this research domain and the themes it encapsulates. Since the early work of Everett Rogers, the adoption of innovation literature has attracted considerable attention and has continued to grow rapidly, resulting in a large but fragmented body of literature. The goal of this study is to provide a coherent overview of the theoretical cornerstones as well as recent research trends in the innovation adoption literature. To this end, we conducted a bibliometric review and performed bibliographic coupling and co-citation analysis. First, based on co-citation analysis, we illustrate that innovation adoption research is built on four theoretical cornerstones including: institutional theory; theory of reasoned action; theory concerning the determinants of adoption, and; diffusion theory. Second, bibliographic coupling was used to assess the current research trends. This review is the first to identify thematic areas in an exhaustive manner revealing five clusters of thematic related publications or “research trends”: determinants of IT adoption; adoption of technological standards; organizational rationales associated with adoption; modelling diffusion, and; adoption of agricultural innovations. We conclude this review with the limitations and future research orientations in the field of innovation adoption.
+ER  - 
+
+TY  - JOUR
+T1  - Design strategies, structure activity relationship and mechanistic insights for purines as kinase inhibitors
+AU  - Sharma, Sahil
+AU  - Singh, Jagjeet
+AU  - Ojha, Ritu
+AU  - Singh, Harbinder
+AU  - Kaur, Manpreet
+AU  - Bedi, P.M.S.
+AU  - Nepali, Kunal
+JO  - European Journal of Medicinal Chemistry
+VL  - 112
+SP  - 298
+EP  - 346
+PY  - 2016
+DA  - 2016/04/13/
+SN  - 0223-5234
+DO  - https://doi.org/10.1016/j.ejmech.2016.02.018
+UR  - https://www.sciencedirect.com/science/article/pii/S0223523416300897
+KW  - Purine
+KW  - Cancer
+KW  - Kinases
+KW  - Cell lines
+KW  - Structure activity relationship
+KW  - Design strategies
+AB  - Kinases control a diverse set of cellular processes comprising of reversible phosphorylation of proteins. Protein kinases play a pivotal role in human tumor cell proliferation, migration and survival of neoplasia. In the recent past, purine based molecules have emerged as significantly potent kinase inhibitors. In view of their promising potential for the inhibition of kinases, this review article focuses on purines which have progressed as kinase inhibitors during the last five years. A detailed account of the design strategies employed for the synthesis of purine analogs exerting inhibitory effects on diverse kinases has been presented. Apart from presenting the design strategies, the article also highlights the structure activity relationship along with mechanistic insights revealed during the biological evaluation of the purine analogs for kinase inhibition. The interactions with the amino acid residues responsible for kinase inhibitory potential of purine based molecules have also been discussed. In this assemblage, purine based protein kinase inhibitors patented in the past have also been summarized in the tabular form. This compilation will be of great interest for the researchers working in the area of protein kinase inhibitors.
+ER  - 
+
+TY  - CHAP
+T1  - 5 - Mobile Networking Challenges
+AU  - Zheng, Pei
+AU  - Ni, Lionel
+BT  - Smart Phone and Next Generation Mobile Computing
+PB  - Morgan Kaufmann
+CY  - Burlington
+SP  - 251
+EP  - 333
+PY  - 2006
+DA  - 2006/01/01/
+SN  - 978-0-12-088560-2
+DO  - https://doi.org/10.1016/B978-012088560-2/50007-1
+UR  - https://www.sciencedirect.com/science/article/pii/B9780120885602500071
+AB  - Publisher Summary
+This chapter examines a broad set of challenging issues in the domain of mobile computing. It emphasizes on the design issues of the underlying heterogeneous networks. Mobile terminals such as smart phones are also considered when a network service is delivered to the end unit. With regard to wireless networks, it discusses network organization issues (heterogeneous network integration, mobile next-generation networks, and ad hoc networks), network service issues (QoS provision and routing protocols), and network transport (wireless TCP). The chapter illusyrates that, as wireless technologies continues to emerge with new applications and services, it is undoubtedly impossible to cover every aspect of the entire wireless arena. This chapter mainly focuses the utilization of fundamental computer networking techniques and methodologies. This chapter concludes that, as more and more mobile devices begin to invade our daily life and people become increasingly dependent on them, security and privacy issues are receiving tremendous attention from both academic researchers and industry practitioners.
+ER  - 
+
+TY  - JOUR
+T1  - Small-scale self-driving cars: A systematic literature review
+AU  - Caleffi, Felipe
+AU  - Rodrigues, Lauren da Silva
+AU  - Stamboroski, Joice da Silva
+AU  - Pereira, Brenda Medeiros
+JO  - Journal of Traffic and Transportation Engineering (English Edition)
+VL  - 11
+IS  - 2
+SP  - 271
+EP  - 292
+PY  - 2024
+DA  - 2024/04/01/
+SN  - 2095-7564
+DO  - https://doi.org/10.1016/j.jtte.2023.09.005
+UR  - https://www.sciencedirect.com/science/article/pii/S2095756424000254
+KW  - Self-driving car
+KW  - Autonomous vehicle
+KW  - Small-scale vehicle
+KW  - Systematic literature review
+AB  - The autonomous vehicle (AV) technology has the potential to significantly improve safety and efficiency of the transportation and logistics industry. Full-scale AV testing is limited by time, space, and cost, while simulation-based testing often lacks the necessary accuracy of AV and environmental modeling. In recent years, several initiatives have emerged to test autonomous software and hardware on scaled vehicles. This systematic literature review provides an overview of the literature surrounding small-scale self-driving cars, summarizing the current autonomous platforms deployed and focusing on the software and hardware developments in this field. The studies published in English-language journals or conference papers that present small-scale testing of self-driving cars were included. Web of Science, Scopus, Springer Link, Wiley, ACM Digital Library, and TRID databases were used for the literature search. The systematic literature search found 38 eligible studies. Research gaps in the reviewed papers were identified to provide guidance for future research. Some key takeaway emerging from this manuscript are: (i) there is a need to improve the models and neural network architectures used in autonomous driving systems, as most papers present only preliminary results; (ii) increasing datasets and sharing databases can help in developing more reliable control policies and reducing bias and variance in the training process; (iii) small-scaled vehicles to ensure safety is a major benefit, and incorporating data about unsafe driving behaviors and infrastructure problems can improve the accuracy of predictive models.
+ER  - 
+
+TY  - JOUR
+T1  - Dual potential of tetrandrine: Antiangiogenic efficacy and safety liabilities revealed through in silico, in vitro, and zebrafish models
+AU  - Orencio, Shaira Shane M.
+AU  - Villaflores, Oliver B.
+AU  - Saputra, Ferry
+AU  - Audira, Gilbert
+AU  - Hsiao, Chung-Der
+AU  - Vasquez, Ross D.
+JO  - Food and Chemical Toxicology
+VL  - 210
+SP  - 115967
+PY  - 2026
+DA  - 2026/04/01/
+SN  - 0278-6915
+DO  - https://doi.org/10.1016/j.fct.2026.115967
+UR  - https://www.sciencedirect.com/science/article/pii/S0278691526000414
+KW  - Tetrandrine
+KW  - Anti-angiogenic
+KW  - Zebrafish
+KW  - MMP-13
+KW  - Zebrafish model
+KW  - Cardiotoxicity assessment
+AB  - Tetrandrine, a Stephania-derived bisbenzylisoquinoline alkaloid, shows anticancer activity; however, its mechanisms, cardiotoxicity, and developmental effects are poorly understood. This study investigated tetrandrine's antiangiogenic efficacy and safety liabilities using in silico, in vitro, and in vivo methods. We hypothesized multi-target antiangiogenic activity, but dose-dependent toxicities limiting its therapeutic window. Molecular docking predicted strong binding to angiogenesis targets: EGFR, MMP-13, and SRPK1. ADMET modeling indicated favorable pharmacokinetics yet moderate toxicity risks, with ProTox-III flagging immunotoxicity. In silico predictions indicated developmentally sensitive adverse effects, mirrored in zebrafish by greater embryonic sensitivity. In vitro assays confirmed MMP-13 inhibition (IC50 = 4.376 ppm). In zebrafish embryos, tetrandrine significantly reduced intersegmental vessel formation, confirming antiangiogenic potential, but revealed higher embryonic sensitivity, indicating a narrow therapeutic window. Cardiac assays showed concentration-dependent increases in heart rate and decreases in stroke volume, revealing cardiotoxicity. Sub-toxic doses preserved locomotor and exploratory activity, suggesting functional safety at lower exposures. These findings highlight tetrandrine's dual profile: a promising natural antiangiogenic agent with demonstrable efficacy, yet with significant cardiotoxic and developmental liabilities. This study provides crucial mechanistic insight into both its therapeutic and toxicological actions, establishing a translational foundation for its further development.
+ER  - 
+
+TY  - JOUR
+T1  - Risk-informed design of Software as a Medical Device through Natural Language Processing techniques
+AU  - Luschi, Alessio
+AU  - Zazzeri, Alessandro
+AU  - Cevenini, Gabriele
+AU  - Iadanza, Ernesto
+JO  - Biomedical Signal Processing and Control
+VL  - 119
+SP  - 109994
+PY  - 2026
+DA  - 2026/06/15/
+SN  - 1746-8094
+DO  - https://doi.org/10.1016/j.bspc.2026.109994
+UR  - https://www.sciencedirect.com/science/article/pii/S1746809426005483
+KW  - Software as a Medical Device
+KW  - Risk-informed design
+KW  - Health information technology
+KW  - Natural Language Processing
+KW  - Deep learning
+KW  - Failure classification
+KW  - Medical device design
+AB  - The rapid evolution of Software as a Medical Device (SaMD) for diagnostic and therapeutic applications requires evidence-based design strategies to maximise the benefit-to-risk ratio. This study aims to provide manufacturers with a framework for reducing risks by design. We also propose a novel standard classification of software failures related to Health Information Technologies (HIT) using a Natural Language Processing (NLP) multinomial classifier, shaping the entire design process of SaMD in an evidence-based, risk-aware manner. Adverse event reports (2022–2024) were extracted from the FDA MAUDE database. HIT reports were identified using a binomial NLP classifier from the authors. A preliminary taxonomy of failure modes was derived from the literature and refined using self-supervised learning. K-modes clustering was applied to generate a balanced sample of 1048 records, then manually labelled and used to fine-tune the final classifier. Model performance was assessed through 10-fold cross-validation. The multinomial classifier achieved cross-validated accuracies between 74.29% and 83.81% with an F1-score up to 0.87 for dominant classes. It enables rapid identification of recurring issues, helping developers prioritise design improvements based on real-world risks. Nine failure categories were also identified. Underrepresented categories exhibited lower performance due to the limited availability of training data. This study demonstrates the feasibility of integrating deep learning-based failure classification into SaMD design workflows and proposes a standard classification for HIT-related software failures. By leveraging insights from historical data, manufacturers can proactively identify and mitigate potential hazards, thereby enhancing both patient safety and regulatory compliance. This proactive, data-driven approach supports the creation of safer and more reliable biomedical devices and digital health technologies.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 19 - G protein–coupled receptors: An introductory laboratory class
+AU  - Dumitru, Ioana-Daniela
+AU  - Halaicu, Alina-Maria
+AU  - Bondar, Ana-Nicoleta
+A2  - Bondar, Ana-Nicoleta
+A2  - Sengupta, Durba
+BT  - Protein Dynamics
+PB  - Academic Press
+SP  - 475
+EP  - 502
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Foundations and Frontiers in Enzymology
+SN  - 978-0-443-30042-4
+DO  - https://doi.org/10.1016/B978-0-443-30042-4.00007-9
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443300424000079
+KW  - Bioinformatics
+KW  - Bovine rhodopsin
+KW  - Chemokine receptors
+KW  - G protein–coupled receptors
+KW  - Hydrogen bonding
+KW  - pH-sensing GPCRs
+KW  - Structure–function relationship
+AB  - Membrane receptors that bind ligands and mediate cellular signal transduction are essential for the functioning of biological cells. These proteins have also been implicated in numerous human diseases and are important drug targets. To the undergraduate and graduate student, an introductory class in computational studies of membrane receptors can illustrate highly interdisciplinary research at the interface between physics, computer science, and biology. This chapter presents a brief introduction to bioinformatics and molecular modeling studies of membrane receptors using as model systems three distinct class A G protein–coupled receptors that function as photosensors, chemokine receptors, and proton sensors. The topics we discuss could be part of a practical computer class that introduces the students o the basics of the amino acid sequence and three-dimensional structure of membrane receptors, structural modeling, and structure–function relationships.
+ER  - 
+
+TY  - JOUR
+T1  - Full Issue PDF
+JO  - JACC: Basic to Translational Science
+VL  - 10
+IS  - 7
+SP  - 101342
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 2452-302X
+DO  - https://doi.org/10.1016/S2452-302X(25)00294-3
+UR  - https://www.sciencedirect.com/science/article/pii/S2452302X25002943
+ER  - 
+
+TY  - JOUR
+T1  - Full Issue PDF
+JO  - JACC: Advances
+VL  - 4
+IS  - 6, Part 1
+SP  - 101954
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 2772-963X
+DO  - https://doi.org/10.1016/S2772-963X(25)00375-8
+UR  - https://www.sciencedirect.com/science/article/pii/S2772963X25003758
+ER  - 
+
+TY  - JOUR
+T1  - Can We Define Design? Analyzing Twenty Years of Debate on a Large Email Discussion List
+AU  - Blackler, Alethea
+AU  - Swann, Levi
+AU  - Chamorro-Koc, Marianella
+AU  - Mohotti, Wathsala Anupama
+AU  - Balasubramaniam, Thirunavukarasu
+AU  - Nayak, Richi
+JO  - She Ji: The Journal of Design, Economics, and Innovation
+VL  - 7
+IS  - 1
+SP  - 41
+EP  - 70
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 2405-8726
+DO  - https://doi.org/10.1016/j.sheji.2020.11.004
+UR  - https://www.sciencedirect.com/science/article/pii/S240587262100006X
+KW  - Design
+KW  - Data mining
+KW  - Data visualization
+KW  - Definitions
+KW  - JISCMail PhD design list
+AB  - We explore the discipline’s attempts to define design in extant literature and in an analysis of 20 years of discussion extracted from the PhD Design email list hosted by JISCMail. We describe in detail our novel method using data mining and cluster visualization, and we present and compare the topics of discussion that emerged from the 20-year data sample. We identified four highly influential term labels based on their common occurrence: theory, knowledge, activity, and science. Our analysis of the text associated with these terms revealed prevailing perspectives of what design is within the design research community conversation. Despite robust discourse around relevant perspectives on design, the list discussions are and have been repetitive, with no significant progress made towards a consolidated definition of design. We propose that it may not be possible to define design in this way, and that the field should move away from reiteration and discuss the importance of design’s role as a leader of the global conversation about transdisciplinary approaches to research and design of the future scenarios and emerging pathways of humankind that such pathways point to.
+ER  - 
+
+TY  - JOUR
+T1  - Designing organizations for competitive advantage: The power of unlearning and learning
+AU  - Lei, David
+AU  - Slocum, John W.
+AU  - Pitts, Robert A.
+JO  - Organizational Dynamics
+VL  - 27
+IS  - 3
+SP  - 24
+EP  - 38
+PY  - 1999
+DA  - 1999/12/01/
+SN  - 0090-2616
+DO  - https://doi.org/10.1016/S0090-2616(99)90019-0
+UR  - https://www.sciencedirect.com/science/article/pii/S0090261699900190
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 9.1 - STL Systems for AM-FM-TV
+AU  - Hickin, Ernest M.
+AU  - Rooney, James H.
+AU  - Miller, Richard
+AU  - Maier, George
+A2  - Williams, Edmund A.
+BT  - National Association of Broadcasters Engineering Handbook (Tenth Edition)
+PB  - Focal Press
+CY  - Boston
+SP  - 1933
+EP  - 1971
+PY  - 2007
+DA  - 2007/01/01/
+SN  - 978-0-240-80751-5
+DO  - https://doi.org/10.1016/B978-0-240-80751-5.50115-6
+UR  - https://www.sciencedirect.com/science/article/pii/B9780240807515501156
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 1 - Edge-IoMT-based enabled architecture for smart healthcare system
+AU  - Awotunde, Joseph Bamidele
+AU  - Ijaz, Muhammed Fazal
+AU  - Bhoi, Akash Kumar
+AU  - AbdulRaheem, Muyideen
+AU  - Oladipo, Idowu Dauda
+AU  - Barsocchi, Paolo
+A2  - Bhoi, Akash Kumar
+A2  - de Albuquerque, Victor Hugo Costa
+A2  - Sur, Samarendra Nath
+A2  - Barsocchi, Paolo
+BT  - 5G IoT and Edge Computing for Smart Healthcare
+PB  - Academic Press
+SP  - 1
+EP  - 27
+PY  - 2022
+DA  - 2022/01/01/
+T2  - Intelligent Data-Centric Systems
+SN  - 978-0-323-90548-0
+DO  - https://doi.org/10.1016/B978-0-323-90548-0.00006-1
+UR  - https://www.sciencedirect.com/science/article/pii/B9780323905480000061
+KW  - Internet of Medical Things
+KW  - Edge computing
+KW  - 5G technology
+KW  - Smart healthcare system
+KW  - Healthcare monitoring system
+KW  - Low-latency communication
+AB  - There is a long history of engagement between computing and healthcare, adopting telemedicine is slow due to political willingness, limited infrastructure development frameworks, and availability. The Internet of Medical Things (IoMT) is going to be one of the fastest developments, and it’s anticipated to bring in the largest delivery of technology in existence. Hence, human-to-machine (H2M), machine-to-machine (M2M), and person-to-person (P2P) interactions can be fully updated along with telemedicine for the betterment of society in general. The use of IoMT-based sensors helps in the real-time detection of diseases and has significantly reduced the mortality rate. To meet the requirements of low latency and energy efficiency during medical data analysis, edge computing combined with 5G speeds is the answer. Edge computing has contributed greatly in the areas of low latency, massive connectivity of devices, and higher data rates in a network for ultra-reliable communication in the smart healthcare system. Therefore, this chapter discusses the areas of applicability and several extraordinary opportunities brought by the edge-enabled IoMT-based system in the healthcare system. The chapter also discusses the research challenges of the deployment of Edge IoMT-based system in the healthcare system and proposes an edge-enabled IoMT-based system framework. The application of the edge-enabled IoMT system brings end users and data sources running at a distance closer to the network nodes. The proposed framework can be used for real-time data capture, diagnosis, and monitoring patients’ health conditions like body motion, speech signals, body temperature, blood pressure, blood glucose, and heart rate, among others using various devices and sensors. Besides, the system can be useful in the emergency cases such as heart attacks, hysteria, anxiety, and epilepsy, thus saving the life of any patient.
+ER  - 
+
+TY  - JOUR
+T1  - Environmental data visualisation for non-scientific contexts: Literature review and design framework
+AU  - Grainger, Sam
+AU  - Mao, Feng
+AU  - Buytaert, Wouter
+JO  - Environmental Modelling & Software
+VL  - 85
+SP  - 299
+EP  - 318
+PY  - 2016
+DA  - 2016/11/01/
+SN  - 1364-8152
+DO  - https://doi.org/10.1016/j.envsoft.2016.09.004
+UR  - https://www.sciencedirect.com/science/article/pii/S1364815216305990
+KW  - Science dissemination
+KW  - Science-society interface
+KW  - Knowledge exchange
+KW  - Visualisation
+KW  - Environmental decision support
+KW  - User-centred design
+AB  - Environmental science is an applied discipline, which therefore requires interacting with actors outside of the scientific community. Visualisations are increasingly seen as powerful tools to engage users with unfamiliar and complex subject matter. Despite recent research advances, scientists are yet to fully harness the potential of visualisation when interacting with non-scientists. To address this issue, we review the main principles of visualisation, discuss specific graphical challenges for environmental science and highlight some best practice from non-professional contexts. We provide a design framework to enhance the communication and application of scientific information within professional contexts. These guidelines can help scientists incorporate effective visualisations within improved dissemination and knowledge exchange platforms. We conclude that the uptake of science within environmental decision-making requires a highly iterative and collaborative design approach towards the development of tailored visualisations. This enables users to not only generate actionable understanding but also explore information on their own terms.
+ER  - 
+
+TY  - JOUR
+T1  - A glimpse of the future sustainable digital omnichannel retailing emerges - A systematic literature review
+AU  - Vhatkar, Manjunath S.
+AU  - Raut, Rakesh D.
+AU  - Gokhale, Ravindra
+AU  - Cheikhrouhou, Naoufel
+AU  - Akarte, Milind
+JO  - Journal of Cleaner Production
+VL  - 442
+SP  - 141111
+PY  - 2024
+DA  - 2024/02/25/
+SN  - 0959-6526
+DO  - https://doi.org/10.1016/j.jclepro.2024.141111
+UR  - https://www.sciencedirect.com/science/article/pii/S0959652624005584
+KW  - Omnichannel retailing
+KW  - Digitalization
+KW  - Sustainability
+KW  - Systematic literature review
+KW  - Content analysis
+KW  - LitStudy
+AB  - With an emphasis on digitalization, distribution, logistics, and transportation, omnichannel retailing is essential in supply chain management (SCM). With this retailing strategy, sustainability and profitability in e-commerce may be addressed in a creative and cooperative manner. This article examines the relationship between digitization and Omnichannel retail and highlights sustainability concerns. The articles from WoS and Scopus between 2017 and October 2023 are included in the study. After excluding conference papers, journals not listed by the ABDC, and non-English publications, the 400 articles first found via a keyword search were reduced to 99. Using a range of criteria, including publication year, journal, nation, ABDC category, citations, and research methods, the content analysis of the chosen articles is part of the systematic literature review. This classification makes it possible to compare things, which shows how digitization and omnichannel retailing can help with sustainability. The results show a few studies relating sustainability with omnichannel retailing. While statistical modelling is used in Omnichannel Retailing to address consumer satisfaction, game theory modelling is commonly used for price decisions. Nevertheless, a few literature address environmental issues with theory and coordinated strategy. To address sustainability concerns and further our understanding of the relationship between digitization, sustainability, and omnichannel retailing, this analysis proposes interesting directions for future research.
+ER  - 
+
+TY  - JOUR
+T1  - 5W+1H pattern: A perspective of systematic mapping studies and a case study on cloud software testing
+AU  - Jia, Changjiang
+AU  - Cai, Yan
+AU  - Yu, Yuen Tak
+AU  - Tse, T.H.
+JO  - Journal of Systems and Software
+VL  - 116
+SP  - 206
+EP  - 219
+PY  - 2016
+DA  - 2016/06/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2015.01.058
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121215000370
+KW  - 5W+1H pattern
+KW  - Cloud software testing
+KW  - Systematic mapping study
+AB  - A common type of study used by researchers to map out the landscape of a research topic is known as mapping study. Such a study typically begins with an exploratory search on the possible ideas of the research topic, which is often done in an unsystematic manner. Hence, the activity of formulating research questions in mapping studies is ill-defined, rendering it difficult for researchers who are new to the topic. There is a need to guide them kicking off a mapping study of an unfamiliar domain. This paper proposes a 5W+1H pattern to help investigators systematically examine a generic set of dimensions in a mapping study toward the formulation of research questions before identifying, reading, and analyzing sufficient articles of the topic. We have validated the feasibility of our proposal by conducting a case study of a mapping study on cloud software testing, that is, software testing for and on cloud computing platforms. The case study reveals that the 5W+1H pattern can lead investigators to define a set of systematic, generic, and complementary research questions, enabling them to kick off and expedite the mapping study process in a well-defined manner. We also share our experiences and lessons learned from our case study on the use of the 5W+1H pattern in mapping studies.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 5 - Data preparation
+AU  - Henrickson, Kristian
+AU  - Câmara Pereira, Francisco
+AU  - Rodrigues, Filipe
+A2  - Antoniou, Constantinos
+A2  - Dimitriou, Loukas
+A2  - Pereira, Francisco Câmara
+BT  - Mobility Patterns, Big Data and Transport Analytics (Second Edition)
+PB  - Elsevier
+SP  - 75
+EP  - 116
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 978-0-443-26789-5
+DO  - https://doi.org/10.1016/B978-0-443-26789-5.00008-0
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443267895000080
+KW  - Python, Matlab, database management system, MySQL, cloud services, data types
+AB  - This chapter is designed as an introduction to data preparation, with a focus on nonconventional transportation data sources, including probe vehicles, internet and web services, and mobile location services. Such data allow planners and engineers to gain a more complete and granular understanding of transportation systems and unlocks a suite of modeling and analytical methods well outside the bounds of classical transportation science. However, such data come with a number of challenges associated with their size and/or complexity, new acquisition channels, and added quality control considerations.
+ER  - 
+
+TY  - JOUR
+T1  - Literature review of Building Information Modeling (BIM) intended for the purpose of renovation projects
+AU  - Joblot, L.
+AU  - Paviot, T.
+AU  - Deneux, D.
+AU  - Lamouri, S.
+JO  - IFAC-PapersOnLine
+VL  - 50
+IS  - 1
+SP  - 10518
+EP  - 10525
+PY  - 2017
+DA  - 2017/07/01/
+T2  - 20th IFAC World Congress
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2017.08.1298
+UR  - https://www.sciencedirect.com/science/article/pii/S2405896317318190
+KW  - Digital enterprise
+KW  - Systems interoperability
+KW  - Interoperability requirements
+AB  - This article focuses on the relevance of a digital approach as BIM in the particularly dynamic and diversified renovation sector, mainly driven by micro enterprises (μEnt). The state of the art shows that few scientific references are devoted to this subject and that the technologies and tools available, which are often very costly, have not demonstrated their profitability (and feasibility) for this business typology. An extensive literature review is used to define the scope and terms of the field of renovation. It demonstrates the areas of interest for a BIM approach and highlights some gaps that should be filled with future works. It is necessary to better map the different observable renovation processes, as well as adapt or develop an appropriate BIM maturity measurement tool for this renovation sector and for μEnt.
+ER  - 
+
+TY  - JOUR
+T1  - A web search-centric approach to recommender systems with URLs as minimal user contexts
+AU  - Chan, W.K.
+AU  - Chiu, Yuen Yau
+AU  - Yu, Yuen Tak
+JO  - Journal of Systems and Software
+VL  - 84
+IS  - 6
+SP  - 930
+EP  - 941
+PY  - 2011
+DA  - 2011/06/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2011.01.032
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121211000240
+KW  - Recommender system
+KW  - In-store shopping
+KW  - URL
+KW  - Matching
+KW  - Implicit user profile
+AB  - In service-oriented computing, a recommender system can be wrapped as a web service with machine-readable interface. However, owing to the cross-organizational privacy issue, the internal dataset of an organization is seldom exposed to external services. In this paper, we propose a higher level recommender strategy INSERT that guides the underlying external universal recommender to suggest a set of indexes. INSERT then matches the title of each top-ranked index entry with the domain-specific keywords in the organization's internal dataset, and further directs the universal recommender to verify the popularity of such matching. INSERT finally makes recommendation based on the verification results. INSERT also employs URLs taken from a client as user contexts, which is challenging because URLs contain little content. Our experiment shows that this strategy is feasible and effective.
+ER  - 
+
+TY  - JOUR
+T1  - An analysis of critical factors for adopting machine learning in manufacturing supply chains
+AU  - Gardas, Revati
+AU  - Narwane, Swati
+JO  - Decision Analytics Journal
+VL  - 10
+SP  - 100377
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 2772-6622
+DO  - https://doi.org/10.1016/j.dajour.2023.100377
+UR  - https://www.sciencedirect.com/science/article/pii/S2772662223002175
+KW  - Machine learning
+KW  - Supply chain
+KW  - DEMATEL
+KW  - Technology adoption
+KW  - Decision-making
+AB  - This study identifies and examines the critical factors for adopting machine learning technologies in manufacturing supply chains. Initially, a thorough literature review was employed to identify 13 critical factors, and then the Decision-Making Trial and Evaluation Laboratory (DEMATEL) methodology was used to analyse their cause–effect relationship. Next, a qualitative analysis concluded that ‘Technology Integration’ and ‘Forecasting’ are essential for adopting machine learning in manufacturing supply chains, ‘Risk Management’ is unaffected by causal factors, and ‘Manufacturing Processes’ is minor in adopting machine learning. The research findings aim to guide the practitioners in understanding the influence of one factor over the other and the ‘cause–effect’ relation among them. The strategies for the effective implementation of machine learning technologies may be deduced. It is a pioneering study in which novel and crucial determinants have been identified and examined in the multi-criteria environment using the DEMATEL approach.
+ER  - 
+
+TY  - JOUR
+T1  - Implementation and management effectiveness in adoption of GIS technology in local governments
+AU  - Budić, Zorica D.
+AU  - Godschalk, David R.
+JO  - Computers, Environment and Urban Systems
+VL  - 18
+IS  - 5
+SP  - 285
+EP  - 304
+PY  - 1994
+DA  - 1994/09/01/
+SN  - 0198-9715
+DO  - https://doi.org/10.1016/0198-9715(94)90011-6
+UR  - https://www.sciencedirect.com/science/article/pii/0198971594900116
+AB  - Acquisition of geographic information system (GIS) technology is only the first step toward its effective use by an organization. The research reported in this article compares the relative success of GIS implementation within four agencies of a North Carolina county government. Using innovation diffusion theory as a basis, the research study identified implementation phases, targets, paths, and outcomes in each agency. Outcomes ranged from complete adoption in a school transportation department to failure to adopt in a comprehensive planning section. Implementation effectiveness in these cases depended both on choice of proper strategy, as related to the agency's organizational environment, and on commitment of adequate management resources to overcome institutional and individual obstacles.
+ER  - 
+
+TY  - JOUR
+T1  - Worldwide trend discovery of structural and functional relationship of metallo-β-lactamase for structure-based drug design: A bibliometric evaluation and patent analysis
+AU  - Azman, Ameera Aisyah
+AU  - Leow, Adam Thean Chor
+AU  - Noor, Noor Dina Muhd
+AU  - Noor, Siti Aminah Mohd
+AU  - Latip, Wahhida
+AU  - Ali, Mohd Shukuri Mohamad
+JO  - International Journal of Biological Macromolecules
+VL  - 256
+SP  - 128230
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0141-8130
+DO  - https://doi.org/10.1016/j.ijbiomac.2023.128230
+UR  - https://www.sciencedirect.com/science/article/pii/S0141813023051292
+KW  - Metallo-β-lactamase
+KW  - Metallo-β-lactamase fold
+KW  - Inhibitor
+KW  - Antibiotic resistance
+KW  - Enzyme promiscuity
+KW  - Zinc binding
+KW  - Structure
+AB  - Metallo-β-lactamase (MBL) is an enzyme produced by clinically important bacteria that can inactivate many commonly used antibiotics, making them a significant concern in treating bacterial infections and the risk of having high antibiotic resistance issues among the community. This review presents a bibliometric and patent analysis of MBL worldwide research trend based on the Scopus and World Intellectual Property Organization databases in 2013–2022. Based on the keywords related to MBL in the article title, abstract, and keywords, 592 research articles were retrieved for further analysis using various tools such as Microsoft Excel to determine the frequency analysis, VOSviewer for bibliometric networks visualization, and Harzing's Publish or Perish for citation metrics analysis. Standard bibliometric parameters were analysed to evaluate the field's research trend, such as the growth of publications, topographical distribution, top subject area, most relevant journal, top cited documents, most relevant authors, and keyword trend analysis. Within 10 years, MBL discovery has shown a steady and continuous growth of interest among the community of researchers. United States of America, China, and the United Kingdom are the top 3 countries contribute high productivity to the field. The patent analysis also shows several impactful filed patents, indicating the significance of development research on the structural and functional relationship of MBL for an effective structure-based drug design (SBDD). Developing new MBL inhibitors using SBDD could help address the research gap and provide new successful therapeutic options for treating MBL-producing bacterial infections.
+ER  - 
+
+TY  - JOUR
+T1  - Full Issue PDF
+JO  - JACC: Clinical Electrophysiology
+VL  - 9
+IS  - 10
+SP  - I
+EP  - CXCIV
+PY  - 2023
+DA  - 2023/10/01/
+SN  - 2405-500X
+DO  - https://doi.org/10.1016/S2405-500X(23)00723-5
+UR  - https://www.sciencedirect.com/science/article/pii/S2405500X23007235
+ER  - 
+
+TY  - JOUR
+T1  - USCAP 2022 Abstracts: Gastrointestinal Pathology (372-507)
+JO  - Modern Pathology
+VL  - 35
+SP  - 493
+EP  - 639
+PY  - 2022
+DA  - 2022/03/01/
+SN  - 0893-3952
+DO  - https://doi.org/10.1038/s41379-022-01036-4
+UR  - https://www.sciencedirect.com/science/article/pii/S0893395222001491
+ER  - 
+
+TY  - CHAP
+T1  - 4.22 - New modalities: Drugging the undruggable GPCR targets
+AU  - Zawadzki, P.
+AU  - Graczyk, P.
+AU  - Staroń, J.
+A2  - Rotella, David P.
+A2  - Ward, Simon E.
+BT  - Comprehensive Medicinal Chemistry (Fourth Edition)
+PB  - Elsevier
+CY  - Oxford
+SP  - 770
+EP  - 837
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 978-0-443-29809-7
+DO  - https://doi.org/10.1016/B978-0-443-29808-0.00030-3
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443298080000303
+KW  - GPCRs
+KW  - Undruggable targets
+KW  - Drug discovery
+KW  - Biased ligands
+KW  - Allosteric modulators
+KW  - Peptides
+KW  - Macrocycles
+KW  - Targeted protein degradation
+KW  - Antibodies
+KW  - Antibody-drug conjugates
+KW  - Peptide-drug conjugates
+KW  - RNA-based therapies
+AB  - G protein-coupled receptors (GPCRs) represent the largest family of membrane proteins in the humangenome and are important drug targets for a variety of diseases. However, a significant portion of GPCRs remain “undruggable” using traditional small molecule approaches. This article explores the evolving landscape of drug discovery modalities that are opening new avenues for targeting these challenging GPCRs. We discuss the limitations of conventional small molecule drugs and delve into the potential of novel modalities, including biased ligands, allosteric modulators, peptides, macrocycles, targeted protein degradation, antibodies, antibody-drug conjugates, peptide-drug conjugates, and RNA-based approaches. By reviewing recent advances and highlighting the advantages and challenges of each modality, we provide a comprehensive overview of the strategies being employed to drug the undruggable GPCR targets and their potential to revolutionize the future of drug discovery.
+ER  - 
+
+TY  - JOUR
+T1  - The opaque autonomy paradox in sovereign and intelligent SD-WAN: A systematic literature review
+AU  - Caldeira, Igor David Brito
+AU  - Choren, Ricardo
+AU  - Salles, Ronaldo
+JO  - Computer Networks
+VL  - 282
+SP  - 112246
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2026.112246
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128626002586
+KW  - ISD-WAN
+KW  - SD-WAN
+KW  - Holistic network cognition
+KW  - Cyber-resilience
+KW  - Network sovereignty
+KW  - Explainable AI (XAI)
+KW  - Multi-agent reinforcement learning (MARL)
+KW  - Mission-critical networks
+KW  - Decisional auditability
+KW  - Cognitive resilience
+AB  - The rapid evolution of mission-critical communication infrastructures demands a transition toward autonomous architectures capable of maintaining strategic sovereignty. This paper presents a Systematic Literature Review (SLR) of 70 high-impact studies (2019–2026) regarding Intelligent SD-WAN (ISD-WAN), a paradigm where AI-driven intelligence unifies traffic engineering and active cyber-resilience. Our analysis maps the state-of-the-art across five taxonomic domains: routing, computing-forward networking, security, scalability, and operations management. The results reveal a significant “Opaque Autonomy Paradox”: while AI-native protocols enhance survival, they lack the transparency and decisional auditability required for mission-critical Command and Control (C2). This study identifies critical research gaps, specifically the tension between algorithmic performance and sovereign oversight. Finally, we establish a set of holistic design requirements for next-generation ISD-WAN architectures, providing a strategic roadmap for future developments in cognitive and resilient communication infrastructures.
+ER  - 
+
+TY  - JOUR
+T1  - Understanding TRIZ through the review of top cited publications
+AU  - Chechurin, Leonid
+AU  - Borgianni, Yuri
+JO  - Computers in Industry
+VL  - 82
+SP  - 119
+EP  - 134
+PY  - 2016
+DA  - 2016/10/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/j.compind.2016.06.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0166361516301129
+KW  - TRIZ
+KW  - Conceptual design
+KW  - Industrial practice
+KW  - Information processing
+KW  - Computer-Aided Innovation
+AB  - The development of the Theory of Inventive Problem Solving (TRIZ) has not followed the usual patterns of scientific validation required by engineering methods. Consequently, its outreach within engineering design is interpreted differently in the scholarly community. At the same time, the claimed powerful support in tackling technical problems of any degree of difficulty conflicts with TRIZ diffusion in industrial settings, which is relatively low according to insights into product development practices. The mismatch between ambitious goals and moderate spill-over benefits in the industry ranges among the various open issues concerning TRIZ, its way of thinking, its effectiveness, the usability of its tools. In order to provide a general overview of TRIZ in science, the authors have attempted to analyse reliable and influential sources from the literature. The performed survey includes the top 100 indexed publications concerning TRIZ, according to the number of received citations. Variegated and poorly interconnected research directions emerge in the abundant literature that tackles TRIZ-related topics. The outcomes of the investigation highlight the successful implementation of TRIZ within, among the others, biomimetics and information processing. The traditional borders of mechanical and industrial engineering have been frequently crossed, as the use of TRIZ is also witnessed in the domain of business and services. At the same time, computer-aided platforms represent diffused attempts to boost TRIZ diffusion and applicability.
+ER  - 
+
+TY  - JOUR
+T1  - Generation and detection of manipulated multimodal audiovisual content: Advances, trends and open challenges
+AU  - Liz-López, Helena
+AU  - Keita, Mamadou
+AU  - Taleb-Ahmed, Abdelmalik
+AU  - Hadid, Abdenour
+AU  - Huertas-Tato, Javier
+AU  - Camacho, David
+JO  - Information Fusion
+VL  - 103
+SP  - 102103
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 1566-2535
+DO  - https://doi.org/10.1016/j.inffus.2023.102103
+UR  - https://www.sciencedirect.com/science/article/pii/S1566253523004190
+KW  - Multimedia data manipulation generation
+KW  - Multimedia data forensics
+KW  - Deep Learning
+KW  - Video
+KW  - Audio
+KW  - Multimodal
+AB  - Generative deep learning techniques have invaded the public discourse recently. Despite the advantages, the applications to disinformation are concerning as the counter-measures advance slowly. As the manipulation of multimedia content becomes easier, faster, and more credible, developing effective forensics becomes invaluable. Other works have identified this need but neglect that disinformation is inherently multimodal. Overall in this survey, we exhaustively describe modern manipulation and forensic techniques from the lens of video, audio and their multimodal fusion. For manipulation techniques, we give a classification of the most commonly applied manipulations. Generative techniques can be exploited to generate datasets; we provide a list of current datasets useful for forensics. We have reviewed forensic techniques from 2018 to 2023, examined the usage of datasets, and given a comparative analysis of each modality. Finally, we give another comparison of end-to-end forensics tools for end-users. From our analysis clear trends are found with diffusion models, dataset granularity, explainability techniques, synchronisation improvements, and learning task diversity. We find a roadmap of deep challenges ahead, including multilinguality, multimodality, improving data quality (and variety), all in an adversarial ever-changing environment.
+ER  - 
+
+TY  - CHAP
+T1  - ACTIVE DATABASE MANAGEMENT SYSTEMS
+AU  - Dayal, Umeshwar
+A2  - BEERI, C.
+A2  - SCHMIDT, J.W.
+A2  - DAYAL, U.
+BT  - Proceedings of the Third International Conference on Data and Knowledge Bases
+PB  - Morgan Kaufmann
+SP  - 150
+EP  - 169
+PY  - 1988
+DA  - 1988/01/01/
+SN  - 978-1-4832-1313-2
+DO  - https://doi.org/10.1016/B978-1-4832-1313-2.50019-6
+UR  - https://www.sciencedirect.com/science/article/pii/B9781483213132500196
+AB  - Conventional passive database management systems are inadequate for time-constrained applications, because they either do not provide timely response to critical situations or compromise modularity. Active database management systems attempt to provide both modularity and timely response, by allowing event-condition-action rules to be specified declaratively; when events of interest occur, they efficiently evaluate the corresponding conditions, and if these conditions are satisfied, they trigger the corresponding actions. The development of active database management systems requires the solution of a number of research problems in the areas of knowledge modelling, execution modelling, condition monitoring, scheduling, system architecture, and performance evaluation. This paper describes the principal research issues in each of these areas, surveys the approaches being taken in a number of research projects on active DBMSs, and emphasizes the approaches we are taking in the HiPAC (High Performance ACtive DBMS) project.
+ER  - 
+
+TY  - JOUR
+T1  - TRIZ in Science. Reviewing Indexed Publications
+AU  - Chechurin, Leonid
+JO  - Procedia CIRP
+VL  - 39
+SP  - 156
+EP  - 165
+PY  - 2016
+DA  - 2016/01/01/
+T2  - Structured Innovation with TRIZ in Science and Industry: Creating Value for Customers and Society
+SN  - 2212-8271
+DO  - https://doi.org/10.1016/j.procir.2016.01.182
+UR  - https://www.sciencedirect.com/science/article/pii/S2212827116001979
+KW  - TRIZ
+KW  - science
+KW  - review
+KW  - systematic creativity
+KW  - ideation
+AB  - The Theory of Inventive Problem Solving (TRIZ) is a toolkit of methods to support systematic creativity. The latter has been the focus of many studies since late 90s, when innovations became a recognized resource for wealth in modern world. The review is based on SCOPUS papers containing “TRIZ” in abstract, title or among keywords. About 1200 retrieved publications where briefly analyzed by co-appearance of other popular and more known tools or terms. Then the detail analysis of 100 most cited papers takes place. The review reveals the most popular TRIZ application fields (product design, information processing), the most popular TRIZ instruments (contradiction analysis) and the most typical way it is used in the reviewed studies (integration to other tools or application/adaptation for a specific field).
+ER  - 
+
+TY  - JOUR
+T1  - Developing a Hands-On Course Around Building and Testing High Performance Computing Clusters
+AU  - Frinkle, Karl
+AU  - Morris, Mike
+JO  - Procedia Computer Science
+VL  - 51
+SP  - 1907
+EP  - 1916
+PY  - 2015
+DA  - 2015/01/01/
+T2  - International Conference On Computational Science, ICCS 2015
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2015.05.455
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050915012636
+KW  - High Performance Computing
+KW  - Supercomputing
+KW  - Beowulf Cluster
+KW  - HPC
+KW  - HPC Education
+KW  - Hardware Management
+KW  - Parallel Programming
+KW  - Cluster Operating Systems
+KW  - Curriculum Development
+KW  - BCCD
+KW  - Course Assessment
+AB  - We describe a successful approach to designing and implementing a High Performance Computing (HPC) class focused on creating competency in building, configuring, programming, troubleshooting, and benchmarking HPC clusters. By coordinating with campus services, we were able to avoid any additional costs to the students or the university. Students built three twelve-unit independently-operating clusters. Working groups were formed for each cluster and they installed the operating system, created users, connected to the campus network and wrote a variety of scripts and parallel programs while documenting the process. We describe how we solved unexpected problems encountered along the way. We illustrate through pre- and post-course surveys that students gained substantial knowledge in fundamental aspects of HPC through the hands-on approach of creating their own clusters.
+ER  - 
+
+TY  - JOUR
+T1  - A comprehensive assessment of Brain Computer Interfaces: Recent trends and challenges
+AU  - Yadav, Drishti
+AU  - Yadav, Shilpee
+AU  - Veer, Karan
+JO  - Journal of Neuroscience Methods
+VL  - 346
+SP  - 108918
+PY  - 2020
+DA  - 2020/12/01/
+SN  - 0165-0270
+DO  - https://doi.org/10.1016/j.jneumeth.2020.108918
+UR  - https://www.sciencedirect.com/science/article/pii/S0165027020303411
+KW  - Brain-Computer Interface
+KW  - BCI technology
+KW  - BCI applications
+KW  - BCI challenges
+AB  - Background
+An uninterrupted channel of communication and control between the human brain and electronic processing units has led to an increased use of Brain Computer Interfaces (BCIs). This article attempts to present an all-encompassing review on BCI and the scientific advancements associated with it. The ultimate goal of this review is to provide a general overview of the BCI technology and to shed light on different aspects of BCIs. This review also underscores the applications, practical challenges and opportunities associated with BCI technology, which can be used to accelerate future developments in this field.
+Methods
+This review is based on a systematic literature search for tracking down the relevant research annals and proceedings. Using a methodical search strategy, the search was carried out across major technical databases. The retrieved records were screened for their relevance and a total of 369 research chronicles were engulfed in this review based on the inclusion criteria.
+Results
+This review describes the present scenario and recent advancements in BCI technology. It also identifies several application areas of BCI technology. This comprehensive review provides evidence that, while we are getting ever closer, significant challenges still exist for the development of BCIs that can seamlessly integrate with the user’s biological system.
+Conclusion
+The findings of this review confirm the importance of BCI technology in various applications. It is concluded that BCI technology, still in its sprouting phase, requires significant explorations for further development.
+ER  - 
+
+TY  - JOUR
+T1  - Problem-oriented CBR: Finding potential problems from lead user communities
+AU  - Han, Mintak
+AU  - Geum, Youngjung
+JO  - Expert Systems with Applications
+VL  - 193
+SP  - 116472
+PY  - 2022
+DA  - 2022/05/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2021.116472
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417421017528
+KW  - Technology-intensive product innovation
+KW  - Lead user
+KW  - CBR
+KW  - SAO analysis
+KW  - Sentiment analysis
+AB  - Online communities, where lead users openly share their experiences and knowledge on product and technology in the form of a post, have become a fruitful source of innovation. While efforts have been made to provide a way of data-driven case-based reasoning (CBR), existing studies have limitations in reflecting lead users’ characteristics into the CBR process. Current research has emphasized the retrieval and adaptation phase only, which retrieves, reuses, and revises cases. However, what is at the core of lead user characteristics is to find out the problem, and solve the problem by themselves before mass customers. This means CBR needs to focus on uncovering and defining problems and finding relevant solutions for designated problems. In response, this research suggests a novel approach for problem-oriented CBR approach to reflect lead user characteristics. First, this study defines problems, by extracting problem–solution sets related to the specific function using sentiment analysis. Second, this study improves case representation and case retrieval using subject-action-object (SAO) analysis and technology tree respectively. This study demonstrates the approach through a case of drone technology using lead user communities (diydrones.com), and our findings suggest that the approach can help firms broaden the knowledge of existing products to make an improvement.
+ER  - 
+
+TY  - JOUR
+T1  - GASTROINTESTINAL PATHOLOGY
+JO  - Laboratory Investigation
+VL  - 104
+IS  - 3, Supplement 
+SP  - 100866
+PY  - 2024
+DA  - 2024/03/01/
+T2  - USCAP 113th Annual Meeting: Bringing Education to Life
+SN  - 0023-6837
+DO  - https://doi.org/10.1016/j.labinv.2024.100866
+UR  - https://www.sciencedirect.com/science/article/pii/S0023683724005440
+ER  - 
+
+TY  - JOUR
+T1  - Integrating the capabilities offered by large language models into the requirements engineering process
+AU  - Stein, Armin
+AU  - Mirzai, Aksir
+AU  - Axmann, Joachim
+AU  - Vietor, Thomas
+JO  - Digital Engineering
+VL  - 10
+SP  - 100098
+PY  - 2026
+DA  - 2026/09/01/
+SN  - 2950-550X
+DO  - https://doi.org/10.1016/j.dte.2026.100098
+UR  - https://www.sciencedirect.com/science/article/pii/S2950550X26000117
+KW  - Large language models
+KW  - Requirements engineering
+KW  - Prompt engineering
+KW  - Model-based systems engineering
+KW  - Multi-agent LLM systems
+KW  - LLM evaluation methods
+KW  - AI-assisted requirements analysis
+AB  - Integrating artificial intelligence into Requirements Engineering (RE) offers substantial potential to improve efficiency and quality in system development. This paper presents a novel, structured method for systematically integrating and assessing the capabilities of Large Language Models (LLMs) within the RE process. The method comprises five sequential phases: input definition, prompt control selection, model selection, application, and evaluation. The method enables comparative and transparent analysis of multiple LLMs and prompting strategies across various RE task types. The method was validated through a proof-of-concept study focused on developing a football application encompassing 35 distinct requirements. Evaluation involved both quantitative ground-truth metrics (precision, recall, F1-score) and qualitative expert assessments. The results demonstrate that the method enables reproducible, model-independent evaluations of LLM performance and supports the structured integration of LLM-driven automation into RE processes. Overall, this study provides a scalable and scientifically grounded framework for researchers and practitioners aiming to leverage LLM capabilities effectively within systems and software engineering.
+ER  - 
+
+TY  - JOUR
+T1  - Histone erasers in prostate cancer: Clearing the path for progression & therapy resistance
+AU  - Cevatemre, Buse
+AU  - Bulut, Ipek
+AU  - Yuksel-Catal, Neslihan
+AU  - Karyemez, Ezgi
+AU  - Yildiz, Deniz
+AU  - Acilan, Ceyda
+JO  - Critical Reviews in Oncology/Hematology
+VL  - 227
+SP  - 105563
+PY  - 2026
+DA  - 2026/11/01/
+SN  - 1040-8428
+DO  - https://doi.org/10.1016/j.critrevonc.2026.105563
+UR  - https://www.sciencedirect.com/science/article/pii/S1040842826004506
+KW  - Drug resistance
+KW  - Cancer progression
+KW  - Neuroendocrine differentiation
+KW  - Epigenetic targeting
+KW  - Combinatorial strategies
+AB  - Drug resistance remains a significant hurdle in the effective treatment of prostate cancer (PC), leading to therapy failure and disease progression. The reversible nature of epigenetic modifications provides a potential for therapeutic intervention, presenting a promising approach to combat drug resistance. This two-part review first consolidates existing knowledge on epigenetic mechanisms—specifically histone deacetylases (HDACs) and histone demethylases (HDMs)—that drive PC progression and treatment resistance, emphasizing their therapeutic potential to enhance patient outcomes. The second section highlights epigenetic candidate drugs, focusing on those with preclinical evidence and a favorable profile for advancing into clinical trials as potential therapeutic options for PC.
+ER  - 
+
+TY  - JOUR
+T1  - Symposium
+JO  - European Psychiatry
+VL  - 56
+SP  - S611
+EP  - S648
+PY  - 2019
+DA  - 2019/04/01/
+T2  - Abstracts of the 26th European Congress of Psychiatry
+SN  - 0924-9338
+DO  - https://doi.org/10.1016/j.eurpsy.2019.01.012
+UR  - https://www.sciencedirect.com/science/article/pii/S0924933819300124
+ER  - 
+
+TY  - CHAP
+T1  - Chapter Two - Emerging tools for understanding the human microbiome
+AU  - Ghosh, Tarini Shankar
+AU  - Das, Mrinmoy
+A2  - Das, Bhabatosh
+A2  - Singh, Vijai
+BT  - Progress in Molecular Biology and Translational Science
+PB  - Academic Press
+VL  - 191
+IS  - 1
+SP  - 29
+EP  - 51
+PY  - 2022
+DA  - 2022/01/01/
+T2  - Human Microbiome in Health and Disease - Part A
+SN  - 1877-1173
+DO  - https://doi.org/10.1016/bs.pmbts.2022.06.027
+UR  - https://www.sciencedirect.com/science/article/pii/S1877117322000898
+KW  - Long read sequencing
+KW  - Machine learning
+KW  - Integrated OMICs in the microbiome
+KW  - Taxonomic classification
+KW  - Growth rate
+KW  - Strain investigation
+KW  - Metagenome informatics
+AB  - Recent advances in sequencing technologies, experimental protocols and approaches in data generation and analysis have enabled us to investigate the human microbiome at an unprecedented level of resolution. The current chapter aims to provide an understanding of the different computational and bioinformatic strategies adopted to answer the different questions of a typical microbiome investigation and how the upstream DNA sequencing methodologies can affect this. The chapter enlist the state-of-the-art in metagenomic data analysis along with the available strategies to perform an integrated investigation of the human microbiome along with other data layers.
+ER  - 
+
+TY  - JOUR
+T1  - Artificial intelligence and information control systems of robots
+JO  - Computers in Industry
+VL  - 6
+IS  - 2
+SP  - 130
+EP  - 133
+PY  - 1985
+DA  - 1985/04/01/
+SN  - 0166-3615
+DO  - https://doi.org/10.1016/0166-3615(85)90019-3
+UR  - https://www.sciencedirect.com/science/article/pii/0166361585900193
+ER  - 
+
+TY  - JOUR
+T1  - Full Issue PDF
+JO  - JACC: Cardiovascular Imaging
+VL  - 16
+IS  - 9
+SP  - I
+EP  - CXXXIII
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 1936-878X
+DO  - https://doi.org/10.1016/S1936-878X(23)00375-3
+UR  - https://www.sciencedirect.com/science/article/pii/S1936878X23003753
+ER  - 
+
+TY  - JOUR
+T1  - Sustainable aviation: A critical review of policies, technologies, and future pathways
+AU  - Raihan, Asif
+JO  - Journal of the Air Transport Research Society
+VL  - 5
+SP  - 100080
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 2941-198X
+DO  - https://doi.org/10.1016/j.jatrs.2025.100080
+UR  - https://www.sciencedirect.com/science/article/pii/S2941198X25000247
+KW  - Sustainable aviation
+KW  - Aviation policy
+KW  - Sustainable aviation fuels
+KW  - Green aircraft technology
+KW  - Air traffic management
+AB  - This review critically examines the evolving landscape of sustainable aviation, focusing on the interdependent roles of policies, technologies, and future strategies in decarbonizing the air transport sector. The study synthesizes developments across five key domains: international and regional regulatory frameworks, technological innovations in propulsion and fuel systems, operational and market-based measures, persistent challenges, and long-term transition pathways. Particular emphasis is placed on sustainable aviation fuels (SAFs), electric and hydrogen propulsion, air traffic management modernization, economic viability, technological maturity, regulatory uncertainty, and consumer behavior. The analysis highlights the importance of integrated policy approaches, public-private partnerships, investment in research and development (R&D), and consumer engagement as enablers of systemic change. While meaningful progress has been achieved, especially in SAF development and emissions optimization technologies, the sector faces substantial hurdles in aligning with global climate goals. The review concludes by offering a roadmap for coordinated action and identifies knowledge gaps that merit future research. This research aims to inform policymakers, industry leaders, and researchers committed to steering aviation toward a more sustainable, resilient, and equitable future.
+ER  - 
+
+TY  - JOUR
+T1  - Blockchain-driven innovations of carbon emission management in cement supply chain: Evidence from China
+AU  - Yang, Zhihan
+AU  - Li, Xiao
+AU  - Zhu, Yimin
+AU  - Li, Xiaodong
+JO  - Journal of Environmental Management
+VL  - 392
+SP  - 126795
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 0301-4797
+DO  - https://doi.org/10.1016/j.jenvman.2025.126795
+UR  - https://www.sciencedirect.com/science/article/pii/S0301479725027719
+KW  - Carbon emission management
+KW  - Blockchain technology
+KW  - Innovation adoption
+KW  - Cement supply chain
+AB  - Carbon emission management (CEM) in the cement supply chain (CSC) is crucial for promoting sustainable construction and addressing climate change. Blockchain technology, as a disruptive tool for environmental data governance across multiple stakeholders, provides a promising pathway to enhance the transparency, traceability, and reliability of carbon emission information. This study systematically evaluates its adaptability to the specific scenarios and CEM needs of different stakeholders in CSC and identifies critical prerequisites for successful implementation, which remain underexplored but essential for effective adoption. Drawing on semi-structured interviews and structured questionnaires with experts from professional institutions in China, this research identifies critical drivers and barriers based on management practices and innovation adoption theories. The findings reveal that blockchain's potential extends beyond carbon accounting and footprint tracking, particularly when integrated into collaborative emission reduction mechanisms. Five prerequisites for effective implementation are identified as scientific and reasonable application methods, market-based incentive mechanisms, targeted technical breakthroughs, talent and institutional support, and the spread of awareness and concepts. By bridging the gap between emerging digital technologies and practical carbon emission strategies, this study contributes to both theoretical and practical advancements in blockchain-enhanced CEM and sustainable-oriented innovation within the CSC and broader construction supply chain.
+ER  - 
+
+TY  - JOUR
+T1  - Data fusion for ITS: A systematic literature review
+AU  - Ounoughi, Chahinez
+AU  - Ben Yahia, Sadok
+JO  - Information Fusion
+VL  - 89
+SP  - 267
+EP  - 291
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 1566-2535
+DO  - https://doi.org/10.1016/j.inffus.2022.08.016
+UR  - https://www.sciencedirect.com/science/article/pii/S1566253522001087
+KW  - Intelligent transportation system (ITS)
+KW  - Data fusion
+KW  - Information fusion
+KW  - Sensor fusion
+KW  - Systematic literature review
+AB  - In recent years, the development of intelligent transportation systems (ITS) has involved the input of various kinds of heterogeneous data in real time and from multiple sources, which presents several additional challenges. Studies on Data Fusion (DF) have delivered significant enhancements in ITS and demonstrated a substantial impact on its evolution. This paper introduces a systematic literature review on recent data fusion methods and extracts the main issues and challenges of using these techniques in intelligent transportation systems (ITS). It endeavors to identify and discuss the multi-sensor data sources and properties used for various traffic domains, including autonomous vehicles, detection models, driving assistance, traffic prediction, Vehicular communication, Localization, and management systems. Moreover, it attempts to associate abstractions of observation-level fusion, feature-level fusion, and decision-level fusion with different methods to better understand how DF is used in ITS applications. Consequently, the main objective of this paper is to review DF methods used for ITS studies to extract its trendy challenges. The review outcomes are (i) a description of the current Data fusion methods that adopt multi-sensor sources of heterogeneous data under different evaluation strategies, (ii) identifying several research gaps, current challenges, and new research trends.
+ER  - 

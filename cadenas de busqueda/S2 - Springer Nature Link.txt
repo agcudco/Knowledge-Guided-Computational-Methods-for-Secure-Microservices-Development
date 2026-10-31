@@ -1,0 +1,20 @@
+(
+  "architectural security"
+  OR "security architecture"
+  OR "security by design"
+  OR "secure by design"
+  OR "security requirements"
+)
+AND
+(
+  "knowledge graph"
+  OR "knowledge-guided"
+  OR "knowledge-informed"
+  OR "semantic reasoning"
+)
+AND
+(
+  "software architecture"
+  OR "microservice architecture"
+  OR "architectural decision"
+)

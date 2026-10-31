@@ -1,0 +1,455 @@
+﻿TY  - JOUR
+AU  - Zhu, BB
+AU  - Zhou, YZ
+AU  - Niu, LJ
+AU  - Yu, XH
+AU  - Wang, ZZ
+AU  - Guo, YJ
+AU  - Zhang, YQ
+TI  - Design and implementation of an intelligent mineral prospecting system integrating large language models: GoldMiner-AI
+T2  - JOURNAL OF GEOCHEMICAL EXPLORATION
+AB  - Intelligent mineral exploration is still constrained by fragmented data sources, disconnected analytical workflows, weak knowledge organization, and limited system-level traceability and reproducibility. To overcome these limitations, we present GoldMiner-AI, an end-to-end intelligent system engineered for mineral exploration tasks. The system leverages a RuoYi-Cloud-Plus microservice architecture and a collaborative multi-database framework (PostGIS, Neo4j, Milvus, MySQL) to unify the management of multi-source, heterogeneous geoscientific data spanning geological maps, geochemical and geophysical surveys, drilling logs, field observations, and textual reports. Its intelligent core integrates two key components: the K-means-Association Rule Graph (KAR-Graph) anomaly identification framework and the deep learning model for multi-source feature fusion. Coupled with a mineral-systems knowledge graph and retrieval-augmented generation (RAG), this architecture supports a domain-tailored large language model (LLM). This design establishes a closed-loop intelligent workflow that integrates anomaly detection, target delineation, knowledge-aided reasoning, and interactive Q&A. Validation experiments in representative ore districts (Youjiang Basin and southern Qin-Hang metallogenic belt) demonstrate that: (1) It effectively identifies Carlin-type gold-related Au-As-Sb-Hg anomalous assemblages and extracts diagnostic geochemical fingerprints of ore-forming processes; (2) Through multi-source data fusion, it accurately predicts the spatial distribution of Pb-Zn mineralization zones; and (3) The domain-specific LLM mitigates the "hallucination" common in general-purpose models, significantly improving the accuracy of geoscientific knowledge retrieval and Q&A. Collectively, GoldMiner-AI provides a reproducible, scalable, and production-ready platform that advances mineral exploration toward fully intelligent and systematic workflows.
+SN  - 0375-6742
+SN  - 1879-1689
+DA  - DEC
+PY  - 2026
+VL  - 291
+C7  - 108205
+DO  - 10.1016/j.gexplo.2026.108205
+C6  - AUG 2026
+AN  - WOS:001863841600001
+ER  -
+
+TY  - JOUR
+AU  - Kaur, M
+TI  - Medical image captioning: A systematic review of methods, evaluation, trustworthiness, and clinical translation
+T2  - COMPUTER SCIENCE REVIEW
+AB  - Medical image captioning (MIC) aims to generate clinically meaningful reports from medical images by inte grating visual understanding with natural language generation. Despite rapid methodological progress from encoder-decoder and transformer-based models to knowledge-guided, vision-language pretrained, and recent large multimodal model (LMM)-driven approaches, improvements in benchmark performance have not trans lated into clinically reliable and trustworthy systems. This paper presents a PRISMA-guided systematic review of MIC research published from 2015 to 2025, with primary emphasis on advances reported since 2020. The liter ature is synthesized across six complementary dimensions: architectural design, learning paradigm, knowledge integration, modality and clinical domain, output structure, and evaluation and clinical translation. The review shows that modern models improve report fluency, multimodal alignment, and generative flexibility, but they remain limited by weak visual grounding, susceptibility to hallucination, heavy reliance on lexical evaluation metrics that poorly reflect diagnostic correctness, and strong concentration on chest radiography with limited generalization across modalities and institutions. Explainability, uncertainty estimation, and human-centered validation are increasingly recognized as essential requirements, yet they are still reported inconsistently across the literature. Furthermore, most published evidence remains retrospective and single-site, leaving a substantial gap between benchmark performance and deployment readiness. Future progress in MIC will depend on clinically grounded evaluation, explicit visual-textual evidence alignment, uncertainty-aware reasoning, broader cross-site validation, and human-centered deployment frameworks that support assisted rather than autonomous clinical reporting.
+SN  - 1574-0137
+SN  - 1876-7745
+DA  - NOV
+PY  - 2026
+VL  - 62
+C7  - 101033
+DO  - 10.1016/j.cosrev.2026.101033
+C6  - JUL 2026
+AN  - WOS:001821719600001
+ER  -
+
+TY  - JOUR
+AU  - Arman, M
+AU  - Kabir, MF
+AU  - Alamgir, FM
+AU  - Aklima, K
+AU  - Kasedullah, M
+AU  - Kabir, E
+AU  - Akand, AR
+AU  - Al Imtihan, A
+AU  - Sánchez, MAR
+TI  - Forecasting the Evolution of Scientific Knowledge: A Dynamic Knowledge Graph Approach Integrating Temporal Embeddings and Large Language Models
+T2  - MACHINE LEARNING
+AB  - The exponential proliferation of scientific literature presents formidable impediments to comprehensive understanding and strategic anticipation of future research trajectories across diverse domains. While extant computational methodologies, including bibliometrics and static topic modeling, facilitate the analysis of prevailing trends and thematic structures, the rigorous forecasting of the complex structural evolution inherent in the diachronic development of scientific knowledge remains a largely unresolved challenge. Addressing this lacuna, we introduce DynSciGraph, a computational framework engineered to harness the semantic interpretation capabilities of Large Language Models (LLMs) for the high-fidelity extraction of fine-grained conceptual entities and semantic relations from extensive corpora of scholarly publications. The framework subsequently leverages Temporal Graph Neural Networks (TGNNs) to model the non-linear dynamics intrinsic to time-evolving, domain-specific knowledge graphs (KGs), coupled with sequence models for multi-horizon predictive tasks. A distinctive architectural feature of DynSciGraph is its capacity to integrate heterogeneous external signals encompassing bibliometric indicators, research funding allocation patterns, and patenting activities, thereby augmenting the contextual richness of its forecasts. The evidence reported in this manuscript is exclusively simulation-based and does not yet demonstrate real-world forecasting performance. We present a detailed exposition of the architectural design and report proof-of-concept simulation results on synthetic corpora parameterized to reflect characteristics of Materials Science and Artificial Intelligence domains. All reported quantitative outcomes derive from a controlled simulation environment whose generative process is fully specified in Sect. 4.1; no measurements on real longitudinal scientific corpora are reported, and comprehensive empirical validation on real data constitutes ongoing and future work. Within this simulation, the full DynSciGraph configuration achieves higher mean AUC for link prediction (up to 0.86), higher Hit Rate@50 for emergent-entity identification, and higher Spearman rank correlation for hotspot prediction than the implemented baselines; because the simulation's generative process embeds the same inductive biases the architecture is designed to exploit, these orderings reflect properties of the generative process and should not be interpreted as evidence of real-world superiority. This investigation delineates a computationally grounded paradigm for scientific foresight that, pending empirical validation, holds promise for proactive identification of latent research lacunae, discovery of synergistic interdisciplinary connections, and more strategic planning of scientific inquiry.
+SN  - 0885-6125
+SN  - 1573-0565
+DA  - JUN 15
+PY  - 2026
+VL  - 115
+IS  - 6
+C7  - 148
+DO  - 10.1007/s10994-026-07095-x
+C6  - JUN 2026
+AN  - WOS:001793353100001
+ER  -
+
+TY  - JOUR
+AU  - Wang, ZQ
+AU  - Dong, Y
+AU  - Fu, MX
+AU  - Wang, JQ
+AU  - Sun, J
+AU  - Wang, Q
+AU  - Lu, YF
+AU  - Chen, N
+AU  - Zhang, RH
+AU  - Zhang, W
+TI  - PCLLM: An Integrated LLM-Driven System for Automating Desktop Operations via Direct Mouse and Keyboard Control
+T2  - COMPUTERS
+AB  - The of personal computer (PC) tasks represents a systems-level challenge that integrates natural language processing, visual perception and mouse-keyboard action control. While existing approaches mainly focus on the application programming interface (API)-based or terminal-based automation, which are incompatible with the majority of applications for the lack of accessible interface. In this article, we propose PCLLM, a novel end-to-end system that automates PC operations by integrating large language models (LLMs) with computer vision techniques to directly control the mouse and keyboard. First, a software knowledge-based prompt engineering method is developed to comprehend software architecture and operational sequences. Second, template matching techniques are integrated for precise element localization, allowing the system to accurately identify and interact. Third, a dual-LLM pipeline is designed to automatically generate the test data, where a questioner LLM generates diverse task commands and the PCLLM executes these tasks, the corresponding process data are recorded automatically for performance evaluation. Finally, PCLLM is further validated through three typically PC applications (Notepad, Wordpad and Calculator), demonstrating its flexible and robust performance towards intelligent PC automation. To evaluate the proposed system, we adopt task completion rate as the primary metric. Experimental results show that PCLLM achieves the highest completion rates of 98.59%, 95.77%, and 52.11% on Notepad for basic, intermediate, and advanced tasks respectively when powered by GPT-4o, outperforming the CogAgent baseline. These results demonstrate the effectiveness of our approach for PC task automation.
+SN  - 2073-431X
+DA  - MAY 30
+PY  - 2026
+VL  - 15
+IS  - 6
+C7  - 351
+DO  - 10.3390/computers15060351
+C6  - MAY 2026
+AN  - WOS:001802021300001
+ER  -
+
+TY  - JOUR
+AU  - He, Q
+AU  - Zhu, L
+AU  - Li, G
+AU  - You, ZP
+AU  - Yuan, L
+AU  - Jia, F
+TI  - Research on Collaborative Reasoning Framework and Algorithms of Cloud-Edge Large Models for Intelligent Auxiliary Diagnosis Systems
+T2  - JOURNAL OF ELECTRONICS & INFORMATION TECHNOLOGY
+AB  - Objective The deployment of Large Language Models (LLMs) in intelligent auxiliary diagnosis is constrained by limited computing resources for local hospital deployment and by privacy risks related to the transmission and storage of medical data in cloud environments. Low-parameter local LLMs show 20%similar to 30% lower accuracy in medical knowledge question answering and 15%similar to 25% reduced medical knowledge coverage compared with full-parameter cloud LLMs, whereas cloud-based systems face inherent data security concerns. To address these issues, a cloud-edge LLM collaborative reasoning framework and related algorithms are proposed for intelligent auxiliary diagnosis systems. The objective is to design a cloud-edge collaborative reasoning agent equipped with intelligent routing and dynamic semantic desensitization to enable adaptive task allocation between the edge (hospital side) and cloud (regional cloud). The framework is intended to achieve a balanced result across diagnostic accuracy, data privacy protection, and resource use efficiency, providing a practical technical path for the development of medical artificial intelligence systems.
+   Methods The proposed framework adopts a layered architectural design composed of a four-tier progressive architecture on the edge side and a four-tier service-oriented architecture on the cloud side (Fig. 1). The edge side consists of resource, data, model, and application layers, with the model layer hosting lightweight medical LLMs and the cloud-edge collaborative agent. The cloud side comprises AI IaaS, AI PaaS, AI MaaS, and AI SaaS layers, functioning as a center for computing power and advanced models. The collaborative reasoning process follows a structured workflow (Fig. 2), beginning with user input parsed by the agent to extract key clinical features, followed by reasoning node decision-making. Two core technologies support the agent: (1) Intelligent routing: This mechanism defaults to edge-side processing and dynamically selects the reasoning path (edge or cloud) through a dual-driven weight update strategy. It integrates semantic feature similarity computed through Chinese word segmentation and pre-trained medical language models and incorporates historical decision data, with an exponential moving average used to update feature libraries for adaptive optimization. (2) Dynamic semantic desensitization: Employing a three-stage architecture (sensitive entity recognition, semantic correlation analysis, and hierarchical desensitization decision-making), this technology identifies sensitive entities through a domain-enhanced Named Entity Recognition (NER) model, calculates entity sensitivity and desensitization priority, and applies a semantic similarity constraint to prevent excessive desensitization. Three desensitization strategies (complete deletion, general replacement, partial masking) are used based on entity sensitivity. Experimental validation is conducted with two open-source Chinese medical knowledge graphs (CMeKG and CPubMedKG) containing more than 2.7 million medical entities. The experimental environment (Fig. 3) deploys a qwen3:1.7b model on the edge and the Jiutian LLM on the cloud, with a 5 000-sample evaluation dataset divided into entity-level, relation-level, and subgraph-level questions. Performance is assessed with three metrics: answer accuracy, average token consumption, and average response time.
+   Results and Discussions Experimental results show that the proposed framework achieves strong performance across the main evaluation dimensions. For answer accuracy, the intelligent routing mechanism attains 72.44% on CMeKG (Fig. 4) and 66.20% on CPubMedKG (Fig. 5), which are higher than the edge-side LLM alone (60.73% and 54.18%) and close to the cloud LLM (72.68% and 66.49%). These results indicate that the framework maintains diagnostic consistency with cloud-based systems while taking advantage of edge-side capabilities. For resource use, the intelligent routing model reduces average token consumption to 61.27, representing 45.63% of the cloud LLM's token usage (131.68) (Fig. 6), which supports substantial cost reduction. For response time, the edge-side LLM shows latency greater than 6 s because of limited computing power, whereas the cloud LLM reaches 0.44 s latency through dedicated line access (8% of the 5.46 s latency under internet access). The intelligent routing model produces average latency values between those of the edge and cloud LLMs under both access modes ( Fig. 7), consistent with expected trade-offs. The framework also shows applicability across common medical scenarios (Table 1), including outpatient triage, chronic disease management, medical image analysis, intensive care, and health consultation, by combining local real-time processing with cloud-based deep reasoning. Limitations appear in emergency rescue settings with weak network conditions because of latency constraints and in rare disease diagnosis because of limited edge-side training samples and potential loss of specific features during desensitization. Overall, the results verify that the cloud-edge collaborative reasoning mechanism reduces computing resource overhead while preserving consistency in diagnostic results.
+   Conclusions This study constructs a cloud-edge LLM collaborative reasoning framework for intelligent auxiliary diagnosis systems, addressing the challenges of limited local computing power and cloud data privacy risks. Through the integration of intelligent routing, prompt engineering adaptation, and dynamic semantic desensitization, the framework achieves balanced optimization of diagnostic accuracy, data security, and resource economy. Experimental validation shows that its accuracy is comparable to cloud-only LLMs while resource consumption is substantially reduced, providing a feasible technical path for medical intelligence development. Future work focuses on three directions: intelligent on-demand scheduling of computing and network resources to mitigate latency caused by edge-side computing constraints; collaborative deployment of localized LLMs with Retrieval-Augmented Generation (RAG) to raise edge-side standalone accuracy above 90%; and expansion of diagnostic evaluation indicators to form a three-dimensional scenario-node-indicator system incorporating sensitivity, specificity, and AUC for clinical-oriented assessment.
+SN  - 1009-5896
+DA  - MAR
+PY  - 2026
+VL  - 48
+IS  - 3
+SP  - 1027
+EP  - 1035
+DO  - 10.11999/JEIT250828
+AN  - WOS:001775970600013
+ER  -
+
+TY  - JOUR
+AU  - Beutler, P
+AU  - Gregersen, T
+AU  - Roth, J
+AU  - Richter, N
+AU  - Meboldt, M
+AU  - Wikelski, M
+AU  - Wild, TA
+TI  - Toward mass customization of animal trackers by design automation
+T2  - PLOS ONE
+AB  - Animal-borne tracking devices (bio-loggers) are established instruments for researching animal behaviour. However, commercial animal trackers are rather standardized and not perfectly adapted to species-specific requirements. Although species-specific solutions are developed, customization effort is high and requires detailed engineering know-how. Furthermore, the development process brings multiple challenges across the process chain and uncertainties for untested species may require iterative refinements in the early design phase. This interdisciplinary study provides a vision of how to enable mass customization of animal trackers through a web-based design platform. The platform involves biologists in engineering processes, makes custom designs accessible to the community, and enhances reusability. Knowledge-based engineering and design automation algorithms are central platform elements, and they automate engineering processes from requirements to the electronic component selection and generation of 3D-printable housing geometries. The animal tracker housings are manufactured using low-cost 3D-printing (additive manufacturing), which offers high flexibility in terms of producible geometry and batch size. Furthermore, this study presents a design automation prototype that implements core functions of the vision to demonstrate the feasibility of automatically generated animal trackers. The software architecture of the design automation prototype and the intermediate algorithm steps are described as open source. To demonstrate the functionality of the design automation prototype, the animal tracker housings of three species are successfully generated and produced. The algorithms take less than 50 seconds to generate the three housings. This demonstrates, how the automation eliminates bottlenecks in the development process and thus greatly reduces efforts for customized animal trackers. The full realisation of the vision can eventually empower biologists to design animal trackers without the involvement of engineers.
+SN  - 1932-6203
+DA  - FEB 4
+PY  - 2026
+VL  - 21
+IS  - 2
+C7  - e0342071
+DO  - 10.1371/journal.pone.0342071
+AN  - WOS:001684295300004
+ER  -
+
+TY  - JOUR
+AU  - Yang, YL
+AU  - Li, YX
+AU  - Bai, XF
+AU  - Zhang, W
+AU  - Chen, SY
+TI  - Research Progress and Frontier Trends in Generative AI in Architectural Design
+T2  - BUILDINGS
+AB  - In recent years, with the rapid advancement of science and technology, generative artificial intelligence has increasingly entered the public eye. Primarily through intelligent algorithms that simulate human logic and integrate vast amounts of network data, it provides designers with solutions that transcend traditional thinking, enhancing both design efficiency and quality. Compared to traditional design methods reliant on human experience, generative design possesses robust data processing capabilities and the ability to refine design proposals, significantly reducing preliminary design time. This study employs the CiteSpace visualization tool to systematically organize and conduct knowledge map analysis of research literature related to generative AI in architectural design within the Web of Science database from 2005 to 2025. Findings reveal the following: (1) International research exhibits a trend toward interdisciplinary convergence. In recent years, research in this field has grown rapidly across nations, with continuously increasing academic influence; (2) Research primarily focuses on technological applications within architectural design, aiming to drive innovation and development by providing superior, more efficient technical support; (3) Generative AI in architectural design has emerged as a prominent international research focus, reflecting a shift from isolated design to industry-wide integration; (4) Generative AI has become a core global architectural design topic, with future research advancing toward full-process intelligent collaboration. High-quality knowledge graphs tailored for the architecture industry should be constructed to overcome data silos. Concurrently, a multidimensional evaluation system for generative quality must be established to deepen the symbiotic design paradigm of human-machine collaboration. This significantly enhances efficiency while reducing the iterative nature of traditional methods. This study aims to provide empirical support for theoretical and practical advancements, offering crucial references for practitioners to identify business opportunities and policymakers to optimize relevant strategies.
+SN  - 2075-5309
+DA  - JAN 17
+PY  - 2026
+VL  - 16
+IS  - 2
+C7  - 388
+DO  - 10.3390/buildings16020388
+AN  - WOS:001670825600001
+ER  -
+
+TY  - JOUR
+AU  - Otalora, JDM
+AU  - Shen, J
+AU  - Celis, APR
+TI  - Knowledge graph-enhanced pattern language for biodiversity integration in architectural education
+T2  - HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+AB  - Urban biodiversity loss and rapid urbanization pose significant challenges to architectural education, highlighting a gap in integrating ecological knowledge into design practices. This study develops and validates the Knowledge graph for pattern language in urban biodiversity, an educational framework that combines pattern language theory, knowledge graphs, and large language models to enhance ecological integration in architectural teaching. A five-phase mixed-methods approach is employed: first, a systematic literature review; second, the development of design patterns inspired by Christopher Alexander; third, the creation of an ontology and the construction of a knowledge graph, integrated with a language model to generate design recommendations tailored to urban biodiversity contexts; fourth, validation through participatory workshops with students; and fifth, expert evaluations that confirmed the framework's effectiveness in incorporating biodiversity criteria into architectural design. Although results are currently limited to academic environments, the framework offers a scalable approach to AI-assisted architectural education.
+SN  - 2662-9992
+DA  - NOV 18
+PY  - 2025
+VL  - 12
+IS  - 1
+C7  - 1762
+DO  - 10.1057/s41599-025-06070-6
+AN  - WOS:001617373000002
+ER  -
+
+TY  - JOUR
+AU  - Baldissini, S
+AU  - Garagnani, S
+TI  - Digital Documentation and Analysis of Palladian Microarchitectures: From 3D Models to Knowledge-Based Information Systems
+T2  - HERITAGE
+AB  - Chimneypieces, washbasins, well heads, and sinks by Andrea Palladio represent refined design works following architectural systems on a reduced scale, even if systematic documentation and analysis of them is still limited. This paper introduces the custom knowledge-based Information System (IS) developed to study the design patterns and proportional relationships of these microarchitectures, after their digitization. The research employed smartphone-based photogrammetry to replicate fifty-seven chimneypieces and additional microarchitectures across twenty historical buildings; digital models were collected and organized into the IS enabling systematic typological and dimensional analysis. Proportional deepening revealed recurring ratios consistent with Renaissance treatise recommendations, alongside systematic variations suggesting design flexibility within theoretical frameworks. The IS integrates 3D architectural models by metadata attributes, providing a replicable framework for heritage documentation that combines scholarly rigor with technological accessibility. This approach offers new insights into Palladian design principles while establishing a scalable model for architectural heritage documentation and analysis.
+SN  - 2571-9408
+DA  - SEP 18
+PY  - 2025
+VL  - 8
+IS  - 9
+C7  - 388
+DO  - 10.3390/heritage8090388
+AN  - WOS:001580046200001
+ER  -
+
+TY  - JOUR
+AU  - Erickson, JS
+AU  - Santos, H
+AU  - Pinheiro, V
+AU  - Mccusker, JP
+AU  - Mcguinness, DL
+TI  - LLM experimentation through knowledge graphs: Towards improved management, repeatability, and verification
+T2  - JOURNAL OF WEB SEMANTICS
+AB  - Generative large language models (LLMs) have transformed AI by enabling rapid, human-like text generation, but they face challenges, including managing inaccurate information generation. Strategies such as prompt engineering, Retrieval-Augmented Generation (RAG), and incorporating domain-specific Knowledge Graphs (KGs) aim to address their issues. However, challenges remain in achieving the desired levels of management, repeatability, and verification of experiments, especially for developers using closed-access LLMs via web APIs, complicating integration with external tools. To tackle this, we are exploring a software architecture to enhance LLM workflows by prioritizing flexibility and traceability while promoting more accurate and explainable outputs. We describe our approach and provide a nutrition case study demonstrating its ability to integrate LLMs with RAG and KGs for more robust AI solutions.
+SN  - 1570-8268
+SN  - 1873-7749
+DA  - MAY
+PY  - 2025
+VL  - 85
+C7  - 100853
+DO  - 10.1016/j.websem.2024.100853
+C6  - JAN 2025
+AN  - WOS:001398668400001
+ER  -
+
+TY  - JOUR
+AU  - Rehman, M
+AU  - Hafeez, MB
+TI  - Numerical analysis of permeability and Darcy effect in heat transfer of pyramid-shaped structure
+T2  - INTERNATIONAL COMMUNICATIONS IN HEAT AND MASS TRANSFER
+AB  - In this work, a numerical investigation is conducted to examine the complex interplay of permeability, Darcy effect, and heat transfer within pyramid-shaped structures. The present study is intended to fully understand the influence of heat dissipation and the flow characteristics inside such geometries under different conditions. Advanced Computational method is employed to investigate the impact of the Darcy effect and different pyramid permeability on heat transfer mechanisms, revealing the intrinsic relationship between these parameters. The equations governing this research are based on fluid mechanics and heat transfer principles. The Navier-Stokes equation, energy equation, and Boussinesq approximation are used to represent fluid movement and temperature behavior. The continuity equation is used to account for mass conservation in the porous medium. The finite element numerical method is used in this research. In this work, another discussion to ponder is the correlation between heat transport characteristics and kinetic energy profiles subjected to a change in Rayleigh number concerning the pyramid-shaped geometry. The results lie in the guidance for streamlining the cooling mechanisms of pyramid-like conformations for the contributions of the role that permeability plays in designs that correlate to the behavior of flows involving the fluid of concern in a methodical directory making for their statistical elucidation and add to their growth to improve the architectural sensible designs and performance wherever they appear in an engineering atmosphere. Some of the major findings of this research include fundamental insight into optimizing heat dissipation in pyramid-shaped structures, which will have a broad impact on applications and emerging fields, such as architectural design, new classes of smart materials engineering, and thermal management systems. This study investigates the role of its volumetric permeability variations, the Darcy effect, and how their interplay impacts fluid flow and heat transfer in pyramid-shaped structures. Novelty: This research paper takes a new and refined angle to the complexities of natural convective heat transfer in permeable enclosures with inlets and outlets. Significantly, the FEM technique enhances optimal heat transfer techniques within these containers that are useful in engineering solutions for various functions. This adds to the knowledge-based concept of efficient and sustainable heat transfer and fluid dynamics in porous media, at the heart of many engineering disciplines.
+SN  - 0735-1933
+SN  - 1879-0178
+DA  - DEC
+PY  - 2024
+VL  - 159
+C7  - 108008
+DO  - 10.1016/j.icheatmasstransfer.2024.108008
+C6  - SEP 2024
+AN  - WOS:001308232500001
+ER  -
+
+TY  - JOUR
+AU  - Schoenteich, F
+AU  - Scherp, A
+AU  - Kasten, A
+TI  - Distributed Identity Management for Semantic Entities Based on Graph Signatures and owl:sameAs
+T2  - INTERNATIONAL JOURNAL OF SEMANTIC COMPUTING
+AB  - Distributed Identity Management (DIM) refers to the ability of defining distributed identities of agents and roles, i.e. a single agent is represented using multiple unique identifiers managed in different namespaces and may have various roles across those namespaces. We propose semDIM, a novel approach for Semantic DIM based on a Semantic Web architecture. For the first time, semDIM provides a framework for a distributed definition and management of entities such as persons being part of an organization, groups, and roles across namespaces. It is suitable for informal, i.e. social networks, as well as for professional networks such as cross-organizational collaborations. In addition, the framework ensures authenticity, authorization and integrity for such distributed identities by featuring certificate-based graph signatures. Beyond the capabilities of existing Identity Management solutions, we allow distributed identifiers and management of groups (consisting of agents and sub-groups) and roles as "first-class entities". semDIM uses owl:sameAs relations to represent and verify distributed identities via formal reasoning. This concept enables novel functionalities for DIM, as these entities can be identified, related to one another, as well as be managed across namespaces. Our semDIM approach consists of a modular software architecture, a process model using a novel approach for pattern-based concurrency control, as well as a set of state-of-the-art formal OWL ontology patterns. The use of formal patterns ensures semantic interoperability, and extensibility for future requirements. Thereby, our approach can be combined with other applications based on the same or related patterns. We evaluate semDIM in the context of a real-world scenario of securely exchanging DIM information across organizations.
+SN  - 1793-351X
+SN  - 1793-7108
+DA  - MAR
+PY  - 2021
+VL  - 15
+IS  - 01
+SP  - 57
+EP  - 92
+DO  - 10.1142/S1793351X21500033
+AN  - WOS:000644434500003
+ER  -
+
+TY  - JOUR
+AU  - Qiu, J
+AU  - Du, QF
+AU  - Yin, KL
+AU  - Zhang, SL
+AU  - Qian, CS
+TI  - A Causality Mining and Knowledge Graph Based Method of Root Cause Diagnosis for Performance Anomaly in Cloud Applications
+T2  - APPLIED SCIENCES-BASEL
+AB  - With the development of cloud computing technology, the microservice architecture (MSA) has become a prevailing application architecture in cloud-native applications. Many user-oriented services are supported by many microservices, and the dependencies between services are more complicated than those of a traditional monolithic architecture application. In such a situation, if an anomalous change happens in the performance metric of a microservice, it will cause other related services to be downgraded or even to fail, which would probably cause large losses to dependent businesses. Therefore, in the operation and maintenance job of cloud applications, it is critical to mine the causality of the problem and find its root cause as soon as possible. In this paper, we propose an approach for mining causality and diagnosing the root cause that uses knowledge graph technology and a causal search algorithm. We verified the proposed method on a classic cloud-native application and found that the method is effective. After applying our method on most of the services of a cloud-native application, both precision and recall were over 80%.
+SN  - 2076-3417
+DA  - MAR
+PY  - 2020
+VL  - 10
+IS  - 6
+C7  - 2166
+DO  - 10.3390/app10062166
+AN  - WOS:000529252800267
+ER  -
+
+TY  - JOUR
+AU  - Colombo-Mendoza, LO
+AU  - Valencia-García, R
+AU  - Rodríguez-González, A
+AU  - Colomo-Palacios, R
+AU  - Alor-Hernández, G
+TI  - Towards a knowledge-based probabilistic and context-aware social recommender system
+T2  - JOURNAL OF INFORMATION SCIENCE
+AB  - In this article, we propose (1) a knowledge-based probabilistic collaborative filtering (CF) recommendation approach using both an ontology-based semantic similarity metric and a latent Dirichlet allocation (LDA) model-based recommendation technique and (2) a context-aware software architecture and system with the objective of validating the recommendation approach in the eating domain (foodservice places). The ontology on which the similarity metric is based is additionally leveraged to model and reason about users' contexts; the proposed LDA model also guides the users' context modelling to some extent. An evaluation method in the form of a comparative analysis based on traditional information retrieval (IR) metrics and a reference ranking-based evaluation metric (correctly ranked places) is presented towards the end of this article to reliably assess the efficacy and effectiveness of our recommendation approach, along with its utility from the user's perspective. Our recommendation approach achieves higher average precision and recall values (8% and 7.40%, respectively) in the best-case scenario when compared with a CF approach that employs a baseline similarity metric. In addition, when compared with a partial implementation that does not consider users' preferences for topics, the comprehensive implementation of our recommendation approach achieves higher average values of correctly ranked places (2.5 of 5 versus 1.5 of 5).
+SN  - 0165-5515
+SN  - 1741-6485
+DA  - AUG
+PY  - 2018
+VL  - 44
+IS  - 4
+SP  - 464
+EP  - 490
+DO  - 10.1177/0165551517698787
+AN  - WOS:000439358300003
+ER  -
+
+TY  - JOUR
+AU  - Kim, TW
+AU  - Rajagopal, R
+AU  - Fischer, M
+AU  - Kam, C
+TI  - A knowledge-based framework for automated space-use analysis
+T2  - AUTOMATION IN CONSTRUCTION
+AB  - Space-use can only be effectively determined when space, user, and activity perspectives are taken into account simultaneously. We develop a knowledge-based framework for automated space-use analysis to enable analyzers to predict and update space utilization simultaneously considering these three perspectives with computational assistance. The framework includes the formalization of the concepts for space-use analysis such as users, user activities, spaces, equipment, and space utilization, the ontological relationships among the concepts, and the automated space-use analysis process. We demonstrate the effectiveness of the proposed framework through a trial run on select areas in an academic building at Stanford University. Our results show that the proposed framework can support iterative refinement of the architectural design and its usage by predicting the utilization and visualizing the results automatically. This automation in space-use analysis contributes a consistent, clear, and efficient means of analyzing space-use in support of architects' and clients' decision-making about the design. (C) 2012 Elsevier B.V. All rights reserved.
+SN  - 0926-5805
+SN  - 1872-7891
+DA  - JUL
+PY  - 2013
+VL  - 32
+SP  - 165
+EP  - 176
+DO  - 10.1016/j.autcon.2012.08.002
+AN  - WOS:000318584100016
+ER  -
+
+TY  - JOUR
+AU  - Boddy, S
+AU  - Rezgui, Y
+AU  - Wetherill, M
+AU  - Cooper, G
+TI  - Knowledge informed decision making in the building lifecycle: An application to the design of a water drainage system
+T2  - AUTOMATION IN CONSTRUCTION
+AB  - Critical decisions which influence the sustainability of a construction project are made in a pressurised, time-critical environment. These decisions must be supported and informed by knowledge resources, with the reasons for these decisions feeding back into the body of knowledge, This paper reports on a research initiative which brings together a knowledge management environment and a decision support tool, bringing sustainability knowledge management into the applications used in architectural design. Validation of the resulting knowledge informed decision making environment emphasised the potential benefits that such environments can bring in assisting decision making by capitalizing on the wealth of existing related knowledge. (c) 2006 Elsevier B.V. All rights reserved.
+SN  - 0926-5805
+DA  - AUG
+PY  - 2007
+VL  - 16
+IS  - 5
+SP  - 596
+EP  - 606
+DO  - 10.1016/j.autcon.2006.10.001
+AN  - WOS:000246656000005
+ER  -
+
+TY  - JOUR
+AU  - Davis, L
+AU  - Gamble, RE
+AU  - Kimsen, S
+TI  - A patterned approach for linking knowledge-based systems to external resources
+T2  - IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART B-CYBERNETICS
+AB  - Knowledge-based systems (KBSs) have been developed and used in industry and government as assistance systems, voting partner systems, and embedded applications. As web-based systems change the face of software implementations, these closed, internal KBSs need to be integrated into multicomponent applications that provide updated and extensible services. Therefore, KBSs must be adapted to an environment in which data and control are exchanged with external processes and resources; complementing other participating systems or using them to refine its own results. This integration can be a daunting task. If improperly done, it can result in an inefficient and unmanageable composite application. One approach to simplifying this task is the use of architectural patterns for integration. These patterns are assembled from functional entities that resolve component interoperability conflicts. In this paper, we describe an architectural pattern called the Knowledge Director pattern, which directs the integration of a closed KBS into a broader application environment.
+SN  - 1083-4419
+SN  - 1941-0492
+DA  - FEB
+PY  - 2004
+VL  - 34
+IS  - 1
+SP  - 222
+EP  - 233
+DO  - 10.1109/TSMCB.2003.811862
+AN  - WOS:000188464600020
+ER  -
+
+TY  - JOUR
+AU  - Baeza, JA
+AU  - Ferreira, EC
+AU  - Lafuente, J
+TI  - Knowledge-based supervision and control of wastewater treatment plant: a real-time implementation
+T2  - WATER SCIENCE AND TECHNOLOGY
+CP  - 4th International Symposium of Environmental Biotechnology (ISEB 4)
+AB  - The hardware architecture and the software development of a real-time knowledge-based distributed control system for the supervision of a wastewater treatment pilot plant are presented. The operation scheme is based on an A(2)/O system (anaerobic, anoxic, oxic) and includes organic matter removal, nitrification/denitrification, and Enhanced Biological Phosphorous Removal (EBPR). The hardware architecture involves different supervision levels, including two autonomous process computers (plant control and analysers control) and a PLC. The software architecture includes a Knowledge-Based Expert System (KBES) as the top control system. The KBES has been developed in G2, an expert system development environment based on object-oriented structural design. This system is fed with data obtained from the plant monitoring (in-line, on-line and off-line data) and with actuation data of the lower control levels. Using this information, the KBES supervises the pilot plant in order to help with fault detection and plant maintenance, but also modifies setpoints and other variables of the local control level to adapt the system to the different influent conditions. The overall system has been implemented and validated at pilot scale.
+SN  - 0273-1223
+PY  - 2000
+VL  - 41
+IS  - 12
+SP  - 129
+EP  - 137
+DO  - 10.2166/wst.2000.0256
+AN  - WOS:000088958500019
+ER  -
+
+TY  - JOUR
+AU  - Howells, H
+AU  - Davies, A
+AU  - Macauley, B
+AU  - Zancanato, R
+TI  - Large scale knowledge based systems for airborne decision support
+T2  - KNOWLEDGE-BASED SYSTEMS
+CP  - 18th SGES International Conference on Knowledge-Based Systems and Applied Artificial Intelligence (ES98)
+AB  - At ES 96 during the Keynote address, the point was forcefully made that software houses have contributed little to the advancement of KBS. In the defence areal especially that of aerospace systems, extensive use has been made of the expertise of software and system houses in developing validation methodologies (VORTEX), real time (MUSE) and multi-agent (D-MUSE) software and together with Universities, a knowledge acquisition toolkit (PC PACK). In the UK at DERA Farnborough within the Airborne Decision Support Group, Air Sector, these software and tools have been developed and applied to problems in building Decision Support Systems for Maritime Air applications. The demanding aircrew tasks are characterised by the need for assimilation and interpretation of multi-sensor data to devise tactical responses in real time based on prevailing tactical doctrine and aircrew experience. The applications include Decision Support for Anti-Submarine Warfare (ASW), Anti-Surface Warfare (ASuW), Airborne Early Warning (AEW) together with ASW/ASuW and the proposed AEW technology demonstrators. Currently the transition is being made from the laboratory concept demonstrators to large scale technology demonstrator programmes as a risk reduction exercise prior to specification for airborne use. The proposed AEW TDP includes extensive modularity to support extensibility and component reuse. (C) 1999 Elsevier Science B.V. All rights reserved.
+SN  - 0950-7051
+DA  - OCT
+PY  - 1999
+VL  - 12
+IS  - 5-6
+SP  - 215
+EP  - 222
+DO  - 10.1016/S0950-7051(99)00012-X
+AN  - WOS:000082646200003
+ER  -
+
+TY  - JOUR
+AU  - Fensel, D
+AU  - Groenboom, R
+TI  - A software architecture for knowledge-based systems
+T2  - KNOWLEDGE ENGINEERING REVIEW
+AB  - The paper introduces a software architecture for the specification and verification of knowledge-based systems combining conceptual and formal techniques. Our focus is component-based specification enabling their reuse. We identify four elements of the specification of a knowledge-based system: a task definition, a problem-solving method, a domain model, and an adaptor. We present algebraic specifications and a variant of dynamic logic as formal means to specify and verify these different elements. As a consequence of our architecture we can decompose the overall specification and verification task of the knowledge-based systems into subtasks. We identify different subcomponents for specification and different proof obligations for verification. The use of the architecture in specification and verification improves understandability and reduces the effort for both activities. In addition, its decomposition and modularisation enables reuse of components and proofs. Therefore, a knowledge-based system can be built by combining and adapting different reusable components.
+SN  - 0269-8889
+DA  - JUN
+PY  - 1999
+VL  - 14
+IS  - 2
+SP  - 153
+EP  - 173
+DO  - 10.1017/S0269888999142097
+AN  - WOS:000082261800007
+ER  -
+
+TY  - JOUR
+AU  - Gamble, RF
+AU  - Stiger, PR
+AU  - Plant, RT
+TI  - Rule-based systems formalized within a software architectural style
+T2  - KNOWLEDGE-BASED SYSTEMS
+CP  - 1997 AAAI Workshop
+AB  - This article considers the utilization of architectural styles in the formal design of knowledge-based systems. The formal model of a style is an approach to systems modeling that allows software developers to understand and prove properties about the system design in terms of its components, connectors, configurations, and constraints. This allows commonality of design to be easily understood and captured, leading to a better understanding of the role that an architectural abstraction would have in another complex system, embedded context, or system integration. In this article, a formal rule-based architectural style is presented in detail using the Z notation. The benefits of depicting the rule-based system as an architectural style include reusability, understandability, and the allowance for formal software analysis and integration techniques. The ability to define the rule-based architectural style in this way, illustrates the power, clarity, and flexibility of this specification form over traditional formal specification approaches. In addition, it extends current verification approaches for knowledge-based systems beyond the knowledge base only. (C) 1999 Elsevier Science B.V. All rights reserved.
+SN  - 0950-7051
+DA  - APR
+PY  - 1999
+VL  - 12
+IS  - 1-2
+SP  - 13
+EP  - 26
+DO  - 10.1016/S0950-7051(99)00004-0
+AN  - WOS:000080747700003
+ER  -
+
+TY  - JOUR
+AU  - Tsai, JJP
+AU  - Liu, A
+AU  - Juan, E
+AU  - Sahay, A
+TI  - Knowledge-based software architectures: Acquisition, specification, and verification
+T2  - IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+AB  - The concept of knowledge-based software architecture has recently emerged as a new way to improve our ability to effectively construct and maintain complex large-scale software systems. Under this new paradigm, software engineers are able to do evolutionary design of complex systems through architecture specification, design rationale capture, architecture validation and verification, and architecture transformation. This paper surveys some of the important techniques that have been developed to support these activities. In particular, we are interested in knowledge/requirement acquisition and analysis. We survey some tools that use the knowledge-based approach to solve these problems. We also discuss various software architecture styles, architecture description languages (ADLs), and features of ADLs that help build better software systems. We then compare various ADLs based on these features. The efficient methods that were developed for verification, validation, and high assurance of architectures are also discussed. Based on our survey results, we give a basis for comparing the various knowledge-based systems and list these comparisons in the form of a table.
+SN  - 1041-4347
+SN  - 1558-2191
+DA  - JAN-FEB
+PY  - 1999
+VL  - 11
+IS  - 1
+SP  - 187
+EP  - 201
+DO  - 10.1109/69.755628
+AN  - WOS:000079296600020
+ER  -
+
+TY  - JOUR
+AU  - BACHE, TC
+AU  - BRATT, SR
+AU  - WANG, J
+AU  - FUNG, RM
+AU  - KOBRYN, C
+AU  - GIVEN, JW
+TI  - THE INTELLIGENT MONITORING-SYSTEM
+T2  - BULLETIN OF THE SEISMOLOGICAL SOCIETY OF AMERICA
+CP  - INTERNATIONAL SYMP ON REGIONAL SEISMIC ARRAYS AND NUCLEAR TEST BAN VERIFICATION
+AB  - The intelligent Monitoring System (IMS) is a computer system for processing data from seismic arrays and simpler stations to detect, locate, and identify seismic events.  The first operational version processes data from two high-frequency arrays (NORESS and ARCESS) in Norway.  The IMS computers and functions are distributed between the NORSAR Data Analysis Center (NDAC) near Oslo and the Center for Seismic Studies (Center) in Arlington, Virginia.  The IMS modules at NDAC automatically retrieve data from a disk buffer, detect signals, compute signal attributes (amplitude, slowness, azimuth, polarization, etc.), and store them in a commercial relational database management system (DBMS).  IMS makes scheduled (e.g., hourly) transfers of the data to a separate DBMS at the Center.  Arrival of new data automatically initiates a "knowledge-based system (KBS)" that interprets these data to locate and identify (earthquake, mine blast, etc.) seismic events.  This KBS uses general and area-specific seismological knowledge represented in rules and procedures.  For each event, unprocessed data segments (e.g., 7 min for regional events) are retrieved from NDAC for subsequent display and analyst review.  The interactive analysis modules include integrated waveform and map display/manipulation tools for efficient analyst validation or correction of the solutions produced by the automated system.  Another KBS compares the analyst and automatic solutions to mark overruled elements of the knowledge base.  Performance analysis statistics guide subsequent changes to the knowledge base so it improves with experience.
+   The IMS is implemented on networked Sun workstations, with a 56 kbps satellite link bridging the NDAC and Center computer networks.  The software architecture is modular and distributed, with processes communicating by messages and sharing data via the DBMS.  The IMS processing requirements are easily met with major processes (i.e., signal processing, KBS, and DBMS) on separate Sun 4/2xx workstations.  This architecture facilitates expansion in functionality and number of stations.
+   The first version was operated continuously for 8 weeks in late-1989.  The Center functions were then transferred to NDAC for subsequent operation.  Later versions will be distributed among NDAC, Scripps/IGPP (San Diego), and the Center to process data from many stations and arrays.  The IMS design is ambitious in its integration of many new computer technologies, but the operational performance of the first version demonstrates its validity.  Thus, IMS provides a new generation of automated seismic event monitoring capability.
+SN  - 0037-1106
+DA  - DEC
+PY  - 1990
+VL  - 80
+IS  - 6
+SP  - 1833
+EP  - 1851
+AN  - WOS:A1990ER19700005
+ER  -
+

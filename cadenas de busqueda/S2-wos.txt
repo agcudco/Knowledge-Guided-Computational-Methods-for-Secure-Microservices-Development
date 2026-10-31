@@ -1,0 +1,24 @@
+TS=(
+  (
+    "software architecture"
+    OR "architectural design"
+    OR "architectural model*"
+    OR "microservice architecture*"
+  )
+  AND
+  (
+    "architecture generation"
+    OR "architectural synthesis"
+    OR verif*
+    OR validat*
+    OR refin*
+  )
+  AND
+  (
+    "knowledge-guided"
+    OR "knowledge-informed"
+    OR "knowledge-based"
+    OR "knowledge graph*"
+    OR "semantic reasoning"
+  )
+)

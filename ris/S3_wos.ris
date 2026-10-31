@@ -1,0 +1,1473 @@
+﻿TY  - JOUR
+AU  - Massel, AG
+AU  - Mamedov, TG
+TI  - Integration of Semantic and Mathematical Modeling for the Analysis of Energy Security Problems
+T2  - AUTOMATIC DOCUMENTATION AND MATHEMATICAL LINGUISTICS
+AB  - This study addresses the problem of integrating cognitive and mathematical modeling in research on the development directions of the fuel and energy complex, taking into account energy security requirements. The relevance of the work is due to the fact that in the existing two-level research methodology, the transition from the results of qualitative analysis using cognitive modeling to the parameters of the mathematical model is largely performed manually, which reduces the reproducibility of numerical experiments and limits the efficiency of accumulated knowledge usage. The aim of the work is to develop a software component that ensures the combined use of cognitive and mathematical models within an Energy Knowledge Ecosystem. A software component is proposed that is implemented as part of the INTEC-SAW suite, which provides the transformation of changes in the cognitive model into the parameters of the economic-mathematical model, as well as the reverse interpretation of calculation results. Technology for conducting numerical experiments has been developed, including the construction of semantic (ontological and cognitive) models, formation of computational scenarios, execution of optimization calculations, and presentation of results, distinguished by the automation of the joint use of ontological, cognitive, and economic-mathematical models. To account for uncertainty, a numerical method of stochastic parameter adjustment based on cognitive weights is proposed. The effectiveness of the approach is demonstrated through a numerical experiment investigating the impact of CO2 emission constraints on the energy balances of the Siberian Federal District. The practical significance of the work lies in increasing the validity and reproducibility of research on the development of the fuel and energy complex through the coordinated use of qualitative and quantitative analysis tools.
+SN  - 0005-1055
+SN  - 1934-8371
+DA  - SEP
+PY  - 2026
+VL  - 60
+IS  - SUPPL 3
+SP  - S331
+EP  - S337
+DO  - 10.3103/S0005105526700615
+AN  - WOS:001873535100002
+ER  -
+
+TY  - JOUR
+AU  - Shimizu, K
+TI  - Eurocentrism and the construction of the 'self' in colonialism: The Okinawa-Japan relationality
+T2  - POLITICAL STUDIES REVIEW
+AB  - This paper examines how Japan colonised itself through the colonisation of Okinawa. While postcolonial scholarship has primarily focused on how colonised peoples were dominated and exploited under Eurocentrism, comparatively less attention has been paid to how non-Western colonisers internalised colonial norms within the international order and ontologically constituted themselves as modern subjects. This article seeks to address this gap. By analysing the Okinawa-Japan relations during the transition from the tributary system to the Westphalian order and subsequently within the post-war US-centred East Asian security architecture, the paper demonstrates that Eurocentrism operated not merely as a geopolitical ideology but as an ontological presupposition of stable and hierarchical subjects. It shows how Japan externalised violence onto Okinawa in order to consolidate its position as a legitimate member of the liberal international order. Finally, drawing on Mahayana Buddhist thought - particularly the doctrine of dependent origination and the concept of non-self - the article proposes an alternative ontology of relationality as a way to unsettle this fixed international order. Decolonisation, it argues, must therefore be understood not only as a political project but also as an ontological reconfiguration.
+SN  - 1478-9299
+SN  - 1478-9302
+DA  - 2026 JUL 8
+PY  - 2026
+DO  - 10.1177/14789299261456589
+C6  - JUL 2026
+AN  - WOS:001814900500001
+ER  -
+
+TY  - JOUR
+AU  - Chis, A
+AU  - Ghiran, AM
+AU  - Buchmann, RA
+TI  - A model-driven knowledge graph treatment for process-centric cyber threat mitigation
+T2  - KNOWLEDGE AND INFORMATION SYSTEMS
+AB  - Cybersecurity analysis touches on diverse interdisciplinary aspects, both technical and business-oriented, and diverse stakeholders from different backgrounds must be supported with a knowledge capture environment that operationalizes the "secure by design" principles while also ensuring semantic traceability of the design decisions, to enable AI-based analysis. This paper introduces a domain-specific modeling method supported by a process-centric visual language (a BPMN extension) to enable a knowledge graph treatment for designing cyber threats mitigations in tandem with business process engineering activities and associated data flows. The treatment is intended to be leveraged by LLM (large language model) services, therefore experimentation leans towards AI integration. The domain-specific modeling language (DSML) hybridizes BPMN and threat modeling, further subjected to model transformations into RDF graphs. A demonstrator is implemented on the ADOxx metamodeling platform and its interoperability/adapters for integration with triplestores and LLMs-this makes possible both SPARQL and natural language queries over the prescriptive diagrammatic designs, as analysis approaches. The proposed method can be used to describe contextualized cybersecurity threats during the design phase of a system or during IT system auditing. The integration bridge with knowledge graphs and large language models enhances the system analysis capabilities by streamlining heterogeneous knowledge flows comprising diagrammatic representation, RDF graphs and generative AI, towards an emerging flavor of model-driven engineering. The method was developed iteratively according to the Design Science framework, with its development activities specialized for the DSML-focused Agile Modeling Method Engineering framework.
+SN  - 0219-1377
+SN  - 0219-3116
+DA  - JUL 3
+PY  - 2026
+VL  - 68
+IS  - 1
+C7  - 210
+DO  - 10.1007/s10115-026-02819-w
+C6  - JUL 2026
+AN  - WOS:001810523900001
+ER  -
+
+TY  - JOUR
+AU  - Rohith, K
+AU  - Jain, A
+AU  - Shaik, MN
+TI  - A MITRE D3FEND guided blockchain based cyber resilient framework for IPv6 based 6G enabled healthcare networks
+T2  - SCIENTIFIC REPORTS
+AB  - The proliferation of Internet of Medical Things (IoMT) devices in 6G-enabled healthcare networks introduces critical cybersecurity challenges, including expanded attack surfaces, device heterogeneity, and real-time security requirements that traditional perimeter-based frameworks cannot adequately address. This paper proposes a Blockchain-Enabled Zero-Trust Architecture (B-ZTA), guided by the MITRE D3FEND defensive ontology, integrating Zero Trust micro-segmentation, a Random Forest-based intrusion detection system, and a lightweight Proof-of-Authority blockchain for deterministic policy enforcement. The framework is validated through MATLAB-based simulations rather than physical IoMT deployment, across 30 independent trials under diverse cyberattack scenarios in a simulated 62-device hospital environment. Under the evaluated scenarios, results indicate a 99.10% Threat Neutralization Rate, mean enforcement latency of 76.68 ms, and 95th percentile latency of 249.86 ms, satisfying 6G eMBB and mMTC latency requirements for IoMT monitoring use cases. Quantitative benchmarking against five state-of-the-art frameworks yields a composite security score of 91.8. These findings suggest promise for the B-ZTA approach within the simulated environment, with physical testbed validation and adversarial robustness evaluation identified as priority directions for future work.
+SN  - 2045-2322
+DA  - JUN 3
+PY  - 2026
+VL  - 16
+IS  - 1
+C7  - 23326
+DO  - 10.1038/s41598-026-56106-3
+C6  - JUN 2026
+AN  - WOS:001834927800001
+ER  -
+
+TY  - JOUR
+AU  - Wang, WB
+AU  - Zhang, Y
+AU  - Xue, T
+AU  - Zhang, HB
+AU  - Wang, YB
+TI  - NLACP Dataset Expansion With AI: Leveraging ChatGPT for Policy Generation
+T2  - IEEE INTERNET OF THINGS JOURNAL
+AB  - Natural language access control policies (NLACPs) play a pivotal role in access control systems, yet the scarcity of high-quality public datasets severely hinders advancements in natural language processing (NLP)/machine learning (ML)-driven policy automation. Existing datasets, constrained by labor-intensive manual curation, confidentiality barriers, and rigid synthesis methods, suffer from limited scale, semantic inconsistency, and poor adaptability to emerging domains such as smart healthcare and the Internet of Vehicles (IoV). To address this critical gap, we propose GenPy, a novel framework leveraging large language models (LLMs) like ChatGPT and domain-specific knowledge graphs to systematically generate scalable, semantically rich NLACP datasets. GenPy pioneers the integration of LLMs into NLACP synthesis, offering three core innovations: a generation module combining knowledge graphs with prompt engineering to produce diverse, domain-aligned policies; an annotation module employing few-shot learning to filter nonpolicy statements and ensure quality; and a policy management module resolving redundancies and conflicts while enabling conflict injection for optimization research. By embedding domain semantics (e.g., IoV compliance with automotive data laws), GenPy enriches traditional datasets and supports fine-grained policy requirements. Experiments demonstrate that GenPy generates more than 5000 high-quality NLACPs across multiple domains, achieving an F1-score of exceeding 93% in NLACP classification tasks. Notably, augmenting the classification models in RAGent with GenPy-generated data improves NLACP classification accuracy by 2%-9%, validating its practical utility. Our work establishes the first LLM-based pipeline that integrates knowledge graphs with customizable prompts to generate semantically rich NLACPs, supporting fine-grained access control models, NLACP identification, and policy management across diverse security requirements. We provide an open-source repository of policies, code, and technical frameworks to catalyze future research in access control automation. The dataset and implementation are publicly available at https://github.com/fe1w0/NLACP-LLM
+SN  - 2327-4662
+DA  - APR 15
+PY  - 2026
+VL  - 13
+IS  - 8
+SP  - 16148
+EP  - 16168
+DO  - 10.1109/JIOT.2026.3658885
+AN  - WOS:001736012900024
+ER  -
+
+TY  - JOUR
+AU  - Albalwy, F
+TI  - Zero-Knowledge-Based Policy Enforcement for Privacy-Preserving Cross-Institutional Health Data Sharing on Blockchain
+T2  - SYSTEMS
+AB  - This study presents ZK-EHR, a decentralized access control framework designed to enable secure and privacy-preserving sharing of encrypted electronic health records across institutional boundaries. Unlike existing blockchain-based EHR access control systems that expose user identities on-chain or lack cryptographic privacy guarantees, ZK-EHR decouples authorization from identity disclosure by integrating zk-SNARK-based proofs with blockchain smart contracts to verify policy compliance without revealing user roles, affiliations, or credentials. The framework employs three differentiated actor roles-Patient (Data Owner), Doctor (Care Provider), and Researcher (Authorized Analyst)-with distinct policy-driven access workflows, a custom Groth16 zero-knowledge circuit for role-based constraint enforcement, and a modular architecture combining on-chain verification with off-chain encrypted storage via IPFS. Concrete design proposals for access revocation and replay attack prevention are introduced to address operational security requirements. The system was evaluated under multiple operational and adversarial scenarios. Experimental results indicate consistent on-chain verification latency (approximately 390 ms), reliable rejection of tampered submissions, and per-verification gas consumption of 216,631 gas. A comparative analysis against representative baseline systems demonstrates that ZK-EHR uniquely combines identity anonymity, on-chain cryptographic policy enforcement, and auditable encrypted record retrieval. These findings establish the feasibility of zk-SNARK-based access control for decentralized, verifiable, and privacy-aware EHR management.
+SN  - 2079-8954
+DA  - APR 2
+PY  - 2026
+VL  - 14
+IS  - 4
+C7  - 385
+DO  - 10.3390/systems14040385
+C6  - APR 2026
+AN  - WOS:001750309100001
+ER  -
+
+TY  - JOUR
+AU  - Sazdovski, A
+TI  - 'We Were Here First!': Autochthonism, Territorialization of Heritage, and the Pursuit of Ontological Security in Macedonia
+T2  - JOURNAL OF WAR & CULTURE STUDIES
+AB  - The article explores how the constitutional changes introduced with the Ohrid Framework Agreement that altered the Macedonian character of the State, came to be widely perceived by many ethnic Macedonians as the source of ontological insecurity. Introducing the concept of ontological security requirements, the article also shows how and why the 'Macedonian' character of the State became ethnic Macedonians' primary ontological security requirement. It further demonstrates that the idea of autochthonism emerged as the State's strategy in the pursuit of ontological security and has been the driving force behind the numerous State-sponsored cultural interventions in the Macedonian public space, culminating in the 'Skopje 2014 project', aimed at visually and materially conveying the autobiographical narrative of autochthonism. To further develop this argument, the article also introduces the concept of 'territorialization of heritage', which together with autochthonism became the strategy for reasserting ownership of the State and for addressing the ontological anxiety.
+SN  - 1752-6272
+SN  - 1752-6280
+DA  - 2026 MAR 18
+PY  - 2026
+DO  - 10.1080/17526272.2026.2644739
+C6  - MAR 2026
+AN  - WOS:001720575300001
+ER  -
+
+TY  - JOUR
+AU  - Wen, SF
+TI  - Ontological Foundations for Deterministic Assurance Context Construction and Governed AI Reasoning
+T2  - APPLIED SCIENCES-BASEL
+AB  - Security assurance aims to provide justified confidence that a system satisfies its security requirements under defined contextual conditions. In practice, assurance context is often handled implicitly, with assumptions, scope limitations, and boundary conditions embedded in documentation or expert judgment. This limits auditability, reproducibility, and governance, particularly in continuous assurance settings and workflows that rely on automation and AI-assisted reasoning. When reasoning operates over incomplete or underspecified context, implicit assumption formation can alter the basis of assurance conclusions. This paper introduces the Security Assurance Context Ontology (SACO), which reframes assurance context construction and evolution as explicit semantic and governance problems. SACO represents assurance-relevant context elements, their relationships, provenance, and epistemic status as authoritative semantic structures. Missing but required information is preserved as explicit semantic gaps that delimit when assurance claims may be authoritatively accepted. A strict separation between authoritative assurance context and advisory reasoning outputs constrains how automated or AI-assisted analysis may influence the assurance basis. The paper further presents a deterministic realization model for assurance context construction and evolution, where determinism applies to reconstructing authoritative context states from governed inputs.
+SN  - 2076-3417
+DA  - FEB 17
+PY  - 2026
+VL  - 16
+IS  - 4
+C7  - 1984
+DO  - 10.3390/app16041984
+AN  - WOS:001699856500001
+ER  -
+
+TY  - JOUR
+AU  - Siegwart, C
+AU  - Krammel, M
+AU  - Scherhag, F
+AU  - Frey, G
+TI  - Assessment of Supply Chain Security Maturity: Knowledge Graph as a Foundation for Digital Security Supplier Management
+T2  - ATP MAGAZINE
+AB  - This article presents the current legal and regulatory security requirements for companies and their complex supply chains between operators, service providers, and suppliers. Mastering these requirements calls for efficient processes and semantic modeling of information. Therefore, a risk-based, platform-supported process is presented that evaluates and monitors the security maturity level of the supply chain. An important basis for this approach is the expertise of security experts. To reduce manual effort, the development of a knowledge graph is presented, which, together with generative AI, can support the process.
+SN  - 2190-4111
+SN  - 2364-3137
+PY  - 2026
+IS  - 3
+SP  - 48
+EP  - 59
+AN  - WOS:001793231300016
+ER  -
+
+TY  - JOUR
+AU  - Park, SH
+AU  - Lee, SW
+TI  - Multi-Perspective Security Risk Assessment for APT Attacks in CPS Environments
+T2  - IEEE ACCESS
+AB  - In today's rapidly evolving digital landscape, organizations confront increasingly sophisticated cyber threats with profound political, economic, and social implications. Among them, Advanced Persistent Threats (APTs) are particularly critical due to their persistence, strategic intent, and multi-stage lifecycles that compromise diverse assets while evading detection. Meanwhile, the emergence of cyber-physical-social (CPS) systems has created complex environments in which cyber, physical, and social domains are tightly interlinked. Traditional approaches-such as attack trees, attack patterns, cyber kill-chain models, and conventional risk assessment methods-remain limited, as they emphasize technology-level analysis and isolated countermeasures but fail to adequately capture multi-layered dependencies and adaptive APT behavior. To address these limitations, this study proposes a unified security risk assessment framework for CPS environments. The framework integrates four key components: (1) knowledge-based APT attack scenario generation and TTP-driven threat modeling; (2) construction of a Mission-Critical Target System (MCTS) comprising vertically and horizontally interconnected layers with extended criticality evaluation; (3) adaptive security requirements engineering to support continuous identification, specification, and refinement of defense measures; and (4) evidence-based risk assessment that incorporates technical, organizational, and social interdependencies to enable iterative, layered defense planning. Ontology-supported knowledge representation is employed to structure threats, assets, and security requirements and to improve traceability and auditability, while risk likelihoods are updated through evidence-driven evaluation rather than automated semantic inference. Validated through theoretical analysis and empirical case studies, the framework effectively captures the dynamic and multidimensional characteristics of APT behavior in CPS contexts and demonstrates improved comprehensiveness, precision, adaptability, and practical relevance compared with traditional assessment approaches.
+SN  - 2169-3536
+PY  - 2026
+VL  - 14
+SP  - 35790
+EP  - 35814
+DO  - 10.1109/ACCESS.2026.3670930
+AN  - WOS:001711095900006
+ER  -
+
+TY  - JOUR
+AU  - Oranekwu, I
+AU  - Elluri, L
+AU  - Yus, R
+AU  - Kotal, A
+TI  - Scalable automation for IoT cyberSecurity compliance: Ontology-driven reasoning for real-time assessment
+T2  - COMPUTERS & SECURITY
+AB  - In recent years, the rapid expansion of the Internet of Things (IoT) has introduced significant cybersecurity challenges, requiring manufacturers to comply with various regulatory frameworks and cybersecurity standards. Hence, to protect user data and privacy, all organizations providing IoT devices must adhere to complex guidelines such as the National Institute of Standards and Technology Inter-Agency Report (NISTIR) 8259, which defines essential cybersecurity guidelines for IoT manufacturers. However, interpreting and applying these rules from these guidelines remains a significant challenge for companies. Previously, our Automated Knowledge Framework for IoT Cybersecurity Compliance, leveraged SWRL, SPARQL queries, Web Ontology Language and Visualization (OWL Viz), Semantic Web technologies, Large Language Models (LLMs), and Retrieval Augmented Generation (RAG) pipeline to automate compliance assessment of multiple Functional requirement documents (FRDs), while systematically cross-checking Business requirement documents (BRDs) against them (Oranekwu et al., 2024). However, these efforts primarily focused on mapping NISTIR 8259 guidelines into a structured ontology laying the foundation for us to build, expand on, and then integrate the IoT Cybersecurity Improvement Act of 2020 into the compliance framework. Furthermore, exploring its big data capability, the Knowledge Graph (KG) has been expanded and populated with more than 800 manufacturer privacy policy instances, allowing direct comparison between manufacturer-defined data properties, object properties, and regulatory compliance expectations. The primary objective is to evaluate the effectiveness of this enhanced version of the framework in identifying policy non-compliance by comparing triples extracted from privacy policies against the structured knowledge representation. Through this approach, our goal is to automate compliance verification by examining the relationships between manufacturers, security requirements, and regulatory obligations, offering a scalable solution for the security governance of IoT.
+SN  - 0167-4048
+SN  - 1872-6208
+DA  - FEB
+PY  - 2026
+VL  - 161
+C7  - 104711
+DO  - 10.1016/j.cose.2025.104711
+C6  - NOV 2025
+AN  - WOS:001621276400001
+ER  -
+
+TY  - JOUR
+AU  - Loch, T
+AU  - Rink, M
+TI  - Transformation of the German Armed Forces in terms of form and function within the German security architecture since 1990
+T2  - MILITARGESCHICHTLICHE ZEITSCHRIFT
+AB  - This special issue offers an insight into a research project at the Bundeswehr Center for Military History and Social Sciences on the history of the German armed forces after 1990. The articles presented here approach this history of the Bundeswehr in the >> era of foreign deployments << (>> & Auml;ra der Auslandseins & auml;tze <<) from different perspectives. However, the starting point is no longer the foreign deployment itself. Instead, the project aims to shed light on the political conditions and determining factors of military missions abroad. Thus, the foreign mission no longer emerges as a quasi-objective and static ontological entity, but rather as a field of action characterized by dynamic change. This already applies to the perspective-bound and time-varying definition of deployment. At least at the beginning of the 1990s, however, the competence to plan and order foreign missions was also controversial. Although the German military was subject to the primacy of politics with regard to decisions on deployments, it nevertheless had room for maneuver that had an impact on the political sphere. The aim of this special issue is to shed light on German politics.
+SN  - 2193-2336
+SN  - 2196-6850
+DA  - NOV 3
+PY  - 2025
+VL  - 84
+IS  - 2
+SP  - 305
+EP  - 321
+DO  - 10.1515/mgzs-2025-0053
+AN  - WOS:001629828900025
+ER  -
+
+TY  - JOUR
+AU  - Ang, KW
+AU  - Chekole, EG
+AU  - Zhou, JY
+TI  - Unveiling the Covert Vulnerabilities in Multi-Factor Authentication Protocols: A Systematic Review and Security Analysis
+T2  - ACM COMPUTING SURVEYS
+AB  - Nowadays, cyberattacks are growing at an alarming rate, causing widespread havoc to the digital community. In particular, authentication attacks have become a dominant attack vector, allowing intruders to impersonate legitimate users and maliciously access resources. Traditional single-factor authentication (SFA) protocols, which rely on a single authentication factor, are often insufficient to address the growing sophistication of modern cyberattacks. To address the shortcomings in SFA, multi-factor authentication (MFA) protocols have been widely adopted in recent years, raising the security bar against impostors and restricting unauthorized accesses. MFA enhances security by incorporating multiple authentication factors, such as knowledge-based (e.g., passwords), possession-based (e.g., tokens), and inherent-based factors (e.g., biometrics), among others. However, while MFA is generally considered more secure than SFA, it is not foolproof. Because, critical vulnerabilities may still arise due to design or implementation flaws in MFA protocols. These vulnerabilities are often overlooked by designers or users and remain undetected until exploited by attackers, potentially resulting in catastrophic consequences. Unfortunately, existing works failed to adequately analyze and identify most of such critical security flaws in MFA protocols. In this work, we systematically analyze the intricate design and construction of MFA protocols to uncover potential design-level security flaws. To this end, we first define eight security evaluation criteria that are essential to critically evaluate design-level security flaws of MFA protocols. These criteria are primarily derived from existing and newly introduced MFA security requirements. We then review a range of MFA protocols across various domains. Using our established evaluation criteria, we perform a systematic security analysis and evaluation of these protocols, particularly focusing on their design and construction. Ultimately, we uncover several security flaws in most of the MFA protocols evaluated. Due to space limitation, we select ten of those protocols for deeper security analysis and provide a detailed discussion of the respective flaws identified. Additionally, we devised relevant mitigation strategies for each of the flaws identified. We believe that our findings provide valuable insights to cybersecurity researchers and practitioners to help them address a wide range of security flaws in MFA protocols.
+SN  - 0360-0300
+SN  - 1557-7341
+DA  - NOV
+PY  - 2025
+VL  - 57
+IS  - 11
+C7  - 293
+DO  - 10.1145/3734864
+AN  - WOS:001533533100001
+ER  -
+
+TY  - JOUR
+AU  - Spyropoulos, AZ
+AU  - Tsiantos, V
+TI  - Interoperable Semantic Systems in Public Administration: AI-Driven Data Mining from Law-Enforcement Reports
+T2  - COMPUTERS
+AB  - The digitisation of law-enforcement archives is examined with the aim of moving from static analogue records to interoperable semantic information systems. A step-by-step framework for optimal digitisation is proposed, grounded in archival best practice and enriched with artificial-intelligence and semantic-web technologies. Emphasis is placed on semantic data representation, which renders information actionable, searchable, interlinked, and automatically processed. As a proof of concept, a large language model-OpenAI ChatGPT, version o3-was applied to a corpus of narrative police reports, extracting and classifying key entities (metadata, persons, addresses, vehicles, incidents, fingerprints, and inter-entity relationships). The output was converted to Resource Description Framework triples and ingested into a triplestore, demonstrating how unstructured text can be transformed into machine-readable, interoperable data with minimal human intervention. The approach's challenges-technical complexity, data quality assurance, information-security requirements, and staff training-are analysed alongside the opportunities it affords, such as accelerated access to records, cross-agency interoperability, and advanced analytics for investigative and strategic decision-making. Combining systematic digitisation, AI-driven data extraction, and rigorous semantic modelling ultimately delivers a fully interoperable information environment for law-enforcement agencies, enhancing efficiency, transparency, and evidentiary integrity.
+SN  - 2073-431X
+DA  - SEP 8
+PY  - 2025
+VL  - 14
+IS  - 9
+C7  - 376
+DO  - 10.3390/computers14090376
+AN  - WOS:001579575000001
+ER  -
+
+TY  - JOUR
+AU  - Hnaini, H
+AU  - Mazo, R
+AU  - Vallejo, P
+AU  - López, A
+AU  - Champeau, J
+TI  - Enhancing security requirements specification with SECRET-SCORE: A template-driven and ontology-based approach
+T2  - COMPUTERS & SECURITY
+AB  - In our rapidly changing world, where technology is integral to every aspect of our lives, ensuring our systems' security is paramount. As industries become increasingly interconnected, the risk of security vulnerabilities and targeted attacks increases. Establishing robust security requirements is crucial to safeguard sensitive information and protect against malicious threats. To simplify and improve the quality of these requirements, researchers have proposed templates or boilerplates that can guide requirements engineers when defining requirements. However, this approach can help define the requirement structure without suggesting what security requirements to define to have a well-secured system. This paper proposes a guided strategy that combines (i) SECRET (SECurity REquirements specification Template) for a guided specification of each requirement and (ii) SCORE (Security Criteria Ontology for security Requirements Engineering) to suggest additional security requirements. We implemented the SECRET-SCORE approach using an autocomplete service that connects the SECRET template to the SCORE ontology. We then used the service to create a new language for security requirements in the VariaMos online tool. Finally, to test the usability of the implemented language, we conducted a usability test that reported high results in usability and user satisfaction with the developed tool.
+SN  - 0167-4048
+SN  - 1872-6208
+DA  - OCT
+PY  - 2025
+VL  - 157
+C7  - 104605
+DO  - 10.1016/j.cose.2025.104605
+C6  - AUG 2025
+AN  - WOS:001545034900001
+ER  -
+
+TY  - JOUR
+AU  - Hosseini, AM
+AU  - Kastner, W
+AU  - Sauter, T
+TI  - Ontology Framework Supporting Security-By-Design of Industrial Control Systems
+T2  - IEEE TRANSACTIONS ON INDUSTRIAL INFORMATICS
+AB  - Ensuring cybersecurity in Industrial Control Systems (ICSs) is essential, as cyber-attacks can lead to substantial economic losses and serious safety hazards. Addressing security early in the product and system life cycle is crucial to preventing expensive fixes and severe consequences later. Since requirements engineering and system architecture design are early activities in system development and are interconnected in nature, it is essential to begin integrating security into these activities. IEC 62443 is a widely used ICS cybersecurity standard that provides security requirements and architectural guidance; however, it relies heavily on human experts and manual effort, making the implementation of the standard costly and time-consuming. This article proposes an ontological framework that supports the integrated engineering of security requirements and system architectures, aiming to achieve security by design and conformance with IEC 62443 with reduced reliance on human experts. To evaluate the quality and usability of the proposed ontology, we examine a use case for requirements elicitation and validation scenarios. The findings highlight the potential of ontological approaches in improving ICS cybersecurity, particularly in terms of standard compliance.
+SN  - 1551-3203
+SN  - 1941-0050
+DA  - SEP
+PY  - 2025
+VL  - 21
+IS  - 9
+SP  - 7188
+EP  - 7197
+DO  - 10.1109/TII.2025.3574694
+C6  - JUN 2025
+AN  - WOS:001512683500001
+ER  -
+
+TY  - JOUR
+AU  - Rosyidin, M
+AU  - Rum, M
+AU  - Nandyatama, RW
+TI  - Norms as a status marker: social creativity and Indonesia's recognition game in the indo-Pacific
+T2  - CONTEMPORARY POLITICS
+AB  - Recent studies on Indonesia's foreign policy in the Indo-Pacific have been analysed using the concept of middle power diplomacy. Despite its strengths, it lacks subjective dimensions of status since it emphasises the fundamental features of Indonesia's behavioural traits. This paper offers a novel account of Indonesia's vision for the Indo-Pacific by focusing on the ideas of 'dynamic equilibrium' and 'ASEAN Outlook on the Indo-Pacific'. Using Social Identity Theory (SIT), it argues that these concepts represent Indonesia's social creativity strategy in order to be recognised as a regional great power. Rather than reflecting Indonesia's middle power diplomacy, both 'dynamic equilibrium' and 'ASEAN Outlook on the Indo-Pacific' are the country's recognition game to improve its standing in twenty-first- century global politics. By advocating new normative frameworks for Indo-Pacific security architecture, Indonesia avoids demonstrating a revisionist foreign policy, which would elicit a negative response from great powers.
+SN  - 1356-9775
+SN  - 1469-3631
+DA  - MAR 15
+PY  - 2026
+VL  - 32
+IS  - 2
+SP  - 196
+EP  - 221
+DO  - 10.1080/13569775.2025.2503963
+C6  - MAY 2025
+AN  - WOS:001489387200001
+ER  -
+
+TY  - JOUR
+AU  - Zhang, YM
+AU  - Yang, ZY
+AU  - Liu, XL
+TI  - A Digital Grid Security Architecture Based on Quantum Key Interaction and Web Engineering for Distributed Energy Systems
+T2  - JOURNAL OF WEB ENGINEERING
+AB  - The modernization of distributed energy systems introduces complex cybersecurity challenges as grid infrastructures become increasingly digitized, decentralized, and web-connected. This paper presents a novel security architecture that integrates quantum key distribution (QKD) with semantic web technologies to provide end-to-end secure, scalable, and adaptive protection for distributed energy resource (DER) networks. The proposed framework features a modular system design, incorporating BB84-based QKD protocols for quantum-resilient key generation, a metadata-driven policy layer using OWL ontologies and SWRL reasoning, and a web interface for operator access and real-time monitoring. Extensive performance evaluation in a simulated multi-domain microgrid environment demonstrates that the system achieves an average key generation rate of 2.3 kbps with quantum bit error rate (QBER) maintained below 5.2% across 40 km optical links. Session establishment latency averaged 435 ms, 29.8% lower than a traditional TLS/PKI baseline, while semantic access validation achieved 100% accuracy in 42 adversarial test cases. These cases were evaluated using automated semantic validation scripts simulating spoofed roles, malformed sessions, and unauthorized requests. The system sustained encrypted throughput of 110 messages per second per node and maintained service continuity under quantum noise and cross-domain attack simulations. Usability trials with six engineers yielded a system usability scale (SUS) score of 88.3, and the average DER onboarding time was reduced from 10.1 to 5.5 minutes. These findings affirm that QKD-enhanced, semantically governed web architectures can provide strong cryptographic guarantees while supporting dynamic policy enforcement and intuitive user workflows. The proposed solution demonstrates a viable path for deploying future-proof security mechanisms in next-generation smart grid environments.
+SN  - 1540-9589
+SN  - 1544-5976
+PY  - 2025
+VL  - 24
+IS  - 6
+SP  - 997
+EP  - 1022
+DO  - 10.13052/jwe1540-9589.2466
+AN  - WOS:001619421300006
+ER  -
+
+TY  - JOUR
+AU  - Liu, XZ
+AU  - Cui, J
+AU  - Zhang, J
+AU  - Yin, RW
+AU  - Zhong, H
+AU  - Wei, L
+AU  - Bolodurina, I
+AU  - He, DB
+TI  - BAST: Blockchain-Assisted Secure and Traceable Data Sharing Scheme for Vehicular Networks
+T2  - IEEE TRANSACTIONS ON INFORMATION FORENSICS AND SECURITY
+AB  - In vehicular networks, caching service content on edge servers (ESs) is a widely accepted strategy for promptly responding to vehicle requests, reducing communication overhead, and improving service experience. However, implementing such an architecture requires addressing the challenges associated with ES response data reliability and communication security. In this study, to tackle the ES response data reliability issue, a blockchain-assisted threshold signature scheme for cache-based vehicular networks is proposed. The scheme utilizes a threshold mechanism to sign the data broadcast by the ES, incorporates blockchain to trace malicious signers, and avoids the shortcomings and limitations associated with idealized assumptions for the ES in existing data-sharing schemes. Moreover, considering the communication security and high-speed mobility of vehicles, using the non-interactive signatures of knowledge based on the $\Sigma $ -protocol, a secure and efficient message authentication scheme for vehicles and ESs is provided. Through rigorous security proofs and comprehensive analyses, our scheme satisfies the communication security requirements of vehicular networks. By leveraging the JPBC library for performance analysis, the proposed scheme demonstrates advantages as concerns both computation and communication overheads compared to related schemes. Moreover, we implemented the proposed scheme on an Ethereum test network (i.e., Goerli) to validate its feasibility.
+SN  - 1556-6013
+SN  - 1556-6021
+PY  - 2025
+VL  - 20
+SP  - 4664
+EP  - 4678
+DO  - 10.1109/TIFS.2025.3565372
+AN  - WOS:001484671700002
+ER  -
+
+TY  - JOUR
+AU  - Jarwar, MA
+AU  - Watson, J
+AU  - Ali, S
+TI  - Modeling Industrial IoT Security Using Ontologies: A Systematic Review
+T2  - IEEE OPEN JOURNAL OF THE COMMUNICATIONS SOCIETY
+AB  - The significance of Industrial Internet of Things (IIoT) is undeniable, yet many critical industries remain hesitant to adopt it due to fundamental security, transparency and safety concerns. Developing a mechanism to address these concerns is challenging, as it involves a large number of heterogeneous devices, complex relations and human-machine contextual factors. This article presents a comprehensive analysis through a systematic review of ontologies and key security attributes essential for modelling the security of IIoT environments. Our review includes an extensive analysis of research articles, semantic security ontologies, and cybersecurity standards. Through this analysis, we identify critical security concepts and attributes, which can be leveraged to develop standardised security ontologies tailored for IIoT. Additionally, we explore the potential of integrating ontologies into the Industry 5.0 paradigm, which emphasises human-centricity, resilience, and sustainability. While ontologies offer structured modelling capabilities, their alignment with Industry 5.0's unique collaborative and adaptive security needs remains limited. Our review suggests that existing security ontologies are not fully aligned with security goals, exposing many important research gaps. These gaps include areas such as semantic mapping techniques, security-by-design ontologies, holistic security standards, and ontologies that address the sociotechnical aspects of IIoT.
+SN  - 2644-125X
+PY  - 2025
+VL  - 6
+SP  - 2792
+EP  - 2821
+DO  - 10.1109/OJCOMS.2025.3532224
+AN  - WOS:001470363400014
+ER  -
+
+TY  - JOUR
+AU  - Hosseini, AM
+AU  - Kastner, W
+AU  - Sauter, T
+TI  - Leveraging LLMs and Knowledge Graphs to Design Secure Automation Systems
+T2  - IEEE OPEN JOURNAL OF THE INDUSTRIAL ELECTRONICS SOCIETY
+AB  - The digital transformation of Industrial Control Systems (ICSs) within the Industry 4.0 paradigm is essential for industrial organizations to remain competitive, while cybersecurity is an enabler. However, security measures, often implemented late in the engineering process, lead to costly and complicated implementations. Thus, this article is concerned with the "security by design" principle in ICSs and facilitates compliance with ICS security standards, which can be legally mandated for some critical systems or adopted by asset owners to protect their assets. Current methods for compliance demand manual efforts from security experts, making the compliance process time-consuming and costly. To address this, we propose a framework for leveraging large language models (LLMs) combined with knowledge graphs to automate the interpretation of security requirements and system architecture as two main elements of the design phase. Our knowledge graph-augmented LLM framework converts system architectures into human natural language, enhancing the automation of various security analyses, especially those that need to handle textual requirements. The framework enables validating applicable security requirements provided by IEC 62443-3-3 (a widely-used ICS security standard) concerning system designs through a question-and-answer interface. To evaluate the framework, various questions with reference responses from human experts were prepared in the context of a use case, and the quality of the LLMs' responses was measured across various metrics. Moreover, we compared the framework with a baseline approach based on formal queries. The results show that the proposed framework effectively automates security tasks and offers a user-friendly interface accessible to nonexperts.
+SN  - 2644-1284
+PY  - 2025
+VL  - 6
+SP  - 380
+EP  - 395
+DO  - 10.1109/OJIES.2025.3545811
+AN  - WOS:001447501900001
+ER  -
+
+TY  - JOUR
+AU  - Castiglione, G
+AU  - Bella, G
+AU  - Santamaria, DF
+TI  - SecOnto: Ontological Representation of Security Directives
+T2  - COMPUTERS & SECURITY
+AB  - The current digital landscape demands robust security requirements and, for doing so, the institutions enact complex security directives to protect the citizens and the infrastructures, particularly in the European Union. These directives aim to safeguard data and harmonise security across the European region, and institutions must navigate this evolving legal landscape in order to implement and keep up-to-date the prescribed security measures. However, understanding and implementing these directives towards full compliance can be difficult and expensive. Ontological representation can be employed to represent and operationalise such security directives, ultimately contributing to the effectiveness and efficiency of the compliance process. Ontologies in fact promote a structured approach to represent knowledge, making the applicable directives more simply understandable by humans and more readily processable by machines. This article introduces SecOnto, a novel methodology for representing security directives as ontologies. SecOnto breaks down the process of transforming the juridical language of modern security directives into full-fledged ontologies by means of five semi-automated steps: Preprocessing, Interpretation, Structuring, Representation and Verification. Each step is described and validated by means of operational examples based upon Directive 2022/2555 of the European Parliament and of the Council of the European Union on security of network and information systems, better known as NIS 2.
+SN  - 0167-4048
+SN  - 1872-6208
+DA  - JAN
+PY  - 2025
+VL  - 148
+C7  - 104150
+DO  - 10.1016/j.cose.2024.104150
+C6  - OCT 2024
+AN  - WOS:001343827800001
+ER  -
+
+TY  - JOUR
+AU  - Wasfi, H
+AU  - Stone, R
+AU  - Genschel, U
+TI  - Word-Pattern: Enhancement of Usability and Security of User-Chosen Recognition Textual Password
+T2  - INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS
+AB  - Knowledge-based authentication systems are the most common methods used to verify users' identity, especially textual passwords. However, periodic changes in password complexity exacerbate human's limitations of remembering hard passwords over time. Therefore, a novel authentication method called Word Pattern Recognition Textual Password (WPRTP) was proposed to overcome these issues. WPRTP is based on drawing pattern on a grid with a specific security requirement to balance between usability and security. This paper aims to compare WPRTP with a recall passphrase to explore its potential for enhancing user experience, usability, and security. Fiftyfour users evaluated the efficiency of WPRTP on memorability, registration time, and login time. The results indicated that WPRTP is significantly more memorable over long-term periods, with a 100% success rate, and required less registration time (29 seconds for WPRTP and 122 seconds for recall passphrase). Additionally, WPRTP users demonstrated faster login times (20 seconds for WPRTP and 42 seconds for recall passphrase). Thus, WPRTP is a potential alternative to conventional authentication methods. Future work will focus on systematically managing and reducing the tendency among users to depend on familiar, repetitive patterns in the creation of a weak password.
+SN  - 2158-107X
+SN  - 2156-5570
+DA  - JUN
+PY  - 2024
+VL  - 15
+IS  - 6
+SP  - 30
+EP  - 37
+AN  - WOS:001277907800001
+ER  -
+
+TY  - JOUR
+AU  - Lu, L
+AU  - Zhong, Y
+AU  - Luo, SQ
+AU  - Liu, SC
+AU  - Xiao, ZZ
+AU  - Ding, JR
+AU  - Shao, J
+AU  - Fu, HL
+AU  - Xu, J
+TI  - Dilemmas and prospects of artificial intelligence technology in the data management of medical informatization in China: A new perspective on SPRAY-type AI applications
+T2  - HEALTH INFORMATICS JOURNAL
+AB  - Objectives: This study aims to address the critical challenges of data integrity, accuracy, consistency, and precision in the application of electronic medical record (EMR) data within the healthcare sector, particularly within the context of Chinese medical information data management. The research seeks to propose a solution in the form of a medical metadata governance framework that is efficient and suitable for clinical research and transformation. Methods: The article begins by outlining the background of medical information data management and reviews the advancements in artificial intelligence (AI) technology relevant to the field. It then introduces the "Service, Patient, Regression, base/Away, Yeast" (SPRAY)-type AI application as a case study to illustrate the potential of AI in EMR data management. Results: The research identifies the scarcity of scientific research on the transformation of EMR data in Chinese hospitals and proposes a medical metadata governance framework as a solution. This framework is designed to achieve scientific governance of clinical data by integrating metadata management and master data management, grounded in clinical practices, medical disciplines, and scientific exploration. Furthermore, it incorporates an information privacy security architecture to ensure data protection. Conclusion: The proposed medical metadata governance framework, supported by AI technology, offers a structured approach to managing and transforming EMR data into valuable scientific research outcomes. This framework provides guidance for the identification, cleaning, mining, and deep application of EMR data, thereby addressing the bottlenecks currently faced in the healthcare scenario and paving the way for more effective clinical research and data-driven decision-making.
+SN  - 1460-4582
+SN  - 1741-2811
+DA  - APR
+PY  - 2024
+VL  - 30
+IS  - 2
+C7  - 14604582241262961
+DO  - 10.1177/14604582241262961
+AN  - WOS:001248796000001
+ER  -
+
+TY  - JOUR
+AU  - Hnaini, H
+AU  - Mazo, R
+AU  - Champeau, J
+AU  - Vallejo, P
+AU  - Galindo, J
+TI  - E-SCORE: A web-based tool for security requirements engineering
+T2  - SOFTWAREX
+AB  - As digital systems continue to grow in popularity, they also become more vulnerable to various forms of attacks with various motives, including financial gain and political influence. In response, engineers must consider system security from the design phase. However, defining security requirements at this stage can be challenging. To address this challenge, we propose E-SCORE, a web-based tool that streamlines the security requirements engineering process. E-SCORE implements the SCORE (Security Criteria Ontology for security Requirements Engineering) (i) to suggest security mechanisms and additional criteria to enhance security coverage and (ii) to facilitate security analysis of the system. An example of banking system usage is provided. Through our approach, we could define ten additional security requirements for a single requirement. Therefore, E-SCORE offers a valuable resource for engineers to ensure the security of digital systems across various domains.
+SN  - 2352-7110
+DA  - MAY
+PY  - 2024
+VL  - 26
+C7  - 101704
+DO  - 10.1016/j.softx.2024.101704
+C6  - APR 2024
+AN  - WOS:001222399600001
+ER  -
+
+TY  - JOUR
+AU  - Del-Real, C
+AU  - De Busser, E
+AU  - van den Berg, B
+TI  - Shielding software systems: A comparison of security by design and privacy by design based on a systematic literature review
+T2  - COMPUTER LAW & SECURITY REVIEW
+AB  - Background: The design of software systems plays a crucial role in mitigating cybersecurity incidents. Security by Design (SbD) aims to ensure foundational security throughout the design process. However, it lacks a precise interdisciplinary definition. Comparing it with Privacy by Design (PbD), which has seen more conceptual development, highlights the need for a comprehensive understanding of SbD. Objectives: This study systematically searches and reviews relevant definitions of SbD in comparison with PbD. Method: Following PRISMA guidelines, we conducted a systematic review of SbD and PbD definitions, searching ACM Digital Library, EBSCO Library, IEEE Xplore, ProQuest, Scopus, and Web of Science. A total of 46 studies were included, identifying 86 definitions. Thirteen themes were identified, including ontology, object of protection, outcome to avoid, means of implementation, added value, and focus of the definition. Results: Definitions varied in their descriptions of SbD and PbD, the objects of protection, outcomes to avoid, means of implementation, and lifecycle focus. PbD definitions adopted a rights-based approach, anchored in Ann Cavoukian's principles and an interdisciplinary perspective. Discussion: SbD and PbD definitions lack clarity and uniformity. PbD is better defined, while SbD lacks anchorage and has varied approaches. Both should protect individuals and organizations, address cyber-attacks, and be implemented early in the development process. PbD is more comprehensive, involving technology and organization, while SbD focuses mainly on the technical product. PbD is associated with recognized rights, but the connection between SbD and human rights is unclear. Future research should clarify the specific value protected by SbD, adopt principles from PbD, and take an interdisciplinary approach.
+SN  - 2212-473X
+SN  - 2212-4748
+DA  - APR
+PY  - 2024
+VL  - 52
+C7  - 105933
+DO  - 10.1016/j.clsr.2023.105933
+C6  - JAN 2024
+AN  - WOS:001155743400001
+ER  -
+
+TY  - JOUR
+AU  - Blanco, C
+AU  - Rosado, DG
+AU  - Varela-Vaca, AJ
+AU  - Gómez-López, MT
+AU  - Fernández-Medina, E
+TI  - Onto-CARMEN: Ontology-driven approach for Cyber-Physical System Security Requirements meta-modelling and reasoning
+T2  - INTERNET OF THINGS
+AB  - In the last years, Cyber-physical systems (CPS) have attracted substantial mainstream, especially in the industrial sector, since they have become the focus of cyber-attacks. CPS are complex systems that encompass a great variety of hardware and software components with a countless number of configurations and features. For this reason, the construction, validation, and diagnosis of security in CPS become a major challenge. An invalid security requirement for the CPS can produce partial or incomplete configuration, even misconfigurations, and hence catastrophic consequences. Therefore, it is crucial to ensure the validation of the security requirements specification from the earlier design stages. To this end, Onto-CARMEN is proposed, a semantic approach that enables the automatic verification and diagnosis of security requirements according to the ENISA and OWASP recommendations. Our approach provides a mechanism for the specification of security requirements on top of ontologies, and automatic diagnosis through semantic axioms and SPARQL rules. The approach has been validated using security requirements from a real case study.
+SN  - 2543-1536
+SN  - 2542-6605
+DA  - DEC
+PY  - 2023
+VL  - 24
+C7  - 100989
+DO  - 10.1016/j.iot.2023.100989
+C6  - NOV 2023
+AN  - WOS:001125077400001
+ER  -
+
+TY  - JOUR
+AU  - Paneque, M
+AU  - Roldán-García, MD
+AU  - Blanco, C
+AU  - Maté, A
+AU  - Rosado, DG
+AU  - Trujillo, J
+TI  - An ontology-based secure design framework for graph-based databases
+T2  - COMPUTER STANDARDS & INTERFACES
+AB  - Graph-based databases are concerned with performance and flexibility. Most of the existing approaches used to design secure NoSQL databases are limited to the final implementation stage, and do not involve the design of security and access control issues at higher abstraction levels. Ensuring security and access control for Graphbased databases is difficult, as each approach differs significantly depending on the technology employed. In this paper, we propose the first technology-ascetic framework with which to design secure Graph-based databases. Our proposal raises the abstraction level by using ontologies to simultaneously model database and security requirements together. This is supported by the TITAN framework, which facilitates the way in which both aspects are dealt with. The great advantages of our approach are, therefore, that it: allows database designers to focus on the simultaneous protection of security and data while ignoring the implementation details; facilitates the secure design and rapid migration of security rules by deriving specific security measures for each underlying technology, and enables database designers to employ ontology reasoning in order to verify whether the security rules are consistent. We show the applicability of our proposal by applying it to a case study based on a hospital data access control.
+SN  - 0920-5489
+SN  - 1872-7018
+DA  - MAR
+PY  - 2024
+VL  - 88
+C7  - 103801
+DO  - 10.1016/j.csi.2023.103801
+C6  - OCT 2023
+AN  - WOS:001104634400001
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Y
+AU  - Chen, JR
+AU  - Cheng, Z
+AU  - Shen, X
+AU  - Qin, JC
+AU  - Han, YZ
+AU  - Lu, YQ
+TI  - Edge propagation for link prediction in requirement-cyber threat intelligence knowledge graph
+T2  - INFORMATION SCIENCES
+AB  - Critical information infrastructure (CII) is a critical component of national socioeconomic systems and one of the primary targets of cyberattacks. Unfortunately, CII's security administration struggles to keep up with the rapidly evolving and complex cyber threats. In this research, we combine cybersecurity threat intelligence (CTI) with management security requirements (SR) data to construct a knowledge graph (KG) named RCTI and predict new knowledge on the heterogeneous graph. In addition, we propose EGNN, a novel GNN-based model that defines the representation of edges and develop an algorithm for propagating edge information. Experiments on three public datasets and the RCTI graph show that the EGNN achieves state-of-the-art performance. Finally, we use the EGNN model to predict new links on the RCTI graph, which by manual analysis achieves a 97% connectivity rate between the CTI and SR entities. Therefore, the EGNN can effectively detect management vulnerabilities and enhance CII's cybersecurity capability in the event of cybersecurity incidents.
+SN  - 0020-0255
+SN  - 1872-6291
+DA  - JAN
+PY  - 2024
+VL  - 653
+C7  - 119770
+DO  - 10.1016/j.ins.2023.119770
+C6  - OCT 2023
+AN  - WOS:001101543300001
+ER  -
+
+TY  - JOUR
+AU  - Jung, JW
+AU  - Lee, SW
+TI  - Security Requirement Recommendation Method Using Case-Based Reasoning to Prevent Advanced Persistent Threats
+T2  - APPLIED SCIENCES-BASEL
+AB  - As the world becomes digitized and connected, cyberattacks and security issues have been steadily increasing. In particular, advanced persistent threats (APTs) are actors who perform various complex attacks over the long term to achieve their purpose. These attacks involve more planning and intelligence than typical cyberattacks. Many studies have investigated APT detection and defense methods; however, studies on security requirements that focus on non-technical factors and prevention are relatively few. Therefore, this study aims to provide attack information to users obtained by analyzing attack scenarios as well as security requirements to help the users understand and make decisions. To this end, we propose a method for extracting attack elements by providing users with templates for attack scenarios with different levels of abstraction. In addition, we use a problem domain ontology that is based on the concept of a case to provide users with attack analysis results and recommended security requirements. Our method uses case-based reasoning to retrieve similar cases, recommend reusable security requirements, and propose revision directions. The ontology can be improved by adding the solution to the problem as a new case. We conducted case studies and surveys to evaluate our methods and showed that they help specify security requirements.
+SN  - 2076-3417
+DA  - FEB
+PY  - 2023
+VL  - 13
+IS  - 3
+C7  - 1505
+DO  - 10.3390/app13031505
+AN  - WOS:000933783100001
+ER  -
+
+TY  - JOUR
+AU  - Eckhart, M
+AU  - Ekelhart, A
+AU  - Weippl, E
+TI  - Automated Security Risk Identification Using AutomationML-Based Engineering Data
+T2  - IEEE TRANSACTIONS ON DEPENDABLE AND SECURE COMPUTING
+AB  - Systems integrators and vendors of industrial components need to establish a security-by-design approach, which includes the assessment and subsequent treatment of security risks. However, conducting security risk assessments along the engineering process is a costly and labor-intensive endeavor due to the complexity of the system(s) under consideration and the lack of automated methods. This, in turn, hampers the ability of security analysts to assess risks pertaining to cyber-physical systems (CPSs) in an efficient manner. In this work, we propose a method that automatically identifies security risks based on the CPS's data representation, which exists within engineering artifacts. To lay the foundation for our method, we present security-focused semantics for the engineering data exchange format AutomationML (AML). These semantics enable the reuse of security-relevant know-how in AML artifacts by means of a formal knowledge representation, modeled with a security-enriched ontology. Our method is capable of automating the identification of security risk sources and potential consequences in order to construct cyber-physical attack graphs that capture the paths adversaries may take. We demonstrate the benefits of the proposed method through a case study and an open-source prototypical implementation. Finally, we prove that our solution is scalable by conducting a rigorous performance evaluation.
+SN  - 1545-5971
+SN  - 1941-0018
+DA  - MAY-JUN
+PY  - 2022
+VL  - 19
+IS  - 3
+SP  - 1655
+EP  - 1672
+DO  - 10.1109/TDSC.2020.3033150
+AN  - WOS:000795125300016
+ER  -
+
+TY  - JOUR
+AU  - Krauss, P
+AU  - Toure, V
+AU  - Gnodtke, K
+AU  - Crameri, K
+AU  - Oesterle, S
+TI  - DCC Terminology Service-An Automated CI/CD Pipeline for Converting Clinical and Biomedical Terminologies in Graph Format for the Swiss Personalized Health Network
+T2  - APPLIED SCIENCES-BASEL
+AB  - One goal of the Swiss Personalized Health Network (SPHN) is to provide an infrastructure for FAIR (Findable, Accessible, Interoperable and Reusable) health-related data for research purposes. Semantic web technology and biomedical terminologies are key to achieving semantic interoperability. To enable the integrative use of different terminologies, a terminology service is a important component of the SPHN Infrastructure for FAIR data. It provides both the current and historical versions of the terminologies in an SPHN-compliant graph format. To minimize the usually high maintenance effort of a terminology service, we developed an automated CI/CD pipeline for converting clinical and biomedical terminologies in an SPHN-compatible way. Hospitals, research infrastructure providers, as well as any other data providers, can download a terminology bundle (currently composed of SNOMED CT, LOINC, UCUM, ATC, ICD-10-GM, and CHOP) and deploy it in their local terminology service. The distributed service architecture allows each party to fulfill their local IT and security requirements, while still having an up-to-date interoperable stack of SPHN-compliant terminologies. In the future, more terminologies and mappings will be added to the terminology service according to the needs of the SPHN community.
+SN  - 2076-3417
+DA  - DEC
+PY  - 2021
+VL  - 11
+IS  - 23
+C7  - 11311
+DO  - 10.3390/app112311311
+AN  - WOS:000735625400001
+ER  -
+
+TY  - JOUR
+AU  - Feidakis, M
+AU  - Chatzigeorgiou, C
+AU  - Karamperi, C
+AU  - Giannakos, L
+AU  - Xefteris, VR
+AU  - Ntioudis, D
+AU  - Tsanousa, A
+AU  - Kogias, DG
+AU  - Patrikakis, C
+AU  - Meditskos, G
+AU  - Gorgogetas, G
+AU  - Vrochidis, S
+AU  - Kompatsiaris, I
+TI  - Smart Interconnected Infrastructures for Security and Protection: The DESMOS Project
+T2  - COMPUTERS
+AB  - This paper presents "DESMOS", a novel ecosystem for the interconnection of smart infrastructures, mobile and wearable devices, and applications, to provide a secure environment for visitors and tourists. The presented solution brings together state-of-the-art IoT technologies, crowdsourcing, localization through BLE, and semantic reasoning, following a privacy and security-by-design approach to ensure data anonymization and protection. Despite the COVID-19 pandemic, the solution was tested, validated, and evaluated via two pilots in almost real settings-involving a fewer density of people than planned-in Trikala, Thessaly, Greece. The results and findings support that the presented solutions can provide successful emergency reporting, crowdsourcing, and localization via BLE. However, these results also prompt for improvements in the user interface expressiveness, the application's effectiveness and accuracy, as well as evaluation in real, overcrowded conditions. The main contribution of this paper is to report on the progress made and to showcase how all these technological solutions can be integrated and applied in realistic and practical scenarios, for the safety and privacy of visitors and tourists.
+SN  - 2073-431X
+DA  - SEP
+PY  - 2021
+VL  - 10
+IS  - 9
+C7  - 116
+DO  - 10.3390/computers10090116
+AN  - WOS:000699285600001
+ER  -
+
+TY  - JOUR
+AU  - Lamp, J
+AU  - Rubio-Medrano, CE
+AU  - Zhao, ZM
+AU  - Ahn, GJ
+TI  - ExSol: Collaboratively Assessing Cybersecurity Risks for Protecting Energy Delivery Systems
+T2  - DIGITAL THREATS: RESEARCH AND PRACTICE
+AB  - No longer just prophesied about, cyber-attacks to Energy Delivery Systems (EDS) (e.g., the power grid, gas and oil industries) are now very real dangers that result in non-trivial economical losses and inconveniences to modern societies. In such a context, risk analysis has been proposed as a valuable way to identify, analyze, and mitigate potential vulnerabilities, threats, and attack vectors. However, performing risk analysis for EDS is difficult due to their innate structural diversity and interdependencies, along with an always-increasing threatscape. Therefore, there is a need for a methodology to evaluate the current system state, identify vulnerabilities, and qualify risk at multiple granularities in a collaborative manner among different actors in the context of EDS. With this in mind, this article presents ExSol, a collaborative, real-time, risk assessment ecosystem that features an approach formodeling real-life EDS infrastructures, an ontology traversal technique that retrieves well-defined security requirements from well-reputed documents on cyber-protection for EDS infrastructures, as well as a methodology for calculating risk for a single asset and for an entire system. Moreover, we also provide experimental evidence involving a series of attack scenarios in both simulated and real-world EDS environments, which ultimately encourage the adoption of ExSol in practice.
+SN  - 2692-1626
+SN  - 2576-5337
+DA  - SEP
+PY  - 2021
+VL  - 2
+IS  - 3
+C7  - 21
+DO  - 10.1145/3428156
+AN  - WOS:001266133400004
+ER  -
+
+TY  - JOUR
+AU  - Peldszus, S
+AU  - Bürger, J
+AU  - Kehrer, T
+AU  - Jürjens, J
+TI  - Ontology-driven evolution of software security
+T2  - DATA & KNOWLEDGE ENGINEERING
+AB  - Ontologies as a means to formally specify the knowledge of a domain of interest have made their way into information and communication technology. Most often, such knowledge is subject to continuous change, which demands for consistent evolution of ontologies and dependent artifacts. In this article, we study ontology evolution in the context of software security, where ontologies may be used to formalize the security context knowledge which is needed to properly implement security requirements. In this application scenario, techniques for detecting ontology changes and determining their semantic impact are required to maintain the security of a software-intensive system in response to changing security context knowledge. Our solution is capable of detecting semantic editing patterns, which may be customly defined using graph transformation rules, but it does not depend on information about editing processes such as persistently managed changelogs. We leverage semantic editing patterns for (i) generating system co-evolution proposals, (ii) adapting the configuration of standard security checks, and (iii) performing incremental security compliance analyses between co-evolved system models and the implementation. We demonstrate the feasibility of the approach using a realistic medical information system known as iTrust.
+SN  - 0169-023X
+SN  - 1872-6933
+DA  - JUL
+PY  - 2021
+VL  - 134
+C7  - 101907
+DO  - 10.1016/j.datak.2021.101907
+C6  - JUN 2021
+AN  - WOS:000678361100009
+ER  -
+
+TY  - JOUR
+AU  - Gharib, M
+AU  - Giorgini, P
+AU  - Mylopoulos, J
+TI  - An Ontology for Privacy Requirements via a Systematic Literature Review
+T2  - JOURNAL ON DATA SEMANTICS
+AB  - Privacy has emerged as a key concern for business and social computing as security breaches have compromised personal data for millions. Despite this, much of existing work on privacy requirements deal with them as a special case of security requirements, thereby missing essential traits of such requirements. In this context, wrong design decisions may be made due to an insufficient understanding of privacy. The main contribution of this paper is an ontology for privacy requirements that subsumes whatever proposals exist in the literature. The ontology was obtained through a systematic literature review concerning the literature on privacy, conducted in two phases, and followed by a consolidation phase where similar concepts were combined. The proposed ontology has been developed to be used by software engineers when dealing with privacy requirements, and since it is based on a systematic literature review, it is more comprehensive in coverage than all ontologies included in our systematic review. This constitutes a preliminary validity check for the comprehensiveness of our proposal, which needs to be complemented in the future with empirical validation through controlled studies.
+SN  - 1861-2032
+SN  - 1861-2040
+DA  - DEC
+PY  - 2020
+VL  - 9
+IS  - 4
+SP  - 123
+EP  - 149
+DO  - 10.1007/s13740-020-00116-5
+C6  - JAN 2021
+AN  - WOS:000605848200001
+ER  -
+
+TY  - JOUR
+AU  - Kim, BJ
+AU  - Lee, SW
+TI  - Understanding and recommending security requirements from problem domain ontology: A cognitive three-layered approach
+T2  - JOURNAL OF SYSTEMS AND SOFTWARE
+AB  - Socio-technical systems (STS) are inherently complex due to the heterogeneity of its intertwined components. Therefore, ensuring STS security continues to pose significant challenges. Persistent security issues in STS are extremely critical to address as threats to security can affect entire enterprises, resulting in significant recovery costs. A profound understanding of the problems across multiple dimensions of STS is the key in addressing such security issues. However, we lack a systematic acquisition of the scattered knowledge related to design, development, and execution of STS. In this work, we methodologically analyze security issues from a requirements engineering perspective. We propose a cognitive three-layered framework integrating various modeling methodologies and knowledge sources related to security. This framework helps in understanding essential components of security and making recommendations of security requirements regarding threat analyses and risk assessments using Problem Domain Ontology (PDO) knowledge base. We also provide tool support for our framework. With the goal-oriented security reference model, we demonstrate how security requirements are recommended based on PDO, with the help of the tool. The organized acquisition of knowledge from SME groups and the domain working group provides rich context of security requirements, and also enhances the re-usability of the knowledge set. (C) 2020 Elsevier Inc. All rights reserved.
+SN  - 0164-1212
+SN  - 1873-1228
+DA  - NOV
+PY  - 2020
+VL  - 169
+C7  - 110695
+DO  - 10.1016/j.jss.2020.110695
+AN  - WOS:000567509300008
+ER  -
+
+TY  - JOUR
+AU  - Li, T
+AU  - Chen, ZS
+TI  - An ontology-based learning approach for automatically classifying security requirements
+T2  - JOURNAL OF SYSTEMS AND SOFTWARE
+AB  - Although academia has recognized the importance of explicitly specifying security requirements in early stages of system developments for years, in reality, many projects mix security requirements with other types of requirements. Thus, there is a strong need for precisely and efficiently classifying such security requirements from other requirements in requirement specifications. Existing studies leverage lexical evidence to build probabilistic classifiers, which are domain-dependent by design and cannot effectively classify security requirements from different application domains. In this paper, we propose an ontology-driven learning approach to automatically classify security requirements. Our approach consists of a conceptual layer and a linguistic layer, which understands security requirements based on not only lexical evidence but also conceptual domain knowledge. In particular, we apply a systematic approach to identify linguistic features of security requirements based on an extended security requirements ontology and linguistic knowledge, connecting the conceptual layer with the linguistic layer. Such linguistic features are then used to train domain-independent security requirements classifiers by using machine learning techniques. We have carried out a series of experiments to evaluate the performance and generalization ability of our proposal against existing approaches. The results of the experiments show that the proposed approach outperforms existing approaches with a significant increase of Fi score (0.63 VS. 0.44) when the training dataset and the testing dataset come from different application domains, i.e., the classifiers trained by our approach can be generalized to classify security requirements from different domains. (C) 2020 Elsevier Inc. All rights reserved.
+SN  - 0164-1212
+SN  - 1873-1228
+DA  - JUL
+PY  - 2020
+VL  - 165
+C7  - 110566
+DO  - 10.1016/j.jss.2020.110566
+AN  - WOS:000530186500002
+ER  -
+
+TY  - JOUR
+AU  - Ghazal, R
+AU  - Malik, AK
+AU  - Qadeer, N
+AU  - Raza, B
+AU  - Shahid, AR
+AU  - Alquhayz, H
+TI  - Intelligent Role-Based Access Control Model and Framework Using Semantic Business Roles in Multi-Domain Environments
+T2  - IEEE ACCESS
+AB  - Today's rapidly developing communication technologies and dynamic collaborative business models made the security of data and resources more crucial than ever especially in multi-domain environments like Cloud and Cyber-Physical Systems (CPS). It enforced the research community to develop enhanced access control techniques and models for resources across multi-domain distributed environments so that the security requirements of all participating organizations can be fulfilled through considering dynamicity of changing environments and versatility of access control policies. The popularity of Role-Based Access Control (RBAC) model is irrefutable because of low administrative overhead and large-scale implementation in business organizations. However, it does not incorporate the dynamically changing policies and lacks semantically meaningful business roles which could have a diverse impact upon access decisions in multi-domain business environments. This paper describes our proposed novel access control framework that uses semantic business roles and intelligent agents through implementation of our Intelligent RBAC (I-RBAC) model. It encompasses occupational entitlements as roles for multiple domains. We use the dataset of original occupational roles provided by Standard Occupational Classification (SOC), USA. The novelty of the paper lies in developing a core I-RBAC ontology using real-world semantic business roles and intelligent agent technologies together for achieving required level of access control in highly dynamic multi-domain environment. The intelligent agents use WordNet and bidirectional LSTM deep neural network for automated population of organizational ontology from unstructured text policies. This dynamically learned organizational ontology is further matched with our core I-RBAC ontology in order to extract unified semantic business roles. The proposed I-RBAC model is mathematically described and the overall I-RBAC framework and its implementation architecture is explained. At the end, the I-RBAC model is validated through the implementation results that show a linear runtime trend of the model in presence of a large number of permission assignments and multiple queries.
+SN  - 2169-3536
+PY  - 2020
+VL  - 8
+SP  - 12253
+EP  - 12267
+DO  - 10.1109/ACCESS.2020.2965333
+AN  - WOS:000525409100033
+ER  -
+
+TY  - JOUR
+AU  - Sutherland, T
+TI  - Peter Sloterdijk and the 'Security Architecture of Existence': Immunity, Autochthony, and Ontological Nativism
+T2  - THEORY CULTURE & SOCIETY
+AB  - Centred on Foams, the third volume of his Spheres trilogy (2011, 2014, 2016), this article questions the privilege granted by Peter Sloterdijk to motifs of inclusion and exclusion, contending that, whilst his prioritization of dwelling as a central aspect of human existence (drawing in part upon the work of Martin Heidegger) provides a promising counterpoint to the dislocative and isolative effects of post-industrial capitalism, it is compromised by its dependence upon an anti-cosmopolitan outlook that views cultural distantiation as a natural and preferable state of human affairs, and valorizes a purported ontological security attained through defensive postures with respect to perceived foreigners or externalities. Sloterdijk's conceptualization of culture as a kind of immune system, it is argued, although posited as a rebuke to models of essentialism and ethno-nationalism, provides ontological support to the xenophobic critiques of immigration that are today finding increasing currency.
+SN  - 0263-2764
+SN  - 1460-3616
+DA  - DEC
+PY  - 2019
+VL  - 36
+IS  - 7-8
+SP  - 193
+EP  - 214
+DO  - 10.1177/0263276419839119
+AN  - WOS:000501231700010
+ER  -
+
+TY  - JOUR
+AU  - Veloudis, S
+AU  - Paraskakis, I
+AU  - Petsos, C
+AU  - Verginadis, Y
+AU  - Patiniotakis, I
+AU  - Gouvas, P
+AU  - Mentzas, G
+TI  - Achieving security-by-design through ontology-driven attribute-based access control in cloud environments
+T2  - FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE
+AB  - The constantly increasing number of cyberattacks worldwide raise significant security concerns that generally deter small, medium and large enterprises from adopting the cloud paradigm and benefitting from the numerous advantages that it offers. One way to alleviate these concerns is to devise suitable policies that infuse adequate access controls into cloud services. However, the dynamicity inherent in cloud environments, coupled with the heterogeneous nature of cloud services, hinders the formulation of effective and interoperable access control policies that are suitable for the underlying domain of application. To this end, this work proposes an approach to the semantic representation of access control policies and, in particular, to the semantic representation of the context expressions incorporated in such policies. More specifically, the proposed approach enables stakeholders to accurately define the structure of their policies, in terms of relevant knowledge artefacts, and thus infuse into these policies their particular security and business requirements. This clearly leads to more effective policies, whilst it enables semantic reasoning about the abidance of policies by the prescribed structure. In order to alleviate the scalability concerns associated with semantic reasoning, the proposed approach introduces a reference implementation that extends XACML 3.0 with an expert system fused with reasoning capabilities through the incorporation of suitable meta-rules. (C) 2018 Published by Elsevier B.V.
+SN  - 0167-739X
+SN  - 1872-7115
+DA  - APR
+PY  - 2019
+VL  - 93
+SP  - 373
+EP  - 391
+DO  - 10.1016/j.future.2018.08.042
+AN  - WOS:000459365800031
+ER  -
+
+TY  - JOUR
+AU  - Olifer, D
+AU  - Goranin, N
+AU  - Cenys, A
+AU  - Kaceniauskas, A
+AU  - Janulevicius, J
+TI  - Defining the Minimum Security Baseline in a Multiple Security Standards Environment by Graph Theory Techniques
+T2  - APPLIED SCIENCES-BASEL
+AB  - One of the best ways to protect an organization's assets is to implement security requirements defined by different standards or best practices. However, such an approach is complicated and requires specific skills and knowledge. In case an organization applies multiple security standards, several problems can arise related to overlapping or conflicting security requirements, increased expenses on security requirement implementation, and convenience of security requirement monitoring. To solve these issues, we propose using graph theory techniques. Graphs allow the presentation of security requirements of a standard as graph vertexes and edges between vertexes, and would show the relations between different requirements. A vertex cover algorithm is proposed for minimum security requirement identification, while graph isomorphism is proposed for comparing existing organization controls against a set of minimum requirements identified in the previous step.
+SN  - 2076-3417
+DA  - FEB 2
+PY  - 2019
+VL  - 9
+IS  - 4
+C7  - 681
+DO  - 10.3390/app9040681
+AN  - WOS:000460696500067
+ER  -
+
+TY  - JOUR
+AU  - Zhou, B
+AU  - Maines, C
+AU  - Tang, S
+AU  - Shi, Q
+AU  - Yan, P
+AU  - Yang, Q
+TI  - A 3-D Security Modeling Platform for Social IoT Environments
+T2  - IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS
+AB  - Social Internet-of-Things (SIoT) environment comprises not only smart devices but also the humans who interact with these IoT devices. The benefits of such system are overshadowed due to the cyber security issues. A novel approach is required to understand the security implication under such a dynamic environment while taking both the social and technical aspects into consideration. This paper addressed such challenges and proposed a 3-D security modeling platform that can capture and model the security requirements in the SIoT environment. The modeling process is graphical notation based and works as a security extension to the Business Process Model and Notation. Still, it utilizes the latest 3-D game technology; thus, the security extensions are generated through the third dimension. Consequently, the introduction of security extensions will not increase the complexity of the original SIoT scenario, while keeping all the key information on the same platform. Together with the proposed security ontology, these comprehensive security notations created a unique platform that aims at addressing the ever complicated security issues in the SIoT environment.
+SN  - 2329-924X
+DA  - DEC
+PY  - 2018
+VL  - 5
+IS  - 4
+SP  - 1174
+EP  - 1188
+DO  - 10.1109/TCSS.2018.2878921
+AN  - WOS:000452634800025
+ER  -
+
+TY  - JOUR
+AU  - Souag, A
+AU  - Mazo, R
+AU  - Salinesi, C
+AU  - Comyn-Wattiau, I
+TI  - Using the AMAN-DA method to generate security requirements: a case study in the maritime domain
+T2  - REQUIREMENTS ENGINEERING
+AB  - Security requirements are known to be "the most difficult of requirements types" and potentially the ones causing the greatest risk if they are not correct. One approach to requirements elicitation is based on the reuse of explicit knowledge. AMAN-DA is a requirement elicitation method that reuses encapsulated knowledge in security and domain ontologies to produce security requirements specifications. The main research question addressed in this paper is to what extent is AMAN-DA able to generate domain-specific security requirements? Following a well-documented process, a case study related to the maritime domain was undertaken with the goal to demonstrate the utility and effectiveness of AMAN-DA for the elicitation and analysis of domain-specific security requirements. The usefulness of the method was also evaluated with a group of 12 experts. The paper demonstrates the elicitation of domain-specific security requirements by presenting the AMAN-DA method and its application. It describes the evaluation and reports some significant results and their implications for practice and future research, especially for the field of knowledge reuse in requirements engineering.
+SN  - 0947-3602
+SN  - 1432-010X
+DA  - NOV
+PY  - 2018
+VL  - 23
+IS  - 4
+SP  - 557
+EP  - 580
+DO  - 10.1007/s00766-017-0279-5
+AN  - WOS:000444417400006
+ER  -
+
+TY  - JOUR
+AU  - Bürger, J
+AU  - Strüber, D
+AU  - Gärtner, S
+AU  - Ruhroth, T
+AU  - Jürjens, J
+AU  - Schneiders, K
+TI  - A framework for semi-automated co-evolution of security knowledge and system models
+T2  - JOURNAL OF SYSTEMS AND SOFTWARE
+AB  - Security is an important and challenging quality aspect of software-intensive systems, becoming even more demanding regarding long-living systems. Novel attacks and changing laws lead to security issues that did not necessarily rise from a flawed initial design, but also when the system fails to keep up with a changing environment. Thus, security requires maintenance throughout the operation phase. Ongoing adaptations in response to changed security knowledge are inevitable. A necessary prerequisite for such adaptations is a good understanding of the security-relevant parts of the system and the security knowledge.
+   We present a model-based framework for supporting the maintenance of security during the long-term evolution of a software system. It uses ontologies to manage the system-specific and the security knowledge. With model queries, graph transformation and differencing techniques, knowledge changes are analyzed and the system model is adapted. We introduce the novel concept of Security Maintenance Rules to couple the evolution of security knowledge with co-evolutions of the system model.
+   As evaluation, community knowledge about vulnerabilities is used (Common Weakness Enumeration database). We show the applicability of the framework to the iTrust system from the medical care domain and hence show the benefits of supporting co-evolution for maintaining secure systems. (c) 2018 Elsevier Inc. All rights reserved.
+SN  - 0164-1212
+SN  - 1873-1228
+DA  - MAY
+PY  - 2018
+VL  - 139
+SP  - 142
+EP  - 160
+DO  - 10.1016/j.jss.2018.02.003
+AN  - WOS:000428493000009
+ER  -
+
+TY  - JOUR
+AU  - Mori, M
+AU  - Ceccarelli, A
+AU  - Lollini, P
+AU  - Frömel, B
+AU  - Brancati, F
+AU  - Bondavalli, A
+TI  - Systems-of-systems modeling using a comprehensive viewpoint-based SysML profile
+T2  - JOURNAL OF SOFTWARE-EVOLUTION AND PROCESS
+AB  - In recent years, more and more efforts have been devoted in supporting the design of systems-of-systems (SoS). Designing such systems is a multidisciplinary problem which involves considering emergent phenomena, assuring the achievement of dependability/security requirements, guaranteeing system responsiveness, and supporting dynamicity/evolution and multicriticality of provided services. A first step towards a viable design approach is to provide a conceptual model of SoS which captures SoS concepts, and their interrelationships aiming at enhancing the understandability of SoS to stakeholders and providing the basis for further automated analysis. In this context, the AMADEOS European project is bringing together researchers and practitioners to provide the support to design SoS starting from the definition of a domain specific ontology serving as a vocabulary for SoS. Our contribution consists in the modeling of the key SoS concepts and relationships defined in AMADEOS adopting a systems modeling language visual modeling language. We propose a systems modeling language profile for SoS, and we show its applicability in a Smart Grid scenario. We show how to use the profile in a model-driven engineering process to support different types of analyses, and we discuss how to integrate the profile in a user-friendly model-driven engineering tool for SoS rapid modeling, validation, code-generation, and simulation.
+SN  - 2047-7473
+SN  - 2047-7481
+DA  - MAR
+PY  - 2018
+VL  - 30
+IS  - 3
+C7  - e1878
+DO  - 10.1002/smr.1878
+AN  - WOS:000427255900004
+ER  -
+
+TY  - JOUR
+AU  - Zedan, H
+AU  - Al-Sultan, S
+TI  - The specification and design of secure context-aware workflows
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - There are two major concerns in the development of current workflow system. The first is security considerations and the second is context awareness.
+   Modern workflow systems cross the boundaries of organisations, each may have its own security requirements, policies and constraints. Even within one organisation, activities in a workflow system may be executed, in one of its instances, within a platform, but in another instance it may be executed or performed on a different platform with completely different environment. Indeed it may not even be automated. This lends modern workflow systems to be security and context-critical. This is in addition to the fact that some of its activities must satisfy variety of hard timing constraints.
+   Current specification and design languages for workflow systems are inadequate in dealing with context aware secure workflows. This paper presents a sound wide-spectrum language, CS - Flow, for the specification and design of context-aware, secure workflow systems. As workflow systems have strong temporal aspects (e.g. activity sequencing, deadline, scheduling constraints, etc.), the proposed CS - Flow is equipped with a rich set of temporal constructs together with temporal proof rules which can be used to be integrated with temporal expert systems, hence enhancing the capabilities of current workflow software. In addition, CS - Flow is supported by a proof system which underpins the workflow engine that provides decision service using its state to make some decision and update the workflow state. CS - Flow therefore provides a sound linkage between expert systems and workflow engines. (C) 2017 Elsevier Ltd. All rights reserved.
+SN  - 0957-4174
+SN  - 1873-6793
+DA  - NOV 15
+PY  - 2017
+VL  - 86
+SP  - 367
+EP  - 384
+DO  - 10.1016/j.eswa.2017.05.078
+AN  - WOS:000405973500030
+ER  -
+
+TY  - JOUR
+AU  - Wu, SY
+AU  - Zhang, Y
+AU  - Cao, W
+TI  - Network security assessment using a semantic reasoning and graph based approach
+T2  - COMPUTERS & ELECTRICAL ENGINEERING
+AB  - Owing to the high value of business data, sophisticated cyber-attacks targeting enterprise networks have become more prominent, with attackers trying to penetrate deeper into and reach wider from the compromised machines. An important security requirement is that domain experts and network administrators have a common vocabulary to share security knowledge and quickly help each other respond to new threats. We propose an innovative ontology and graph-based approach for security assessment. An ontology is designed to represent security knowledge such as that of assets, vulnerabilities, and attacks in a common form. Using the inference abilities of the ontological model, an efficient system framework is proposed to generate attack graphs and assess network security. The performance of the proposed system is evaluated on test networks of differing sizes and topologies. (C) 2017 Elsevier Ltd. All rights reserved.
+SN  - 0045-7906
+SN  - 1879-0755
+DA  - NOV
+PY  - 2017
+VL  - 64
+SP  - 96
+EP  - 109
+DO  - 10.1016/j.compeleceng.2017.02.001
+AN  - WOS:000419424100007
+ER  -
+
+TY  - JOUR
+AU  - Mohsin, M
+AU  - Anwar, Z
+AU  - Zaman, F
+AU  - Al-Shaer, E
+TI  - IoTChecker: A data-driven framework for security analytics of Internet of Things configurations
+T2  - COMPUTERS & SECURITY
+AB  - The advent of the Internet of Things (IoT) has revolutionized networks by transforming legacy dumb devices into smart connected "things"; observing, interacting and impacting the environment with minimal human intervention. These features, while promising a variety of innovative solutions and business benefits, are vulnerable to a host of new threat vectors and security risks. A typical IoT network comprises thousands of IoT devices using heterogeneous protocols, having varying resources, complex interdependencies and diverse networking and security requirements. The configuration data of IoT systems is mostly unstructured, lacking machine interpretable semantics and thus, traditional analysis techniques cannot tackle the IoT-specific configuration challenges of scalability, interoperability and security. In this paper, we present IoTChecker, a novel data-driven framework to semantically model IoT configurations and then employ that model to automatically arrest security configuration anomalies and analyze IoT-specific threat vectors. The approach leverages a combination of newly constructed as well as extended and aligned versions of existing ontologies. Configuration analytics are performed automatically by describing the context of complex IoT interactions and dependencies through rules-supported reasoning and queries. The evaluation involves ontology-based security classification of 954 real-world IoT products and security analysis of their practically-deployed system configurations. Our automated approach has proven to be scalable, easily manageable, formally verifiable and free from errors induced by tedious manual configurations. (C) 2017 Elsevier Ltd. All rights reserved.
+SN  - 0167-4048
+SN  - 1872-6208
+DA  - SEP
+PY  - 2017
+VL  - 70
+SP  - 199
+EP  - 223
+DO  - 10.1016/j.cose.2017.05.012
+AN  - WOS:000413127000011
+ER  -
+
+TY  - JOUR
+AU  - Nacer, H
+AU  - Djebari, N
+AU  - Slimani, H
+AU  - Aissani, D
+TI  - A distributed authentication model for composite Web services
+T2  - COMPUTERS & SECURITY
+AB  - Proliferation of Web services based applications, collaboration and interoperability between companies, extremely heterogeneous policies of security, and, more generally, reply attacks over Internet are major challenges in the design of security infrastructures for Web services. In this paper, we focus our study on authentication of composite Web services. Authentication is certainly at the heart of any secure system. Thus, we propose a distributed model of authentication based on the circle of trust concept for composite Web services. This model has several functionalities: First, it ensures authentication for arbitrary composite Web services over Internet. Second, it can process across and beyond domain authentication boundaries. Third, it takes over the conflicts of security policies using the concept of Web Single Sign On (SSO) and client's profile using ontologies. Furthermore, the proposed model is scalable and dynamic because it is designed in a fully distributed manner, there are no central points and it evolves over time. An implementation of a prototype and a simulation design demonstrate that a strong security can be achieved for both the client and the composite Web service through the combination of a dynamic and collaborative trust model with a number of enhancements: (i) a combined encryption technique, (ii) a distributed authority of certificates, and (iii) semantic annotations. (C) 2017 Elsevier Ltd. All rights reserved.
+SN  - 0167-4048
+SN  - 1872-6208
+DA  - SEP
+PY  - 2017
+VL  - 70
+SP  - 144
+EP  - 178
+DO  - 10.1016/j.cose.2017.05.008
+AN  - WOS:000413127000009
+ER  -
+
+TY  - JOUR
+AU  - Borrego-Díaz, J
+AU  - Chávez-González, AM
+AU  - Pro-Martín, JL
+AU  - Matos-Arana, V
+TI  - Semantics for incident identification and resolution reports
+T2  - LOGIC JOURNAL OF THE IGPL
+AB  - In order to achieve a safe and systematic treatment of security protocols, organizations release a number of technical briefings describing how to detect and manage security incidents. A critical issue is that this document set may suffer from semantic deficiencies, mainly due to ambiguity or different granularity levels of description and analysis. An approach to face this problem is the use of semantic methodologies in order to provide better Knowledge Externalization from incident protocols management. In this article, we propose a method based on semantic techniques for both, analyzing and specifying (meta) security requirements on protocols used for solving security incidents. This would allow specialist getting better documentation on their intangible knowledge about them.
+SN  - 1367-0751
+SN  - 1368-9894
+DA  - DEC
+PY  - 2016
+VL  - 24
+IS  - 6
+SP  - 916
+EP  - 932
+DO  - 10.1093/jigpal/jzw055
+AN  - WOS:000390303600005
+ER  -
+
+TY  - JOUR
+AU  - dos Santos, DR
+AU  - Marinho, R
+AU  - Schmitt, GR
+AU  - Westphall, CM
+AU  - Westphall, CB
+TI  - A framework and risk assessment approaches for risk-based access control in the cloud
+T2  - JOURNAL OF NETWORK AND COMPUTER APPLICATIONS
+AB  - Cloud computing is advantageous for customers and service providers. However, it has specific security requirements that are not captured by traditional access control models, e.g., secure information sharing in dynamic and collaborative environments. Risk-based access control models try to overcome these limitations, but while there are well-known enforcement mechanisms for traditional access control, this is not the case for risk-based policies. In this paper, we motivate the use of risk-based access control in the cloud and present a framework for enforcing risk-based policies that is based on an extension of XACML. We also instantiate this framework using a new ontology-based risk assessment approach, as well as other models from related work, and present experimental results of the implementation of our work. (C) 2016 Elsevier Ltd. All rights reserved.
+SN  - 1084-8045
+DA  - OCT
+PY  - 2016
+VL  - 74
+SP  - 86
+EP  - 97
+DO  - 10.1016/j.jnca.2016.08.013
+AN  - WOS:000384852100008
+ER  -
+
+TY  - JOUR
+AU  - Bialas, A
+TI  - Computer-Aided Sensor Development Focused on Security Issues
+T2  - SENSORS
+AB  - The paper examines intelligent sensor and sensor system development according to the Common Criteria methodology, which is the basic security assurance methodology for IT products and systems. The paper presents how the development process can be supported by software tools, design patterns and knowledge engineering. The automation of this process brings cost-, quality-, and time-related advantages, because the most difficult and most laborious activities are software-supported and the design reusability is growing. The paper includes a short introduction to the Common Criteria methodology and its sensor-related applications. In the experimental section the computer-supported and patterns-based IT security development process is presented using the example of an intelligent methane detection sensor. This process is supported by an ontology-based tool for security modeling and analyses. The verified and justified models are transferred straight to the security target specification representing security requirements for the IT product. The novelty of the paper is to provide a patterns-based and computer-aided methodology for the sensors development with a view to achieving their IT security assurance. The paper summarizes the validation experiment focused on this methodology adapted for the sensors system development, and presents directions of future research.
+SN  - 1424-8220
+DA  - JUN
+PY  - 2016
+VL  - 16
+IS  - 6
+C7  - 759
+DO  - 10.3390/s16060759
+AN  - WOS:000378756500007
+ER  -
+
+TY  - JOUR
+AU  - Souag, A
+AU  - Mazo, R
+AU  - Salinesi, C
+AU  - Comyn-Wattiau, I
+TI  - Reusable knowledge in security requirements engineering: a systematic mapping study
+T2  - REQUIREMENTS ENGINEERING
+AB  - Security is a concern that must be taken into consideration starting from the early stages of system development. Over the last two decades, researchers and engineers have developed a considerable number of methods for security requirements engineering. Some of them rely on the (re)use of security knowledge. Despite some existing surveys about security requirements engineering, there is not yet any reference for researchers and practitioners that presents in a systematic way the existing proposals, techniques, and tools related to security knowledge reuse in security requirements engineering. The aim of this paper is to fill this gap by looking into drawing a picture of the literature on knowledge and reuse in security requirements engineering. The questions we address are related to methods, techniques, modeling frameworks, and tools for and by reuse in security requirements engineering. We address these questions through a systematic mapping study. The mapping study was a literature review conducted with the goal of identifying, analyzing, and categorizing state-of-the-art research on our topic. This mapping study analyzes more than thirty approaches, covering 20 years of research in security requirements engineering. The contributions can be summarized as follows: (1) A framework was defined for analyzing and comparing the different proposals as well as categorizing future contributions related to knowledge reuse and security requirements engineering; (2) the different forms of knowledge representation and reuse were identified; and (3) previous surveys were updated. We conclude that most methods should introduce more reusable knowledge to manage security requirements.
+SN  - 0947-3602
+SN  - 1432-010X
+DA  - JUN
+PY  - 2016
+VL  - 21
+IS  - 2
+SP  - 251
+EP  - 283
+DO  - 10.1007/s00766-015-0220-8
+AN  - WOS:000376412200005
+ER  -
+
+TY  - JOUR
+AU  - Di Modica, G
+AU  - Tomarchio, O
+TI  - Matchmaking semantic security policies in heterogeneous clouds
+T2  - FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE
+AB  - The adoption of the cloud paradigm to access IT resources and services has posed many security issues which need to be cared of. Security becomes even a much bigger concern when services built on top of many commercial clouds have to interoperate. Among others, the value of the service delivered to end customers is strongly affected by the security of network which providers are able to build in typical SOA contexts. Currently, every provider advertises its own security strategy by means of proprietary policies, which are sometimes ambiguous and very often address the security problem from a non-uniform perspective. Even policies expressed in standardized languages do not appear to fit a dynamic scenario like the SOA's, where services need to be sought and composed on the fly in a way that is compatible with the end-to-end security requirements. We then propose an approach that leverages on the semantic technology to enrich standardized security policies with an ad-hoc content. The semantic annotation of policies enables machine reasoning which is then used for both the discovery and the composition of security-enabled services. In the presented approach the semantic enrichment of policies is enforced by an automatic procedure. We further developed a semantic framework capable of matchmaking in a smart way security capabilities of providers and security requirements of customers, and tested it on a use case scenario. (C) 2015 Elsevier B.V. All rights reserved.
+SN  - 0167-739X
+SN  - 1872-7115
+DA  - FEB
+PY  - 2016
+VL  - 55
+SP  - 176
+EP  - 185
+DO  - 10.1016/j.future.2015.03.008
+AN  - WOS:000368652400015
+ER  -
+
+TY  - JOUR
+AU  - Schilling, A
+AU  - Werners, B
+TI  - Optimal selection of IT security safeguards from an existing knowledge base
+T2  - EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+AB  - In this paper, a combinatorial optimization model is proposed to efficiently select security safeguards in order to protect IT infrastructures and systems. The approach is designed to provide very concrete decision support for an organization as a whole or separately for specific systems. It can be applied in practice without requiring the decision maker himself to collect extensive input data. This is accomplished by using an existing comprehensive and highly accepted knowledge base as a basis for decision making. For our analysis, we use the publicly available IT baseline protection catalogues of the German Federal Office for Information Security (BSI). The catalogues contain more than 500 threats and over 1200 safeguard alternatives to choose from. Applying our model, it is possible to make use of this knowledge and determine optimal selections of safeguards according to given security requirements. The approach supports the decision maker in establishing an effective baseline security strategy. (C) 2015 Elsevier B.V. and Association of European Operational Research Societies (EURO) within the International Federation of Operational Research Societies (IFORS). All rights reserved.
+SN  - 0377-2217
+SN  - 1872-6860
+DA  - JAN 1
+PY  - 2016
+VL  - 248
+IS  - 1
+SP  - 318
+EP  - 327
+DO  - 10.1016/j.ejor.2015.06.048
+AN  - WOS:000362132500027
+ER  -
+
+TY  - JOUR
+AU  - Bernabe, JB
+AU  - Perez, GM
+AU  - Gomez, AFS
+TI  - Intercloud Trust and Security Decision Support System: an Ontology-based Approach
+T2  - JOURNAL OF GRID COMPUTING
+AB  - As Cloud Computing evolves, both customers and Cloud Service Providers are starting to require Intercloud scenarios where different clouds have to interact each other. Although there are some initial proposals to manage the Intercloud, there are still few approaches dealing with the associated new security and trust challenges in such a federated environment. To fill this gap, this paper presents SOFIC (Security Ontology For the InterCloud) aimed to formally describe the security aspects that are subject to be modeled in an Intercloud security assessment. SOFIC is based on standards and has been tailored extensible to cope with the security requirements of different Intercloud scenarios. The paper also shows in which way the ontology is used as input for a Trust and Security Decision Support System, in order to assist in the Intercloud security decision making process, quantifying security expectations and trustworthiness about Cloud Service Providers. The implementation, experiments and performance evaluation show the feasibility of the proposed ontology and system.
+SN  - 1570-7873
+SN  - 1572-9184
+DA  - SEP
+PY  - 2015
+VL  - 13
+IS  - 3
+SP  - 425
+EP  - 456
+DO  - 10.1007/s10723-015-9346-7
+AN  - WOS:000366156100008
+ER  -
+
+TY  - JOUR
+AU  - Hsieh, CF
+AU  - Chen, RC
+AU  - Huang, YF
+TI  - Applying an Ontology to a Patrol Intrusion Detection System for Wireless Sensor Networks
+T2  - INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS
+AB  - With the increasing application of wireless sensor networks (WSN), the security requirements for wireless sensor network communications have become critical. However, the detection mechanisms of such systems impact the effectiveness of the entire network. In this paper, we propose a lightweight ontology-based wireless intrusion detection system (OWIDS). The system applies an ontology to a patrol intrusion detection system (PIDS). A PIDS is used to detect anomalies via detection knowledge. The system constructs the relationship of the sensor nodes in an ontology to enhance PIDS robustness. The sensor nodes preload comparison methods without detection knowledge. The system transfers a portion of the detection knowledge to detect anomalies. The memory requirement of a PIDS is lower than that of other methods which preload entire IDS. Finally, the isolation tables prevent repeated detection of an anomaly. The system adjusts detection knowledge until it converges. The experimental results show that OWIDS can reduce IDS ( intrusion detection system) energy consumption.
+SN  - 1550-1477
+PY  - 2014
+C7  - 634748
+DO  - 10.1155/2014/634748
+AN  - WOS:000332258800001
+ER  -
+
+TY  - JOUR
+AU  - Yu, B
+AU  - Yang, L
+AU  - Wang, YJ
+AU  - Zhang, BF
+AU  - Cao, Y
+AU  - Ma, LR
+AU  - Luo, XY
+TI  - Rule-Based Security Capabilities Matching for Web Services
+T2  - WIRELESS PERSONAL COMMUNICATIONS
+AB  - A primary problem for security aware Web service discovery is how to discover security capabilities of Web services and how these security capabilities can be matched with security requirements of various requesters. Presently, most approaches are based on syntactic matching, which is prone to result in false negative because of lacking of semantics. In this paper, we propose a rule-based approach to decide whether security capabilities match security requirements. Based on a semantic model of security policy, security capabilities are inferred from security policy of Web services. General Web service security ontology is proposed to semantically model security requirements of various service requesters. The architecture of rule-based matching engine is also presented to describe the whole matching process. The prototype system and case study show that the proposed approach is flexible and feasible.
+SN  - 0929-6212
+SN  - 1572-834X
+DA  - DEC
+PY  - 2013
+VL  - 73
+IS  - 4
+SP  - 1349
+EP  - 1367
+DO  - 10.1007/s11277-013-1254-1
+AN  - WOS:000327883300002
+ER  -
+
+TY  - JOUR
+AU  - Saeki, M
+AU  - Hayashi, S
+AU  - Kaiya, H
+TI  - ENHANCING GOAL-ORIENTED SECURITY REQUIREMENTS ANALYSIS USING COMMON CRITERIA-BASED KNOWLEDGE
+T2  - INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING
+AB  - Goal-oriented requirements analysis (GORA) is one of the promising techniques to elicit software requirements, and it is natural to consider its application to security requirements analysis. In this paper, we proposed a method for goal-oriented security requirements analysis using security knowledge which is derived from several security targets (STs) compliant to Common Criteria (CC, ISO/IEC 15408). We call such knowledge security ontology for an application domain (SOAD). Three aspects of security such as confidentiality, integrity and availability are included in the scope of our method because the CC addresses these three aspects. We extract security-related concepts such as assets, threats, countermeasures and their relationships from STs, and utilize these concepts and relationships for security goal elicitation and refinement in GORA. The usage of certificated STs as knowledge source allows us to reuse efficiently security-related concepts of higher quality. To realize our proposed method as a supporting tool, we use an existing method GOORE (goal-oriented and ontology-driven requirements elicitation method) combining with SOAD. In GOORE, terms and their relationships in a domain ontology play an important role of semantic processing such as goal refinement and conflict identification. SOAD is defined based on concepts in STs. In contrast with other goal-oriented security requirements methods, the knowledge derived from actual STs contributes to eliciting security requirements in our method. In addition, the relationships among the assets, threats, objectives and security functional requirements can be directly reused for the refinement of security goals. We show an illustrative example to show the usefulness of our method and evaluate the method in comparison with other goal-oriented security requirements analysis methods.
+SN  - 0218-1940
+SN  - 1793-6403
+DA  - JUN
+PY  - 2013
+VL  - 23
+IS  - 5
+SP  - 695
+EP  - 720
+DO  - 10.1142/S0218194013500174
+AN  - WOS:000324389000006
+ER  -
+
+TY  - JOUR
+AU  - Trivellato, D
+AU  - Zannone, N
+AU  - Glaundrup, M
+AU  - Skowronek, J
+AU  - Etalle, S
+TI  - A SEMANTIC SECURITY FRAMEWORK FOR SYSTEMS OF SYSTEMS
+T2  - INTERNATIONAL JOURNAL OF COOPERATIVE INFORMATION SYSTEMS
+AB  - Systems of systems (SoS) are dynamic coalitions of distributed, autonomous and heterogeneous systems that collaborate to achieve a common goal. While offering several advantages in terms of scalability and flexibility, the SoS paradigm has a strong impact on systems interoperability and on the security requirements of the collaborating parties. In this paper, we introduce a service-oriented security framework that protects the information exchanged among the parties in an SoS, while preserving parties' autonomy and interoperability. Confidentiality and integrity of information are protected by combining context-aware access control with trust management. Autonomy and interoperability among parties are enabled by the use of ontology-based services. More precisely, parties may refer to different ontologies to define the semantics of the terms used in their security policies and to describe domain knowledge and context information; a semantic alignment technique is then employed to map concepts from different ontologies and align the parties' vocabularies. We demonstrate the applicability of our solution by deploying a prototype implementation of the framework in an SoS in the maritime safety and security domain.
+SN  - 0218-8430
+SN  - 1793-6365
+DA  - MAR
+PY  - 2013
+VL  - 22
+IS  - 1
+C7  - UNSP 1350004
+DO  - 10.1142/S0218843013500044
+AN  - WOS:000328318400003
+ER  -
+
+TY  - JOUR
+AU  - Daramola, O
+AU  - Sindre, G
+AU  - Moser, T
+TI  - A Tool-based Semantic Framework for Security Requirements Specification
+T2  - JOURNAL OF UNIVERSAL COMPUTER SCIENCE
+AB  - Attaining high quality in security requirements specification requires first-rate professional expertise, which is scarce. In fact, most organisations do not include core security experts in their software team. This scenario motivates the need for adequate tool support for security requirements specification so that the human requirements analyst can be assisted to specify security requirements of acceptable quality with minimum effort. This paper presents a tool-based semantic framework that uses ontology and requirements boilerplates to facilitate the formulation and specification of security requirements. A two-phased evaluation of the semantic framework suggests that it is usable, leads to reduction of effort, aids the quick discovery of hidden security threats, and improves the quality of security requirements.
+SN  - 0948-695X
+PY  - 2013
+VL  - 19
+IS  - 13
+SP  - 1940
+EP  - 1962
+AN  - WOS:000328541700005
+ER  -
+
+TY  - JOUR
+AU  - Chou, IH
+AU  - Fan, CF
+TI  - AN OBJECT-ORIENTED SECURITY KNOWLEDGE FRAMEWORK FOR THE NUCLEAR SAFETY SYSTEM PROJECT
+T2  - INTERNATIONAL JOURNAL OF SOFTWARE ENGINEERING AND KNOWLEDGE ENGINEERING
+AB  - As computers are used in nuclear safety systems, security engineering is becoming more and more important in the nuclear industry. Like all highly technical endeavours, the development of nuclear safety systems is a knowledge intensive task. Unfortunately, not only do nuclear scientists and software engineers lack the security knowledge, they are also not familiar with the new security requirements. Besides, few young people are studying nuclear science, nuclear engineering and related fields. Therefore, knowledge management can play a central role in encapsulating, storing and spreading the related discipline and knowledge more efficiently in the nuclear industry. In this paper, we propose a security knowledge framework to gather and store security knowledge from those regulatory-based security activities. We adopt an object-oriented paradigm which is easy for software engineers to understand and to express tacit and explicit knowledge. Its aim is intended to decouple between platform-independent security knowledge and platform-specific security controls. Finally, an example is presented to demonstrate the feasibility of linking between security controls and knowledge ontology in our framework.
+SN  - 0218-1940
+SN  - 1793-6403
+DA  - MAY
+PY  - 2010
+VL  - 20
+IS  - 3
+SP  - 347
+EP  - 365
+DO  - 10.1142/S0218194010004797
+AN  - WOS:000281358300003
+ER  -
+
+TY  - JOUR
+AU  - Brooke, JM
+AU  - Parkin, MS
+TI  - Enabling scientific collaboration on the Grid
+T2  - FUTURE GENERATION COMPUTER SYSTEMS-THE INTERNATIONAL JOURNAL OF ESCIENCE
+AB  - We examine the problem of supporting access by collaborations of scientists to Grid resources. Our aim is to support dynamic collaborations, by which we mean collaborations that can be easily formed and easily dissolved. We argue that current technology for creating Virtual Organisations has difficulty meeting this requirement. We propose an alternative structure, called an Alliance, based on a separation of the mechanisms for forming collaborations of people from the mechanisms for allocating and integrating resources in a Grid infrastructure. The key tools for achieving the Alliance are, firstly, a security architecture and, secondly, an ontological approach to the defining of roles and processes within an organisation. An example is presented to show how these tools can be implemented without needing to change current existing Grid middleware. (c) 2008 Elsevier B.V. All rights reserved.
+SN  - 0167-739X
+SN  - 1872-7115
+DA  - MAR
+PY  - 2010
+VL  - 26
+IS  - 3
+SP  - 521
+EP  - 530
+DO  - 10.1016/j.future.2008.03.001
+AN  - WOS:000273219400030
+ER  -
+
+TY  - JOUR
+AU  - Blobel, B
+TI  - Architectural Approach to eHealth for Enabling Paradigm Changes in Health
+T2  - METHODS OF INFORMATION IN MEDICINE
+AB  - Objectives: For improving safety and quality of care as well as efficiency of health delivery under the well-known burdens, health services become specialized, distributed, and therefore collaborative, thereby changing the health service paradigm from organization-centered over process-controlled to personal health (pHealth).
+   Methods: Personalized eHealth services provided independent of time and location have to be based on advanced technical paradigms of mobile, pervasive and autonomous computing, enabling ubiquitous health services. Personalized eHealth systems require a multidisciplinary approach including medicine, informatics, biomedical engineering, bioinformatics and the omics disciplines but also legal and regulatory affairs, administration, security, privacy and ethics, etc. Interoperability between different components of the intended system must be provided through an architecture-centric, model-driven, formalized process.
+   Results: In order to analyze, design, specify, implement and maintain such an interactive environment impacted by so many different domains, a formal and unified methodology for system analysis and design has been developed and deployed, based on an overall architectural framework. The paper introduces the underlying paradigms, requirements, architectural reference models, modeling and formalization principles as well as development processes for comprehensive service-oriented personalized eHealth interoperability chains, thereby exploiting all interoperability levels up to service interoperability. A special focus is put on ontologies and knowledge representation in the context of eHealth and pHealth solutions. Furthermore, EHR solutions, security requirements, existing and emerging standards, and educational challenges for realizing personalized pHealth are briefly discussed.
+   Conclusion: For personal health, bridging between disciplines including ontology coordination is the crucial demand. All aspects of the design and development process have to be considered from an architectural viewpoint.
+SN  - 0026-1270
+PY  - 2010
+VL  - 49
+IS  - 2
+SP  - 123
+EP  - 134
+DO  - 10.3414/ME9308
+AN  - WOS:000276936300004
+ER  -
+
+TY  - JOUR
+AU  - Lasheras, J
+AU  - Valencia-García, R
+AU  - Fernández-Breis, JT
+AU  - Toval, A
+TI  - Modelling Reusable Security Requirements based on an Ontology Framework
+T2  - JOURNAL OF RESEARCH AND PRACTICE IN INFORMATION TECHNOLOGY
+AB  - In recent years, security in Information Systems (IS) has become all important issue, and needs to be taken into account in all stages of IS development, including the early phase of Requirements Engineering (RE). Reuse of requirements improves the productivity and quality of software process and products. This can be facilitated by Semantic Web technologies. We describe till ontology-based framework for representing and reusing security requirements based oil risk analysis. A risk analysis ontology and a requirement ontology have been developed and combined to represent reusable security requirements formally and to improve security in IS by detecting incompleteness and inconsistency and achieving semantic processing in requirements analysis. This extensible framework is the basis oil which to elaborate a "lightweight" method to elicit and specify security requirements, based oil security standards.
+SN  - 1443-458X
+DA  - MAY
+PY  - 2009
+VL  - 41
+IS  - 2
+SP  - 119
+EP  - 133
+AN  - WOS:000267833400004
+ER  -
+
+TY  - JOUR
+AU  - Boullier, D
+AU  - Jollivet, P
+AU  - Audren, F
+TI  - Security: always too much and never enough Anthropology of a non-starter market
+T2  - ANNALS OF TELECOMMUNICATIONS
+AB  - The security market, based on public Key Infrastructures (PKI) did not succeed because security remains a paradoxical market We observed security practices and reciprocal expectations, in this study the ones generated by the design of PKI devices. Using the framework of Actor Network Theory, we describe all the mediations required for sustaining a digital security chain... often based on very material stuff. A whole vision of the world should be designed, an ontology, doomed to failure if it formats practices and users by constraint. This vision should retain a variable-geometry, while calling on guarantors that transcend it, and not merely on commercial certification authorities. Will security architecture design be able to integrate the users' demand for "adequate security", which renders security policies bearable as long as users are not aware of them?.
+SN  - 0003-4347
+SN  - 1958-9395
+DA  - NOV-DEC
+PY  - 2007
+VL  - 62
+IS  - 11-12
+SP  - 1274
+EP  - 1292
+AN  - WOS:000254240900007
+ER  -
+
+TY  - CHAP
+AU  - Yau, SS
+AU  - Chen, Z
+ED  - Yang, LT
+ED  - Jin, H
+ED  - Ma, J
+ED  - Ungerer, T
+TI  - A framework for specifying and managing security requirements in collaborative systems
+T2  - AUTONOMIC AND TRUSTED COMPUTING, PROCEEDINGS
+CP  - 3rd International Conference on Autonomic and Trusted Computing
+AB  - Although security has been recognized as an increasingly important and critical issue for software system development, most security requirements are poorly specified: ambiguous, misleading, inconsistent among various parts, and lacking sufficient details. In this paper, a framework for specifying unambiguous, interoperable security requirements and detecting conflict and undesirable emergent properties in collaborative systems is presented. The framework includes a core ontology representing hierarchical security requirements, an ontology-based security requirement specification process, a set of security requirement refining rules, an algorithm for automatic security requirement refinement and an analysis algorithm to detect inconsistent security requirements. In this paper, the specification and refinement of security requirements are emphasized.
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 3-540-38619-X
+PY  - 2006
+VL  - 4158
+SP  - 500
+EP  - 510
+AN  - WOS:000241471800049
+ER  -
+
+TY  - CHAP
+AU  - Sarker, MOF
+AU  - Kim, C
+AU  - You, BJ
+AU  - Sadi, MG
+ED  - Gabrys, B
+ED  - Howlett, RJ
+ED  - Jain, LC
+TI  - Developing knowledge-based security-sense of networked intelligent robots
+T2  - KNOWLEDGE-BASED INTELLIGENT INFORMATION AND ENGINEERING SYSTEMS, PT 1, PROCEEDINGS
+CP  - 10th International Conference on Knowledge-Based and Intelligent Information and Engineering Systems
+AB  - Distributed processing capabilities of robotic-applications using state-of-the-art component-based middleware and mobile-agent software technologies are continuously helping to develop more powerful intelligent robots. These application development frameworks provide several attractive conceptual solutions for network-based operations, however, these benefits cannot be realized unless the appropriate security mechanisms are in place. In this paper, this important issue is addressed in a systematic way: firstly, by analyzing the key limitations of traditional security models, the new security requirements for agent-based networked robots are pointed out and secondly, an effective defense mechanism is devised by constructing a knowledge-based security-aware robot control model. The main contributions of this work are, to address the security problem in a knowledge-based approach and to show the roles and mechanisms of the proposed security architecture. The feasibility of our approach is examined through a case study on development of robot security-sense using Linux-based reliable security-tools.
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 3-540-46535-9
+PY  - 2006
+VL  - 4251
+SP  - 874
+EP  - 881
+AN  - WOS:000242122000105
+ER  -
+
+TY  - CHAP
+AU  - Balopoulos, T
+AU  - Gymnopoulos, L
+AU  - Karyda, M
+AU  - Kokolakis, S
+AU  - Gritzalis, S
+AU  - Katsikas, S
+ED  - FischerHubner, S
+ED  - Furnell, S
+ED  - Lambrinoudakis, C
+TI  - A framework for exploiting security expertise in application development
+T2  - TRUST, PRIVACY, AND SECURITY IN DIGITAL BUSINESS, PROCEEDINGS
+CP  - 3rd International Conference on Trust, Privacy and Security in Digital Business
+AB  - This paper presents a framework that employs security ontologies and security patterns to provide application developers with a way to utilize security expertise. Through the development of a security ontology, developers locate the major security-related concepts relevant to their application context. Security patterns are then integrated with these concepts to provide tested solutions for accommodating security requirements.
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 3-540-37750-6
+PY  - 2006
+VL  - 4083
+SP  - 62
+EP  - 70
+AN  - WOS:000241622700007
+ER  -
+
+TY  - CHAP
+AU  - Clemente, MJG
+AU  - Pérez, GM
+AU  - Skarmeta, AFG
+ED  - Szczepaniak, PS
+ED  - Kacprzyk, J
+ED  - Niewiadomski, A
+TI  - A semantically-rich management system based on CIM for the OGSA security services
+T2  - ADVANCES IN WEB INTELLIGENCE, PROCEEDINGS
+CP  - 3rd International Atlantic Web Intelligence Conference (AWIC 2005)
+AB  - The lack of explicit semantics in the current security management solutions for OGSA (Open Grid Services Architecture) makes them not suitable for large distributed systems as data mining grids. Management representations based on the concept of ontology are being used to incorporate semantic expressiveness and reasoning capabilities. This paper proposes the adoption of a semantically-rich CIM (Common Information Model)-based policy management system for the OGSA Security Architecture, in which the security policy development is based on the use of OWL (Web Ontology Language) and OWL-S (OWL-based Web Service Ontology).
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 3-540-26219-9
+PY  - 2005
+VL  - 3528
+SP  - 473
+EP  - 479
+AN  - WOS:000230302600074
+ER  -
+
+TY  - CHAP
+AU  - Tsoumas, B
+AU  - Dritsas, S
+AU  - Gritzalis, D
+ED  - Gorodetsky, V
+ED  - Kotenko, I
+ED  - Skormin, V
+TI  - An ontology-based approach to information systems security management
+T2  - COMPUTER NETWORK SECURITY, PROCEEDINGS
+CP  - 3rd International Workshop on Mathematical Methods, Models, and Architectures for Computer Network Security
+AB  - Complexity of modem information systems (IS), impose novel security requirements. On the other hand, the ontology paradigm aims to support knowledge sharing and reuse in an explicit and mutually agreed manner. Therefore, in this paper we set the foundations for establishing a knowledge-based, ontology-centric framework with respect to the security management of an arbitrary IS. We demonstrate that the linking between high-level policy statements and deployable security controls is possible and the implementation is achievable. This framework may support critical security expert activities with respect to security requirements identification and selection of certain controls and countermeasures. In addition, we present a structured approach for establishing a security management framework and identify its critical parts. Our security ontology is being represented in a neutral manner, based on well-known security standards, extending widely used information systems modeling approaches.
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 3-540-29113-X
+PY  - 2005
+VL  - 3685
+SP  - 151
+EP  - 164
+AN  - WOS:000233596000012
+ER  -
+
+TY  - CHAP
+AU  - Kim, A
+AU  - Luo, J
+AU  - Kang, M
+ED  - Meersman, R
+ED  - Tari, Z
+ED  - Hacid, MS
+ED  - Mylopoulos, J
+ED  - Pernici, B
+ED  - Babaoglu, O
+ED  - Jacobsen, HA
+ED  - Loyall, J
+ED  - Kifer, M
+ED  - Spaccapietra, S
+TI  - Security ontology for annotating resources
+T2  - ON THE MOVE TO MEANINGFUL INTERNET SYSTEMS 2005: COOPIS, DOA, AND ODBASE, PT 2, PROCEEDINGS
+CP  - OTM Confederated International Conference and Workshop
+AB  - Annotation with security-related metadata enables discovery of resources that meet security requirements. This paper presents the NRL Security Ontology, which complements existing ontologies in other domains that focus on annotation of functional aspects of resources. Types of security information that could be described include mechanisms, protocols, objectives, algorithms, and credentials in various levels of detail and specificity. The NRL Security Ontology is more comprehensive and better organized than existing security ontologies. It is capable of representing more types of security statements and can be applied to any electronic resource. The class hierarchy of the ontology makes it both easy to use and intuitive to extend. We applied this ontology to a Service Oriented Architecture to annotate security aspects of Web service descriptions and queries. A refined matching algorithm was developed to perform requirement-capability matchmaking that takes into account not only the ontology concepts, but also the properties of the concepts.
+SN  - 0302-9743
+SN  - 3-540-29738-3
+PY  - 2005
+VL  - 3761
+SP  - 1483
+EP  - 1499
+AN  - WOS:000233743400034
+ER  -
+
+TY  - JOUR
+AU  - Tan, JJ
+AU  - Poslad, S
+TI  - Dynamic security reconfiguration for the semantic web
+T2  - ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+AB  - There is a plethora of security standards for protecting network services, specified by numerous standards consortia. These standards support different security requirements and use various syntaxes to represent the security information for different software infrastructures and applications. Open systems often require a more sophisticated security analysis and configuration to safeguard distributed services. A security framework constituting both semantic and meta-reasoning models is investigated in order to reason about the security requirements and security operation of interacting entities within open service environments. Security requirements are defined using security profiles that describe the interlinking of security policies to instances of services. Meta-reasoning refers to the reflection at a conceptual level at which the domain knowledge (ontology) is separated from the control knowledge (profiles): systems can manage and reconfigure themselves without affecting their underlying implementation. Such reasoning is particularly useful within open service infrastructures as it enables us to detect, analyse and resolve multiple-policy conflicts, to decide if a change in the environment necessitates a security reconfiguration, and to decide if a suitable level of security interoperability between heterogeneous systems is achievable. This paper describes a meta-reasoning model for semantic open service environments, an application and an evaluation of the framework and its performance. (C) 2004 Elsevier Ltd. All rights reserved.
+SN  - 0952-1976
+SN  - 1873-6769
+DA  - OCT
+PY  - 2004
+VL  - 17
+IS  - 7
+SP  - 783
+EP  - 797
+DO  - 10.1016/S0952-1976(04)00118-6
+AN  - WOS:000225873700008
+ER  -
+
+TY  - CHAP
+AU  - Weippl, ER
+AU  - Schatten, A
+AU  - Karim, S
+AU  - Tjoa, AM
+ED  - Karagiannis, D
+ED  - Reimer, U
+TI  - SemanticLIFE collaboration: Security requirements and solutions - Security aspects of semantic knowledge management
+T2  - PRACTICAL ASPECTS OF KNOWLEDGE MANAGEMENT, PROCEEDINGS
+CP  - 5th International Conference on Practical Aspects of Knowledge Management
+AB  - SemanticLIFE is a project that stores all information an individual works with in a semantically enriched form. Ontologies are used to improve the search process and to express queries in the way humans think - e.g. "Find the draft I've been working on when traveling home from the conference in Chicago". When people cooperate on projects they obviously need to share information without spending time on entering keywords and thinking about who should be able to access which data; the issue is to correctly configure access controls so that only required information is shared with the appropriate people. Using a combination of the Chinese Wall and the Bell LaPadula model we show how access controls can be configured correctly with little effort by the users.
+SN  - 2945-9133
+SN  - 1611-3349
+SN  - 3-540-24088-8
+PY  - 2004
+VL  - 3336
+SP  - 365
+EP  - 377
+AN  - WOS:000226186900034
+ER  -
+
+TY  - CHAP
+AU  - Sure, Y
+AU  - Haller, J
+ED  - Bussler, C
+ED  - Hong, S
+ED  - Jun, W
+ED  - Kaschek, R
+ED  - Kinshuk, X
+ED  - Krishnaswamy, S
+ED  - Loke, SW
+ED  - Oberle, D
+ED  - Richards, D
+ED  - Sharma, A
+ED  - Sure, Y
+ED  - Thalheim, B
+TI  - Towards cross-domain security properties supported by ontologies
+T2  - WEB INFORMATION SYSTEMS - WISE 2004 WORKSHOPS, PROCEEDINGS
+CP  - 5th International Conference on Web Information Systems Engineering (WISE 2004)
+AB  - Security is considered as a major driver for the success of E-Business, especially in a business-to-business environment. Current research activities in this area are conducted in European Union funded research projects, such as TrustCoM putting an emphasis on the collaborative aspects of business processes across administrative and trust domains. With respect to the tendency of business partners to set up their own. security islands, e.g. based on isolated Public Key Infrastructures (PKIs), this development introduces a contradiction for collaborative business process. Clearly expressed process related security requirements across domains can not be met by domain specific security infrastructures. This contribution explores the possibility to bridge the identified gap using semantic relationships contributed by ontologies.
+SN  - 0302-9743
+SN  - 3-540-23892-1
+PY  - 2004
+VL  - 3307
+SP  - 58
+EP  - 69
+AN  - WOS:000226129100006
+ER  -
+
+TY  - CHAP
+AU  - Denker, G
+AU  - Kagal, L
+AU  - Finin, T
+AU  - Paolucci, M
+AU  - Sycara, K
+ED  - Fensel, D
+ED  - Sycara, K
+ED  - Mylopoulos, J
+TI  - Security for DAML web services: Annotation and matchmaking
+T2  - SEMANTIC WEB - ISWC 2003
+CP  - 2nd International Semantic Web Conference
+AB  - In the next generation of the Internet semantic annotations will enable software agents to extract and interpret web content more quickly than it is possible with current techniques. The focus of this paper is to develop security annotations for web services that are represented in DAML-S and used by agents. We propose several security-related ontologies that are designed to represent well-known security concepts. These ontologies are used to describe the security requirements and capabilities of web services providers and requesting agents. A reasoning engine decides whether agents and web service have comparable security characteristics. Our prototypical implementation uses the Java Theorem Prover from Stanford for deciding the degree to which the requirements and capabilities match based on our matching algorithm. The security reasoner is integrated with the Semantic Matchmaker from CMU giving it the ability to provide security brokering between agents and services.
+SN  - 0302-9743
+SN  - 1611-3349
+SN  - 3-540-20362-1
+PY  - 2003
+VL  - 2870
+SP  - 335
+EP  - 350
+AN  - WOS:000188096900022
+ER  -
+

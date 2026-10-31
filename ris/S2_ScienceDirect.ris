@@ -1,0 +1,519 @@
+TY  - JOUR
+T1  - Agentic AI systems: A systematic survey of multi-agent architectures, cognitive foundations, interaction, explainability, security, and performance evaluation
+AU  - Khapre, Smita
+AU  - Mersha, Melkamu Abay
+AU  - Olalekan, Zainab
+AU  - Shakil, Hassan
+AU  - Iskander, Samer
+AU  - Moustafa, Asser
+AU  - Kalita, Jugal
+JO  - Neurocomputing
+VL  - 696
+SP  - 134049
+PY  - 2026
+DA  - 2026/10/01/
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2026.134049
+UR  - https://www.sciencedirect.com/science/article/pii/S0925231226014475
+KW  - Autonomous agents
+KW  - Multi-agent systems
+KW  - Cognitive architectures
+KW  - Agent reasoning and planning
+KW  - Human–AI collaboration
+KW  - Multi-agent explainability (XAI)
+KW  - Trustworthy AI
+KW  - AI safety and alignment
+KW  - Evaluation metrics
+KW  - Security and privacy
+AB  - Agentic AI represents a fundamental shift from reactive, model-centric paradigms toward autonomous, goal-directed systems capable of reasoning, adaptation, and coordinated action in dynamic environments. This paper presents a comprehensive systematic survey and a unified multidimensional taxonomy of Agentic AI, structuring the literature across six interrelated dimensions: architectural paradigms, cognitive foundations, interaction and adaptation, explainability, security–privacy–safety alignment, and evaluation. The survey synthesizes recent advances in agent architectures, including monolithic, modular, multi-agent, embodied, and tool-augmented systems, highlighting key design principles that support scalability, flexibility, and interoperability. It further examines the cognitive foundations underlying agentic behavior, encompassing goal formation, self-reflection, memory and context persistence, reasoning and planning, and continual learning. The interaction and adaptation dimension analyzes human–AI collaboration, multi-agent coordination, and environment-aware behavior, emphasizing the operation of agents in open, dynamic, and socially situated settings. Explainability is positioned as a core requirement for agentic systems, covering behavioral traceability, goal attribution, and layered explanation frameworks that enable transparency across agent hierarchies. In parallel, the survey reviews security, privacy, and safety-by-design mechanisms, including adversarial robustness, secure tool execution, trust calibration, and human-in-the-loop oversight. Finally, the paper examines evaluation methodologies for Agentic AI, addressing outcome-oriented performance, structural and graph-based analyses, resilience, autonomy–oversight trade-offs, and human-centric assessment criteria. By providing a unified taxonomy and systematic synthesis, this survey establishes a structured foundation for analyzing various existing approaches, identifying open challenges, and guiding future research toward the development of transparent, robust, and trustworthy Agentic AI systems.
+ER  - 
+
+TY  - JOUR
+T1  - A cyber-resilient open architecture for drone control
+AU  - d’Ambrosio, Nicola
+AU  - Perrone, Gaetano
+AU  - Romano, Simon Pietro
+AU  - Urraro, Alberto
+JO  - Computers & Security
+VL  - 150
+SP  - 104205
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2024.104205
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404824005108
+KW  - Resilience
+KW  - Security
+KW  - Safety
+KW  - STAMP/STPA-sec
+KW  - Open system architecture
+KW  - Microservices
+KW  - Unmanned aerial vehicles
+AB  - Unmanned Aerial Vehicles (UAVs) are becoming important tools in both military and civilian sectors. However, the prevalent use of monolithic architectures in contemporary platforms limits the swift integration of new features and significantly hampers the adaptability of UAVs to an ever-changing operational environment. Furthermore, this constantly evolving landscape highlights the inherent complexity of assessing drone safety and security since this process requires managing multiple and rapidly changing variables. Therefore, it is imperative to adopt an open system approach that relies on microservices and virtualization in order to overcome the limits of traditional drone architectures. This study presents a new method that involves breaking down the UAV monolithic system into a network of separate and virtualized components, each holding a single responsibility and designed according to the Open System Architecture (OSA) principle. Moreover, this work proposes a novel cyber-resilience model to determine cyber threats and assess their impact on the system. This approach leverages NIST 800-53, MITRE ATT&CK, STPA-Sec, and Attack Graph in order to identify the sequence of malicious actions that can lead to a specific hazardous scenario. Lastly, we demonstrate the effectiveness of this novel architectural paradigm by developing a software-in-the-loop simulation testbed for fast prototyping new features and validating the results of the cyber-resilience model.
+ER  - 
+
+TY  - JOUR
+T1  - BridgeSec: Facilitating effective communication between security engineering and systems engineering
+AU  - Shaked, Avi
+AU  - Messe, Nan
+JO  - Journal of Information Security and Applications
+VL  - 89
+SP  - 103954
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 2214-2126
+DO  - https://doi.org/10.1016/j.jisa.2024.103954
+UR  - https://www.sciencedirect.com/science/article/pii/S2214212624002564
+KW  - Security by design
+KW  - Model-driven engineering
+KW  - System development
+KW  - Vulnerability management
+KW  - Threat modelling
+KW  - Security engineering
+KW  - Systems engineering
+AB  - We increasingly rely on systems to perform reliably and securely. Therefore, it is imperative that security aspects are properly considered when designing and maintaining systems. However, achieving the security by design ideal is challenging. Security information is typically unstructured, dispersed, hard to communicate, and its assessment is somewhat subjective and tacit. Additionally, the inclusion of security information within design requires integrating the efforts of two knowledge-intensive disciplines: security engineering and systems engineering. In this paper, we introduce BridgeSec, a novel conceptual information-exchange interface to systemise the communication of security information between these two disciplines. The main contribution of BridgeSec lies in its explicit identification of concepts related to vulnerability management, which allows systems engineering and security engineering teams to codify pertinent information. The disciplines involved in the system design can thus coordinate policies, implementations and, ultimately, the security posture. Furthermore, based on the newly unveiled interface, an automated reasoning mechanism is specified. This mechanism allows to reason about the vulnerability posture of systems in a scalable and systematic way. First, we describe and formalise the information-exchange interface BridgeSecand how it can be used to reason about the security of systems designs. Next, we present an open-source prototype – integrated into a threat modelling tool – which rigorously implements the interface and the reasoning mechanism. Finally, we detail two diverse and prominent applications of the interface for communicating security aspects of systems designs. These applications show how BridgeSec can rigorously support the design of systems’ security in two representative scenarios: in coordinating security features and policy during design, and in coordinating mitigation to disclosed implementation vulnerabilities.
+ER  - 
+
+TY  - JOUR
+T1  - The landscape of IEC 61499 in modern automation: A scoping review of research trends and gaps (2018–2025)
+AU  - Bencherki, Zakaria
+AU  - Benfriha, Khaled
+AU  - Meyrueis, Vincent
+AU  - Sava, Alexandre
+AU  - Soares, Philippe
+AU  - Cachot, Laurent
+JO  - Journal of Process Control
+VL  - 162
+SP  - 103726
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 0959-1524
+DO  - https://doi.org/10.1016/j.jprocont.2026.103726
+UR  - https://www.sciencedirect.com/science/article/pii/S0959152426001095
+KW  - IEC 61499
+KW  - Scoping review
+KW  - Industrial automation
+KW  - Cyber–physical systems
+KW  - Research gaps
+KW  - Distributed control
+AB  - Purpose
+— IEC 61499 has been proposed as a basis for distributed and flexible control in Industry 4.0. This study maps the IEC 61499 research landscape from 2018 to 2025, characterizing dominant themes, emerging directions, and the standard’s practical readiness for cyber–physical systems.
+Design/methodology/approach
+— We conducted a PRISMA-ScR scoping review across IEEE Xplore, Scopus, ScienceDirect, and SpringerLink. This resulted in a corpus of 373 peer-reviewed papers. The studies were coded into thematic clusters and further analyzed to distinguish between conceptual work and implemented systems and real-world deployments. Particular attention was given to migration/coexistence, Intelligent Automation and Advanced Control, and industrial applications.
+Findings
+— The corpus is dominated by engineering methods and Operational Technology/Information Technology (OT/IT) integration, indicating that research has shifted from replacing PLC logic to enabling interoperable, distributed architectures. AI-related work forms an emerging, sustained stream focused on embedding learning components into function-block-based control. However, validation remains largely prototype-oriented, and only a small percentage of studies report deployments in realistic industrial settings. This reveals a clear deployment gap: the main bottleneck is no longer conceptual feasibility, but scalable, benchmarked, and sustained validation under industrial constraints.
+Originality/value
+— This review provides an up-to-date thematic and maturity map of post-2018 IEC 61499 research. It clarifies where progress is concentrated and where barriers to industrial adoption persist, notably migration, cybersecurity, and high-fidelity industrial validation.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 16 - Security risks and privacy challenges in digital twins
+AU  - Mohsin, Ahmad
+AU  - Janicke, Helge
+AU  - Holmes, David
+AU  - Sarker, Iqbal H.
+AU  - Nepal, Surya
+A2  - Nguyen, Tuan Anh
+A2  - Cai, Jun
+A2  - Rafsanjani, Marjan Kuchaki
+BT  - Foundations of Digital Twins
+PB  - Elsevier
+SP  - 239
+EP  - 252
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Advances in Digital Twin Computing and Sensor Networks
+SN  - 978-0-443-43896-7
+DO  - https://doi.org/10.1016/B978-0-443-43896-7.00016-9
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443438967000169
+KW  - Digital twin security
+KW  - privacy risks
+KW  - cyber-physical systems
+AB  - This chapter examines the security and privacy challenges inherent in Digital Twin (DT) systems, focusing on critical Infrastructures such as manufacturing, smart cities, and healthcare. While DTs deliver substantial benefits by offering real-time insights and optimizing operations through advanced data analytics and artificial intelligence, they also broaden the attack surface and introduce security and privacy risks. We perform a systematic analysis of vulnerabilities across the DT lifecycle and architecture layers, highlighting significant gaps in the current research landscape. To bridge these gaps, we develop security-driven lifecycle strategies, specifically Shift-Left (design stage) and Shift-Right (operational stage) approaches. The chapter also explores privacy-preserving techniques, secure architectural principles, and robust operational practices essential for safeguarding DT environments. A case study on a smart factory is presented to demonstrate real-world threats and countermeasures involving DTs. Finally, future research pathways are discussed, aiming to develop resilient, secure, and trustworthy DT ecosystems by integrating cybersecurity, privacy engineering, and governance across the lifecycle.
+ER  - 
+
+TY  - JOUR
+T1  - Healthcare digital twins: A methodological literature review on integrating iot and AI for personalized medicine and predictive care
+AU  - Shahnazinia, Sara
+AU  - Tavasoli, Mahsa
+AU  - Sarrafzadeh, Abdolhossien
+AU  - Karimoddini, Ali
+JO  - Telematics and Informatics Reports
+VL  - 22
+SP  - 100325
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 2772-5030
+DO  - https://doi.org/10.1016/j.teler.2026.100325
+UR  - https://www.sciencedirect.com/science/article/pii/S2772503026000368
+KW  - Digital Twin (DT)
+KW  - IoT-AI healthcare
+KW  - Predictive healthcare
+KW  - Healthcare data integration
+KW  - Medical simulation
+KW  - Ethical-regulatory frameworks
+AB  - Digital Twin (DT) technology has the potential to revolutionize healthcare delivery and enhance patient outcomes through personalized and precision medicine, simulation models for operations and interventions, and drug discovery. However, successful implementation of DTs in Internet of Things (IoT) and artificial intelligence (AI) healthcare is contingent upon addressing key challenges such as privacy, ethics, and robust data security. This paper presents a methodological literature review of DT applications in healthcare, systematically analyzing the current state of research, key enabling technologies, and implementation challenges. The review summarizes DT categorization approaches (application-based, technology-based, and real-time function-based); delineates core DT components such as sensors, data pipelines, AI/ML capabilities, security and governance measures; and surveys data collection and sensing technologies spanning EHRs, wearable/IoMT devices, and medical imaging. It further synthesizes diverse case studies across hospital management, diagnosis and treatment, patient monitoring and management, personalized therapies, and medical devices, highlighting both performance gains and translational gaps. Based on the corpus, the review identifies data integration and interoperability across heterogeneous healthcare systems as the foundational barrier to widespread DT adoption; without standardized protocols and semantics for multi-source data fusion and real-time exchange, the promise of adaptive, personalized, and predictive care remains largely unrealized. Finally, we outline actionable directions including standards-aligned data models, privacy-preserving learning (for example, federated or split learning), measurable clinical validation, and workflow-aware user experience design to accelerate translation from prototypes to routine clinical practice.
+ER  - 
+
+TY  - JOUR
+T1  - Agriculture 4.0 and beyond: Evaluating cyber threat intelligence sources and techniques in smart farming ecosystems
+AU  - Bui, Hang Thanh
+AU  - Aboutorab, Hamed
+AU  - Mahboubi, Arash
+AU  - Gao, Yansong
+AU  - Sultan, Nazatul Haque
+AU  - Chauhan, Aufeef
+AU  - Parvez, Mohammad Zavid
+AU  - Bewong, Michael
+AU  - Islam, Rafiqul
+AU  - Islam, Zahid
+AU  - Camtepe, Seyit A.
+AU  - Gauravaram, Praveen
+AU  - Singh, Dineshkumar
+AU  - Ali Babar, M.
+AU  - Yan, Shihao
+JO  - Computers & Security
+VL  - 140
+SP  - 103754
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2024.103754
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404824000555
+KW  - Cyber threat intelligence (CTI)
+KW  - Systematic literature review
+KW  - virtual Chief Information Security Officer (vCISO)
+KW  - Agriculture 4.0
+KW  - Agriculture 5.0
+KW  - Smart farming infrastructures (SFIs)
+KW  - Digital twin technology
+AB  - The digitisation of agriculture, integral to Agriculture 4.0, has brought significant benefits while simultaneously escalating cybersecurity risks. With the rapid adoption of smart farming technologies and infrastructure, the agricultural sector has become an attractive target for cyberattacks. This paper presents a systematic literature review that assesses the applicability of existing cyber threat intelligence (CTI) techniques within smart farming infrastructures (SFIs). We develop a comprehensive taxonomy of CTI techniques and sources, specifically tailored to the SFI context, addressing the unique cyber threat challenges in this domain. A crucial finding of our review is the identified need for a virtual Chief Information Security Officer (vCISO) in smart agriculture. While the concept of a vCISO is not yet established in the agricultural sector, our study highlights its potential significance. The implementation of a vCISO could play a pivotal role in enhancing cybersecurity measures by offering strategic guidance, developing robust security protocols, and facilitating real-time threat analysis and response strategies. This approach is critical for safeguarding the food supply chain against the evolving landscape of cyber threats. Our research underscores the importance of integrating a vCISO framework into smart farming practices as a vital step towards strengthening cybersecurity. This is essential for protecting the agriculture sector in the era of digital transformation, ensuring the resilience and sustainability of the food supply chain against emerging cyber risks.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter Two - Articulating machine and deep learning models for next-generation software development
+AU  - Nagasubramanian, Gayathri
+AU  - Revuri, Jaswanth
+AU  - Sakthivel, Rakesh Kumar
+A2  - Raj, Pethuru
+A2  - Agerstam, Mats
+A2  - Dutta, Pushan Kumar
+A2  - Sundaravadivazhagan, B.
+A2  - Nagasubramanian, Gayathri
+BT  - Advances in Computers
+PB  - Elsevier
+VL  - 141
+SP  - 31
+EP  - 66
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Cloud-native Architecture (CNA) and Artificial Intelligence (AI) for the Future of Software Engineering: The Principles, Patterns, Platforms and Practices
+SN  - 0065-2458
+DO  - https://doi.org/10.1016/bs.adcom.2025.07.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0065245825001123
+KW  - Machine learning (ML)
+KW  - Deep learning (DL)
+KW  - Microservices architecture
+KW  - Natural language processing (NLP)
+KW  - Generative adversarial networks (GANs)
+KW  - Software development life cycle (SDLC)
+AB  - The rapid evolution of software development is being fundamentally shaped by the integration of Machine learning (ML) and Deep learning (DL) technologies. This chapter provides a broad discourse on next generation software development, including how ML/DL are transforming traditional engineering paradigms into adaptive systems that are data-driven and intelligent systems. The chapter begins with an overview of the theoretical basis for ML and DL and then discusses the complete lifecycle of the development process, starting with the data collection phase, through the feature engineering phase to model deployment and monitoring, with a focus on best practice and architectural patterns, for example, microservices and API-driven integration. Real world examples of case studies including Netflix’s recommendation engine and Google Translate’s language processing tools, highlight and demonstrate the scalable and practical potential that technologies like these can provide to different industries. The chapter also covers other challenges, namely data quality, explainability of models, ethics of AI models and the demands on computational resources and offers tangible recommendations or mitigation strategy. The chapter concludes with considerations of trends such as reinforcement learning, generative adversarial networks, edge computing future possibilities or explainable AI and offers a vision of responsible, innovative, and scalable software systems. The synthesis of the chapter will assist practitioners, researchers and decision-makers with possibilities of and navigating and leading in the evolving era of AI influenced software development.
+ER  - 
+
+TY  - JOUR
+T1  - Separating intent from execution: A defense-in-depth security architecture for LLM-based multi-agent systems
+AU  - Chahine, Khaled
+JO  - Expert Systems with Applications
+VL  - 332
+SP  - 133781
+PY  - 2027
+DA  - 2027/01/01/
+SN  - 0957-4174
+DO  - https://doi.org/10.1016/j.eswa.2026.133781
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417426026898
+KW  - Multi-agent systems
+KW  - Large language models
+KW  - Decentralized identifiers
+KW  - Verifiable credentials
+KW  - Security architecture
+KW  - Zero trust
+KW  - Threat modeling
+AB  - Autonomous multi-agent systems require secure identity management, yet delegating security-critical operations to probabilistic language models introduces fundamental reliability risks. Recent architectural frameworks for agentic AI identity management provide comprehensive designs leveraging Decentralized Identifiers (DIDs), Verifiable Credentials (VCs), and cross-protocol session management. However, empirical evaluation reveals that when Large Language Models (LLMs) directly orchestrate these security protocols, completion rates collapse to as low as 4%, security-critical failures occur, and latency becomes prohibitive. This paper proposes a formal architectural separation between an “Intent Layer” where LLMs operate non-deterministically and a “Security Execution Layer” (SEL) where cryptographic operations execute deterministically. It presents a threat model that enumerates adversary capabilities, defines the interface contract with verifiable invariants aligned with DIF Presentation Exchange and DIDComm v2, integrates privacy-preserving credential features, including selective disclosure, and proposes defense-in-depth mechanisms for high-risk authorization decisions. To validate the architecture, a prototype simulator implementing 23 experiments across 16 attack vectors is evaluated against three live LLM APIs: Google Gemini 2.5 Flash, Anthropic Claude Sonnet 4, and OpenAI GPT-4o-mini. The evaluation compares five architectures: the SEL, an LLM-only raw baseline, a pre-parsed baseline, an LLM with function-calling/structured output, and a pure deterministic rule engine. Empirical results demonstrate that the SEL achieves 99% correctness with zero injection bypass across all three providers, compared to 0–80% for LLM baselines. The rule engine matches the SEL on structured-claim scenarios but cannot handle credentials with vague capability labels or unstructured endorsements; the SEL correctly interprets these on two of three providers, establishing that LLM-based interpretation adds genuine capability beyond what deterministic systems can provide. Defense-in-depth is empirically validated: GPT-4o-mini’s Step 3 is fooled by 66.7% of indirect injection attempts, whereas the deterministic Step 4 policy gate catches 100% of these failures, yielding a measured 66.7-percentage-point safety margin.
+ER  - 
+
+TY  - CHAP
+T1  - Index
+A2  - Nguyen, Tuan Anh
+A2  - Cai, Jun
+A2  - Rafsanjani, Marjan Kuchaki
+BT  - Foundations of Digital Twins
+PB  - Elsevier
+SP  - 561
+EP  - 572
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Advances in Digital Twin Computing and Sensor Networks
+SN  - 978-0-443-43896-7
+DO  - https://doi.org/10.1016/B978-0-443-43896-7.00035-2
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443438967000352
+ER  - 
+
+TY  - JOUR
+T1  - Scrum-guided development of an intelligent payroll management system with rule-based automation and RAG chatbot support
+AU  - Al-Hawari, Feras
+AU  - Alufeishat, Anoud
+AU  - Habahbeh, Mohammad
+AU  - Alfalayleh, Ahmad
+JO  - Knowledge-Based Systems
+VL  - 347
+SP  - 116301
+PY  - 2026
+DA  - 2026/07/19/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2026.116301
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705126010270
+KW  - Payroll systems
+KW  - Enterprise information systems
+KW  - Retrieval-augmented generation
+KW  - Large language models
+KW  - Design patterns
+KW  - Red-teaming
+AB  - Managing payroll in large institutions involves complex tasks such as setup, salary calculation, tax filing, and record keeping. Manual spreadsheet administration is inefficient, error-prone, and costly. Digitalizing payroll is essential to enable automation, improve accuracy, transparency, and security. The complexity and evolving requirements of large-scale payroll systems make full upfront planning impractical. Scrum delivers the project in manageable increments, enabling continuous customer involvement and feedback, reducing rework and associated costs compared to Waterfall approaches, where rigid phases limit early visibility and adaptation. Accordingly, we implemented a rule-based payroll system using reusable template–resolver design patterns, supporting configurable payroll, tax, health insurance, and social security rules, employee-specific allowances, automated bulk and individual salary slip generation, retroactive calculations, and built-in audit controls. System reliability was validated using Scrum metrics, including burn-up and defect charts, to track progress and monitor quality. Bulk payroll processing over 19 months confirmed consistent and scalable operation. Building on this system, we introduce a retrieval-enhanced chatbot to assist employees with payroll regulations, tax rules, and health insurance, reducing HR support efforts. Three RAG-based LLMs were evaluated using FAISS and BM25 retrieval with varying embeddings, chunk sizes, and top-k parameters, with responses scored by expert reviewers. Pure LLMs performed worse than RAG models, highlighting the benefits of retrieval augmentation. The best-performing configuration achieved a mean reviewer score of 94.9% on a 50-question, domain-reviewed benchmark, demonstrating high response quality. System robustness was further validated through empirical red-teaming, indicating strong containment under tested adversarial scenarios.
+ER  - 
+
+TY  - JOUR
+T1  - Architecting knowledge through AI-enhanced observability: A design science approach to enterprise architecture as a knowledge discipline
+AU  - Toumi, Aïssa
+AU  - Fosso Wamba, Samuel
+AU  - Hafsi, Mouaad
+JO  - International Journal of Information Management
+VL  - 89
+SP  - 103070
+PY  - 2026
+DA  - 2026/08/01/
+SN  - 0268-4012
+DO  - https://doi.org/10.1016/j.ijinfomgt.2026.103070
+UR  - https://www.sciencedirect.com/science/article/pii/S0268401226000423
+KW  - Enterprise Architecture
+KW  - Knowledge Management
+KW  - Observability
+KW  - Artificial Intelligence
+KW  - Large Language Models
+KW  - Design Science Research
+KW  - Architectural Knowledge
+KW  - Information Systems Governance
+AB  - The increasing complexity of organizations' information systems (IS) reinforces the importance of Enterprise Architecture (EA) as a Knowledge Management (KM) discipline. However, current EA practices often struggle to externalize and operationalize architectural knowledge, leaving it fragmented across multiple static models, undocumented flows, and expert silos. This study aims to demonstrate how artificial intelligence (AI)-driven observability can support the externalization, validation, and reuse of architectural knowledge. Our approach uniquely integrates EA, KM, and AI into a single operationalized Design Science Research (DSR) artifact. To address this question, we use the DSR methodology, which allows us to develop a modular software artifact integrating large language models, semantic search, graph-based reasoning, and log analysis to improve architectural understanding. The different modules of this artifact enable natural language interaction with architectural knowledge, real-time deviation detection, decision traceability, and interactive visualization. Following an expert panel evaluation based on concrete use cases, our artifact demonstrated promising evidence and high perceived utility in governance, compliance, and collaboration in organizations' IS. The study provides (1) a reconceptualization of observability as a knowledge development process in EA, (2) a validated artifact operationalizing this vision, and (3) empirical insights into AI-supported epistemic practices in digital architecture governance. We conclude that observability, enhanced by AI, constitutes a strategic lever to transform EA into a living knowledge infrastructure.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 20 - Integration of generative artificial intelligence and large language models into Digital Twin-based smart grids
+AU  - Ieva, Saverio
+AU  - Loconte, Davide
+AU  - Loseto, Giuseppe
+AU  - Ruta, Michele
+AU  - Scioscia, Floriano
+AU  - Marche, Davide
+AU  - Notarnicola, Marianna
+A2  - Varlamis, Iraklis
+A2  - Bagula, Antoine
+A2  - Hassani, Hossein
+BT  - Digital Twin Technology and Smart Grid
+PB  - Elsevier
+SP  - 375
+EP  - 394
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Advances in Digital Twin Computing and Sensor Networks
+SN  - 978-0-443-36664-2
+DO  - https://doi.org/10.1016/B978-0-443-36664-2.00024-1
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443366642000241
+KW  - Digital twin
+KW  - Energy infrastructures
+KW  - Energy management
+KW  - Generative artificial intelligence
+KW  - Large language models
+KW  - Natural user interface
+KW  - Retrieval-augmented generation
+AB  - The convergence of Digital Twin (DT) platforms and generative artificial intelligence (Generative AI) is essential for addressing the usability and interpretability constraints of complex smart grid systems. This chapter introduces a modular smart grid architecture model (SGAM) that integrates large language models (LLMs) for semantic reasoning and natural language interaction. The core framework incorporates a knowledge graph (KG) to represent heterogeneous information, enabling retrieval-augmented generation (RAG) workflows for context-aware and trustworthy decision-making. Key deployment considerations are outlined, balancing the advanced capabilities and scalability of cloud-based LLM services with the data privacy and operational control offered by on-premise LLM options. With this integrated approach, DTs turn into proactive, user-friendly systems that enhance data analytics, resource management, and decision-making capabilities for energy infrastructures.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing security requirements specification with SECRET-SCORE: A template-driven and ontology-based approach
+AU  - Hnaini, Hiba
+AU  - Mazo, Raúl
+AU  - Vallejo, Paola
+AU  - López, Andrés
+AU  - Champeau, Joël
+JO  - Computers & Security
+VL  - 157
+SP  - 104605
+PY  - 2025
+DA  - 2025/10/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2025.104605
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404825002949
+KW  - Security requirements engineering
+KW  - Ontology
+KW  - Cyber security
+KW  - Security-by-design
+AB  - In our rapidly changing world, where technology is integral to every aspect of our lives, ensuring our systems’ security is paramount. As industries become increasingly interconnected, the risk of security vulnerabilities and targeted attacks increases. Establishing robust security requirements is crucial to safeguard sensitive information and protect against malicious threats. To simplify and improve the quality of these requirements, researchers have proposed templates or boilerplates that can guide requirements engineers when defining requirements. However, this approach can help define the requirement structure without suggesting what security requirements to define to have a well-secured system. This paper proposes a guided strategy that combines (i) SECRET (SECurity REquirements specification Template) for a guided specification of each requirement and (ii) SCORE (Security Criteria Ontology for security Requirements Engineering) to suggest additional security requirements. We implemented the SECRET-SCORE approach using an autocomplete service that connects the SECRET template to the SCORE ontology. We then used the service to create a new language for security requirements in the VariaMos online tool. Finally, to test the usability of the implemented language, we conducted a usability test that reported high results in usability and user satisfaction with the developed tool.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 14 - Cloud computing for Digital Twin power grids
+AU  - Saleh, Sana
+AU  - Saadat, Zohaib
+AU  - Tariq, Muhammad
+A2  - Varlamis, Iraklis
+A2  - Bagula, Antoine
+A2  - Hassani, Hossein
+BT  - Digital Twin Technology and Smart Grid
+PB  - Elsevier
+SP  - 247
+EP  - 276
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Advances in Digital Twin Computing and Sensor Networks
+SN  - 978-0-443-36664-2
+DO  - https://doi.org/10.1016/B978-0-443-36664-2.00015-0
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443366642000150
+KW  - Cloud computing
+KW  - Cybersecurity
+KW  - Digital Twin
+KW  - Distributed energy resources
+KW  - Edge computing
+KW  - Real-time analytics
+KW  - Smart grid
+AB  - Cloud-based Digital Twins (DTs) represent a transformative approach to modernizing conventional power systems into intelligent smart grids through incremental, data-driven advancements. Serving as scalable, real-time digital replicas of physical grid assets and operations, DTs enable enhanced monitoring, analytics, and control capabilities across the grid infrastructure. This chapter offers a thorough study of the technical underpinnings, integration techniques, data architecture, and cybersecurity systems supporting the deployment of DTs in modern power systems. It begins with a comparative analysis of cloud computing models, centralized, edge, and hybrid, alongside service paradigms including infrastructure as a service , platform as a service, and software as a service, supported by functionalities from well-known providers including Amazon Web Services, Microsoft Azure, and Google Cloud. Emphasizing interoperability standards like the open platform communications unified architecture and the International Electrotechnical Commission common information model to allow seamless communication, the study focuses on the integration of DTs with essential grid management systems, including supervisory control and data acquisition, energy management system, and distributed energy resource management system. Cloud-native data storage and processing approaches, including time-series databases, data lakes, and graph structures, are assessed in relation to real-time analytics, load forecasting, fault detection, and predictive maintenance. A multitiered cybersecurity architecture, including infrastructure-level protections, effective cryptographic techniques, secure application programming interfaces, and compliance-oriented procedures, addresses security issues. The evolving risk landscape of smart grid systems is examined, stressing mitigation techniques aligned with the shared responsibility model in cloud contexts. By means of intelligent control, real-time data processing, and secure interoperability between cloud and edge platforms, cloud-hosted DTs present a revolutionary basis for utilities to manage dispersed energy resources, optimize operations, and adapt to dynamic grid demands. These advances help to create more flexible, sustainable, and resilient power systems equipped to support the energy transformation.
+ER  - 
+
+TY  - JOUR
+T1  - eSIM and blockchain integrated secure zero-touch provisioning for autonomous cellular-IoTs in 5G networks
+AU  - Krishnan, Prabhakar
+AU  - Jain, Kurunandan
+AU  - Poojara, Shivananda R.
+AU  - Srirama, Satish Narayana
+AU  - Pandey, Tulika
+AU  - Buyya, Rajkumar
+JO  - Computer Communications
+VL  - 216
+SP  - 324
+EP  - 345
+PY  - 2024
+DA  - 2024/02/15/
+SN  - 0140-3664
+DO  - https://doi.org/10.1016/j.comcom.2023.12.023
+UR  - https://www.sciencedirect.com/science/article/pii/S0140366423004589
+KW  - Zero-touch service provisioning (ZTP)
+KW  - Autonomous IoT (AIoT)
+KW  - Zero-touch networks
+KW  - Embedded SIM (eSIM)
+KW  - Blockchain
+KW  - Software defined networking (SDN)
+KW  - Remote SIM provisioning
+AB  - The growth of the Internet of Things (IoT) paradigm has resulted in a proliferation of connected devices and their applications. Autonomous IoT (AIoT) refers to a network of interconnected devices that operate without human intervention, making decisions and performing tasks autonomously. Traditional methods of provisioning IoT devices, such as manual configuration and over-the-air updates, are error-prone and insecure. The emergence of eSIMs (embedded SIMs) provides a viable solution for secure and flexible identity management in IoT devices. This work implements a low-cost, zero-touch remote provisioning system using GSMA standard Over-The-Air (OTA) IoT-SAFE protocol. This research predicts that future IoT devices will be eSIM-enabled, which are simple to configure, provision, validate profiles, and check security policies remotely. IoT onboarding processes are designed where blockchains are used to verify immutable repositories to store this network manifests, verifiable by Ethereum smart contracts. The integrated framework combines blockchain contracts, eSIM-based remote SIM provisioning through IoT-SAFE protocol, and SDN to manage IoT ecosystems' security. The proposed solution is evaluated using simulations and security analysis, and it demonstrates its feasibility at scale and resilience to attacks even under insecure environments. When compared with the baseline IEEE 802.15.4 protocol, our SDN-based Remote-SIM provisioning system (SIeSIM) reduces overhead to about 240 ms Time-To-Provision (TTP), outperforming manual provisioning by nearly 320 % and 210 % compared to expert provisioning in terms of TTP performances, respectively.
+ER  - 
+
+TY  - CHAP
+T1  - Appendix G - Answers to Review Questions/Exercises, Hands-on Projects, Case Projects, and Optional Team Case Project by Chapter
+A2  - Vacca, John R.
+BT  - Computer and Information Security Handbook (Fourth Edition)
+PB  - Morgan Kaufmann
+SP  - 1731
+EP  - 1829
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 978-0-443-13223-0
+DO  - https://doi.org/10.1016/B978-0-443-13223-0.15007-6
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443132230150076
+ER  - 
+
+TY  - JOUR
+T1  - Architecture-driven robotic cybersecurity: A systematic review and taxonomy
+AU  - Wang, Yuhang
+AU  - Fang, Zhiyang
+AU  - Wang, Junfeng
+AU  - Xiong, Junye
+AU  - Feng, Shuo
+AU  - Zhang, Gerui
+JO  - Computer Networks
+VL  - 287
+SP  - 112590
+PY  - 2026
+DA  - 2026/09/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2026.112590
+UR  - https://www.sciencedirect.com/science/article/pii/S138912862600602X
+KW  - Robotic cybersecurity
+KW  - Threat taxonomy
+KW  - Cyber–Physical systems
+KW  - Safety-security convergence
+KW  - Embodied AI security
+AB  - The proliferation of robotic Cyber–Physical Systems (CPS) introduces critical security risks, as digital vulnerabilities can be directly exploited to inflict kinetic harm. Effectively mitigating these threats requires systematically analyzing the robotic architecture. However, existing studies primarily focus on hardware constraints, network protocols, or software logic in isolation, lacking a unified architectural perspective on robotic cybersecurity. To holistically capture the cyber–physical interdependencies between physical constraints and software attack surfaces, this paper proposes the Architecture-Driven Hexa-Layer (ADHL) taxonomy. This unified framework categorizes the modern threat landscape and corresponding defense strategies across six distinct dimensions: the Device, Network, Control, Data, Algorithm, and Application layers. Based on the ADHL framework, this paper analyzes attack vectors ranging from low-level sensor spoofing to emerging semantic manipulations in Embodied Artificial Intelligence (AI), and synthesizes corresponding mitigation mechanisms. Furthermore, this paper quantitatively investigates the performance-security paradox, highlighting the inherent trade-off between real-time control requirements and security-induced latency. The review concludes by identifying pivotal challenges in achieving safety-security convergence and outlining future research directions, including lightweight cryptographic co-design, physics-informed digital twins, and neuromorphic edge security.
+ER  - 
+
+TY  - JOUR
+T1  - Internet of things: Conceptual network structure, main challenges and future directions
+AU  - Furstenau, Leonardo B.
+AU  - Rodrigues, Yan Pablo Reckziegel
+AU  - Sott, Michele Kremer
+AU  - Leivas, Pedro
+AU  - Dohan, Michael S.
+AU  - López-Robles, José Ricardo
+AU  - Cobo, Manuel J.
+AU  - Bragazzi, Nicola Luigi
+AU  - Choo, Kim-Kwang Raymond
+JO  - Digital Communications and Networks
+VL  - 9
+IS  - 3
+SP  - 677
+EP  - 687
+PY  - 2023
+DA  - 2023/06/01/
+SN  - 2352-8648
+DO  - https://doi.org/10.1016/j.dcan.2022.04.027
+UR  - https://www.sciencedirect.com/science/article/pii/S2352864822000827
+KW  - Internet of things
+KW  - Strategic intelligence
+KW  - Industry 4.0
+KW  - SciMAT
+KW  - Bibliometric analysis
+KW  - Science mapping
+AB  - Internet of Things (IoT) is a key technology trend that supports our digitalized society in applications such as smart countries and smart cities. In this study, we investigate the existing strategic themes, thematic evolution structure, key challenges, and potential research opportunities associated with the IoT. For this study, we conduct a Bibliometric Performance and Network Analysis (BPNA), supplemented by an exhaustive Systematic Literature Review (SLR). Specifically, in BPNA, the software SciMAT is used to analyze 14,385 documents and 30,381 keywords in the Web of Science (WoS) database, which was released between 2002 and 2019. The results reveal that 31 clusters are classified according to their importance and development, and the conceptual structures of key clusters are presented, along with their performance analysis and the relationship with other subthemes. The thematic evolution structure describes the important cluster(s) over time. For the SLR, 23 documents are analyzed. The SLR reveals key challenges and limitations associated with the IoT. We expect the results will form the basis of future research and guide decision-making in the IoT and other supporting industries.
+ER  - 
+
+TY  - JOUR
+T1  - Integrated system for control and monitoring industrial wireless networks for labor risk prevention
+AU  - Gisbert, J.R.
+AU  - Palau, C.
+AU  - Uriarte, M.
+AU  - Prieto, G.
+AU  - Palazón, J.A.
+AU  - Esteve, M.
+AU  - López, O.
+AU  - Correas, J.
+AU  - Lucas-Estañ, M.C.
+AU  - Giménez, P.
+AU  - Moyano, A.
+AU  - Collantes, L.
+AU  - Gozálvez, J.
+AU  - Molina, B.
+AU  - Lázaro, O.
+AU  - González, A.
+JO  - Journal of Network and Computer Applications
+VL  - 39
+SP  - 233
+EP  - 252
+PY  - 2014
+DA  - 2014/03/01/
+SN  - 1084-8045
+DO  - https://doi.org/10.1016/j.jnca.2013.07.014
+UR  - https://www.sciencedirect.com/science/article/pii/S1084804513001744
+KW  - Factory of the future
+KW  - Wireless sensor networks
+KW  - Semantic sensor networks
+KW  - Distributed application
+KW  - Global monitoring application
+KW  - Health and safety
+AB  - The FASyS (Absolutely Safe and Healthy Factory) project, aligned with the European Factories of the Future (FoF) concept, has been set-up to develop a new factory model aimed at minimizing the risks to the worker's health and safety, and guarantee their welfare and comfort in machining, handling and assembly factories. To this aim, ICT (Information and Communication Technologies) and wireless communication technologies in particular may represent very valuable tools to implement distributed and mobile sensing applications capable to continuously sense the working environment and the workers' health and safety conditions. The effective deployment of such applications in critical environments, like the industrial one, require the availability of a platform capable to monitor the operation and performance of the heterogeneous wireless networks that will connect the mobile sensors to remote control centers. This paper presents the platform implemented for this purpose in the context of the FASyS project. In addition to monitoring the status of heterogeneous wireless networks, the implemented platform provides the capability to reconfigure remotely the communication settings of wireless nodes based on possible malfunctioning or QoS degradation notifications. These functionalities will help guaranteeing the reliable and robust wireless communications required in industrial environments to implement innovative labor risk prevention applications exploiting ICT technologies.
+ER  - 

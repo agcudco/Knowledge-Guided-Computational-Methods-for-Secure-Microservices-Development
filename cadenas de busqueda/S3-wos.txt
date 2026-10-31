@@ -1,0 +1,19 @@
+TS=(
+  (
+    "architectural security"
+    OR "security architecture"
+    OR "security by design"
+    OR "secure by design"
+    OR "security requirement*"
+    OR "architectural vulnerabilit*"
+  )
+  AND
+  (
+    "knowledge graph*"
+    OR ontolog*
+    OR "semantic reasoning"
+    OR "knowledge-guided"
+    OR "knowledge-informed"
+    OR "knowledge-based"
+  )
+)

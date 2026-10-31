@@ -1,0 +1,1266 @@
+TY  - CONF
+TI  - A Retrieval-Augmented Generation (RAG) System for Supporting Architectural Design of Intelligent Transportation Systems
+T2  - 2025 25th International Conference on Software Quality, Reliability, and Security Companion (QRS-C)
+SP  - 1
+EP  - 10
+AU  - A. Awadid
+AU  - M. Becquart
+AU  - M. Gagnant
+AU  - A. Meyer-Vitali
+PY  - 2025
+KW  - Large language models
+KW  - Retrieval augmented generation
+KW  - Pipelines
+KW  - Transportation
+KW  - Software quality
+KW  - Reliability engineering
+KW  - Natural language processing
+KW  - Software reliability
+KW  - Security
+KW  - Intelligent sensors
+KW  - intelligent transportation systems
+KW  - large language models
+KW  - natural language processing
+KW  - retrieval-augmented generation
+KW  - architectural design
+KW  - information retrieval;
+DO  - 10.1109/QRS-C65679.2025.00012
+JO  - 2025 25th International Conference on Software Quality, Reliability, and Security Companion (QRS-C)
+IS  - 
+SN  - 2693-9371
+VO  - 
+VL  - 
+JA  - 2025 25th International Conference on Software Quality, Reliability, and Security Companion (QRS-C)
+Y1  - 16-20 July 2025
+AB  - Intelligent Transportation Systems (ITS), which encompass a wide range of transportation applications leveraging communication and information technologies (e.g., sensors, identifiers, and detectors), are rapidly expanding to meet the growing demand for safer, more efficient, and sustainable mobility solutions. However, the architectural design of these systems remains challenging, particularly for designers unfamiliar with the ITS domain. To address this issue, we propose a Retrieval-Augmented Generation (RAG) system designed to provide automated assistance in ITS architectural design. Our approach leverages the capabilities of Large Language Models (LLMs) while integrating knowledge from ITS reference architectures—established and validated frameworks. As the end system's reliability depends on the relevance of the retrieved documents, this paper focuses on the retrieval stage of the system pipeline by introducing a filtering-based retrieval method. We evaluate its performance across 8 light open-source LLMs, with results indicating that Mistral Small 3 outperforms other models in retrieving relevant documents with respect to user queries. The system's provided assistance levels are exemplified.
+ER  - 
+
+TY  - CONF
+TI  - CausalRCA: Causal Graph-Augmented Retrieval for Root Cause Analysis in Microservice Systems
+T2  - 2026 5th International Conference on Electronic Information Engineering, Big Data and Computer Technology (EIBDCT)
+SP  - 440
+EP  - 444
+AU  - J. Kou
+AU  - Z. Qing
+AU  - R. Wei
+AU  - F. Xue
+AU  - W. Huang
+AU  - H. Zhuang
+PY  - 2026
+KW  - Poles and zeros
+KW  - Large language models
+KW  - Printing
+KW  - Accuracy
+KW  - Conferences
+KW  - Retrieval augmented generation
+KW  - Root cause analysis
+KW  - Equations
+KW  - Cognition
+KW  - Cognitive systems
+KW  - Root cause analysis
+KW  - microservices
+KW  - causal inference
+KW  - retrieval-augmented generation
+KW  - AIOps
+DO  - 10.1109/EIBDCT69742.2026.11566729
+JO  - 2026 5th International Conference on Electronic Information Engineering, Big Data and Computer Technology (EIBDCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 5th International Conference on Electronic Information Engineering, Big Data and Computer Technology (EIBDCT)
+Y1  - 24-26 April 2026
+AB  - Root cause analysis (RCA) in microservice systems remains challenging due to heterogeneous observability signals and cascading fault propagation. We propose CausalRCA, a four-layer framework integrating: (1) multi-modal data ingestion; (2) a causal candidate graph unifying metrics, traces, logs, and topology into a temporal causal structure; (3) retrieval-augmented incident reasoning grounding LLM inference in operational knowledge; and (4) confidence-calibrated output producing top- $k$ root causes with ranked remediation actions. Evaluated on DeathStarBench with five fault types, CausalRCA achieves 86.0% top- 1 and 95.0% top-3 accuracy, outperforming the best baseline by 7.5 and 6.0 percentage points. Ablation studies confirm that the RAG module and causal graph provide complementary strengths across different fault categories.
+ER  - 
+
+TY  - CONF
+TI  - Software Architecture for Federated Retrieval-Augmented Clinical QA System Using IoT for Continuous Monitoring
+T2  - 2025 International Semiconductor Conference (CAS)
+SP  - 381
+EP  - 384
+AU  - F. Negoiță
+AU  - A. I. Dumachi
+PY  - 2025
+KW  - Patient monitoring
+KW  - Hospitals
+KW  - Software architecture
+KW  - Semantic search
+KW  - Retrieval augmented generation
+KW  - MIMICs
+KW  - Transformers
+KW  - Question answering (information retrieval)
+KW  - Internet of Things
+KW  - Indexes
+KW  - retrieval-augmented generation
+KW  - internet of things
+KW  - biomedical applications
+DO  - 10.1109/CAS66707.2025.11222170
+JO  - 2025 International Semiconductor Conference (CAS)
+IS  - 
+SN  - 2377-0678
+VO  - 
+VL  - 
+JA  - 2025 International Semiconductor Conference (CAS)
+Y1  - 7-11 Oct. 2025
+AB  - We present a federated architecture for clinical question answering (QA) that leverages retrievalaugmented generation (RAG)[4] across multiple hospital nodes without requiring centralization of sensitive patient data and incorporates Internet of Things (IoT)–based continuous patient monitoring to enhance the fidelity and timeliness. Each hospital hosts its own PostgreSQL database modeled after real-world ICU (intensive care units) datasets (MIMIC-IV, AmsterdamUMCdb, HiRID), containing either free-text notes or structured clinical data. We extract or synthesize textual representations, embed them using Sentence Transformers, and store them in local FAISS indexes. Each node exposes a semantic search API, while a central orchestrator aggregates results and passes them to a locally run LLM (LLaMA 3 via Ollama) for answer generation. Our system demonstrates the feasibility of decentralized QA over heterogeneous clinical data and paves the way for privacy-conscious, multi-center clinical decision support systems.
+ER  - 
+
+TY  - CONF
+TI  - Research on Data Communication Based on Microservice Architecture and Knowledge Graph
+T2  - 2021 IEEE 4th International Conference on Computer and Communication Engineering Technology (CCET)
+SP  - 313
+EP  - 317
+AU  - W. Gao
+AU  - W. Zhan
+AU  - H. Gong
+AU  - C. Liu
+AU  - K. Wang
+AU  - H. Wang
+PY  - 2021
+KW  - Knowledge engineering
+KW  - Process control
+KW  - Computer architecture
+KW  - Maintenance engineering
+KW  - Containers
+KW  - Communication networks
+KW  - Data communication
+KW  - Micro-services
+KW  - Knowledge Graph
+KW  - 5G Communication Network
+KW  - Communication Network Management
+DO  - 10.1109/CCET52649.2021.9544121
+JO  - 2021 IEEE 4th International Conference on Computer and Communication Engineering Technology (CCET)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 IEEE 4th International Conference on Computer and Communication Engineering Technology (CCET)
+Y1  - 13-15 Aug. 2021
+AB  - In the process of communication network management, with the increase of user's demand for application network, the management architecture gradually generates various management modules, and each module independently completes the task. This process is relatively simple and easy to implement and saves a part of the physical space, but the data inside the system is chaotic and scattered, and the functions between data blocks are mostly repeated, which poses a serious threat to the maintenance and upgrade of the 5G communication network management system. For the above reason we try to use micro service architecture for 5 G communication network management system of each module for unified control, ensure that in the process of frequent data communication implements the function of optimization. At the same time, predicting the application of knowledge map in data relations also helps us to better the hierarchy between each data block. It contributes to the normal operation of the network management system. The experimental results on the benchmark data show that the method has excellent performance and good stability.
+ER  - 
+
+TY  - CONF
+TI  - A Retrieval-Augmented Generation-Driven Auto-Scaling Method for Microservices in Cloud-Native Environments
+T2  - 2026 IEEE International Conference on Web Services (ICWS)
+SP  - 592
+EP  - 602
+AU  - X. Jiang
+AU  - Z. Cai
+AU  - L. Xu
+AU  - R. Buyya
+PY  - 2026
+KW  - Modeling
+KW  - Large language models
+KW  - Cognition
+KW  - Cognitive systems
+KW  - Timing
+KW  - Tools
+KW  - Measurement
+KW  - Retrieval augmented generation
+KW  - Clouds
+KW  - Printing
+KW  - Large Language Models
+KW  - Microservices
+KW  - Autoscaling
+KW  - Explainability
+KW  - Robustness
+DO  - 10.1109/ICWS72778.2026.00077
+JO  - 2026 IEEE International Conference on Web Services (ICWS)
+IS  - 
+SN  - 2836-3868
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Conference on Web Services (ICWS)
+Y1  - 13-18 July 2026
+AB  - With the evolution of cloud-native technologies, auto-scaling of microservices has become essential for ensuring Quality of Service (QoS) and optimizing resource utilization. However, existing resource management methods encounter significant robustness challenges in complex, heterogeneous cloud environments. This paper proposes a Retrieval-Augmented Generation (RAG)-driven Auto-scaling Method (R-AM) for microservices. To enhance the robustness of the decision-making architecture and improve the interpretability of decision-processing, a RAG-based Decision Reasoning (RDR) method is proposed. This approach not only maps monitoring metrics onto semantic descriptions but also constructs an auto-scaling reasoning chains by integrating expert knowledge through RAG. Building upon the established reasoning chains, a Heterogeneous Tool Invoking (HTI) method is developed to enhance the execution capability of Large Language Models (LLMs) in the field of autoscaling. The LLM acts as a central scheduler invoking specific heterogeneous tools to adjust the system based on the reasoning chains. To ensure that R-AM has continuous learning capabilities, we propose a System Feedback based Interactive Learning (SFIL) method. By maintaining continuous interaction with the system, the approach collects real-time execution outcomes and performance metrics, which serve as the basis for iteratively finetuning the scheduling logic of LLM. This data-driven evolution mechanism enables the R-AM to sensitively capture and adapt to dynamic workloads. Compared with state-of-the-art baselines, experimental results on a real kubernetes cluster show that RAM reduces the Service Level Agreement (SLA) violation ratio of the 95th percentile response time from 11.17% to 6.7% while enhancing the success rate by 73.91%.
+ER  - 
+
+TY  - CONF
+TI  - Neuro-Symbolic Self-Evolving Software Architecture with Formal Verification for Trustworthy AI
+T2  - 2026 International Conference on Power, Electronics, Communications, Computing, and Intelligent Infrastructure (PECCII)
+SP  - 1
+EP  - 6
+AU  - T. Alam
+AU  - H. M. Ricon
+AU  - S. Sharmin
+AU  - K. Nur
+PY  - 2026
+KW  - Modeling
+KW  - Safety
+KW  - Codes
+KW  - Manuals
+KW  - Architecture
+KW  - Computer architecture
+KW  - Large language models
+KW  - Evolution (biology)
+KW  - Artificial intelligence
+KW  - Software
+KW  - Autonomous maintenance
+KW  - formal verification
+KW  - intelligent infrastructure
+KW  - large language models
+KW  - neuro-symbolic architecture
+DO  - 10.1109/PECCII70991.2026.11661990
+JO  - 2026 International Conference on Power, Electronics, Communications, Computing, and Intelligent Infrastructure (PECCII)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Power, Electronics, Communications, Computing, and Intelligent Infrastructure (PECCII)
+Y1  - 17-18 June 2026
+AB  - Autonomous maintenance ensures reliable operation for complex intelligent infrastructure, such as power grids and communication networks. Large language models accelerate software code generation tasks. However, their probabilistic nature frequently introduces semantic errors. These specific flaws present high levels of safety risk to critical infrastructure operations. This paper proposes a neuro-symbolic architecture to resolve this issue. The framework integrates formal symbolic reasoning with neural network generation. The system transforms unstructured code modifications into organized evolution operators. A multi-stage verification pipeline enforces logical constraints on the generated code, while a safety-bounded adaptation mechanism prevents the deployment of invalid software modifications. An experimental evaluation assessed the architecture using a set of 400 software defects from power systems, IoT controllers, networks, and edge infrastructure. The final results show a verified acceptance rate of 78.2 percent. Additionally, the model preserved a safety violation rate of 0.0 percent throughout the evaluation. Formal constraints enable verifiable autonomous defect resolution for infrastructure systems.
+ER  - 
+
+TY  - CONF
+TI  - Dynamic Governance Technology for Power Knowledge Warehouse Based on Multi-System Data Collaboration under Microservice Architecture
+T2  - 2026 6th International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA)
+SP  - 1476
+EP  - 1479
+AU  - D. Zhou
+AU  - L. Chen
+AU  - K. Xiong
+PY  - 2026
+KW  - Equations
+KW  - Collaboration
+KW  - Printing
+KW  - Tagging
+KW  - Optimization
+KW  - Knowledge graphs
+KW  - Modeling
+KW  - Timing
+KW  - Warehousing
+KW  - Recording
+KW  - Microservice architecture
+KW  - power knowledge repository
+KW  - data collaboration
+KW  - knowledge graph
+KW  - dynamic governance
+KW  - consistency optimization
+DO  - 10.1109/CAIBDA70336.2026.11621172
+JO  - 2026 6th International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 6th International Conference on Artificial Intelligence, Big Data and Algorithms (CAIBDA)
+Y1  - 12-14 June 2026
+AB  - This paper proposes a dynamic governance technology for power knowledge warehouse based on multi-system data collaboration within a microservice architecture. This method constructs a power knowledge warehouse representation model using power entities, business relationships, operational events, temporal states, and knowledge versions as unified objects. Data access services, semantic parsing services, knowledge construction services, conflict detection services, dynamic governance services, and query reasoning services are designed to achieve loosely coupled access and continuous governance of cross-system data. To address the risks of cross-system attribute conflicts, state drift, and version overwrite, a conflict resolution algorithm based on source credibility, time freshness, field stability, and historical hit rate is further proposed, and a consistency optimization objective function for incremental updates is established. Experimental results show that, in scenarios with continuous access to multi-source power data, the proposed method outperforms centralized ETL, rule-based governance, and ordinary graph database methods in terms of data consistency, knowledge update latency, and conflict resolution accuracy. The research results demonstrate that combining microservice architecture with knowledge graph governance mechanisms can effectively improve the dynamic maintenance capabilities and cross-system collaboration efficiency of the power knowledge repository.
+ER  - 
+
+TY  - CONF
+TI  - Microservices Performance Testing with Causality-enhanced Large Language Models
+T2  - 2025 IEEE/ACM Second International Conference on AI Foundation Models and Software Engineering (Forge)
+SP  - 136
+EP  - 140
+AU  - C. Mascia
+AU  - A. Guerriero
+AU  - L. Giamattei
+AU  - R. Pietrantuono
+AU  - S. Russo
+PY  - 2025
+KW  - Measurement
+KW  - Foundation models
+KW  - Large language models
+KW  - Retrieval augmented generation
+KW  - Microservice architectures
+KW  - Manuals
+KW  - Cognition
+KW  - Space exploration
+KW  - Testing
+KW  - Software engineering
+KW  - Microservices
+KW  - Performance testing
+KW  - Large Language Models
+KW  - Causal reasoning
+KW  - Retrieval-augmented generation
+DO  - 10.1109/Forge66646.2025.00022
+JO  - 2025 IEEE/ACM Second International Conference on AI Foundation Models and Software Engineering (Forge)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM Second International Conference on AI Foundation Models and Software Engineering (Forge)
+Y1  - 27-28 April 2025
+AB  - Efficient performance testing of microservices is essential for engineers to ensure that deviations of performance/resource usage metrics from expectations are promptly identified within their rapid release cycle. To this aim, engineers would need to explore the space of possible workload configurations and focus only on the critical ones, e.g., low-load configurations that unexpectedly cause performance issues. This requires a great effort, and can be infeasible in short release cycles.We present CALLMIT, a framework using Large Language Models (LLM) enhanced by causal reasoning to automatically generate critical workloads for microservices performance testing. Engineers query CALLMIT to generate workload configurations expected to expose deviations from performance requirements, so as to actually run only tests that trigger critical configurations. We present the experimental evaluation on three subjects, with comparison to a conventional Retrieval-Augmented Generation technique. The results show that causal models improve the correct identification by LLM of performance-critical workload configurations.
+ER  - 
+
+TY  - CONF
+TI  - DocQA-MS: A Privacy-Preserving Microservices Architecture for Medical Document Question-Answering Using Local RAG
+T2  - 2026 2nd International Conference on Global Aeronautical Engineering and Satellite Technology (GAST)
+SP  - 1
+EP  - 7
+AU  - O. Ouedrhiri
+AU  - H. Tabbaa
+AU  - A. El Houfi
+AU  - S. Karzouz
+AU  - Y. Lambrass
+AU  - A. El Malyari
+AU  - M. Lachgar
+PY  - 2026
+KW  - Retrieval augmented generation
+KW  - Modeling
+KW  - Medical services
+KW  - Privacy
+KW  - Architecture
+KW  - Computer architecture
+KW  - Printing
+KW  - Pipelines
+KW  - Timing
+KW  - Large language models
+KW  - Medical Question-Answering
+KW  - Retrieval-Augmented Generation
+KW  - Privacy-Preserving AI
+KW  - Microservices
+KW  - Clinical NLP
+DO  - 10.1109/GAST67799.2026.11523264
+JO  - 2026 2nd International Conference on Global Aeronautical Engineering and Satellite Technology (GAST)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 2nd International Conference on Global Aeronautical Engineering and Satellite Technology (GAST)
+Y1  - 22-24 April 2026
+AB  - Along with the digitalization of healthcare, massive volumes of unstructured clinical data have been generated. This poses a challenge for clinicians to efficiently retrieve relevant information. In contrast, strict privacy and data sovereignty are considered as the main constraints when using Large language Models (LLMs) in medical environments. This paper proposes DocQA-MS, a privacy-preserving microservices architecture for medical document question-answering. Operating fully offline, the proposed solution employs a local Retrieval-Augmented Generation (RAG) powered by Llama 3.1 to prevent leakage of sensitive personal patient data. A robust multi-stage de-identification pipeline is proposed. It incorporates pattern matching with transformer-based Named Entity Recognition. This system achieves a micro-averaged F1-score of 94.7% and an AUC of 0.978 in detecting Protected Health Information (PHI). Experimentation prove the accuracy and context-awareness of the delivered responses with compliant performance latencies. The proposed system thus provides a good solution for clinical decision support, rigorously respecting the privacy standards.
+ER  - 
+
+TY  - CONF
+TI  - A Knowledge Sharing Platform for Oilfield Exploration and Development Based on Knowledge Graph and Microservice Architecture
+T2  - 2026 International Conference on Complex Systems, Intelligent Science and Computing Technology (CSITec)
+SP  - 514
+EP  - 519
+AU  - H. Huang
+AU  - J. Yang
+AU  - N. Zhang
+AU  - T. Yang
+AU  - L. Teng
+AU  - X. Ren
+AU  - J. Bi
+AU  - Q. Xiong
+PY  - 2026
+KW  - Ontologies
+KW  - Knowledge graphs
+KW  - Modeling
+KW  - Architecture
+KW  - Computer architecture
+KW  - Companies
+KW  - knowledge sharing platform
+KW  - knowledge graph
+KW  - microservice architecture
+KW  - xinjiang oilfield
+DO  - 10.23919/CSITecCPS00081.2026.00088
+JO  - 2026 International Conference on Complex Systems, Intelligent Science and Computing Technology (CSITec)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Complex Systems, Intelligent Science and Computing Technology (CSITec)
+Y1  - 27-29 March 2026
+AB  - To address heterogeneous data integration, low-value use of unstructured documents, and poor knowledge retrieval in Xinjiang Oilfield, this study develops a specialized knowledge-sharing platform based on microservices and a knowledge graph. The research process involves three phases. Phase one builds up the exploration and production domain-knowledge ontology based on the Exploration and Production Data Model (EPDM), covering the whole business process from seismic data, logging data, mud-logging data, and overall research process. Phase two puts forwards a hybrid process of knowledge processing based on the Apache Tika engine's capacity to process multiple-document formats and by combining the CRF algorithm with rule dictionaries from different domains in terms of automatic entity identifications and semantic annotations in the geological domain. Phase three realizes key functions like semantic-enhanced queries, map-aid navigation queries, and intelligent dynamic energy data through the combination of Elasticsearch's full-text search function and WebGIS. The system has been deployed in Xinjiang Oilfield's private cloud network and has effectively regulated more than 50,000 retired research texts from the Mahu project research team and the archives center. Real-world testing proves that more than 200 simultaneous accesses can be supported in a relatively high concurrency level in a short span of 3 seconds. The system provides effective solutions in overcoming the "information silo-effect" caused by research data, leading to substantial improvements in know-down reuse efficiency and providing research ideas and methods towards digital transformation in oilfield enterprises.
+ER  - 
+
+TY  - CONF
+TI  - Development of a Microservice for Categorizing Requests to an AI Assistant Using Intelligent Technologies
+T2  - 2026 8th International Conference on Information Technologies in Engineering Education (Inforino)
+SP  - 1
+EP  - 4
+AU  - A. Strigina
+AU  - I. Kurilenko
+PY  - 2026
+KW  - Modeling
+KW  - Artificial intelligence
+KW  - Retrieval augmented generation
+KW  - Timing
+KW  - Printing
+KW  - Statistics
+KW  - Architecture
+KW  - Computer architecture
+KW  - Databases
+KW  - artificial intelligence
+KW  - AI-assistant
+KW  - microservice
+KW  - usage statistics
+KW  - request categorization
+KW  - question classification
+DO  - 10.1109/Inforino68543.2026.11556789
+JO  - 2026 8th International Conference on Information Technologies in Engineering Education (Inforino)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 8th International Conference on Information Technologies in Engineering Education (Inforino)
+Y1  - 14-17 April 2026
+AB  - The paper presents the development of a microservice designed for intelligent categorization of user requests to an AI assistant and subsequent analysis of system usage statistics. The microservice automatically assigns one to three categories to each request, maintains a category bank considering the number of requests per category, and also forms consolidated category groups. Additionally, temporal request statistics are collected, allowing for the analysis of load dynamics and user interests across days, weeks, and months. The proposed approach can be used to improve the quality of the assistant's responses, assess interest in the AI assistant, plan resources for specific operating periods, and support management decisions.
+ER  - 
+
+TY  - JOUR
+TI  - Aligning DevOps and Microservice Architecture: Empirical Mapping, Taxonomy, and RAG-Based Decision Support
+T2  - IEEE Access
+SP  - 189670
+EP  - 189685
+AU  - E. A. Khadem
+AU  - A. Movaghar
+PY  - 2025
+KW  - DevOps
+KW  - Microservice architectures
+KW  - Automation
+KW  - Observability
+KW  - Monitoring
+KW  - Taxonomy
+KW  - Pipelines
+KW  - Systematic literature review
+KW  - Security
+KW  - Codes
+KW  - Cloud-native
+KW  - DevOps
+KW  - large language models (LLMs)
+KW  - microservice architecture (MSA)
+KW  - observability
+KW  - retrieval-augmented generation (RAG) taxonomy
+DO  - 10.1109/ACCESS.2025.3628665
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+AB  - DevOps and microservice architecture (MSA) are central to modern software delivery, yet their conceptual alignment remains fragmented across the literature. This study empirically analyzes how DevOps practices correspond to MSA principles and how these relationships inform architectural and operational decisions. From 84 peer-reviewed sources (2016–2025), we extract and normalize over 200 DevOps–MSA concept pairs and organize them into a five-category taxonomy: deployment automation and orchestration, observability and runtime diagnostics, scalability and modularity, security and governance, and configuration and environment management. To operationalize these mappings, we develop a retrieval-augmented generation (RAG) framework that combines sentence-transformer embeddings with GPT-based reasoning to generate bidirectional concept recommendations. Quantitative evaluation shows that RAG outperforms lexical and embedding-only baselines by roughly 20 % in precision and ranking, while qualitative assessment confirms semantic accuracy and contextual relevance. Deployment automation and observability emerge as the most empirically supported categories, whereas governance-related links remain largely conceptual. Industrial case studies in software, banking, and insurance sectors demonstrate measurable improvements in release speed and developer satisfaction when the framework supports transformation planning. The complete dataset and open-source RAG prototype are released to facilitate replication and extension. Overall, the findings indicate that empirically grounded RAG enhances traceability and evidence-based decision-making between architecture and operations in complex software systems.
+ER  - 
+
+TY  - CONF
+TI  - Supporting Root Cause Analysis Decision in Cloud Microservices Using Hybrid Ai Techniques
+T2  - 2026 11th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA)
+SP  - 591
+EP  - 600
+AU  - G. Elambooranan
+AU  - P. Sood
+AU  - M. H. U. Zaman
+AU  - K. Singh
+AU  - Y. Liu
+PY  - 2026
+KW  - Modeling
+KW  - Poles and zeros
+KW  - Retrieval augmented generation
+KW  - Cognition
+KW  - Cognitive systems
+KW  - Measurement
+KW  - Grounding
+KW  - Clouds
+KW  - Root cause analysis
+KW  - Large language models
+KW  - RAG (Retrieval Augmented Generation)
+KW  - RCA (Root Cause Analysis)
+KW  - LLMs (Large Language Models)
+DO  - 10.1109/ICCCBDA69573.2026.11676559
+JO  - 2026 11th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA)
+IS  - 
+SN  - 2832-3734
+VO  - 
+VL  - 
+JA  - 2026 11th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA)
+Y1  - 24-26 April 2026
+AB  - Root cause analysis (RCA) for cloud microservices is increasingly addressed using AI-driven and large language model (LLM)-based techniques. However, existing state-of-theart solutions are often evaluated on proprietary datasets with opaque service dependency models, and primarily focus on fault localization accuracy rather than the quality of explanations and decision support provided to operators. These limitations hinder reproducibility and obscure how RCA systems reason about service dependencies, fault propagation paths, and mitigation actions. This paper presents a hybrid, decision-support-oriented methodology for RCA in cloud microservices that emphasizes explanation quality rather than pure detection performance. The methodology integrates open-source microservice benchmarks with synthetically injected faults to construct 68 fine-grained RCA scenarios with explicit ground truth, including root cause nodes, target services, dependency paths, and affected metrics. Using this controlled setting, we evaluate multiple AI-assisted RCA strategies that combine statistical anomaly detection, hybrid information retrieval, dependency-aware context modelling, and LLM-based reasoning. Experimental results show that augmenting LLM-based RCA with explicit dependency context and historical fault information improves the coherence and completeness of explanations, while also revealing trade-offs between precision, explanation depth, and reasoning stability. The proposed methodology provides a reproducible base for designing AI-assisted RCA systems that support operational decision-making in cloud environments.
+ER  - 
+
+TY  - JOUR
+TI  - AIAER-Mask: Safe Neuro-Symbolic Intent-Correct Routing for Event-Driven Microservices
+T2  - IEEE Transactions on Services Computing
+SP  - 1
+EP  - 12
+AU  - H. Hassan
+AU  - S. Sarhan
+AU  - A. Shalaby
+PY  - 2026
+KW  - Routing
+KW  - Learning (artificial intelligence)
+KW  - Safety
+KW  - Training
+KW  - Modeling
+KW  - Social networking (online)
+KW  - Telemetry
+KW  - Emulation
+KW  - Loading
+KW  - Timing
+KW  - Event-driven architecture
+KW  - microservices
+KW  - safe routing
+KW  - neuro-symbolic systems
+KW  - offline reinforcement learning
+KW  - symbolic masking
+KW  - intent correctness
+KW  - DeathStarBench
+KW  - reproducibility
+DO  - 10.1109/TSC.2026.3708565
+JO  - IEEE Transactions on Services Computing
+IS  - 
+SN  - 1939-1374
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Services Computing
+Y1  - 
+AB  - Event-driven microservice systems route heterogeneous operations through rapidly changing service replicas. Conventional performance-oriented routing systems, including static routing, EWMA-based selection, Power-of-Two-Choices, and unconstrained reinforcement-learning policies, can select low-latency replicas that are semantically invalid for the re quested operation. Such routing mistakes may preserve raw throughput while violating application intent, consistency, privacy boundaries, or update semantics. This paper presents AIAER-Mask, a safe neuro-symbolic routing framework for intent-correct event routing. AIAER-Mask separates safety from adaptation: a lightweight symbolic intent guard derives a hard action mask from a capability map, while an offline discrete Soft Actor-Critic policy selects among only admissible replicas using telemetry features. The symbolic mask is not a neural model; it is a deterministic safety layer that prevents invalid actions by construction under the active validated map. The evaluation covers multi-replica routing, ablations, masked versus unmasked baselines, failure injection, dynamic/adversarial scenarios, broker-delay and local region-latency emulation, hyper parameter sensitivity, training diagnostics, reproducibility reporting, and Death Star Bench Social Network/Hotel Reservation cross-workload evaluation. Across both workloads, hard symbolic masking preserves 100% intent correctness and 0% invalid actions for masked variants under validated and actively enforced capability maps, while performance-only no-mask baselines vio late semantic routing constraints heavily. The mask itself is low overhead for heuristic routers, whereas most additional overhead in full AIAER-Mask comes from neural inference, telemetry/state processing, and feature handling. Strong masked heuristics such as Mask+EWMA and Intent-safe P2C remain highly competitive and sometimes outperform the learned policy in latency and regret. We therefore position AIAER-Mask as a safety-constrained neuro-symbolic framework, not as the fastest router in every regime. The current evidence supports instantiation across two single-region DeathStarBench workloads and local region-like latency profiles; broader production-trace, real multi-broker, and real multi-region validation remains future work.
+ER  - 
+
+TY  - CONF
+TI  - MicroKGCL: A Knowledge Graph for Root Cause Localization of Feedback Issues in Microservices
+T2  - 2023 IEEE 23rd International Conference on Software Quality, Reliability, and Security (QRS)
+SP  - 628
+EP  - 637
+AU  - X. -W. Yao
+AU  - Q. -C. Lu
+AU  - Q. Li
+AU  - L. -L. Liu
+AU  - Z. -C. Zhu
+PY  - 2023
+KW  - Location awareness
+KW  - Visualization
+KW  - Microservice architectures
+KW  - Knowledge graphs
+KW  - Software quality
+KW  - Production
+KW  - Feature extraction
+KW  - microservices
+KW  - root cause localization
+KW  - user feedback
+KW  - knowledge graph
+KW  - multi-modal
+DO  - 10.1109/QRS60937.2023.00067
+JO  - 2023 IEEE 23rd International Conference on Software Quality, Reliability, and Security (QRS)
+IS  - 
+SN  - 2693-9177
+VO  - 
+VL  - 
+JA  - 2023 IEEE 23rd International Conference on Software Quality, Reliability, and Security (QRS)
+Y1  - 22-26 Oct. 2023
+AB  - The popularity of the microservices architecture has led to an evident trend of integration in system design, enabling systems to integrate numerous services to meet the diverse requirements of users. However, with extensive integration, it is difficult to quickly identify the root cause of the issues. In this paper, we propose MicroKGCL, a knowledge graph for root cause localization of feedback issues in microservices. Through the knowledge graph constructed with historical cases, MicroKGCL explores the potential relationship between user feedback and the root cause of system issues, it analyzes possible issues and ranks candidate root causes. In detail, in order to provide a more accurate representation of the feedback profile, we design a multi-modal embedding block, which utilizes a contrastive learning model and BERT model to extract feedback features from visual and content modalities. Experimental results demonstrate the superiority of the proposed MicroKGCL in terms of both MRR and Hits@n by comparing with the baselines. Moreover, to further verify the MicroKGCL, it has been deployed in the real production environment of Ant Group, achieving a top-3 hit ratio of 75% and a coverage ratio of 81.8%.
+ER  - 
+
+TY  - CONF
+TI  - Automated Monitoring Method for Enterprise Microservices Network Operation Status Based on Database Knowledge Graph
+T2  - 2024 6th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT)
+SP  - 567
+EP  - 572
+AU  - Q. Hu
+AU  - Y. Long
+AU  - Y. Zhong
+AU  - G. Zhang
+AU  - W. Wei
+PY  - 2024
+KW  - Technological innovation
+KW  - Databases
+KW  - Microservice architectures
+KW  - Knowledge graphs
+KW  - Aerodynamics
+KW  - Real-time systems
+KW  - Natural language processing
+KW  - Monitoring
+KW  - Long short term memory
+KW  - Predictive maintenance
+KW  - Knowledge Graph
+KW  - Microservices Monitoring
+KW  - Predictive Maintenance
+KW  - Network Operations Management
+DO  - 10.1109/ECNCT63103.2024.10704355
+JO  - 2024 6th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 6th International Conference on Electronics and Communication, Network and Computer Technology (ECNCT)
+Y1  - 19-21 July 2024
+AB  - This thesis presents an innovative method for automated monitoring of enterprise microservices networks using a database knowledge graph, addressing the challenges of traditional monitoring systems that often fail to effectively manage the complex dynamics of microservices architectures. By integrating advanced Natural Language Processing (NLP) and Long Short-Term Memory (LSTM) networks, this method processes vast amounts of real-time and historical data to proactively predict system failures and optimize resource allocation. The key innovation lies in the application of a knowledge graph that enhances predictive maintenance capabilities and facilitates performance optimization through intelligent data analysis and pattern recognition. This approach not only improves operational efficiency but also reduces downtime, thereby significantly enhancing network management in enterprise environments. Our research confirms that knowledge graphs can provide a scalable and dynamic solution to adapt to diverse enterprise requirements.
+ER  - 
+
+TY  - CONF
+TI  - A Concept Graph Based Knowledge Model for Software Architecture
+T2  - 2009 WRI World Congress on Software Engineering
+SP  - 125
+EP  - 128
+AU  - P. Zhang
+AU  - J. Peng
+AU  - J. Xi
+PY  - 2009
+KW  - Software architecture
+KW  - Ontologies
+KW  - Architecture description languages
+KW  - Skeleton
+KW  - Modular construction
+KW  - Computer architecture
+KW  - Terminology
+KW  - Software engineering
+KW  - Software algorithms
+KW  - Connectors
+KW  - Knowledge Model
+KW  - concept graph
+KW  - software architecture
+DO  - 10.1109/WCSE.2009.398
+JO  - 2009 WRI World Congress on Software Engineering
+IS  - 
+SN  - 
+VO  - 3
+VL  - 3
+JA  - 2009 WRI World Congress on Software Engineering
+Y1  - 19-21 May 2009
+AB  - Software Architecture is a subject that undergoes fast development. Nevertheless, there is little work done to structure the related knowledge. This paper attempts to set up a concept graph based knowledge model for disciplines and applied the model to Software Architecture to gain an integral view of the knowledge. Compared to the results by ontology, our approach reveals richer structure and closer inter-relationship for Software Architecture knowledge.
+ER  - 
+
+TY  - CONF
+TI  - Temporal Knowledge Graph Construction for microservice-based digital power applications
+T2  - 2025 8th International Conference on Energy, Electrical and Power Engineering (CEEPE)
+SP  - 220
+EP  - 226
+AU  - J. Zhang
+AU  - Y. Wang
+AU  - Z. Liang
+AU  - M. Zheng
+AU  - L. Xie
+AU  - J. Cui
+PY  - 2025
+KW  - Fault diagnosis
+KW  - Measurement
+KW  - Power engineering
+KW  - Scalability
+KW  - Semantics
+KW  - Power system dynamics
+KW  - Microservice architectures
+KW  - Knowledge graphs
+KW  - Real-time systems
+KW  - Monitoring
+KW  - Digital power systems
+KW  - Microservices
+KW  - Temporal knowledge graph
+KW  - Cloud-native
+KW  - Real-time monitoring
+DO  - 10.1109/CEEPE64987.2025.11033891
+JO  - 2025 8th International Conference on Energy, Electrical and Power Engineering (CEEPE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 8th International Conference on Energy, Electrical and Power Engineering (CEEPE)
+Y1  - 25-27 April 2025
+AB  - Modern digital power systems increasingly adopt microservices to enhance flexibility and scalability. However, in cloud-native environments, dynamic interactions across the microservices, Kubernetes, and physical machine layers complicate system monitoring and fault diagnosis. Key challenges include real-time high-frequency data collection, semantic integration of heterogeneous data, and incremental updates to knowledge graphs. This paper proposes constructing a multi-dimensional temporal knowledge graph by collecting logs, metrics, and traces from power systems and employing semantic models to unify data entities and relationships. A real-time incremental update mechanism significantly improves the efficiency of online monitoring and fault diagnosis in large-scale power systems.
+ER  - 
+
+TY  - CONF
+TI  - Sarch-Checks: A Method for Checking Software Architecture Security Properties Using a Knowledge Graph
+T2  - 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)
+SP  - 135
+EP  - 142
+AU  - J. Vergara-Vargas
+AU  - S. Sadou
+AU  - C. Tibermacine
+AU  - F. Restrepo-Calle
+PY  - 2024
+KW  - Analytical models
+KW  - Software architecture
+KW  - Knowledge graphs
+KW  - Computer architecture
+KW  - NIST
+KW  - Software systems
+KW  - Security
+KW  - Security property
+KW  - software architecture description
+KW  - checking method
+KW  - knowledge graph
+DO  - 10.1109/ICSA-C63560.2024.00030
+JO  - 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)
+IS  - 
+SN  - 2768-4288
+VO  - 
+VL  - 
+JA  - 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)
+Y1  - 4-8 June 2024
+AB  - Checking the security properties of a software system during design is essential to enable the construction of a foundationally secure system. However, combining design tasks with security checks leads to a difficult and error-prone activity. This paper presents a checking method for security properties, called Sarch-Checks. This method allows analyzing the context of architectural elements in terms of an expected security property and identifying the presence of countermeasures and vulnerabilities. It uses an architectural description of the system to be analyzed, through the use of a modeling language. It also uses a knowledge graph, modeled and built from the elements of the software architecture, and cybersecurity elements taken from official information sources such as NIST and MITRE. This solution is an aide to the architect to design more secure architectures. Additionally, a validation process of the proposed method is presented through a case study based on a real report of a vulnerability in an open-source software system.
+ER  - 
+
+TY  - CONF
+TI  - A RAG-Assisted DRL Framework for Microservices Deployment in 6G Vehicular Networks
+T2  - 2025 21th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)
+SP  - 1
+EP  - 6
+AU  - D. Ayepah-Mensah
+AU  - A. K. Ghebreziabiher
+AU  - G. O. Boateng
+AU  - R. Mizouni
+AU  - A. Mourad
+AU  - H. Otrok
+AU  - J. Bentahar
+AU  - S. Muhaidat
+PY  - 2025
+KW  - 6G mobile communication
+KW  - Wireless communication
+KW  - Semantics
+KW  - Microservice architectures
+KW  - Dynamic scheduling
+KW  - Deep reinforcement learning
+KW  - Real-time systems
+KW  - Resource management
+KW  - Vehicle dynamics
+KW  - Convergence
+KW  - Edge-Cloud Orchestration
+KW  - Microservice Deployment
+KW  - Deep Reinforcement Learning
+KW  - Retrieval-Augmented Generation (RAG)
+KW  - Large Language Models (LLMs)
+DO  - 10.1109/WiMob66857.2025.11257559
+JO  - 2025 21th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)
+IS  - 
+SN  - 2160-4894
+VO  - 
+VL  - 
+JA  - 2025 21th International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)
+Y1  - 20-22 Oct. 2025
+AB  - Modern edge cloud platforms must efficiently deploy and route containerized microservice DAGs under strict latency and cost constraints, while adapting to rapidly changing workloads and infrastructure states. Deep Reinforcement Learning (DRL) schedulers adapt well to dynamics but often lack semantic awareness of service intent and task dependencies, resulting in suboptimal decisions in unseen scenarios. To overcome these limitations, we introduce a Retrieval-Augmented Generation-assisted DRL (RAG-DRL) framework that integrates a lightweight DRL agent with a graph-based RAG module powered by a partially frozen LLM. A dynamic memory graph encodes contextual information such as node resources, network latencies, and SLA feedback. The LLM retrieves relevant historical deployments and current service intents to generate soft placement plans and reward estimates, which guide the DRL agent. These priors accelerate convergence, improve generalization across diverse conditions, and ensure real-time responsiveness. Evaluations on a realistic urban-scale edge cloud testbed confirm that RAG-DRL significantly reduces SLA violations, end-to-end latency, and resource imbalance, outperforming modern container-based schedulers. Our framework converges faster, maintains latency below 65 ms on scale, limits SLA violations to 12% under heavy load, and achieves 90 % resource utilization with balanced distribution.
+ER  - 
+
+TY  - JOUR
+TI  - No More Data Silos: Unified Microservice Failure Diagnosis With Temporal Knowledge Graph
+T2  - IEEE Transactions on Services Computing
+SP  - 4013
+EP  - 4026
+AU  - S. Zhang
+AU  - Y. Zhao
+AU  - S. Xia
+AU  - S. Wei
+AU  - Y. Sun
+AU  - C. Zhao
+AU  - S. Ma
+AU  - J. Kuang
+AU  - B. Zhu
+AU  - L. Pan
+AU  - Y. Guo
+AU  - D. Pei
+PY  - 2024
+KW  - Microservice architectures
+KW  - Measurement
+KW  - Electronic mail
+KW  - Prevention and mitigation
+KW  - Knowledge graphs
+KW  - Fuses
+KW  - Monitoring
+KW  - Anomaly detection
+KW  - Accuracy
+KW  - Time factors
+KW  - Microservice
+KW  - failure diagnosis
+KW  - multimodal data
+KW  - knowledge graph
+DO  - 10.1109/TSC.2024.3489444
+JO  - IEEE Transactions on Services Computing
+IS  - 6
+SN  - 1939-1374
+VO  - 17
+VL  - 17
+JA  - IEEE Transactions on Services Computing
+Y1  - Nov.-Dec. 2024
+AB  - Microservices improve the scalability and flexibility of monolithic architectures to accommodate the evolution of software systems, but the complexity and dynamics of microservices challenge system reliability. Ensuring microservice quality requires efficient failure diagnosis, including detection and triage. Failure detection involves identifying anomalous behavior within the system, while triage entails classifying the failure type and directing it to the engineering team for resolution. Unfortunately, current approaches reliant on single-modal monitoring data, such as metrics, logs, or traces, cannot capture all failures and neglect interconnections among multimodal data, leading to erroneous diagnoses. Recent multimodal data fusion studies struggle to achieve deep integration, limiting diagnostic accuracy due to insufficiently captured interdependencies. Therefore, we propose UniDiag, which leverages temporal knowledge graphs to fuse multimodal data for effective failure diagnosis. UniDiag applies a simple yet effective stream-based anomaly detection method to reduce computational cost and a novel microservice-oriented graph embedding method to represent the state of systems comprehensively. To assess the performance of UniDiag, we conduct extensive evaluation experiments using datasets from two benchmark microservice systems, demonstrating its superiority over existing methods and affirming the efficacy of multimodal data fusion. Additionally, we have publicly made the code and data available to facilitate further research.
+ER  - 
+
+TY  - JOUR
+TI  - From User Stories to Architectures: Using LLM-powered Agents to Design and Improve Microservice-based Software
+T2  - IEEE Software
+SP  - 1
+EP  - 8
+AU  - M. Calamo
+AU  - F. Monti
+AU  - F. Spaziani
+AU  - F. Leotta
+AU  - M. Mecella
+PY  - 2026
+KW  - Codes
+KW  - Microservice architectures
+KW  - Software
+KW  - Computer architecture
+KW  - Generators
+KW  - Software reliability
+KW  - Retrieval augmented generation
+KW  - Natural languages
+KW  - Testing
+KW  - Source coding
+DO  - 10.1109/MS.2026.3668669
+JO  - IEEE Software
+IS  - 
+SN  - 1937-4194
+VO  - 
+VL  - 
+JA  - IEEE Software
+Y1  - 
+AB  - Large Language Models have rapidly transformed how developers write and test code, yet their use in software architecture design remains limited. Current AI-powered assistants can generate useful snippets of code but lack a holistic view of how modules should interact to form reliable systems. We discuss ArchiLLM, an LLM-based framework that extends the capabilities of AI assistants from code generation to architecture synthesis. Given minimal textual input, such as requirements or user stories, ArchiLLM envisions a high-level microservice-based architecture before generating code, aiming to improve the reliability and coherence of AI-produced systems. The approach is validated using the Archi Dataset, built from academic and open-source microservice projects, and evaluated through quantitative metrics and expert feedback. Results suggest that ArchiLLM can effectively assist software designers in moving from abstract requirements to consistent architectures to better code, marking a step toward AI-supported software design and development.
+ER  - 
+
+TY  - CONF
+TI  - Can AI Build Systems? an Exploratory Study on Generating Software Architecture With LLMS
+T2  - 2025 IEEE International Conference on Collaborative Advances in Software and COmputiNg (CASCON)
+SP  - 1
+EP  - 10
+AU  - M. Fokaefs
+AU  - H. Khan
+AU  - B. Ahmadzadeh
+PY  - 2025
+KW  - Software design
+KW  - Software architecture
+KW  - Large language models
+KW  - Unified modeling language
+KW  - Retrieval augmented generation
+KW  - Computer architecture
+KW  - Software systems
+KW  - Iterative methods
+KW  - Test pattern generators
+KW  - Prompt engineering
+KW  - software architecture
+KW  - large language models
+KW  - UML
+KW  - software design
+KW  - software requirements
+KW  - microservice architecture
+DO  - 10.1109/CASCON66301.2025.00069
+JO  - 2025 IEEE International Conference on Collaborative Advances in Software and COmputiNg (CASCON)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE International Conference on Collaborative Advances in Software and COmputiNg (CASCON)
+Y1  - 10-13 Nov. 2025
+AB  - Software architecture is instrumental in shaping the quality, maintainability, and integrity of a software system, providing a blueprint that ensures that all components function cohesively. Despite being introduced only recently, Large Language Models (LLMs) have shown great potential in automating low-level software engineering tasks, such as coding and test generation. However, the application of LLMs on high level cognitive tasks, such as architecture and design, has not been explored as much. To that end, this study evaluates the capability of LLMs-specifically Llama 4 Llama, Gemini 2.0 Gemini, and OpenAI o3 in generating software architecture given unstructured textual requirements in natural language. We employ prompt engineering techniques, including zero-shot prompting, in-context learning and chain-of-thought prompting to assess each model's responsiveness and accuracy. Furthermore, we evaluate iterative refinement, an approach where an LLM revises the output of another for enhanced quality, akin to a human editing a preliminary draft for improvements. Our results indicate that state of the art models like OpenAI o3 and Gemini 2.0 Gemini perform exceptionally well in identifying all the domain concepts of the system and how they interact, especially in conjunction with iterative refinement, while Llama' Llama 4's performance was subpar. In terms of generating an architecture for the system, again models from OpenAI and Gemini are able to come close to the benchmark architecture by using the correct architectural styles especially with Chain-of-Thought prompting, however Llama's model do not infer the correct styles.
+ER  - 
+
+TY  - CONF
+TI  - Design of Domain-driven Microservices-based Software Talent Evaluation and Recommendation System
+T2  - 2022 3rd International Conference on Education, Knowledge and Information Management (ICEKIM)
+SP  - 310
+EP  - 314
+AU  - K. Zhang
+AU  - J. Tian
+AU  - Q. Yuan
+AU  - J. Han
+PY  - 2022
+KW  - Supply and demand
+KW  - Software algorithms
+KW  - Resumes
+KW  - Microservice architectures
+KW  - Computer architecture
+KW  - Software
+KW  - Information management
+KW  - domain-driven design
+KW  - microservices
+KW  - competency requirement model
+KW  - knowledge graph
+KW  - recommendation algorithm
+DO  - 10.1109/ICEKIM55072.2022.00076
+JO  - 2022 3rd International Conference on Education, Knowledge and Information Management (ICEKIM)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 3rd International Conference on Education, Knowledge and Information Management (ICEKIM)
+Y1  - 21-23 Jan. 2022
+AB  - Software talent ability evaluation exists both on the school side and the market side. Companies cannot fully understand the ability of candidates through resumes and interviews in a short period. In response to this situation, this paper proposes a microservices-based evaluation and recommendation system that attempts to bridge the supply and demand sides of talent. We collect multi-dimensional data on students’ learning process and engineering project activities during their school years from the school side, use the crawled job requirement data to build the occupational competency requirement model from the market side, and finally use similarity calculation to achieve talent recommendation.
+ER  - 
+
+TY  - CONF
+TI  - Neurosymbolic Architectural Reasoning: Towards Formal Analysis through Neural Software Architecture Inference
+T2  - 2025 IEEE/ACM 1st International Workshop on Neuro-Symbolic Software Engineering (NSE)
+SP  - 5
+EP  - 10
+AU  - S. Herbold
+AU  - C. Knieke
+AU  - A. Rausch
+AU  - C. Schindler
+PY  - 2025
+KW  - Codes
+KW  - Software architecture
+KW  - Large language models
+KW  - Conferences
+KW  - Neural networks
+KW  - Computer architecture
+KW  - Cognition
+KW  - Software
+KW  - Distance measurement
+KW  - Software development management
+KW  - software architecture
+KW  - neural networks
+KW  - large language models
+KW  - architecture inference
+KW  - neurosymbolic architectural reasoning
+DO  - 10.1109/NSE66660.2025.00008
+JO  - 2025 IEEE/ACM 1st International Workshop on Neuro-Symbolic Software Engineering (NSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 IEEE/ACM 1st International Workshop on Neuro-Symbolic Software Engineering (NSE)
+Y1  - 3-3 May 2025
+AB  - Formal analysis to ensure adherence of software to defined architectural constraints is not yet broadly used within software development, due to the effort involved in defining formal architecture models. Within this paper, we outline neural architecture inference to solve the problem of having a formal architecture definition for subsequent symbolic reasoning over these architectures, enabling neurosymbolic architectural reasoning. We discuss how this approach works in general and outline a research agenda based on six general research question that need to be addressed, to achieve this vision.
+ER  - 
+
+TY  - CONF
+TI  - Architectural Design of a Big Data and AI Agent Platform for Elite Performance Analytics in Shooting Sports
+T2  - 2025 11th International Conference on Computer and Communications (ICCC)
+SP  - 2462
+EP  - 2466
+AU  - G. Chen
+AU  - P. Xiu
+AU  - H. Yang
+AU  - L. Fu
+PY  - 2025
+KW  - Technological innovation
+KW  - Statistical analysis
+KW  - Computer architecture
+KW  - Big Data
+KW  - Real-time systems
+KW  - Data models
+KW  - Vectors
+KW  - Trajectory
+KW  - Sparks
+KW  - Sports
+KW  - AI Agent
+KW  - Big Data Architecture
+KW  - Sports Analytics
+KW  - Shooting Sports
+KW  - Retrieval-Augmented Generation (RAG)
+DO  - 10.1109/ICCC68654.2025.11437855
+JO  - 2025 11th International Conference on Computer and Communications (ICCC)
+IS  - 
+SN  - 2837-7109
+VO  - 
+VL  - 
+JA  - 2025 11th International Conference on Computer and Communications (ICCC)
+Y1  - 12-15 Dec. 2025
+AB  - The coaching of elite athletes in precision sports like shooting and archery is increasingly reliant on data-driven insights. However, existing solutions often fail to integrate real-time performance data, historical records, and domain-specific knowledge into a unified, intelligent system. This paper presents the architectural design of a next-generation Big Data and AI Agent platform tailored for the Hebei Provincial Sports Bureau's Shooting and Archery Center. The architecture is built on a multi-layered, service-oriented model that distinguishes between hot (real-time) and cold (archival) data pathways. Real-time firearm trajectory data captured by YOLOv9 models is processed via a Kafka and Spark Streaming pipeline into ClickHouse for immediate analysis. Historical data and scores are archived in PostgreSQL and MySQL, while unstructured expert knowledge from texts is vectorized and stored in Milvus. The core innovation is an AI Agent, built with a Large Language Model (LLM), that acts as an intelligent orchestrator. This agent interprets natural language queries from coaches, and dynamically invokes specialized tools-Vanna for Text-to-SQL queries on structured data and a RAGflow-based service for knowledge retrieval from the vector database. This dual-tool approach enables the agent to synthesize comprehensive reports that combine quantitative analysis with biomechanical theory, providing coaches with deep, actionable insights for athlete evaluation, selection, and performance optimization.
+ER  - 
+
+TY  - JOUR
+TI  - Toward Context-Aware Anomaly Detection for AIOps in Microservices Using Dynamic Knowledge Graphs
+T2  - IEEE Transactions on Network and Service Management
+SP  - 1970
+EP  - 1988
+AU  - P. Moens
+AU  - B. Steenwinckel
+AU  - F. Ongenae
+AU  - B. Volckaert
+AU  - S. V. Hoecke
+PY  - 2026
+KW  - Microservice architectures
+KW  - Monitoring
+KW  - Anomaly detection
+KW  - Benchmark testing
+KW  - Knowledge graphs
+KW  - Costs
+KW  - Topology
+KW  - Real-time systems
+KW  - Scalability
+KW  - Observability
+KW  - Anomaly detection
+KW  - microservices
+KW  - knowledge graph
+KW  - dynamic graphs
+KW  - knowledge graph embedding
+KW  - AIOps
+KW  - context
+DO  - 10.1109/TNSM.2026.3652304
+JO  - IEEE Transactions on Network and Service Management
+IS  - 
+SN  - 1932-4537
+VO  - 23
+VL  - 23
+JA  - IEEE Transactions on Network and Service Management
+Y1  - 2026
+AB  - Microservice applications are omnipresent due to their advantages, such as scalability, flexibility and consequentially resource cost efficiency. The loosely-coupled microservices can be easily added, replicated, updated and/or removed to address the changing workload. However, the distributed and dynamic nature of microservice architectures introduces a complexity with regard to monitoring and observability, which is paramount to ensure reliability, especially in critical domains. Anomaly detection has become an important tool to automate microservice monitoring and detect system failures. Nevertheless, state-of-the-art solutions assume the topology of the monitored application to remain static over time and fail to account for the dynamic changes the application, and the infrastructure it is deployed on, undergoes. This paper tackles these shortcomings by introducing a context-aware anomaly detection methodology using dynamic knowledge graphs to capture contextual features which describe the evolving state of the monitored system. Our methodology leverages resource and network monitoring to capture dependencies between microservices, and the infrastructure they are running on. In addition to the methodology for anomaly detection, this paper presents an open-source benchmark framework for context-aware anomaly detection that includes monitoring, fault injection and data collection. The evaluation on this benchmark shows that our methodology consistently outperforms the non-contextual baselines. These results underscore the importance of contextual awareness for robust anomaly detection in complex, topology-driven systems. Beyond these achieved improvements, our benchmark establishes a reproducible and extensible foundation for future research, facilitating the experimentation with broader ranges of models and a continued advancement in context-aware anomaly detection.
+ER  - 
+
+TY  - CONF
+TI  - OntoSmartDCU: A Multi-Agent Microservice Based Automated, Dynamic Ontology and Knowledge Graph Creation Framework From Real-Time Sensor Data for the Smart DCU Digital Twin
+T2  - 2024 IEEE 10th World Forum on Internet of Things (WF-IoT)
+SP  - 784
+EP  - 789
+AU  - S. Mandal
+AU  - N. E. O’Connor
+PY  - 2024
+KW  - Scalability
+KW  - Urban areas
+KW  - Refining
+KW  - Microservice architectures
+KW  - Data integration
+KW  - Knowledge graphs
+KW  - Ontologies
+KW  - Real-time systems
+KW  - Digital twins
+KW  - Streams
+KW  - Ontology
+KW  - Knowledge Graphs
+KW  - Multi-Agent Systems
+KW  - Microservices
+KW  - Multi-Agent Microservices
+KW  - Semantic Digital Twins
+DO  - 10.1109/WF-IoT62078.2024.10811412
+JO  - 2024 IEEE 10th World Forum on Internet of Things (WF-IoT)
+IS  - 
+SN  - 2768-1734
+VO  - 
+VL  - 
+JA  - 2024 IEEE 10th World Forum on Internet of Things (WF-IoT)
+Y1  - 10-13 Nov. 2024
+AB  - This paper presents OntoSmartDCU, a novel Multi-Agent Microservice (MAMS) based framework for automated and dynamic Ontology and Knowledge Graph (KG) creation from real-time sensor data. Designed specifically for the Smart Dublin City University (DCU) Digital Twin (DT), OntoSmartDCU facilitates the continuous acquisition, interpretation, and integration of sensor data streams into an evolving knowledge representation. The architecture consists of interconnected microservices and autonomous agents, each responsible for specific tasks such as data gathering and processing, ontology creation, and KG population. These agents act as intelligent microservices, operating in parallel and communicating to achieve a common goal. This modular design facilitates scalability, flexibility, and adaptability to heterogeneous sensor environments. The dynamic nature of OntoSmartDCU will enable the DT to accurately reflect the real-time operational state of the university campus, serving as the foundation for various applied use cases. OntoSmartDCU offers a significant advancement in DT technology, providing a robust and scalable solution for real-time knowledge representation and data integration in complex cyber-physical systems.
+ER  - 
+
+TY  - CONF
+TI  - Leveraging Architectural Context in LLM-based Access Control Policy Generation for Microservices
+T2  - 2026 IEEE International Conference on Software Services Engineering (SSE)
+SP  - 56
+EP  - 66
+AU  - C. Önal
+AU  - M. Tonnarelli
+AU  - I. Kumara
+AU  - D. A. Tamburri
+AU  - W. -J. van den Heuvel
+PY  - 2026
+KW  - Modeling
+KW  - Large language models
+KW  - Maintenance engineering
+KW  - Access control
+KW  - Context
+KW  - Printing
+KW  - Syntactics
+KW  - Codes
+KW  - Knowledge graphs
+KW  - Architecture
+KW  - Large Language Models
+KW  - Policy-as-Code
+KW  - Access Control
+KW  - Microservices
+KW  - Knowledge Graph
+KW  - Graph RAG
+DO  - 10.1109/SSE72781.2026.00016
+JO  - 2026 IEEE International Conference on Software Services Engineering (SSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Conference on Software Services Engineering (SSE)
+Y1  - 13-18 July 2026
+AB  - In a microservice architecture, services use access control policies to prevent being abused by external users and other (compromised) services. An emerging approach to implementing policies is Policy-as-Code (PaC), in which policies are defined, enforced, and managed via code. However, writing and maintaining the policies in PaC is complex, error-prone, and requires expertise in the PaC frameworks. Moreover, as the complexity of microservice applications and their access control policies increases, manual policy creation and management become challenging. On the other hand, large language models (LLMs) have shown a remarkable ability to generate complex code from natural-language specifications (user intents). This paper presents an approach to automate access-control policy generation for microservice architectures by systematically injecting architectural knowledge into LLM-based PaC generation. For a given microservice architecture, its services, operations, and their inter-dependencies are modeled using a knowledge graph. A user provides natural-language policy requests (intents), and the LLM-based PaC generation and repair pipeline retrieves and embeds the necessary information from the knowledge graph to generate the required access-control policies at the operation, service, and application levels. We evaluated our approach using six microservice benchmarks and four LLMs, with the Open Policy Agent serving as the PaC framework. The results show that hybrid approaches leveraging structured prompting and knowledge graph-based context injection significantly improve the syntactic correctness and semantic alignment of generated PaC scripts.
+ER  - 
+
+TY  - CONF
+TI  - KG-First, LLM-Fallback: A Hybrid Microservice for Grounded Skill Search and Explanation
+T2  - 2026 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+SP  - 3397
+EP  - 3402
+AU  - N. L. Le
+AU  - M. -H. Abel
+AU  - B. Laforge
+PY  - 2026
+KW  - Modeling
+KW  - Large language models
+KW  - Ranking (statistics)
+KW  - Printing
+KW  - Labeling
+KW  - Ontologies
+KW  - Architecture
+KW  - Computer architecture
+KW  - Design methodology
+KW  - Vectors
+KW  - Knowledge Graph
+KW  - Ontology
+KW  - Competency-Based Education
+KW  - Large Language Models
+KW  - Semantic Search
+DO  - 10.1109/CSCWD68734.2026.11582287
+JO  - 2026 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+IS  - 
+SN  - 2768-1904
+VO  - 
+VL  - 
+JA  - 2026 29th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+Y1  - 13-15 May 2026
+AB  - Authoritative competency frameworks such as ESCO, ROME, and O*NET are essential for aligning education with labor market needs, yet their technical complexity and structural heterogeneity hinder practical adoption by educators. This paper introduces SkillGraph-Service, an interoperable microservice designed to bridge this gap by unifying these resources into a provenance-preserving Knowledge Graph (KG). Adopting a KG-first, LLM-fallback architecture, the system combines symbolic rigor with sub-symbolic flexibility. It implements a lightweight hybrid retrieval engine (fusing SQLite FTS5 and HNSW vector search) to handle the vocabulary mismatch in educator queries, and utilizes Large Language Models (LLMs) strictly for constrained ranking and audience-aware explanation. Empirical evaluation on a multilingual dataset reveals that the proposed hybrid strategy achieves superior retrieval effectiveness (nDCG@5>0.94) with sub-200ms latency, rendering computationally expensive cross-encoder re-ranking may be unnecessary for this domain. Furthermore, an analysis of generated explanations highlights a trade-off between fluency and faithfulness: while JSON-constrained LLMs ensure high citation precision, deterministic templates remain the most reliable method for maximizing evidence coverage. The resulting architecture offers a practical, scalable, and auditable solution for integrating complex skill data into digital learning ecosystems.
+ER  - 
+
+TY  - CONF
+TI  - AI - Driven Design Pattern Recommendation System for Enhanced Software Architecture
+T2  - 2025 International Conference on Sustainable Communication Networks and Application (ICSCN)
+SP  - 1346
+EP  - 1351
+AU  - S. Singh
+PY  - 2025
+KW  - Couplings
+KW  - Runtime
+KW  - Accuracy
+KW  - Codes
+KW  - Software architecture
+KW  - Semantics
+KW  - Knowledge graphs
+KW  - Benchmark testing
+KW  - Recommender systems
+KW  - Software development management
+KW  - Design patterns
+KW  - Software architecture
+KW  - AI-driven recommendation
+KW  - Knowledge graph
+KW  - Deep learning
+KW  - Refactoring
+KW  - Software maintainability
+DO  - 10.1109/ICSCN67106.2025.11308595
+JO  - 2025 International Conference on Sustainable Communication Networks and Application (ICSCN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Sustainable Communication Networks and Application (ICSCN)
+Y1  - 15-17 Oct. 2025
+AB  - The ever growing complexity of software systems makes it imperative to use automated techniques in proposing and deploying design patterns to enhance the maintainability, modularity and lessen the coupling of the software. Conventional methods may be mostly based on manual detection or small to medium amount of heuristic-driven tools which may be time consuming, error prone and may not generalize across different code bases. In response to this, we introduce an artificial intelligence-based recommendation system that combines multimodal software representations, knowledge graphs, and self-supervised pretraining to identify, suggest, and generate design pattern refactorings. The system builds a rich repository of design patterns, and quality attributes, trade-offs and transformation rules are represented in a machine-readable form. A high-quality dataset is built by heuristic-based static analysis, expert verification, and synthetic data augmentation using source code, documentation, commit histories, and runtime logs. GNNs and transformer models are used to supplement multi-modal embeddings based on ASTs, control-data flow, dependency networks, and token-level embeddings to reflect structural, behavioral, and semantic nuances. Knowledge graph captures patterns, anti-patterns, and refactoring rules, and makes prescriptive recommendations. Experimental analysis into the Design Patterns Detection Benchmark Dataset shows that the system outperforms the current methods with 92.4-percent precision, 90.8-percent recall, 91.6-percent F1-score, and 93.2-percent accuracy and the shortest runtime of 1.8 seconds. Findings verify the fact that the suggested methodology does not only lead to increased accuracy in prediction, but also to increased practical efficiency, providing a powerful, scalable solution to automated design pattern recommendation and refactoring.
+ER  - 
+
+TY  - CONF
+TI  - LLM4MDG: Leveraging Large Language Model to Construct Microservices Dependency Graph
+T2  - 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)
+SP  - 859
+EP  - 869
+AU  - J. Hu
+AU  - Y. Li
+AU  - Z. Xiang
+AU  - L. Ma
+AU  - X. Jia
+AU  - Q. Huang
+PY  - 2024
+KW  - Accuracy
+KW  - Large language models
+KW  - Scalability
+KW  - Microservice architectures
+KW  - Computer architecture
+KW  - Knowledge graphs
+KW  - Prompt engineering
+KW  - Security
+KW  - Software development management
+KW  - Multi-agent systems
+KW  - Microservice Architecture
+KW  - Large Language Model
+KW  - Prompt Engineering
+KW  - Data Dependencies
+KW  - Knowledge Graph
+DO  - 10.1109/TrustCom63139.2024.00128
+JO  - 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)
+IS  - 
+SN  - 2324-9013
+VO  - 
+VL  - 
+JA  - 2024 IEEE 23rd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)
+Y1  - 17-21 Dec. 2024
+AB  - Microservices architecture has gained popularity in modern software development due to its scalability and flexibility. However, understanding the complexity of interactions and dependencies between services presents significant challenges, which complicates the identification and analysis of errors within microservice applications. To gain insights into the architecture and interdependencies of microservices applications, prior studies have developed dependency graphs to illustrate the relationships among services. However, the methods used to construct these dependency graphs are not suitable for common microservices applications and suffer from insufficient data granularity. To address these shortcomings, we introduce LLM4MDG, an in-novative framework for constructing microservices dependency graphs using an LLM-driven multi-agent system. By leveraging optimized prompt engineering and principles of knowledge graphs, LLM4MDG can effectively identify and interpret service interactions across diverse microservice ecosystems, achieving high accuracy and adaptability across various scenarios. We also present a new open-source dataset comprising 47 microservices applications, annotated by domain experts, to validate our frame-work. Evaluation results demonstrate that LLM4MDG achieves an 88.3% accuracy in identifying data dependencies in the Train Ticket project, a benchmark application with over 80 service instances. This study provides a robust solution for constructing dependency graphs and facilitating better system understanding and management.
+ER  - 
+
+TY  - CONF
+TI  - LLMDebug: Prompt-Engineered Large Language Models for Automated Root Cause Analysis in Microservices Architectures
+T2  - 2026 International Conference on Advances in Artificial Intelligence and Machine Learning (AAIML)
+SP  - 373
+EP  - 380
+AU  - T. P. Patel
+AU  - S. R. K. V. Bayyavarapu
+AU  - V. Soni
+AU  - R. Purushothaman
+AU  - G. B. Thokala
+AU  - V. Ranganathan
+PY  - 2026
+KW  - Filtering
+KW  - Circuits
+KW  - Feedback
+KW  - Filters
+KW  - Circuits and systems
+KW  - Communication systems
+KW  - Internet of Things
+KW  - Internet
+KW  - Protocols
+KW  - Radio access networks
+KW  - Large Language Models
+KW  - Microservices
+KW  - Root Cause Analysis
+KW  - Distributed Debugging
+KW  - Prompt Engineering
+KW  - Observability
+KW  - Fault Diagnosis
+KW  - Cloud Computing
+DO  - 10.1109/AAIML67890.2026.11498111
+JO  - 2026 International Conference on Advances in Artificial Intelligence and Machine Learning (AAIML)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Advances in Artificial Intelligence and Machine Learning (AAIML)
+Y1  - 20-22 March 2026
+AB  - Debugging failures in modern microservices architectures presents significant challenges due to distributed execution, complex inter-service dependencies, and massive log volumes. Traditional rule-based approaches struggle with novel failure patterns and require extensive manual expertise. This paper introduces LLMDebug, a novel framework leveraging prompt-engineered Large Language Models (LLMs) for automated root cause analysis in distributed systems. We propose a multi-stage prompting strategy that combines chain-of-thought reasoning, retrieval-augmented generation (RAG), and multi-agent collaboration to diagnose failures across microservices. Our framework achieves $\mathbf{8 9 . 3 \%}$ accuracy ($\mathbf{9 5 \%}$ CI: $\mathbf{8 7 . 9 - 9 0 . 7 \%}$) in identifying root causes across $\mathbf{1 2}$ common failure scenarios, reducing mean-time-to-resolution (MTTR) by $68 \%$ compared to traditional monitoring tools. Extensive evaluation on a realistic microservices testbed with 8 services demonstrates that LLMDebug outperforms state-of-the-art baselines including DeepLog, LogRobust, and MicroRCA by $\mathbf{1 2 . 9 - 3 1}$ percentage points. We provide comprehensive ablation studies showing the contribution of each prompting strategy and release our complete implementation, datasets, and evaluation framework for reproducibility.
+ER  - 
+
+TY  - CONF
+TI  - A No-Code Composable Pipeline for Holistic Microservice Assurance
+T2  - 2026 IEEE 23rd International Conference on Software Architecture Companion (ICSA-C)
+SP  - 157
+EP  - 162
+AU  - S. Weerasinghe
+PY  - 2026
+KW  - Printing
+KW  - Authorization
+KW  - Pipelines
+KW  - Modeling
+KW  - Testing
+KW  - Tools
+KW  - Codes
+KW  - Training
+KW  - Modules (abstract algebra)
+KW  - Architecture
+KW  - Microservice Orchestration
+KW  - Multi-Repository Analysis
+KW  - Graph-Based Assurance
+KW  - Formal Verification
+KW  - Change Impact Analysis
+KW  - Generative AI Testing
+KW  - No-Code CI/CD
+DO  - 10.1109/ICSA-C68850.2026.00041
+JO  - 2026 IEEE 23rd International Conference on Software Architecture Companion (ICSA-C)
+IS  - 
+SN  - 2768-4288
+VO  - 
+VL  - 
+JA  - 2026 IEEE 23rd International Conference on Software Architecture Companion (ICSA-C)
+Y1  - 22-26 June 2026
+AB  - Modern cloud-native “systems” are distributed abstractions scattered across independent repositories. While this multi-repository, loosely-coupled approach maximizes agility, it exposes a fundamental quality assurance gap: existing CI/CD tools are confined to single-repository contexts and linear procedural execution, leaving architects with no mechanism to reason about system-wide health. Thus, cross-service architectural drift and latent security violations go undetected by design. This paper introduces the Holistic Analysis Orchestrator (HAO), a novel framework that shifts the paradigm from linear pipelines to assurance graphs. HAO's “no-code” visual wizard lets practitioners compose multi-repository verification strategies from disparate analysis engines-without scripting. We demonstrate a God's Eye workflow that ingests an entire distributed topology to concurrently perform Change Impact Analysis (CIMET), Formal Authorization Policy Consistency Verification (via SMT solvers), Neuro-Symbolic Latent Risk Assessment (Aegis), and Call-graphAware Test Suite Generation (AITest). The result is a feedbackdriven assurance fabric that unifies static analysis, formal logic, and generative validation-capabilities absent from any existing enterprise tooling.
+ER  - 
+
+TY  - CONF
+TI  - MicroTR: Transaction Reproduction Fault Diagnosis Framework for Microservice on Multi-Source Data
+T2  - 2025 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+SP  - 1676
+EP  - 1683
+AU  - X. -W. Yao
+AU  - Y. -H. Ma
+AU  - Q. -C. Lu
+AU  - X. Fu
+AU  - Q. Li
+AU  - W. -Q. Wang
+AU  - K. -G. Bian
+PY  - 2025
+KW  - Location awareness
+KW  - Fault diagnosis
+KW  - Root cause analysis
+KW  - Microservice architectures
+KW  - Knowledge graphs
+KW  - Feature extraction
+KW  - Stability analysis
+KW  - Synchronization
+KW  - Anomaly detection
+KW  - Monitoring
+KW  - Microservice systems
+KW  - root cause analysis
+KW  - multi- source monitoring data
+DO  - 10.1109/CSCWD64889.2025.11033284
+JO  - 2025 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+IS  - 
+SN  - 2768-1904
+VO  - 
+VL  - 
+JA  - 2025 28th International Conference on Computer Supported Cooperative Work in Design (CSCWD)
+Y1  - 5-7 May 2025
+AB  - Root cause analysis (RCA) is crucial for the stability and reliability of large-scale microservice architectures. Existing multi-source RCA methods primarily rely on logs, traces, and metrics data to detect anomalies and identify abnormal services and root causes. And most multi-source methods focus only on service-level operations and inter-service dependencies, neglecting transactions and their dynamic changes. Furthermore, these approaches typically address only a subset of the RCA tasks, such as anomaly detection, root cause service localization, or root cause type determination. To address these limitations, we propose MicroTR, a transaction reproduction fault diagnosis framework for multi-source RCA in microservice environments. MicroTR deeply analyzes transaction execution logic and service states, utilizing multi-source data to reproduce the dynamic changes of transaction execution states in knowledge graph. This approach enables efficient and synchronized anomaly detection, root cause service localization, and root cause type determination. Experimental evaluations on two widely-adopted open-source microservice platforms demonstrate that MicroTR outperforms state-of-the-art multi-source methods, achieving an average F1 of 97.3% for anomaly detection, an average Hit@l of 90.8% for root cause service localization, and an average Hit@1 of 89.2% for root cause type determination. These results highlight the effectiveness of reproducing transaction execution states for RCA.
+ER  - 
+
+

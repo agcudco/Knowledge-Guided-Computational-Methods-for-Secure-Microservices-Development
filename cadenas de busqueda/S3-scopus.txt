@@ -1,0 +1,26 @@
+TITLE-ABS-KEY(
+  (
+    "software architecture"
+    OR "architectural design"
+    OR "architectural model"
+    OR "microservice architecture"
+  )
+  W/10
+  (
+    generation
+    OR synthesis
+    OR verification
+    OR validation
+    OR conformance
+    OR refinement
+  )
+)
+AND
+TITLE-ABS-KEY(
+  "knowledge-guided"
+  OR "knowledge-informed"
+  OR "knowledge-based"
+  OR "knowledge graph"
+  OR ontology
+  OR "semantic reasoning"
+)

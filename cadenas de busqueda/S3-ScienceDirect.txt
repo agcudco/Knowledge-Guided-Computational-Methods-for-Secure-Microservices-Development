@@ -1,0 +1,10 @@
+title(
+  {software architecture}
+  OR {microservice architecture}
+)
+AND
+tak(
+  ({architecture generation} OR {architecture verification})
+  AND
+  ({knowledge graph} OR {knowledge-guided})
+)

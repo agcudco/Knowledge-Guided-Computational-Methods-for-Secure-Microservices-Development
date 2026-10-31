@@ -1,0 +1,24 @@
+(
+  "All Metadata":"architectural security"
+  OR "All Metadata":"security architecture"
+  OR "All Metadata":"security by design"
+  OR "All Metadata":"secure by design"
+  OR "All Metadata":"security requirement*"
+  OR "All Metadata":vulnerab*
+)
+AND
+(
+  "All Metadata":"knowledge graph*"
+  OR "All Metadata":ontolog*
+  OR "All Metadata":"rule-based"
+  OR "All Metadata":"semantic reasoning"
+  OR "All Metadata":"knowledge-guided"
+  OR "All Metadata":"knowledge-informed"
+)
+AND
+(
+  "All Metadata":"software architecture"
+  OR "All Metadata":"architectural design"
+  OR "All Metadata":"microservice architecture*"
+  OR "All Metadata":microservice*
+)

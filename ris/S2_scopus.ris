@@ -1,0 +1,1018 @@
+TY  - CONF
+AU  - Hao, W.
+AU  - Shen, C.
+AU  - Yang, X.
+AU  - Wang, C.
+TI  - Intelligent Penetration and Attack Simulation System Based on Attack Chain
+PY  - 2022
+T2  - Proceedings - 2022 15th International Symposium on Computational Intelligence and Design, ISCID 2022
+SP  - 204
+EP  - 207
+DO  - 10.1109/ISCID56505.2022.00052
+UR  - https://www.scopus.com/pages/publications/85147841019?origin=resultslist
+AB  - Vulnerability assessment is an important process for network security. However, most commonly used vulnerability assessment methods still rely on expert experience or rule-based automated scripts, which are difficult to meet the security requirements of increasingly complex network environment. In recent years, although scientists and engineers have made great progress on artificial intelligence in both theory and practice, it is a challenging to manufacture a mature high-quality intelligent products in the field of network security, especially in penetration testing based vulnerability assessment for enterprises. Therefore, in order to realize the intelligent penetration testing, Vul.AI with its rich experience in cyber attack and defense for many years has designed and developed a set of intelligent penetration and attack simulation system Ai.Scan, which is based on attack chain, knowledge graph and related evaluation algorithms. In this paper, the realization principle, main functions and application scenarios of Ai.Scan are introduced in detail.  © 2022 IEEE.
+KW  - artificial intelligence
+KW  - penetration simulation system
+KW  - penetration testing
+KW  - security assessment
+KW  - vulnerability assessment
+KW  - Complex networks
+KW  - Cybersecurity
+KW  - Knowledge graph
+KW  - Automated scripts
+KW  - Expert experience
+KW  - Expert rule
+KW  - Networks security
+KW  - Penetration simulation system
+KW  - Penetration testing
+KW  - Rule based
+KW  - Security assessment
+KW  - Simulation systems
+KW  - Vulnerability assessments
+KW  - Network security
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85147841019
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 1
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - EMISA 2023 - Proceedings of the 13th International Workshop on Enterprise Modeling and Information Systems Architectures
+PY  - 2023
+T2  - CEUR Workshop Proceedings
+VL  - 3397
+UR  - https://www.scopus.com/pages/publications/85160859486?origin=resultslist
+AB  - The proceedings contain 12 papers. The topics discussed include: process mining on distributed time-series data; quantifying uncertainty for explainable process mining; conformance checking with regulations for sustainability; development of a reference system for the modeling and assessment of social, economic and ecological sustainability; design and validation of a framework for sustainable digital transformation in the context of strategic management; enterprise modelling of rule networks in organizational collaborations; model-based construction of enterprise architecture knowledge graphs; neuro-conceptualization: visual conceptual modeling meets neuroscience; cross-provider cloud cost calculation; a reference model and a dedicated method in support of cyber-security by design: reality check; motivations to design central bank digital currency: a conceptual model; and enterprise architecture at Frankfurt University of Applied Sciences.
+M3  - Conference review
+DB  - Scopus
+N1  - EID: 2-s2.0-85160859486
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - AIAAS 2026 - 2026 International Conference on Artificial Intelligence and Advanced Autonomous System
+PY  - 2026
+T2  - AIAAS 2026 - 2026 International Conference on Artificial Intelligence and Advanced Autonomous System
+UR  - https://www.scopus.com/pages/publications/105045278687?origin=resultslist
+AB  - The proceedings contain 23 papers. The topics discussed include: the optimal allocation strategy of computing power network resources; knowledge-graph-enhanced multi-intent recognition model for plateau aircraft selection question answering; large models in smart water systems; knowledge graph-based chain-of-thought reasoning framework for complex questions; agentic orchestration for security requirement translation in next-generation private networks: a Lyapunov-constrained multi-agent reinforcement learning approach; a review of anomaly detection methods for smart water distribution networks; phase-aligned template and residual-guided unsupervised anomaly detection for aero-engine blade borescope inspection; a review of research on computing power network topologies; horizon-aware coarse localization under terrain priors for planetary environments; the construction of characteristic quality regulation knowledge graph for agricultural products; and generative AI-driven robustness enhancement for industrial anomaly detection in complex lighting scenarios.
+M3  - Conference review
+DB  - Scopus
+N1  - EID: 2-s2.0-105045278687
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Chiș, A.
+AU  - Ghiran, A.-M.
+AU  - Buchmann, R.A.
+TI  - A model-driven knowledge graph treatment for process-centric cyber threat mitigation
+PY  - 2026
+T2  - Knowledge and Information Systems
+VL  - 68
+IS  - 1
+C7  - 210
+DO  - 10.1007/s10115-026-02819-w
+UR  - https://www.scopus.com/pages/publications/105043607108?origin=resultslist
+AB  - Cybersecurity analysis touches on diverse interdisciplinary aspects, both technical and business-oriented, and diverse stakeholders from different backgrounds must be supported with a knowledge capture environment that operationalizes the “secure by design” principles while also ensuring semantic traceability of the design decisions, to enable AI-based analysis. This paper introduces a domain-specific modeling method supported by a process-centric visual language (a BPMN extension) to enable a knowledge graph treatment for designing cyber threats mitigations in tandem with business process engineering activities and associated data flows. The treatment is intended to be leveraged by LLM (large language model) services, therefore experimentation leans towards AI integration. The domain-specific modeling language (DSML) hybridizes BPMN and threat modeling, further subjected to model transformations into RDF graphs. A demonstrator is implemented on the ADOxx metamodeling platform and its interoperability/adapters for integration with triplestores and LLMs—this makes possible both SPARQL and natural language queries over the prescriptive diagrammatic designs, as analysis approaches. The proposed method can be used to describe contextualized cybersecurity threats during the design phase of a system or during IT system auditing. The integration bridge with knowledge graphs and large language models enhances the system analysis capabilities by streamlining heterogeneous knowledge flows comprising diagrammatic representation, RDF graphs and generative AI, towards an emerging flavor of model-driven engineering. The method was developed iteratively according to the Design Science framework, with its development activities specialized for the DSML-focused Agile Modeling Method Engineering framework. © The Author(s) 2026.
+KW  - Cybersecurity
+KW  - Data flow diagrams
+KW  - Domain-specific modeling
+KW  - Knowledge graphs
+KW  - Large language models
+KW  - Threat modeling
+KW  - Cybersecurity
+KW  - Data flow analysis
+KW  - Domain Knowledge
+KW  - Flow graphs
+KW  - Graphic methods
+KW  - Integration
+KW  - Knowledge graph
+KW  - Knowledge management
+KW  - Modeling languages
+KW  - Software design
+KW  - Visual languages
+KW  - Cyber security
+KW  - Cyber threats
+KW  - Data flow diagrams
+KW  - Domain specific modeling languages
+KW  - Domain-specific modelling
+KW  - Knowledge graphs
+KW  - Language model
+KW  - Large language model
+KW  - Threat modeling
+KW  - Threats mitigations
+KW  - Semantics
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105043607108
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Hosseini, A.M.
+AU  - Kastner, W.
+AU  - Sauter, T.
+TI  - Leveraging LLMs and Knowledge Graphs to Design Secure Automation Systems
+PY  - 2025
+T2  - IEEE Open Journal of the Industrial Electronics Society
+VL  - 6
+SP  - 380
+EP  - 395
+DO  - 10.1109/OJIES.2025.3545811
+UR  - https://www.scopus.com/pages/publications/105003034847?origin=resultslist
+AB  - The digital transformation of Industrial Control Systems (ICSs) within the Industry 4.0 paradigm is essential for industrial organizations to remain competitive, while cybersecurity is an enabler. However, security measures, often implemented late in the engineering process, lead to costly and complicated implementations. Thus, this article is concerned with the “security by design” principle in ICSs and facilitates compliance with ICS security standards, which can be legally mandated for some critical systems or adopted by asset owners to protect their assets. Current methods for compliance demand manual efforts from security experts, making the compliance process time-consuming and costly. To address this, we propose a framework for leveraging large language models (LLMs) combined with knowledge graphs to automate the interpretation of security requirements and system architecture as two main elements of the design phase. Our knowledge graph-augmented LLM framework converts system architectures into human natural language, enhancing the automation of various security analyses, especially those that need to handle textual requirements. The framework enables validating applicable security requirements provided by IEC 62443-3-3 (a widely-used ICS security standard) concerning system designs through a question-and-answer interface. To evaluate the framework, various questions with reference responses from human experts were prepared in the context of a use case, and the quality of the LLMs' responses was measured across various metrics. Moreover, we compared the framework with a baseline approach based on formal queries. The results show that the proposed framework effectively automates security tasks and offers a user-friendly interface accessible to nonexperts. © 2020 IEEE.
+KW  - Industrial control system (ICS)
+KW  - knowledge graph
+KW  - large language model (LLM)
+KW  - ontology
+KW  - security by design
+KW  - Chemical plants
+KW  - Competition
+KW  - Concrete construction
+KW  - Petroleum products
+KW  - Requirements engineering
+KW  - Control system security
+KW  - Industrial control system
+KW  - Industrial control systems
+KW  - Knowledge graphs
+KW  - Language model
+KW  - Large language model
+KW  - Ontology's
+KW  - Security by design
+KW  - Security requirements
+KW  - Security standards
+KW  - Knowledge graph
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105003034847
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 13
+ER  -
+
+TY  - JOUR
+AU  - Veloudis, S.
+AU  - Paraskakis, I.
+AU  - Petsos, C.
+AU  - Verginadis, Y.
+AU  - Patiniotakis, I.
+AU  - Gouvas, P.
+AU  - Mentzas, G.
+TI  - Achieving security-by-design through ontology-driven attribute-based access control in cloud environments
+PY  - 2019
+T2  - Future Generation Computer Systems
+VL  - 93
+SP  - 373
+EP  - 391
+DO  - 10.1016/j.future.2018.08.042
+UR  - https://www.scopus.com/pages/publications/85056484265?origin=resultslist
+AB  - The constantly increasing number of cyberattacks worldwide raise significant security concerns that generally deter small, medium and large enterprises from adopting the cloud paradigm and benefitting from the numerous advantages that it offers. One way to alleviate these concerns is to devise suitable policies that infuse adequate access controls into cloud services. However, the dynamicity inherent in cloud environments, coupled with the heterogeneous nature of cloud services, hinders the formulation of effective and interoperable access control policies that are suitable for the underlying domain of application. To this end, this work proposes an approach to the semantic representation of access control policies and, in particular, to the semantic representation of the context expressions incorporated in such policies. More specifically, the proposed approach enables stakeholders to accurately define the structure of their policies, in terms of relevant knowledge artefacts, and thus infuse into these policies their particular security and business requirements. This clearly leads to more effective policies, whilst it enables semantic reasoning about the abidance of policies by the prescribed structure. In order to alleviate the scalability concerns associated with semantic reasoning, the proposed approach introduces a reference implementation that extends XACML 3.0 with an expert system fused with reasoning capabilities through the incorporation of suitable meta-rules. © 2018
+KW  - Access control policies
+KW  - Context-aware security
+KW  - Data privacy
+KW  - Ontologies
+KW  - Security-by-design
+KW  - Semantic reasoning
+KW  - Data privacy
+KW  - Distributed database systems
+KW  - Expert systems
+KW  - Interoperability
+KW  - Ontology
+KW  - Semantics
+KW  - Web services
+KW  - Access control policies
+KW  - Attribute based access control
+KW  - Context-Aware
+KW  - Reasoning capabilities
+KW  - Reference implementation
+KW  - Security by designs
+KW  - Semantic reasoning
+KW  - Semantic representation
+KW  - Access control
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85056484265
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 22
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - Proceedings - 2020 International Symposium on Theoretical Aspects of Software Engineering, TASE 2020
+PY  - 2020
+T2  - Proceedings - 2020 International Symposium on Theoretical Aspects of Software Engineering, TASE 2020
+UR  - https://www.scopus.com/pages/publications/85105369044?origin=resultslist
+AB  - The proceedings contain 29 papers. The topics discussed include: feature-oriented design of visual analytics system for interpretable deep learning based intrusion detection; defect report severity prediction based on genetic algorithms and convolutional neural network; an axiomatic approach to BigrTiMo; the scheme of security requirement acquisition based on knowledge graph; metamorphic testing of code search engines; real-time MTL with durations as SMT with applications to schedulability analysis; an empirical study in software verification tools; a comparative study of neural network techniques for automatic software vulnerability detection; Droidlens: robust and fine-grained detection for android code smells; and a multi-strategy combination framework for android malware detection based on various features.
+M3  - Conference review
+DB  - Scopus
+N1  - EID: 2-s2.0-85105369044
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+TI  - 18th International Symposium on Foundations and Practice of Security, FPS 2025
+PY  - 2026
+T2  - Lecture Notes in Computer Science
+VL  - 16402 LNCS
+UR  - https://www.scopus.com/pages/publications/105040619167?origin=resultslist
+AB  - The proceedings contain 22 papers. The special focus in this conference is on Foundations and Practice of Security. The topics include: Privacy-Preserving Federated Learning for IoT Intrusion Detection in 6G Networks; eliciting Metrics and Evaluating Cyber Resilience of a Capability in the Context of a Multilayer Enterprise Architecture; predicting IoT Security Vulnerabilities from Device Specifications; real-Time Insider Threat Hunting Based on Dynamic Risk Indicators; Optimizing Resilience in IT Architectures: A Multi-objective Ontology-Based Approach; Vexed by VEX Tools: Consistency Evaluation of Container Vulnerability Scanners; towards a Formal Verification of the Bao Hypervisor; finding Software Supply Chain Attack Paths with Logical Attack Graphs; from Provable Models to Provable Implementations: Translating Alice & Bob Security Protocols to F*; Automatic Attack Script Generation: A MDA Approach; Mining Reliable ABAC Policies: A Specificity and Confidence-Aware Extension of Rhapsody; A Grammar-Driven Approach to Model and Detect APT Attack Sequences; watch Out for the Lifespan: Evaluating Backdoor Attacks Against Federated Model Adaptation; Systematic Security Context Weighting for Trust Algorithms via AI/ML Model Performance Analysis; WildCode: An Empirical Analysis of Code Generated by ChatGPT; Binary and Multiclass Cyberattack Classification on GeNIS Dataset; towards Automated Botnet Threat Intelligence with Knowledge-Guided Large Language Models; an Improved Paillier-Based Reversible Watermarking Scheme for 3D Models with Reduced Complexity; towards Adoption of Private Distributed Ledgers for Capital Markets; socio-technical Friction: An Emergent Grounded Theory of DevSecOps Challenges; secure-By-Design Architectures for Cooperative Intelligent Transport Systems: A Standards-Aligned Approach; practical Evaluation of the Crypto-Agility Maturity Model.
+M3  - Conference review
+DB  - Scopus
+N1  - EID: 2-s2.0-105040619167
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - Proceedings - 2021 21st International Conference on Software Quality, Reliability and Security Companion, QRS-C 2021
+PY  - 2021
+T2  - Proceedings - 2021 21st International Conference on Software Quality, Reliability and Security Companion, QRS-C 2021
+UR  - https://www.scopus.com/pages/publications/85140918228?origin=resultslist
+AB  - The proceedings contain 171 papers. The topics discussed include: ADVRET: an adversarial robustness evaluating and testing platform for deep learning models; application-oriented serial interface communication protocols formal modeling method; automated functional testing of search engines using metamorphic testing; metamorphic testing for autonomous driving systems in fog based on quantitative measurement; metamorphic testing for traffic light recognition in autonomous driving systems; reports aggregation of crowdsourcing test based on feature fusion; semantic-based false alarm detection approach via machine learning; test case reuse based on software testing knowledge graph and collaborative filtering recommendation algorithm; the effect of combinatorial coverage for neurons on fault detection in deep neural networks; an ontology-based approach for automatic specification, verification, and validation of software security requirements: preliminary results; and quality assurance of micro-services - when to trust your micro-service test results?.
+M3  - Conference review
+DB  - Scopus
+N1  - EID: 2-s2.0-85140918228
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Julio, Y.R.
+AU  - Pinto Mangones, Á.D.
+AU  - Pérez-García, N.A.
+AU  - Huerta, M.-K.
+AU  - Viloria-Núñez, C.
+AU  - Hernández, F.I.
+AU  - Tovio, J.T.
+AU  - Vega, H.R.
+AU  - Enrique De la Rosa Pareja, J.
+TI  - A Zero-Trust, AI-RMF–Governed Architecture for LLM-Enabled Telemedicine-as-a-Service: Mitigating Poisoning, Leakage and Unsafe-Output Threats
+PY  - 2025
+T2  - Proceedings - 2025 51st Latin American Computer Conference, CLEI 2025
+DO  - 10.1109/CLEI67442.2025.11420318
+UR  - https://www.scopus.com/pages/publications/105037107131?origin=resultslist
+AB  - Large-Language-Model (LLM) functionality is rapidly becoming a cornerstone of Telemedicine-as-a-Service (PGaaS) platforms. Recent Q1 studies demonstrate that even minuscule training-set or parameter perturbations can introduce persistent back-doors, while inference pipelines leak protected health information (PHI) if left unguarded. Building on the NIST AI Risk Management Framework (AI RMF), this paper proposes and implements a zero-trust, multi-cloud security architecture that couples (i) knowledge-graph–driven data-integrity validation, (ii) containerised fine-tuning isolation, (iii) AI-RMF–centred governance and continuous risk registers, (iv) a privacy-preserving response-sanitisation gateway enhanced with one-time-password (OTP) and KYC identity binding, and (v) remote-attestation-backed zero-knowledge-proof (ZKP) integrity challenges for model weights at runtime. An extensive multi-cloud evaluation shows that the framework detects 94.6 % of tainted samples before ingestion and blocks 91.3 % of unsafe outputs, with a median latency overhead of 66 ms—well below clinical tele-consultation thresholds. © 2025 IEEE.
+KW  - AI Risk Management Framework
+KW  - Cloud Security
+KW  - Data/Weight Poisoning
+KW  - KYC
+KW  - Large Language Models
+KW  - OTP
+KW  - OWASP LLM Top-10
+KW  - PGaaS
+KW  - Privacy Preservation
+KW  - Telemedicine
+KW  - Zero Trust
+KW  - ZKP
+KW  - Computer architecture
+KW  - Data privacy
+KW  - Digital storage
+KW  - Distributed computer systems
+KW  - Information leakage
+KW  - Risk management
+KW  - Trusted computing
+KW  - AI risk management framework
+KW  - Cloud securities
+KW  - Data/weight poisoning
+KW  - KYC
+KW  - Language model
+KW  - Large language model
+KW  - One-time-password
+KW  - OWASP large-language-model top-10
+KW  - PGaaS
+KW  - Privacy preservation
+KW  - Risk management framework
+KW  - Zero trust
+KW  - Zero-knowledge proofs
+KW  - Telemedicine
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-105037107131
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Zhang, Y.
+AU  - Li, X.
+TI  - The Scheme of Security Requirement Acquisition Based on Knowledge Graph
+PY  - 2020
+T2  - Proceedings - 2020 International Symposium on Theoretical Aspects of Software Engineering, TASE 2020
+C7  - 9405313
+SP  - 225
+EP  - 231
+DO  - 10.1109/TASE49443.2020.00038
+UR  - https://www.scopus.com/pages/publications/85105421919?origin=resultslist
+AB  - Specifying security requirements (SR) during the requirement analysis phase is essential for enhancing system quality, especially for security-critical software systems. However, it is difficult and complex to analyze SRs in detail according to ISO/IEC 15408 (known as Common Criteria). In this paper, we propose a SR acquisition scheme based on knowledge graph (KG). In this scheme, some security concepts such as Security Threat, Organizational Security Policy (OSP), Security Objective, Evaluation Assurance Level (EAL), SR and their relationships are all represented in the KG. SRs can be acquired through knowledge reasoning after embedding KG into low dimensional space and training by using TransE model. To evaluate the KG-based scheme, our experiments are performed on certified Security Target (ST) documents provided by Common Criteria (CC). Experimental results show that more accurate SRs can be acquired through KG reasoning. © 2020 IEEE.
+KW  - knowledge graph
+KW  - security requirement
+KW  - security threat
+KW  - software security
+KW  - Knowledge representation
+KW  - Security systems
+KW  - Software engineering
+KW  - Knowledge graphs
+KW  - Knowledge reasoning
+KW  - Low-dimensional spaces
+KW  - Requirement analysis
+KW  - Security objectives
+KW  - Security requirements
+KW  - Security threats
+KW  - Security-critical
+KW  - Quality control
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85105421919
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Boaro, L.
+AU  - Glorio, E.
+AU  - Pagliarecci, F.
+AU  - Spalazzi, L.
+TI  - Semantic model checking security requirements for web services
+PY  - 2010
+T2  - Proceedings of the 2010 International Conference on High Performance Computing and Simulation, HPCS 2010
+C7  - 5547125
+SP  - 283
+EP  - 290
+DO  - 10.1109/HPCS.2010.5547125
+UR  - https://www.scopus.com/pages/publications/77956957018?origin=resultslist
+AB  - Model checking is a formal verification method widely accepted in the web service world because of its capability to reason about service behaviors, at their process-level. It has been used as basic tool in several scenarios as service selection, service validation, and service composition. Furthermore, it has been widely applied to problems of security verification. The importance of semantics is widely recognized, as well. Indeed, there exists several solutions to the problem of providing semantics to web services, most of them relies on some form of Description Logic. This paper presents an integration of model checking and semantic reasoning technologies in an efficient way. This can be considered the first step towards the usage of semantic model checking in problems of security verification. The approach relies on a representation of services at the process level that is based on semantically annotated state transition systems (ASTS) and a representation of specifications that is based on a semantically annotated version of the computation tree logic (AnCTL). The proposed approach permit to perform an efficient and yet useful, semantic reasoning at process-level about web services. Indeed, this paper proves thatmodel checking for ASTS and AnCTLis sound and complete and it can be accomplished in polynomial time. ©2010 IEEE.
+KW  - Model checking
+KW  - Semantic web service
+KW  - State transition system
+KW  - Temporal description logic
+KW  - Data description
+KW  - Polynomial approximation
+KW  - Semantic Web
+KW  - Temporal logic
+KW  - Web services
+KW  - Computation tree logic
+KW  - Description logic
+KW  - Formal verification methods
+KW  - Polynomial-time
+KW  - Process levels
+KW  - Security requirements
+KW  - Security verification
+KW  - Semantic Model
+KW  - Semantic reasoning
+KW  - Service compositions
+KW  - Service selection
+KW  - Service validation
+KW  - State transition systems
+KW  - Model checking
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-77956957018
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Alqahtani, H.
+AU  - Kumar, G.
+TI  - Large Language Models for Cybersecurity Intelligence: A Systematic Review of Emerging Threats, Defensive Capabilities, and Security Evaluation Frameworks
+PY  - 2026
+T2  - Computers, Materials and Continua
+VL  - 87
+IS  - 3
+C7  - 9
+DO  - 10.32604/cmc.2026.077367
+UR  - https://www.scopus.com/pages/publications/105035716040?origin=resultslist
+AB  - Large Language Models (LLMs) are becoming integral components of modern cybersecurity ecosystems, simultaneously strengthening defensive capabilities while giving rise to a new class of Artificial Intelligence–Generated Content (AIGC)-driven threats. This PRISMA-guided systematic review synthesises 167 peer-reviewed studies published between 2022 and 2025 and proposes a unified threat–defence–evaluation taxonomy as a central analytical framework to consolidate a previously fragmented body of research. Guided by this taxonomy, the review first examines AIGC-enabled threats, including automated and highly personalised phishing, polymorphic malware and exploit generation, jailbreak and adversarial prompting, prompt-injection attack vectors, multimodal deception, persona-steering attacks, and large-scale disinformation campaigns. The surveyed evidence indicates a qualitative escalation in adversarial capabilities, with LLMs significantly enhancing scalability, adaptability, and realism while markedly reducing the technical barriers to conducting sophisticated attacks. Second, the review analyses LLM-enabled defensive applications spanning intrusion and anomaly detection, malware analysis and log-semantic modelling, multilingual threat intelligence extraction, vulnerability discovery and code repair, and Security Operations Center (SOC) automation through Retrieval-Augmented Generation (RAG) and multi-agent systems. Although these approaches demonstrate strong potential as semantic reasoning and decision-support components within hybrid security architectures, their real-world effectiveness remains constrained by hallucination risks, adversarial susceptibility, distributional shifts, and operational overhead. Third, the review synthesises current security evaluation and red-teaming practices, revealing a fragmented assessment landscape characterised by narrow benchmarks, inconsistent evaluation metrics, and limited longitudinal robustness analysis. Overall, the taxonomy-driven synthesis highlights a structurally imbalanced ecosystem in which offensive innovation outpaces defensive maturity and governance, and it informs a structured, research-question-aligned roadmap for developing trustworthy, resilient, and policy-aligned LLM-powered cybersecurity systems. Copyright © 2026 The Authors.
+KW  - Artificial intelligence–generated content threats
+KW  - cybersecurity intelligence
+KW  - evaluation frameworks
+KW  - large language models
+KW  - large language model–based defensive systems
+KW  - red-teaming
+KW  - Anomaly detection
+KW  - Cybersecurity
+KW  - Ecosystems
+KW  - Intelligent agents
+KW  - Intrusion detection
+KW  - Malware
+KW  - Multi agent systems
+KW  - Network security
+KW  - Security systems
+KW  - Semantics
+KW  - Taxonomies
+KW  - Artificial intelligence–generated content threat
+KW  - Cyber security
+KW  - Cybersecurity intelligence
+KW  - Defensive systems
+KW  - Evaluation framework
+KW  - Language model
+KW  - Large language model
+KW  - Large language model–based defensive system
+KW  - Model-based OPC
+KW  - Red teaming
+KW  - Decision support systems
+M3  - Review
+DB  - Scopus
+N1  - EID: 2-s2.0-105035716040
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Sabaliauskaite, G.
+AU  - Paskauskas, R.A.
+AU  - Bružė, E.
+AU  - Matulytė, R.
+AU  - Lavišius, T.
+TI  - Automated regulatory compliance for AI systems in the security domain: The case of dual-use deployment
+PY  - 2026
+T2  - Open Research Europe
+VL  - 6
+C7  - 83
+DO  - 10.12688/openreseurope.23137.1
+UR  - https://www.scopus.com/pages/publications/105040222892?origin=resultslist
+AB  - The rapid expansion of the European Union’s digital regulatory framework and recent adoption of the Artificial Intelligence Act (AI Act) has introduced complex, overlapping compliance obligations for AI systems, and consequently, their developers and users. These challenges are amplified for dual-use AI systems, which may be developed for civilian markets yet deployed in military contexts, requiring alignment with both EU regulatory instruments and defence-specific frameworks such as NATO policies. Existing approaches to regulatory compliance remain largely manual, fragmented, and difficult to scale, particularly when legal requirements must be translated into actionable, system-level specifications for dual-use contexts. This paper proposes a novel ontology-based methodology for automated regulatory compliance requirements specification for dual-use AI systems. The methodology systematically integrates legal and technical perspectives by structuring compliance obligations across deployment domains (civilian and defence), system lifecycle phases, and requirement categories, including privacy- and security-related obligations. Implemented as a machine-readable knowledge graph using RDF/Turtle, the approach enables executable compliance modelling, where regulatory obligations are formalised as machine-interpretable entities that can be queried, validated, and deployment-specifically configured through semantic reasoning and SPARQL-based analysis. The methodology is validated through a detailed case study of an AI-powered espionage detection system, demonstrating how context-aware semantic reasoning and SHACL-based validation can ensure that regulatory requirements are consistently specified and mapped to concrete system components. The proposed framework advances the state of the art by providing a rigorous, extensible foundation for compliance-by-design and automated analysis, thereby reducing compliance risk and supporting responsible AI engineering in complex omni-use regulatory environments. Copyright: © 2026 Sabaliauskaite G et al.
+KW  - Regulatory compliance automation; dual-use technologies; ontology-based requirements specification; security-by-design; privacy-by-design; AI Act; GDPR; NATO cybersecurity framework
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105040222892
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Zhang, Y.
+AU  - Chen, J.
+AU  - Cheng, Z.
+AU  - Shen, X.
+AU  - Qin, J.
+AU  - Han, Y.
+AU  - Lu, Y.
+TI  - Edge propagation for link prediction in requirement-cyber threat intelligence knowledge graph
+PY  - 2024
+T2  - Information Sciences
+VL  - 653
+C7  - 119770
+DO  - 10.1016/j.ins.2023.119770
+UR  - https://www.scopus.com/pages/publications/85174683737?origin=resultslist
+AB  - Critical information infrastructure (CII) is a critical component of national socioeconomic systems and one of the primary targets of cyberattacks. Unfortunately, CII's security administration struggles to keep up with the rapidly evolving and complex cyber threats. In this research, we combine cybersecurity threat intelligence (CTI) with management security requirements (SR) data to construct a knowledge graph (KG) named RCTI and predict new knowledge on the heterogeneous graph. In addition, we propose EGNN, a novel GNN-based model that defines the representation of edges and develop an algorithm for propagating edge information. Experiments on three public datasets and the RCTI graph show that the EGNN achieves state-of-the-art performance. Finally, we use the EGNN model to predict new links on the RCTI graph, which by manual analysis achieves a 97% connectivity rate between the CTI and SR entities. Therefore, the EGNN can effectively detect management vulnerabilities and enhance CII's cybersecurity capability in the event of cybersecurity incidents. © 2023 Elsevier Inc.
+KW  - Critical information infrastructure
+KW  - Cyber threat intelligence
+KW  - Graph neural network
+KW  - Knowledge graph
+KW  - Link prediction
+KW  - Backpropagation
+KW  - Critical infrastructures
+KW  - Cybersecurity
+KW  - Forecasting
+KW  - Knowledge graph
+KW  - Critical component
+KW  - Critical information infrastructure
+KW  - Cybe threat intelligence
+KW  - Cyber security
+KW  - Cyber threats
+KW  - Graph neural networks
+KW  - Information infrastructures
+KW  - Knowledge graphs
+KW  - Link prediction
+KW  - Security requirements
+KW  - Graph neural networks
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85174683737
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 35
+ER  -
+
+TY  - JOUR
+AU  - Wang, W.
+AU  - Zhang, Y.
+AU  - Xue, T.
+AU  - Zhang, H.
+AU  - Wang, Y.
+TI  - NLACP Dataset Expansion With AI: Leveraging ChatGPT for Policy Generation
+PY  - 2026
+T2  - IEEE Internet of Things Journal
+VL  - 13
+IS  - 8
+SP  - 16148
+EP  - 16168
+DO  - 10.1109/JIOT.2026.3658885
+UR  - https://www.scopus.com/pages/publications/105028888235?origin=resultslist
+AB  - Natural language access control policies (NLACPs) play a pivotal role in access control systems, yet the scarcity of high-quality public datasets severely hinders advancements in natural language processing (NLP)/machine learning (ML)-driven policy automation. Existing datasets, constrained by labor-intensive manual curation, confidentiality barriers, and rigid synthesis methods, suffer from limited scale, semantic inconsistency, and poor adaptability to emerging domains such as smart healthcare and the Internet of Vehicles (IoV). To address this critical gap, we propose GenPy, a novel framework leveraging large language models (LLMs) like ChatGPT and domain-specific knowledge graphs to systematically generate scalable, semantically rich NLACP datasets. GenPy pioneers the integration of LLMs into NLACP synthesis, offering three core innovations: a generation module combining knowledge graphs with prompt engineering to produce diverse, domain-aligned policies; an annotation module employing few-shot learning to filter nonpolicy statements and ensure quality; and a policy management module resolving redundancies and conflicts while enabling conflict injection for optimization research. By embedding domain semantics (e.g., IoV compliance with automotive data laws), GenPy enriches traditional datasets and supports fine-grained policy requirements. Experiments demonstrate that GenPy generates more than 5000 high-quality NLACPs across multiple domains, achieving an F1-score of exceeding 93% in NLACP classification tasks. Notably, augmenting the classification models in RAGent with GenPy-generated data improves NLACP classification accuracy by 2%-9%, validating its practical utility. Our work establishes the first LLM-based pipeline that integrates knowledge graphs with customizable prompts to generate semantically rich NLACPs, supporting fine-grained access control models, NLACP identification, and policy management across diverse security requirements. We provide an open-source repository of policies, code, and technical frameworks to catalyze future research in access control automation. The dataset and implementation are publicly available at https://github.com/fe1w0/NLACP-LLM. © 2026 IEEE.
+KW  - Access control policy (ACP) generation
+KW  - ChatGPT
+KW  - large language models (LLMs)
+KW  - natural language access control policy (NLACP)
+KW  - Access control models
+KW  - Automation
+KW  - Control theory
+KW  - Graphic methods
+KW  - Industrial management
+KW  - Large datasets
+KW  - Natural language processing systems
+KW  - Open source software
+KW  - Open systems
+KW  - Access control policies
+KW  - Access control policy generation
+KW  - ChatGPT
+KW  - Knowledge graphs
+KW  - Language model
+KW  - Large language model
+KW  - Natural language access control policy
+KW  - Natural languages
+KW  - Policy generation
+KW  - Knowledge management
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105028888235
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Okegbile, S.D.
+AU  - Cai, J.
+AU  - Niyato, D.
+AU  - Shen, X.
+TI  - Leveraging Knowledge-Driven Large Language Models-Enabled Intent-Based Security Architectures for Human Digital Twin Networks
+PY  - 2026
+T2  - IEEE Network
+DO  - 10.1109/MNET.2025.3649156
+UR  - https://www.scopus.com/pages/publications/105027661629?origin=resultslist
+AB  - Ensuring secure and context-aware physical-to-virtual interactions in human digital twin (HDT) networks is crucial because of its demand for adaptive and proactive security mechanisms to support the evolution of virtual environments. Intent-based security design (IBSD) can provide such required proactive alignment of user actions with security policies by embedding intent recognition into the HDT lifecycle, allowing only trusted behavior to propagate while preserving system fidelity. In this paper, we propose a novel knowledge-enabled large language model (kLLM)-driven IBSD architecture that integrates semantic reasoning, continual learning, and contextual understanding to deliver robust dynamic security across distributed HDT networks. The proposed architecture leverages the structured knowledge representation of knowledge graphs (KGs) and the deep semantic capabilities of large language models (LLMs) to enhance intent recognition, threat detection, and adaptive policy enforcement. Such a design also supports the evolution of security models in real-time while preventing malicious updates to virtual replicas in the HDT environment. A case study and comprehensive evaluation demonstrate that the kLLM-enabled IBSD is a promising solution towards efficient intent classification and continual learning adaptability. We also provide key design requirements, enabling techniques, and critical open challenges, including scalability, latency, multimodal intent disambiguation, and KG security. This work represents a significant step toward enabling intelligent, self-adaptive, and resilient security architectures for next-generation distributed digital systems. © 1986-2012 IEEE.
+KW  - Architecture
+KW  - Behavioral research
+KW  - Distributed computer systems
+KW  - Dynamic models
+KW  - Knowledge graph
+KW  - Knowledge management
+KW  - Learning systems
+KW  - Life cycle
+KW  - Network security
+KW  - Security systems
+KW  - Virtual environments
+KW  - Virtual reality
+KW  - Adaptive security
+KW  - Context-Aware
+KW  - Continual learning
+KW  - Intent recognition
+KW  - Knowledge graphs
+KW  - Language model
+KW  - Security Architecture
+KW  - Security design
+KW  - TWIN networks
+KW  - Virtual interactions
+KW  - Semantics
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105027661629
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Fu, Y.
+AU  - Liu, J.
+AU  - Ban, Q.
+AU  - Zhou, L.
+TI  - Security architecture of smart grid knowledge question-answering systems based on large language models
+PY  - 2026
+T2  - Cyber-Physical Systems
+VL  - 12
+IS  - 2
+SP  - 225
+EP  - 241
+DO  - 10.1080/23335777.2025.2599897
+UR  - https://www.scopus.com/pages/publications/105026789711?origin=resultslist
+AB  - With the rapid advancement of large language models (LLMs), their application in smart grid knowledge services is increasingly promising, yet challenged by data sensitivity and output unpredictability. This paper proposes GRASP, a secure response architecture that integrates trusted execution environments, adaptive input–output auditing, and knowledge-grounded verification to enhance LLM trustworthiness in power systems. GRASP isolates inference processes, filters malicious inputs, constrains risky outputs, and reinforces factual consistency through a domain-specific knowledge graph. Experimental results demonstrate that GRASP significantly improves the safety, accuracy, and reliability of smart grid question-answering systems. © 2025 Informa UK Limited, trading as Taylor & Francis Group.
+KW  - large language model
+KW  - secure question answering
+KW  - Smart grid
+KW  - trusted execution environment
+KW  - Electric power system security
+KW  - Electric power transmission networks
+KW  - Question answering
+KW  - Input-output
+KW  - Knowledge service
+KW  - Language model
+KW  - Large language model
+KW  - Question Answering
+KW  - Question answering systems
+KW  - Secure question answering
+KW  - Security Architecture
+KW  - Smart grid
+KW  - Trusted execution environments
+KW  - Smart power grids
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105026789711
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 2
+ER  -
+
+TY  - CONF
+AU  - Wang, C.
+AU  - Chen, F.
+AU  - Li, X.
+AU  - Chen, X.
+TI  - An Application Security Requirements Analysis Method Based on Knowledge Graph
+PY  - 2023
+T2  - ACM International Conference Proceeding Series
+SP  - 151
+EP  - 154
+DO  - 10.1145/3656766.3656793
+UR  - https://www.scopus.com/pages/publications/85195267338?origin=resultslist
+AB  - This method adopts a knowledge graph based approach to achieve application security requirement analysis. Through legal and regulatory knowledge and application security knowledge, knowledge graph inference operations are carried out, threat modeling is performed, and the isolation of search content is solved through the graph. The unified entry search of all subject domain data in security scenarios is achieved, which can solve the problems of large amounts of legal, regulatory, and security risk information data and low efficiency in obtaining effective mechanism information, By leveraging the automated verification of security requirements, the speed of application security requirement analysis can be greatly improved.  © 2023 ACM.
+KW  - Application security
+KW  - knowledge graph
+KW  - requirements analysis
+KW  - threat modeling
+KW  - Cryptography
+KW  - Graphic methods
+KW  - Requirements engineering
+KW  - Risk assessment
+KW  - Risk perception
+KW  - Analysis method
+KW  - Application security
+KW  - Graph-based
+KW  - Knowledge graphs
+KW  - Knowledge securities
+KW  - Large amounts
+KW  - Legal risks
+KW  - Requirement analysis
+KW  - Security requirements
+KW  - Threat modeling
+KW  - Knowledge graph
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85195267338
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Wu, S.
+AU  - Zhang, Y.
+AU  - Cao, W.
+TI  - Network security assessment using a semantic reasoning and graph based approach
+PY  - 2017
+T2  - Computers and Electrical Engineering
+VL  - 64
+SP  - 96
+EP  - 109
+DO  - 10.1016/j.compeleceng.2017.02.001
+UR  - https://www.scopus.com/pages/publications/85013382604?origin=resultslist
+AB  - Owing to the high value of business data, sophisticated cyber-attacks targeting enterprise networks have become more prominent, with attackers trying to penetrate deeper into and reach wider from the compromised machines. An important security requirement is that domain experts and network administrators have a common vocabulary to share security knowledge and quickly help each other respond to new threats. We propose an innovative ontology and graph-based approach for security assessment. An ontology is designed to represent security knowledge such as that of assets, vulnerabilities, and attacks in a common form. Using the inference abilities of the ontological model, an efficient system framework is proposed to generate attack graphs and assess network security. The performance of the proposed system is evaluated on test networks of differing sizes and topologies. © 2017
+KW  - Attack graph
+KW  - Network security
+KW  - Security ontology
+KW  - Semantic reasoning
+KW  - Computer crime
+KW  - Graphic methods
+KW  - Ontology
+KW  - Semantic Web
+KW  - Semantics
+KW  - Attack graph
+KW  - Enterprise networks
+KW  - Network administrator
+KW  - Ontological modeling
+KW  - Security assessment
+KW  - Security ontologies
+KW  - Security requirements
+KW  - Semantic reasoning
+KW  - Network security
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85013382604
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 39
+ER  -
+
+TY  - CONF
+AU  - Boaro, L.
+AU  - Glorio, E.
+AU  - Pagliarecci, F.
+AU  - Spalazzi, L.
+TI  - Semantic model checking security requirements for web services
+PY  - 2010
+T2  - SEBD 2010 - Proceedings of the 18th Italian Symposium on Advanced Database Systems
+SP  - 190
+EP  - 197
+UR  - https://www.scopus.com/pages/publications/84890964204?origin=resultslist
+AB  - Model checking is a formal verification method widely accepted in the web service world because of its capability to reason about service behaviors, at their process-level. It has been used as basic tool in several scenarios as service selection, service validation, and service composition. Furthermore, it has been widely applied to problems of security verification. The importance of semantics is widely recognized, as well. Indeed, there exists several solutions to the problem of providing semantics to web services, most of them relies on some form of Description Logic. This paper presents an integration of model checking and semantic reasoning technologies in an efficient way.
+KW  - Data description
+KW  - Database systems
+KW  - Model checking
+KW  - Web services
+KW  - Websites
+KW  - Formal verification methods
+KW  - Security requirements
+KW  - Security verification
+KW  - Semantic reasoning
+KW  - Service behaviors
+KW  - Service compositions
+KW  - Service selection
+KW  - Service validation
+KW  - Semantics
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-84890964204
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Wang, Y.
+AU  - Green, E.
+AU  - Wieringa, R.
+AU  - Gordijn, J.
+TI  - An Exercise in Concurrent Software Engineering: The MUSIC360 Digital Ecosystem
+PY  - 2025
+T2  - Proceedings - 2025 27th International Conference on Business Informatics, CBI 2025
+SP  - 110
+EP  - 120
+DO  - 10.1109/CBI68102.2025.00023
+UR  - https://www.scopus.com/pages/publications/105032151036?origin=resultslist
+AB  - In complex digital business ecosystems like MUSIC360, practitioners develop various requirement perspectives concurrently and independently due to time constraints and time-to-market considerations, but by doing so also create alignment issues between these perspectives. We argue that a knowledge graph-based approach enables systematic analysis and reasoning about traceability between these perspectives: in our case, the business value model of the ecosystem, associated data models, and security requirement items. In the knowledge graph, the elements of the business value model (e.g., economic actors), data elements (e.g., data assets), and security requirement item elements (e.g. access controls) are nodes connected by edges representing semantic/logic relationships (e.g., protects, authorizes). We illustrate the use of the traceability knowledge graph using the EU MUSIC360 project. The resulting traceability knowledge graph allows us to identify the perspectives' incompleteness and inconsistency, analyze the causes, and derive suggestions for improving model and requirements quality while using concurrent engineering. Theoretically, we contribute a cross-perspective traceability framework that unifies value-oriented, data-oriented, and security-oriented requirement-related artefacts into a single semantic network, plus reusable traceability patterns and rules to guide early-phase alignment. Practically, we show how to embed traceability analysis into concurrent engineering to improve requirement quality without sacrificing speed.  © 2025 IEEE.
+KW  - Concurrent software engineering
+KW  - Knowledge graph
+KW  - Music digital ecosystem
+KW  - Security requirement
+KW  - Traceability
+KW  - Computer music
+KW  - Computer software reusability
+KW  - Concurrency control
+KW  - Graph theory
+KW  - Graphic methods
+KW  - Knowledge graph
+KW  - Network security
+KW  - Quality control
+KW  - Requirements engineering
+KW  - Semantic Web
+KW  - Semantics
+KW  - Business value
+KW  - Concurrent software
+KW  - Digital business ecosystems
+KW  - Digital ecosystem
+KW  - Knowledge graphs
+KW  - Music digital ecosystem
+KW  - Security requirements
+KW  - Time constraints
+KW  - Traceability
+KW  - Value model
+KW  - Concurrent engineering
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-105032151036
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Vassilev, V.
+AU  - Sowinski-Mydlarz, V.
+AU  - Gasiorowski, P.
+AU  - Ouazzane, K.
+AU  - Phipps, A.
+TI  - Intelligence Graphs for Threat Intelligence and Security Policy Validation of Cyber Systems
+PY  - 2021
+T2  - Advances in Intelligent Systems and Computing
+VL  - 1164
+SP  - 125
+EP  - 139
+DO  - 10.1007/978-981-15-4992-2_13
+UR  - https://www.scopus.com/pages/publications/85088600237?origin=resultslist
+AB  - While the recent advances in data science and machine learning attract lots of attention in cyber security because of their promise for effective security analytics, vulnerability analysis, risk assessment, and security policy validation remain slightly aside. This is mainly due to the relatively slow progress in the theoretical formulation and the technological foundation of the cyber security concepts such as logical vulnerability, threats, and risks. In this article, we are proposing a framework for logical analysis, threat intelligence, and validation of security policies in cyber systems. It is based on multi-level model, consisting of ontology of situations and actions under security threats, security policies governing the security-related activities, and graph of the transactions. The framework is validated using a set of scenarios describing the most common security threats in digital banking, and a prototype of an event-driven engine for navigation through the intelligence graphs has been implemented. Although the framework was developed specifically for application in digital banking, the authors believe that it has much wider applicability to security policy analysis, threat intelligence, and security by design of cyber systems for financial, commercial, and business operations. © 2021, The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd.
+KW  - Knowledge graphs
+KW  - Ontologies
+KW  - Security analytics
+KW  - Security policies
+KW  - Threat intelligence
+KW  - Banking
+KW  - Data Science
+KW  - Risk analysis
+KW  - Risk assessment
+KW  - Security of data
+KW  - Security systems
+KW  - Business operation
+KW  - Logical analysis
+KW  - Multilevel model
+KW  - Security Analytics
+KW  - Security policy
+KW  - Security threats
+KW  - Theoretical formulation
+KW  - Vulnerability analysis
+KW  - Artificial intelligence
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85088600237
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 12
+ER  -
+
+TY  - CONF
+AU  - Gong, L.
+AU  - Tian, Y.
+TI  - Threat modeling for cyber range: an ontology-based approach
+PY  - 2020
+T2  - Lecture Notes in Electrical Engineering
+VL  - 517
+SP  - 1055
+EP  - 1062
+DO  - 10.1007/978-981-13-6508-9_128
+UR  - https://www.scopus.com/pages/publications/85068377792?origin=resultslist
+AB  - Cyber Range has become a very important means to support tasks such as network security technology validation, network weapon testing, training of network attack and defense and network risk assessment. However, Cyber Ranger faces many security threats from internal and external environments. In order to establish an adaptive security protection system, threat modeling is needed to analyze potential threats and provide security solutions. In this paper, we present a novel threat modeling method for Cyber Range. Based on ontology and knowledge graph, our research focuses on the design of threat ontology, knowledge base, and unified description specification. Typical cases are given to demonstrate our approach. This study could serve as groundwork for further Cyber Range researches including security architecture, situation awareness and intelligent decision-making. © Springer Nature Singapore Pte Ltd. 2020.
+KW  - Cyber range
+KW  - Knowledge graph
+KW  - Ontology
+KW  - Threat knowledge extraction
+KW  - Threat modeling
+KW  - Decision making
+KW  - Knowledge based systems
+KW  - Ontology
+KW  - Risk assessment
+KW  - Signal processing
+KW  - Cyber range
+KW  - External environments
+KW  - Intelligent decision making
+KW  - Knowledge extraction
+KW  - Knowledge graphs
+KW  - Network security technology
+KW  - Security Architecture
+KW  - Threat modeling
+KW  - Network security
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85068377792
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 3
+ER  -
+
+TY  - JOUR
+TI  - 26th International Conference on Web Information Systems Engineering, WISE 2025
+PY  - 2026
+T2  - Lecture Notes in Computer Science
+VL  - 16367 LNCS
+UR  - https://www.scopus.com/pages/publications/105040512888?origin=resultslist
+AB  - The proceedings contain 40 papers. The special focus in this conference is on Web Information Systems Engineering. The topics include: Multi-Armed Bandit-Based Client Selection for Efficient Federated Learning; hybrid Adaptive Resonance Theory Model for Online Noisy Data Classification; intra-domain Preference Modeling with Cross-Domain Dependency Alignment for Cross-Domain Sequential Recommendation; CLARE: A Category-Aware RAG-Based Framework for Recommending Learning Objects in Education and Professional Training; recommending the Right Recommender System Software: A Practical Guide; causal Insights for Debiasing Recommender Systems: Future Directions and Challenges; collaborative Multi-agent Anomaly Detection in Web Services Using Machine Learning and Semantic Reasoning; a Web-Based Fauna Taxonomic Rank Identification Application; evidence Retrieval for Chinese Tabular Data in the Web Based on Dense Passage Retriever; multi-layered Framework for Counterfeit-Free Pharmaceutical Chains; verifying Security Requirements of Fog Services Communication with Event-B; Convergence and Variability Assessment and Analysis of QGANs and GANs for Advanced Cybersecurity Applications: An Empirical Study; MOMA-DPK: A Multi-Objective Memetic Algorithm for Privacy-Utility Trade-Offs in Differentially Private K-Means Clustering; FP-BSS: Full Privacy Blockchain-Based Self-tallying Score Voting Protocol; FORA: An Efficient One-for-All Cross-Task Reasoning Framework for Financial Domain via LLMs; A Comparative Study of ASRs, LLMs, and Few-Shot Learning for Emotion Recognition in Tunisian Dialect; CMANet:Sarcasm Detection with LLMs and Cross-Modal Adaptive Attention Networks; Small Scale, Strategic Advantage: Enhancing LLMs with Domain Knowledge Graphs; interpretable Tree-Structured Deep Learning Model for Extracting Cognitive Pathways from Social Media; adaptive Online Index Selection with a Noisy Dueling Deep Q-Network; An Advanced-PER Based Deep Reinforcement Learning Method for Adversarial Maritime Mission Planning; deep Cross Networks for Intelligent Risk Prediction of Prostate Cancer; graph Reachability Queries: Empirical Evaluation and Practical Guidelines; context-Aware Hybrid Neuro-Symbolic Approach for Knowledge Graph Enrichment; stvd-kg: A Knowledge Graph for French Electronical Program Guides; DO-RAG: A Domain-Specific QA Framework Using Knowledge Graph-Enhanced Retrieval-Augmented Generation.
+M3  - Conference review
+DB  - Scopus
+N1  - EID: 2-s2.0-105040512888
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Oranekwu, I.
+AU  - Elluri, L.
+AU  - Yus, R.
+AU  - Kotal, A.
+TI  - Scalable automation for IoT cyberSecurity compliance: Ontology-driven reasoning for real-time assessment
+PY  - 2026
+T2  - Computers and Security
+VL  - 161
+C7  - 104711
+DO  - 10.1016/j.cose.2025.104711
+UR  - https://www.scopus.com/pages/publications/105021647823?origin=resultslist
+AB  - In recent years, the rapid expansion of the Internet of Things (IoT) has introduced significant cybersecurity challenges, requiring manufacturers to comply with various regulatory frameworks and cybersecurity standards. Hence, to protect user data and privacy, all organizations providing IoT devices must adhere to complex guidelines such as the National Institute of Standards and Technology Inter-Agency Report (NISTIR) 8259, which defines essential cybersecurity guidelines for IoT manufacturers. However, interpreting and applying these rules from these guidelines remains a significant challenge for companies. Previously, our Automated Knowledge Framework for IoT Cybersecurity Compliance, leveraged SWRL, SPARQL queries, Web Ontology Language and Visualization (OWL Viz), Semantic Web technologies, Large Language Models (LLMs), and Retrieval Augmented Generation (RAG) pipeline to automate compliance assessment of multiple Functional requirement documents (FRDs), while systematically cross-checking Business requirement documents (BRDs) against them [Oranekwu et al., 2024]. However, these efforts primarily focused on mapping NISTIR 8259 guidelines into a structured ontology laying the foundation for us to build, expand on, and then integrate the IoT Cybersecurity Improvement Act of 2020 into the compliance framework. Furthermore, exploring its big data capability, the Knowledge Graph (KG) has been expanded and populated with more than 800 manufacturer privacy policy instances, allowing direct comparison between manufacturer-defined data properties, object properties, and regulatory compliance expectations. The primary objective is to evaluate the effectiveness of this enhanced version of the framework in identifying policy non-compliance by comparing triples extracted from privacy policies against the structured knowledge representation. Through this approach, our goal is to automate compliance verification by examining the relationships between manufacturers, security requirements, and regulatory obligations, offering a scalable solution for the security governance of IoT. © 2025 Elsevier Ltd
+KW  - Cybersecurity compliance
+KW  - Governance
+KW  - Guidelines
+KW  - Internet of things
+KW  - Knowledge graphs
+KW  - Large language model
+KW  - NISTIR
+KW  - Ontology reasoning
+KW  - Privacy policy analysis
+KW  - Retrieval augmented generation
+KW  - Security
+KW  - Semantic web technologies
+KW  - SPARQL
+KW  - Standards
+KW  - SWRL
+KW  - Big data
+KW  - Compliance control
+KW  - Cybersecurity
+KW  - Data privacy
+KW  - Knowledge management
+KW  - Network security
+KW  - Ontology
+KW  - Public policy
+KW  - Query languages
+KW  - Regulatory compliance
+KW  - Requirements engineering
+KW  - Semantic Web
+KW  - Cyber security
+KW  - Cybersecurity compliance
+KW  - Governance
+KW  - Guideline
+KW  - Knowledge graphs
+KW  - Language model
+KW  - Large language model
+KW  - National institute of standard and technology inter-agency report
+KW  - National Institute of Standards and Technology
+KW  - Ontology reasonings
+KW  - Policy analysis
+KW  - Privacy policies
+KW  - Privacy policy analyze
+KW  - Retrieval augmented generation
+KW  - Security
+KW  - Semantic Web technology
+KW  - SPARQL
+KW  - SWRL
+KW  - Internet of things
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105021647823
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 5
+ER  -
+
+TY  - CONF
+AU  - Bhavana, G.
+AU  - Thallapalli, D.
+AU  - Saravanan, S.
+TI  - Armos: A Proxy Based Security Architecture for Mitigating Unauthorized LLM Access to Web Applications
+PY  - 2026
+T2  - Conference Proceedngs - WcCST 2026: World Conference on Computational Science and Technology
+SP  - 525
+EP  - 530
+DO  - 10.1109/WcCST67302.2026.11495654
+UR  - https://www.scopus.com/pages/publications/105040803342?origin=resultslist
+AB  - Large Language Models as Web scrapers cause a massive threat to the news and the media houses by even permitting the unauthorized extraction, reinterpretation, and even use of proprietary materials. Unlike traditional bots, these are sophisticated scrapers which use semantic reasoning, browser computerization, and simulation of human navigation behaviour, in this way beating conventional anti-bot defenses and augmenting the reputational risk because of hallucinated or falsely attributed content. This is a proxy based multi-layered proxy called Armos. middleware model which integrates active HTTP header. fingerprinting, behavioral monitor-TLS/JA3 anomaly detection. ing, honeypot-based deception, and machine learning-based deception. driven classification. Working as a mediating inspection. layer, Armos will allow detecting in real time and counter-adaptively. termeasures on malicious traffic by blocking, throttling, or premeditated fraudulent reaction. We perform an experimental assessment of its efficacy: alone, the use of static fingerprinting produced Accuracy on known bot and LLM client signatures is 97.8 percent and the behavioral and honeypot systems detected 91 percent of the. activities of adaptive LLM scrapers out of their inelastic and low-variance. timing patterns, such as 0.9 sec mean request interviewe. compared to 7.8 sec by humans. The final XGBoost incumbent. generated 96.5 % validation accuracy whose characteristics in Header. Assumptions of entropy, JA3 Mismatch and Behavioral Anomaly Score. greater than 70 percent of predictive value. These findings verify that Armos should provide a stalwart defense and at the same time retain fair authentication of authorized access, and its intrinsic feedback of learning loop will also ensure flexibility to varying scraping techniques and improve the safety of the digital journalism content within the times of generative AI. © 2026 IEEE.
+KW  - Behavioral analysis
+KW  - Bot detection
+KW  - Digital content protection
+KW  - Large language models (LLM)
+KW  - Web application security
+KW  - Web scraping
+KW  - Anomaly detection
+KW  - Behavioral research
+KW  - Bot (Internet)
+KW  - Botnet
+KW  - Computational linguistics
+KW  - HTTP
+KW  - Learning systems
+KW  - Middleware
+KW  - Network security
+KW  - Behavioral analysis
+KW  - Bot detections
+KW  - Digital content protection
+KW  - Honeypots
+KW  - Language model
+KW  - Large language model
+KW  - Security Architecture
+KW  - WEB application
+KW  - Web application security
+KW  - Web scrapings
+KW  - Tools
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-105040803342
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Haar, L.V.
+AU  - Reynolds, S.
+AU  - Procko, T.
+AU  - Ochoa, O.
+TI  - Validating Security Requirement Specifications through the use of a Knowledge Graph
+PY  - 2023
+T2  - Proceedings - 17th IEEE International Conference on Semantic Computing, ICSC 2023
+SP  - 244
+EP  - 251
+DO  - 10.1109/ICSC56153.2023.00048
+UR  - https://www.scopus.com/pages/publications/85151556925?origin=resultslist
+AB  - Turning a customer's product vision into implementable requirement specifications is notoriously difficult and time-consuming. Beyond that, security is an aspect of requirement specifications that is frequently underdeveloped. If developers had access to an automated system that could validate requirement specifications based on known loopholes and external expertise, the likelihood of injecting a security vulnerability into a software product would decrease. As depicted in this paper, the automated system takes a Software Requirement Specification (SRS) document as input. The system then potentially validates that all related security topics and vulnerabilities are covered within the security requirement specifications. Entity linking is used to parse the SRS to form queries for a security concepts and vulnerabilities knowledge graph. The query result can provide developers with areas of security to be considered as updates to the SRS and to help during the software design stage to improve the system's security.  © 2023 IEEE.
+KW  - Entity Linking
+KW  - Knowledge Graphs
+KW  - Requirement Specifications
+KW  - Requirements Validation
+KW  - Software Security
+KW  - Automation
+KW  - Requirements engineering
+KW  - Software design
+KW  - Automated systems
+KW  - Customer products
+KW  - Entity linking
+KW  - Knowledge graphs
+KW  - Product vision
+KW  - Requirements specifications
+KW  - Requirements validation
+KW  - Security requirement specifications
+KW  - Software requirements specifications
+KW  - Software security
+KW  - Knowledge graph
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85151556925
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 2
+ER  -
+

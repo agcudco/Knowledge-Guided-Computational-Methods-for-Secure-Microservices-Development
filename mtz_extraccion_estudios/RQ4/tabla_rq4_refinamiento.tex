@@ -1,0 +1,30 @@
+\begin{table}[H]
+\caption{Mecanismos de refinamiento identificados en los estudios que responden a RQ4.\label{tab:rq4-refinamiento}}
+%\isPreprints{\centering}{%
+\begin{adjustwidth}{-\extralength}{0cm}
+%}
+%\isPreprints{\begin{tabularx}{\textwidth}{CCCC}}{%
+\begin{tabularx}{\fulllength}{p{0.25\fulllength} p{0.30\fulllength} X p{0.06\fulllength}}
+%}
+\toprule
+\textbf{Mecanismo de refinamiento} & \textbf{Descripción} & \textbf{Estudios designados} & \textbf{Total} \\
+\midrule
+
+Corrección o reparación posterior a la verificación & Los errores, inconsistencias, smells o violaciones detectadas activan modificaciones sobre el artefacto. & \cite{Sabaliauskaite2026,MarianPasca2025,Jung2023,Salem2026,Gstur2024,Bacchiega2024} & 6 \\
+
+Regeneración o reintento automático & Una salida que no satisface la verificación se vuelve a generar, reparar o evaluar. & \cite{MarianPasca2025,Salem2026} & 2 \\
+
+Refinamiento iterativo en bucle cerrado & El ciclo generar/evaluar/corregir se repite utilizando los resultados de la iteración anterior. & \cite{Sabaliauskaite2026,MarianPasca2025,Jung2023,Salem2026,William2025,Gstur2024,Bacchiega2024,Yamsani2026} & 8 \\
+
+Human-in-the-loop & Expertos o desarrolladores validan resultados y sus decisiones modifican requisitos o refactorizaciones. & \cite{Jung2023,Bacchiega2024} & 2 \\
+
+Feedback de verificación hacia la arquitectura o configuración & Los resultados de verificación o rendimiento modifican el modelo, refactoring o configuración arquitectónica. & \cite{Salem2026,William2025,Gstur2024,Bacchiega2024} & 4 \\
+
+Refinamiento adaptativo del conocimiento o recuperación & La relevancia de la consulta o la utilidad del contexto ajustan dinámicamente el conocimiento recuperado. & \cite{Guan2024,Jin2025} & 2 \\
+
+\bottomrule
+\end{tabularx}
+%\isPreprints{}{%
+\end{adjustwidth}
+%}
+\end{table}

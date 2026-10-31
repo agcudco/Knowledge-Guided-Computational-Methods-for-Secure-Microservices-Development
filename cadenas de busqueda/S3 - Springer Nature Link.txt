@@ -1,0 +1,23 @@
+(
+  "software architecture"
+  OR "architectural design"
+  OR "architectural model"
+  OR "microservice architecture"
+)
+AND
+(
+  "architecture generation"
+  OR "architectural synthesis"
+  OR "architecture verification"
+  OR "architecture validation"
+  OR "architecture conformance"
+  OR "architecture refinement"
+)
+AND
+(
+  "knowledge-guided"
+  OR "knowledge-informed"
+  OR "knowledge-based"
+  OR "knowledge graph"
+  OR "semantic reasoning"
+)

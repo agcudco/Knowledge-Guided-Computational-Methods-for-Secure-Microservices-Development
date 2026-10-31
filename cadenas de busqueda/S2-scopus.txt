@@ -1,0 +1,16 @@
+TITLE-ABS-KEY(
+  (
+    "architectural security"
+    OR "security architecture"
+    OR "security by design"
+    OR "secure by design"
+    OR "security requirements"
+  )
+  AND
+  (
+    "knowledge graph"
+    OR "semantic reasoning"
+    OR "knowledge-guided"
+    OR "knowledge-informed"
+  )
+)

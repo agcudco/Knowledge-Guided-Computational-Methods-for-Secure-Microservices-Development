@@ -1,0 +1,714 @@
+﻿TY  - JOUR
+AU  - Zhu, BB
+AU  - Zhou, YZ
+AU  - Niu, LJ
+AU  - Yu, XH
+AU  - Wang, ZZ
+AU  - Guo, YJ
+AU  - Zhang, YQ
+TI  - Design and implementation of an intelligent mineral prospecting system integrating large language models: GoldMiner-AI
+T2  - JOURNAL OF GEOCHEMICAL EXPLORATION
+AB  - Intelligent mineral exploration is still constrained by fragmented data sources, disconnected analytical workflows, weak knowledge organization, and limited system-level traceability and reproducibility. To overcome these limitations, we present GoldMiner-AI, an end-to-end intelligent system engineered for mineral exploration tasks. The system leverages a RuoYi-Cloud-Plus microservice architecture and a collaborative multi-database framework (PostGIS, Neo4j, Milvus, MySQL) to unify the management of multi-source, heterogeneous geoscientific data spanning geological maps, geochemical and geophysical surveys, drilling logs, field observations, and textual reports. Its intelligent core integrates two key components: the K-means-Association Rule Graph (KAR-Graph) anomaly identification framework and the deep learning model for multi-source feature fusion. Coupled with a mineral-systems knowledge graph and retrieval-augmented generation (RAG), this architecture supports a domain-tailored large language model (LLM). This design establishes a closed-loop intelligent workflow that integrates anomaly detection, target delineation, knowledge-aided reasoning, and interactive Q&A. Validation experiments in representative ore districts (Youjiang Basin and southern Qin-Hang metallogenic belt) demonstrate that: (1) It effectively identifies Carlin-type gold-related Au-As-Sb-Hg anomalous assemblages and extracts diagnostic geochemical fingerprints of ore-forming processes; (2) Through multi-source data fusion, it accurately predicts the spatial distribution of Pb-Zn mineralization zones; and (3) The domain-specific LLM mitigates the "hallucination" common in general-purpose models, significantly improving the accuracy of geoscientific knowledge retrieval and Q&A. Collectively, GoldMiner-AI provides a reproducible, scalable, and production-ready platform that advances mineral exploration toward fully intelligent and systematic workflows.
+SN  - 0375-6742
+SN  - 1879-1689
+DA  - DEC
+PY  - 2026
+VL  - 291
+C7  - 108205
+DO  - 10.1016/j.gexplo.2026.108205
+C6  - AUG 2026
+AN  - WOS:001863841600001
+ER  -
+
+TY  - JOUR
+AU  - Almutairy, F
+TI  - Retrieval-Augmented Floor Plan Generation with Pre-Trained Text-to-Image Models: A Saudi Building Code Study
+T2  - ELECTRONICS
+AB  - Floor plan design normally depends on architectural training or CAD software, a barrier for homeowners, students, and small practices alike. The author asks a narrower question: can a general-purpose, pre-trained text-to-image model draw a usable floor plan straight from a written brief, and can a building code be folded into that process? To find out, four models, Gemini, DALL-E, DeepAI, and Stable Diffusion, were put through tests using ten descriptions of villas and apartment buildings. Relevant Saudi Building Code (SBC) clauses, covering minimum room sizes, corridor widths, accessibility, and fire-safety provisions, were retrieved and written into each prompt before generation, and the outputs were assessed quantitatively by accuracy and latency, with SBC compliance and realism recorded only as qualitative observations. Gemini was the fastest by a wide margin, averaging 8.3 s per plan against 40.5 for Stable Diffusion, the slowest, and it also scored highest for accuracy; that ordering is not established here, however, because the models were not scored by a common judge, and each description was generated only once. DALL-E drew the most realistic images but was slower and looser on detail. One limitation cut across all four: none reported room dimensions reliably, so compliance can be verified only in part from the image. A case is presented in which Gemini printed area labels directly on the image, yet a pixel-level measurement shows the room with the smallest printed area drawn as the largest of the three, an internal inconsistency that needs no external ground truth to demonstrate and that exposes the core limitation of current text-to-image decoders. On the strength of these results, the best model, Gemini, was built into a Django web application that turns a typed description into a viewable plan. The system is offered as an early-stage drafting assistant, not a code-verified architectural design tool. The study sets out plainly what off-the-shelf models and prompt-level guidance deliver without fine-tuning, and where they still fall short of professional, code-verified design.
+SN  - 2079-9292
+DA  - AUG 24
+PY  - 2026
+VL  - 15
+IS  - 17
+C7  - 3778
+DO  - 10.3390/electronics15173778
+C6  - AUG 2026
+AN  - WOS:001872863800001
+ER  -
+
+TY  - JOUR
+AU  - Kaur, M
+TI  - Medical image captioning: A systematic review of methods, evaluation, trustworthiness, and clinical translation
+T2  - COMPUTER SCIENCE REVIEW
+AB  - Medical image captioning (MIC) aims to generate clinically meaningful reports from medical images by inte grating visual understanding with natural language generation. Despite rapid methodological progress from encoder-decoder and transformer-based models to knowledge-guided, vision-language pretrained, and recent large multimodal model (LMM)-driven approaches, improvements in benchmark performance have not trans lated into clinically reliable and trustworthy systems. This paper presents a PRISMA-guided systematic review of MIC research published from 2015 to 2025, with primary emphasis on advances reported since 2020. The liter ature is synthesized across six complementary dimensions: architectural design, learning paradigm, knowledge integration, modality and clinical domain, output structure, and evaluation and clinical translation. The review shows that modern models improve report fluency, multimodal alignment, and generative flexibility, but they remain limited by weak visual grounding, susceptibility to hallucination, heavy reliance on lexical evaluation metrics that poorly reflect diagnostic correctness, and strong concentration on chest radiography with limited generalization across modalities and institutions. Explainability, uncertainty estimation, and human-centered validation are increasingly recognized as essential requirements, yet they are still reported inconsistently across the literature. Furthermore, most published evidence remains retrospective and single-site, leaving a substantial gap between benchmark performance and deployment readiness. Future progress in MIC will depend on clinically grounded evaluation, explicit visual-textual evidence alignment, uncertainty-aware reasoning, broader cross-site validation, and human-centered deployment frameworks that support assisted rather than autonomous clinical reporting.
+SN  - 1574-0137
+SN  - 1876-7745
+DA  - NOV
+PY  - 2026
+VL  - 62
+C7  - 101033
+DO  - 10.1016/j.cosrev.2026.101033
+C6  - JUL 2026
+AN  - WOS:001821719600001
+ER  -
+
+TY  - JOUR
+AU  - Masri, Y
+AU  - Ma, EMY
+AU  - Wang, ZF
+AU  - Rogers, J
+AU  - Yang, CW
+TI  - Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification
+T2  - COMPUTERS
+AB  - System logs are essential for monitoring and diagnosing modern computing infrastructure; however, their scale and complexity require reliable automated interpretation. Although severity levels are predefined metadata, treating classification as an end task provides limited insight into a model's ability to understand logs. Instead, severity classification can serve as a benchmark for probing runtime log comprehension. Using real-world journalctl data from Linux production servers, this study evaluates nine small language models (SLMs) and small reasoning language models (SRLMs) under zero-shot, few-shot, and retrieval-augmented generation (RAG) prompting. The results reveal clear performance stratification. Qwen3-4B achieves the highest accuracy (95.6%) with RAG, while Gemma3-1B improves substantially from 20.25% to 85.28%, and Qwen3-0.6B reaches 88.12% despite weak baseline performance. In contrast, several SRLMs exhibit performance degradation when paired with RAG. Efficiency further differentiates the models. Most Gemma and Llama variants complete inference in under 1.2 s per log, whereas Phi-4-Mini-Reasoning requires more than 228 s while achieving less than 10% accuracy. These findings indicate that architectural design, training objectives, and the ability to integrate retrieved context jointly determine performance. Overall, the results support severity classification as a practical lens for evaluating model competence and real-time deployability in digital twin systems.
+SN  - 2073-431X
+DA  - JUL 7
+PY  - 2026
+VL  - 15
+IS  - 7
+C7  - 430
+DO  - 10.3390/computers15070430
+C6  - JUL 2026
+AN  - WOS:001831552900001
+ER  -
+
+TY  - JOUR
+AU  - Shichkina, Y
+AU  - Stepanov, AP
+TI  - Generating Personalized MRI Reports from Key Phrases with Multiple LLM Agents and RAG Technique
+T2  - JOURNAL OF ADVANCED COMPUTATIONAL INTELLIGENCE AND INTELLIGENT INFORMATICS
+AB  - In the paper, the novel method for generating personalized magnetic resonance imaging (MRI) reports based on key phrases is introduced. In order to demonstrate the method, an application with multiple large language model (LLM) agents was written. For establishing connection between different agents, graph-based software architecture was used. The graph consists of the following nodes. (1) The data retriever node. In this node relevant reports along with the metadata are obtained from the vector database. (2) The findings generation node. This node includes an implementation of two different variations of an MRI report's findings section generation method. The first is based on merging already existed findings parts of radiology reports that were retrieved by key phrases into the new one. The second is based on reconstructing findings section so that it contains specific paragraphs retrieved by key phrases from the vector store. (3) The impression generation node. This node implements summarization of a findings section into an impression. The performance of a findings part generation was evaluated with BLEU, ROUGE and BERTScore metrics. Experiments have shown promising results in generation of findings parts: for the first approach mean ROUGE-L score was about 0.5, BERTScore was around 0.8, for the second approach mean ROUGE-L score was approximately 0.6, BERTScore was roughly 0.9. The first approach was around three times slower than the second. During the experiments, the dataset of 908 reports gathered from seven radiologists was used. Qualitative analysis was performed with five-point Likert scale questionary and statistically analyzed by means of Mann-Whitney U test.
+SN  - 1343-0130
+SN  - 1883-8014
+DA  - JUL
+PY  - 2026
+VL  - 30
+IS  - 4
+SP  - 1279
+EP  - 1290
+DO  - 10.20965/jaciii.2026.p1279
+AN  - WOS:001827716400029
+ER  -
+
+TY  - JOUR
+AU  - Zha, Y
+AU  - Li, YK
+AU  - Wang, YY
+TI  - Hospital architectural spatial knowledge graph: Incremental development and scenario-based applications enabled by generative AI and building information modeling
+T2  - ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+AB  - Hospital architectural design requires integrating heterogeneous information under complex and evolving regulatory constraints, yet conventional experience-driven workflows remain time-consuming and difficult to trace. This study develops a hospital architectural spatial knowledge graph (AS-KG) framework for the structured organization, controlled updating, retrieval, and application of hospital design-code knowledge. Grounded in authoritative hospital regulations, the framework integrates corpus development, information extraction, graph construction, controlled knowledge updating, knowledge-enhanced question answering, and building information modeling (BIM)-assisted compliance checking. On an independent held-out set, the incremental expansion workflow improved triple precision from 75.00% at the raw extraction stage to 98.21%. In the questionanswering benchmark, the full knowledge graph (KG)-enhanced setting correctly covered 263 of 283 key points (92.9%), outperforming both the implemented text-based RAG baseline and general large language model (LLM)-only baseline. In a selected outpatient-floor BIM case, the module achieved an agreement rate of 92.8% among the checked rule instances. Together, these results demonstrate the feasibility and practical value of a hospital-oriented knowledge engineering workflow for structured regulatory knowledge organization, evidencegrounded retrieval, and case-based design review.
+SN  - 0952-1976
+SN  - 1873-6769
+DA  - OCT 1
+PY  - 2026
+VL  - 181
+C7  - 115476
+DO  - 10.1016/j.engappai.2026.115476
+C6  - JUN 2026
+AN  - WOS:001805987900001
+ER  -
+
+TY  - JOUR
+AU  - Arman, M
+AU  - Kabir, MF
+AU  - Alamgir, FM
+AU  - Aklima, K
+AU  - Kasedullah, M
+AU  - Kabir, E
+AU  - Akand, AR
+AU  - Al Imtihan, A
+AU  - Sánchez, MAR
+TI  - Forecasting the Evolution of Scientific Knowledge: A Dynamic Knowledge Graph Approach Integrating Temporal Embeddings and Large Language Models
+T2  - MACHINE LEARNING
+AB  - The exponential proliferation of scientific literature presents formidable impediments to comprehensive understanding and strategic anticipation of future research trajectories across diverse domains. While extant computational methodologies, including bibliometrics and static topic modeling, facilitate the analysis of prevailing trends and thematic structures, the rigorous forecasting of the complex structural evolution inherent in the diachronic development of scientific knowledge remains a largely unresolved challenge. Addressing this lacuna, we introduce DynSciGraph, a computational framework engineered to harness the semantic interpretation capabilities of Large Language Models (LLMs) for the high-fidelity extraction of fine-grained conceptual entities and semantic relations from extensive corpora of scholarly publications. The framework subsequently leverages Temporal Graph Neural Networks (TGNNs) to model the non-linear dynamics intrinsic to time-evolving, domain-specific knowledge graphs (KGs), coupled with sequence models for multi-horizon predictive tasks. A distinctive architectural feature of DynSciGraph is its capacity to integrate heterogeneous external signals encompassing bibliometric indicators, research funding allocation patterns, and patenting activities, thereby augmenting the contextual richness of its forecasts. The evidence reported in this manuscript is exclusively simulation-based and does not yet demonstrate real-world forecasting performance. We present a detailed exposition of the architectural design and report proof-of-concept simulation results on synthetic corpora parameterized to reflect characteristics of Materials Science and Artificial Intelligence domains. All reported quantitative outcomes derive from a controlled simulation environment whose generative process is fully specified in Sect. 4.1; no measurements on real longitudinal scientific corpora are reported, and comprehensive empirical validation on real data constitutes ongoing and future work. Within this simulation, the full DynSciGraph configuration achieves higher mean AUC for link prediction (up to 0.86), higher Hit Rate@50 for emergent-entity identification, and higher Spearman rank correlation for hotspot prediction than the implemented baselines; because the simulation's generative process embeds the same inductive biases the architecture is designed to exploit, these orderings reflect properties of the generative process and should not be interpreted as evidence of real-world superiority. This investigation delineates a computationally grounded paradigm for scientific foresight that, pending empirical validation, holds promise for proactive identification of latent research lacunae, discovery of synergistic interdisciplinary connections, and more strategic planning of scientific inquiry.
+SN  - 0885-6125
+SN  - 1573-0565
+DA  - JUN 15
+PY  - 2026
+VL  - 115
+IS  - 6
+C7  - 148
+DO  - 10.1007/s10994-026-07095-x
+C6  - JUN 2026
+AN  - WOS:001793353100001
+ER  -
+
+TY  - JOUR
+AU  - Zhang, YK
+AU  - Wang, GS
+AU  - Xu, P
+TI  - Sketch-to-Energy model automation with multimodal LLMs and retrieval-augmented generation
+T2  - ENERGY AND BUILDINGS
+AB  - Building Energy Modeling (BEM) is critical for improving building energy efficiency. However, modeling in the early architectural design stages is often hindered by challenges such as extracting geometric information from sketches and configuring complex parameters. To address these challenges and enable efficient energy analysis in the early design phases, we propose an automated BEM method. Users only need to provide preliminary architectural floor plan sketches and modeling requirements in natural language, after which our method can automatically generate complete simulation models. The proposed method features two major innovations. First, we leverage multimodal large language models (multimodal LLMs) and computer vision techniques to generate structured 3D building geometry from hand-drawn sketches. The multimodal LLM denoises errors in sketches and extracts room functions and dimensions, while computer vision methods generate wall and window coordinates. Second, we employ a retrieval-augmented generation (RAG) technique to retrieve similar cases within the same ASHRAE climate zone from an EnergyPlus model database. The BEM parameters of these similar cases are used as prompts to guide the LLM in generating thermal parameters and operational schedules that align with real-world scenarios. The effectiveness of the method was validated through four test cases with diverse morphologies across three ASHRAE climate zones. Quantitative results demonstrate robust geometric reconstruction capabilities, achieving a mean wall length error of 0.05 m and a room function classification accuracy of 91.2%. The thermal and operational parameters generated are empirically grounded, resulting in simulation models that exhibit high consistency with expert-built benchmarks (average R-2 > 0.995 for annual hourly loads). The average total modeling time was 8 min. Overall, the method provides an automated bridge between early architectural design and energy performance simulation in the demonstrated cases, enabling rapid conversion of conceptual sketches into executable models while supporting data-driven design optimization through customizable parameter retrieval weights.
+SN  - 0378-7788
+SN  - 1872-6178
+DA  - JUN 1
+PY  - 2026
+VL  - 360
+C7  - 117387
+DO  - 10.1016/j.enbuild.2026.117387
+AN  - WOS:001737431100001
+ER  -
+
+TY  - JOUR
+AU  - Hadjichristofi, C
+AU  - Tsilimigkounakis, M
+AU  - Sotiropoulos, G
+AU  - Vescoukis, V
+TI  - An Empirical Evaluation of Large Language Models Applying Software Architectural Patterns
+T2  - AI
+AB  - Beyond code generation, large language models (LLMs) are increasingly explored in software architectural tasks. However, it remains unclear to what extent LLMs can apply explicitly requested architectural patterns when provided with user-defined requirements. In this paper, we empirically evaluate the ability of multiple LLMs to generate specific architectural styles under controlled conditions. Models are prompted with specific requirements expressed in different ways and are instructed to generate architectures in four typical styles using the same single prompt and execution strategy. The authors assess the generated architectures with respect to specific evaluation criteria. The results show that, while LLMs can correctly apply simpler architectural patterns, performance decreases as architectural complexity and problem size increase. Model size and requirement representation appear to influence pattern adherence, whereas retrieval-augmented generation (RAG) produces mixed effects. The findings contribute empirical evidence regarding prompting strategies, requirement representations, RAG configurations, and diagram-as-code (DaC) representations for LLM-generated software architectures. The study also introduces a reusable experimental workflow intended to support future benchmarking and comparative evaluation in software architecture generation tasks.
+SN  - 2673-2688
+DA  - MAY 27
+PY  - 2026
+VL  - 7
+IS  - 6
+C7  - 195
+DO  - 10.3390/ai7060195
+C6  - MAY 2026
+AN  - WOS:001801698200001
+ER  -
+
+TY  - JOUR
+AU  - Avila, CF
+AU  - Tapia, EDR
+TI  - Conceptualising RAG-Driven Agentic AI with Multi-Layer MCP for Seismic Structural Systems
+T2  - BUILDINGS
+AB  - The integration of Generative AI into civil engineering is currently constrained by the risk of non-compliant outputs and an inherent lack of physics-based knowledge. To address these limitations, this paper presents a conceptual framework for the integration of Agentic Artificial Intelligence (AI) into the complete lifecycle of seismic-resistant structural engineering. The proposal employs a modular software architecture built on the Model Context Protocol (MCP), enabling distributed collaboration among specialised AI agents. We operationalise this architecture across six critical stages, where specific agents govern distinct phases: (1) Seismic Hazard and (2) Structural Modelling agents quantify demands through deterministic tool execution; the (3) Design agent optimises element sizing under the strict governance of Retrieval-Augmented Generation (RAG) for code compliance; (4) Construction Quality Control and (5) Structural Health Monitoring (SHM) agents validate as-built geometry and service-life performance; and an overarching (6) Ethical Audit agent supervises the ecosystem to ensure safety and algorithmic transparency. By decoupling probabilistic design iteration from immutable numerical execution, this framework ensures that generative outputs are traceable, transparent, and professionally accountable, offering a verified pathway for the deployment of AI systems in structural engineering.
+SN  - 2075-5309
+DA  - MAR 5
+PY  - 2026
+VL  - 16
+IS  - 5
+C7  - 1018
+DO  - 10.3390/buildings16051018
+AN  - WOS:001713733800001
+ER  -
+
+TY  - JOUR
+AU  - He, Q
+AU  - Zhu, L
+AU  - Li, G
+AU  - You, ZP
+AU  - Yuan, L
+AU  - Jia, F
+TI  - Research on Collaborative Reasoning Framework and Algorithms of Cloud-Edge Large Models for Intelligent Auxiliary Diagnosis Systems
+T2  - JOURNAL OF ELECTRONICS & INFORMATION TECHNOLOGY
+AB  - Objective The deployment of Large Language Models (LLMs) in intelligent auxiliary diagnosis is constrained by limited computing resources for local hospital deployment and by privacy risks related to the transmission and storage of medical data in cloud environments. Low-parameter local LLMs show 20%similar to 30% lower accuracy in medical knowledge question answering and 15%similar to 25% reduced medical knowledge coverage compared with full-parameter cloud LLMs, whereas cloud-based systems face inherent data security concerns. To address these issues, a cloud-edge LLM collaborative reasoning framework and related algorithms are proposed for intelligent auxiliary diagnosis systems. The objective is to design a cloud-edge collaborative reasoning agent equipped with intelligent routing and dynamic semantic desensitization to enable adaptive task allocation between the edge (hospital side) and cloud (regional cloud). The framework is intended to achieve a balanced result across diagnostic accuracy, data privacy protection, and resource use efficiency, providing a practical technical path for the development of medical artificial intelligence systems.
+   Methods The proposed framework adopts a layered architectural design composed of a four-tier progressive architecture on the edge side and a four-tier service-oriented architecture on the cloud side (Fig. 1). The edge side consists of resource, data, model, and application layers, with the model layer hosting lightweight medical LLMs and the cloud-edge collaborative agent. The cloud side comprises AI IaaS, AI PaaS, AI MaaS, and AI SaaS layers, functioning as a center for computing power and advanced models. The collaborative reasoning process follows a structured workflow (Fig. 2), beginning with user input parsed by the agent to extract key clinical features, followed by reasoning node decision-making. Two core technologies support the agent: (1) Intelligent routing: This mechanism defaults to edge-side processing and dynamically selects the reasoning path (edge or cloud) through a dual-driven weight update strategy. It integrates semantic feature similarity computed through Chinese word segmentation and pre-trained medical language models and incorporates historical decision data, with an exponential moving average used to update feature libraries for adaptive optimization. (2) Dynamic semantic desensitization: Employing a three-stage architecture (sensitive entity recognition, semantic correlation analysis, and hierarchical desensitization decision-making), this technology identifies sensitive entities through a domain-enhanced Named Entity Recognition (NER) model, calculates entity sensitivity and desensitization priority, and applies a semantic similarity constraint to prevent excessive desensitization. Three desensitization strategies (complete deletion, general replacement, partial masking) are used based on entity sensitivity. Experimental validation is conducted with two open-source Chinese medical knowledge graphs (CMeKG and CPubMedKG) containing more than 2.7 million medical entities. The experimental environment (Fig. 3) deploys a qwen3:1.7b model on the edge and the Jiutian LLM on the cloud, with a 5 000-sample evaluation dataset divided into entity-level, relation-level, and subgraph-level questions. Performance is assessed with three metrics: answer accuracy, average token consumption, and average response time.
+   Results and Discussions Experimental results show that the proposed framework achieves strong performance across the main evaluation dimensions. For answer accuracy, the intelligent routing mechanism attains 72.44% on CMeKG (Fig. 4) and 66.20% on CPubMedKG (Fig. 5), which are higher than the edge-side LLM alone (60.73% and 54.18%) and close to the cloud LLM (72.68% and 66.49%). These results indicate that the framework maintains diagnostic consistency with cloud-based systems while taking advantage of edge-side capabilities. For resource use, the intelligent routing model reduces average token consumption to 61.27, representing 45.63% of the cloud LLM's token usage (131.68) (Fig. 6), which supports substantial cost reduction. For response time, the edge-side LLM shows latency greater than 6 s because of limited computing power, whereas the cloud LLM reaches 0.44 s latency through dedicated line access (8% of the 5.46 s latency under internet access). The intelligent routing model produces average latency values between those of the edge and cloud LLMs under both access modes ( Fig. 7), consistent with expected trade-offs. The framework also shows applicability across common medical scenarios (Table 1), including outpatient triage, chronic disease management, medical image analysis, intensive care, and health consultation, by combining local real-time processing with cloud-based deep reasoning. Limitations appear in emergency rescue settings with weak network conditions because of latency constraints and in rare disease diagnosis because of limited edge-side training samples and potential loss of specific features during desensitization. Overall, the results verify that the cloud-edge collaborative reasoning mechanism reduces computing resource overhead while preserving consistency in diagnostic results.
+   Conclusions This study constructs a cloud-edge LLM collaborative reasoning framework for intelligent auxiliary diagnosis systems, addressing the challenges of limited local computing power and cloud data privacy risks. Through the integration of intelligent routing, prompt engineering adaptation, and dynamic semantic desensitization, the framework achieves balanced optimization of diagnostic accuracy, data security, and resource economy. Experimental validation shows that its accuracy is comparable to cloud-only LLMs while resource consumption is substantially reduced, providing a feasible technical path for medical intelligence development. Future work focuses on three directions: intelligent on-demand scheduling of computing and network resources to mitigate latency caused by edge-side computing constraints; collaborative deployment of localized LLMs with Retrieval-Augmented Generation (RAG) to raise edge-side standalone accuracy above 90%; and expansion of diagnostic evaluation indicators to form a three-dimensional scenario-node-indicator system incorporating sensitivity, specificity, and AUC for clinical-oriented assessment.
+SN  - 1009-5896
+DA  - MAR
+PY  - 2026
+VL  - 48
+IS  - 3
+SP  - 1027
+EP  - 1035
+DO  - 10.11999/JEIT250828
+AN  - WOS:001775970600013
+ER  -
+
+TY  - JOUR
+AU  - Gao, WC
+AU  - Wang, HY
+AU  - Yang, HY
+TI  - Temporal Knowledge Graph Reasoning: Completion with Semantic-Structural Fusion and Forecasting with an Interpretable Dual Decoder
+T2  - SYMMETRY-BASEL
+AB  - Temporal knowledge graphs (TKGs) effectively represent dynamic facts by incorporating a temporal dimension, yet they frequently encounter data incompleteness issues that constrain downstream applications. Concurrently, TKG prediction tasks, which enable reasoning about future events, have garnered significant attention. Existing TKG completion methods often neglect semantic information, underexploit event information from subsequent timestamps, and fail to leverage the structural symmetries inherent in temporal data. To address these limitations, this paper proposes a synergistic approach comprising two models: SiSe for completion and DL-CompGCN for prediction. SiSe integrates semantic and structural embeddings by employing entity text descriptions as semantic signals, utilizing symmetric cross-attention for bidirectional feature fusion and leveraging bidirectional gated recurrent units to capture symmetric temporal influences from both past and future events. On ICEWS14, ICEWS05-15, and GDELT completion datasets, the MRR improves by 1.2, 1.4, and 0.8 percentage points, respectively. DL-CompGCN addresses the accuracy-interpretability trade-off in prediction tasks through a time-aware graph convolutional encoder and a dual-decoder framework that combines bilinear scoring with first-order logical rules to generate interpretable paths while preserving the symmetric properties of temporal relations. It achieves state-of-the-art performance on ICEWS14, ICEWS05-15, and ICEWS18 prediction datasets. The proposed models explicitly incorporate symmetric principles in their architectural design; SiSe employs symmetric bidirectional temporal modeling, while DL-CompGCN maintains symmetry in its graph propagation and rule inference mechanisms. The experimental results demonstrate that both models significantly outperform baseline methods, offering a comprehensive solution for temporal knowledge graph reasoning that respects and exploits the symmetric structures inherent in temporal data.
+SN  - 2073-8994
+DA  - FEB 11
+PY  - 2026
+VL  - 18
+IS  - 2
+C7  - 328
+DO  - 10.3390/sym18020328
+AN  - WOS:001701268400001
+ER  -
+
+TY  - JOUR
+AU  - Ji, YX
+AU  - Guan, JJ
+AU  - Liao, HR
+AU  - Shang, JY
+AU  - Sun, YN
+TI  - PlasRAG: comprehensive plasmid characterization and retrieval through sequence-text alignment
+T2  - GENOME BIOLOGY
+AB  - Plasmids play a pivotal role in the emergence of multidrug-resistant and pathogenic bacteria, posing significant clinical challenges. However, the rapidly growing number of unannotated plasmids necessitates comprehensive characterization of their diverse properties. Here, we present PlasRAG, a tool that integrates multi-faceted property characterization of query plasmids and plasmid DNA retrieval based on textual queries. PlasRAG employs a bidirectional multi-modal information retrieval model that aligns DNA sequences with textual data, effectively overcoming the limitations of traditional approaches. Rigorous experiments demonstrate that PlasRAG delivers robust performance and enhanced analytical capabilities, underscoring the effectiveness of its architectural design.
+SN  - 1474-760X
+DA  - FEB 7
+PY  - 2026
+VL  - 27
+IS  - 1
+C7  - 79
+DO  - 10.1186/s13059-026-03966-7
+AN  - WOS:001711102400002
+ER  -
+
+TY  - JOUR
+AU  - Li, DR
+AU  - Shi, YC
+AU  - Schwartz, M
+AU  - Kapadia, M
+TI  - Early-stage architecture design assistance by LLMs and knowledge graphs
+T2  - AUTOMATION IN CONSTRUCTION
+AB  - Early-stage architectural design relies heavily on precedent cases and domain knowledge, yet existing assistance methods struggle with the dominance of visual data and the linguistic diversity of design descriptions. In this paper, a retrieval-augmented generation framework with a custom knowledge graph tailored to architecture is proposed. The approach features: (1) a lightweight graph structure representing design logic; (2) a knowledge extraction pipeline for visual and textual data; and (3) aggregation and question answering methods that consolidate precedent knowledge for design support. Experiments show improved retrieval accuracy, more comprehensive precedent recommendations, and enhanced user experience, advancing precedent-based assistance for early design.
+SN  - 0926-5805
+SN  - 1872-7891
+DA  - FEB
+PY  - 2026
+VL  - 182
+C7  - 106756
+DO  - 10.1016/j.autcon.2025.106756
+C6  - JAN 2026
+AN  - WOS:001664407500001
+ER  -
+
+TY  - JOUR
+AU  - Susanty, M
+AU  - Zola, AR
+TI  - Architecting a Low-Latency RAG System for Fast-Moving Consumer Goods (FMCG) Customer Support: A Case Study in Industrial Software Deployment
+T2  - INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS
+AB  - Deploying large language models (LLMs) in industrial customer support environments require balancing response accuracy with system latency. This study presents the software architecture and implementation of a Retrieval-Augmented Generation (RAG) system designed for the Fast-Moving Consumer Goods (FMCG) sector. Addressing the limitations of generic LLMs in domain-specific knowledge tasks, we engineered a retrieval-augmented inference pipeline that integrates unstructured data ingestion, Pinecone for vector indexing, and Groq-based inference for low-latency response generation. The proposed system aims to improve response grounding by incorporating organizational product information into the generation process while maintaining responsive interaction times suitable for customer support applications. This study details the software architecture, system integration approach, and experimental evaluation of the proposed deployment-oriented RAG framework in an industrial FMCG case-study setting.
+SN  - 2158-107X
+SN  - 2156-5570
+PY  - 2026
+VL  - 17
+IS  - 6
+SP  - 848
+EP  - 855
+AN  - WOS:001853540600001
+ER  -
+
+TY  - JOUR
+AU  - Hoare, C
+AU  - Dowling, D
+AU  - Margaria, T
+TI  - Using Formal Methods to Help Explain Real-Time Operator Support in Metal Additive Manufacturing
+T2  - IT PROFESSIONAL
+AB  - Metal Additive Manufacturing (MAM) offers significant advantages in design flexibility and material efficiency, yet industrial adoption is limited by process instability and the complexity of integrating machine learning. To bridge this gap, the I-Form Centre for Advanced Manufacturing has developed a novel recommender system that represents MAM processes as a real-time knowledge graph. This system leverages formal methods, specifically, logics, to express operator knowledge about a manufacturing process. These rules are used to reason about the state of an in-process knowledge graph and generate actionable operator recommendations. In this way, the system translates complex data-driven insights into the operator's domain vocabulary, ensuring that the logic is both deterministic and trivially explainable. This approach builds operator confidence and removes the need for deep data science expertise.
+SN  - 1520-9202
+SN  - 1941-045X
+DA  - JAN
+PY  - 2026
+VL  - 28
+IS  - 1
+SP  - 93
+EP  - 98
+DO  - 10.1109/MITP.2026.3655853
+AN  - WOS:001698390200011
+ER  -
+
+TY  - JOUR
+AU  - Yan, SR
+AU  - Wang, XJ
+AU  - Liu, NX
+TI  - Knowledge assessment and enhancement pathways for large language model in architectural design
+T2  - JOURNAL OF ASIAN ARCHITECTURE AND BUILDING ENGINEERING
+AB  - The rapid advancement of large language models (LLMs) is creating significant opportunities for integrating artificial intelligence into architectural design. This study evaluates six representative foundation LLMs on their proficiency in architectural knowledge. Results show that LLMs excel in handling basic architectural concepts in pure text form and demonstrate strong single-modality reasoning. In cross-modal tasks, they effectively recognize and reason about concrete architectural images but struggle significantly with abstract diagrammatic symbols - often producing structurally coherent yet occasionally hallucinated responses. Core limitations center on three areas: cross-modal cognition, depth of domain-specific knowledge, and the orchestration of external design tools. To address these gaps, the paper outlines four technical enhancement pathways: prompt engineering, domain-specific model training, retrieval-augmented generation, and multi-agent collaboration, analyzing the applicability, strengths, and constraints of each. Building on this analysis, the study identifies critical challenges in deploying LLMs for real-world design support and proposes future research directions: embedding cross-modal understanding of architectural graphics and abstract concepts, integrating diverse tools into complex workflows, constructing high-quality, architecture-specific datasets, and exploring LLMs' potential for creative reasoning beyond conventional aesthetic norms. This study aims to support future research on large language models for architectural design.
+SN  - 1346-7581
+SN  - 1347-2852
+DA  - 2025 DEC 27
+PY  - 2025
+DO  - 10.1080/13467581.2025.2605783
+C6  - DEC 2025
+AN  - WOS:001648051600001
+ER  -
+
+TY  - JOUR
+AU  - Otalora, JDM
+AU  - Shen, J
+AU  - Celis, APR
+TI  - Knowledge graph-enhanced pattern language for biodiversity integration in architectural education
+T2  - HUMANITIES & SOCIAL SCIENCES COMMUNICATIONS
+AB  - Urban biodiversity loss and rapid urbanization pose significant challenges to architectural education, highlighting a gap in integrating ecological knowledge into design practices. This study develops and validates the Knowledge graph for pattern language in urban biodiversity, an educational framework that combines pattern language theory, knowledge graphs, and large language models to enhance ecological integration in architectural teaching. A five-phase mixed-methods approach is employed: first, a systematic literature review; second, the development of design patterns inspired by Christopher Alexander; third, the creation of an ontology and the construction of a knowledge graph, integrated with a language model to generate design recommendations tailored to urban biodiversity contexts; fourth, validation through participatory workshops with students; and fifth, expert evaluations that confirmed the framework's effectiveness in incorporating biodiversity criteria into architectural design. Although results are currently limited to academic environments, the framework offers a scalable approach to AI-assisted architectural education.
+SN  - 2662-9992
+DA  - NOV 18
+PY  - 2025
+VL  - 12
+IS  - 1
+C7  - 1762
+DO  - 10.1057/s41599-025-06070-6
+AN  - WOS:001617373000002
+ER  -
+
+TY  - JOUR
+AU  - Zhou, Q
+AU  - Madala, NS
+AU  - Huang, C
+TI  - Pathway-guided architectures for interpretable AI in biological research
+T2  - COMPUTATIONAL AND STRUCTURAL BIOTECHNOLOGY JOURNAL
+AB  - Understanding the dysregulation of complex biological pathways is essential for uncovering molecular mechanisms and identifying novel therapeutic opportunities for complex diseases. In recent years, deep learning (DL) models have shown great potential in modeling biological multi-omics data; however, their "black box" nature limits their application in biological and clinical translation. Knowledge-guided deep learning, particularly methods based on Pathway-Guided Interpretable Deep Learning Architectures (PGI-DLA), aims to improve model performance and interpretability by integrating prior pathway knowledge into the model structure. Here, we review the current progress in PGI-DLA, focusing on omics compatibility, architectural design, feature interpretation, and biological and clinical applications. For widely used pathway databases, such as the Kyoto Encyclopedia of Genes and Genomes (KEGG), Gene Ontology (GO), Reactome, and MSigDB, we summarize their differences in knowledge scope, hierarchical structure, level of detail and curation focus. We discuss how the choice of database impacts model design, performance, and interpretability. This review provides valuable guidance for selecting and optimizing pathway databases to implement PGI-DLA to translate omics data into actionable biological and clinical insights.
+SN  - 2001-0370
+PY  - 2025
+VL  - 27
+SP  - 4779
+EP  - 4791
+DO  - 10.1016/j.csbj.2025.10.063
+C6  - NOV 2025
+AN  - WOS:001613851300001
+ER  -
+
+TY  - JOUR
+AU  - Ruehle, B
+TI  - Natural language processing for automated workflow and knowledge graph generation in self-driving labs
+T2  - DIGITAL DISCOVERY
+AB  - Natural language processing with the help of large language models such as ChatGPT has become ubiquitous in many software applications and allows users to interact even with complex hardware or software in an intuitive way. The recent concepts of Self-Driving Labs and Material Acceleration Platforms stand to benefit greatly from making them more accessible to a broader scientific community through enhanced user-friendliness or even completely automated ways of generating experimental workflows that can be run on the complex hardware of the platform from user input or previously published procedures. Here, two new datasets with over 1.5 million experimental procedures and their (semi)automatic annotations as action graphs, i.e., structured output, were created and used for training two different transformer-based large language models. These models strike a balance between performance, generality, and fitness for purpose and can be hosted and run on standard consumer-grade hardware. Furthermore, the generation of node graphs from these action graphs as a user-friendly and intuitive way of visualizing and modifying synthesis workflows that can be run on the hardware of a Self-Driving Lab or Material Acceleration Platform is explored. Lastly, it is discussed how knowledge graphs - following an ontology imposed by the underlying node setup and software architecture - can be generated from the node graphs. All resources, including the datasets, the fully trained large language models, the node editor, and scripts for querying and visualizing the knowledge graphs are made publicly available.
+SN  - 2635-098X
+DA  - JUN 11
+PY  - 2025
+VL  - 4
+IS  - 6
+SP  - 1534
+EP  - 1543
+DO  - 10.1039/d5dd00063g
+C6  - MAY 2025
+AN  - WOS:001487408000001
+ER  -
+
+TY  - JOUR
+AU  - Meddeb, A
+AU  - Ben Romdhane, L
+TI  - Single and multi-graph orchestration in recommendation systems: A systematic literature review
+T2  - ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE
+AB  - The rise of Web 2.0 has led to the creation and sharing of vast amounts of content through social media and collaborative platforms, resulting in an overwhelming amount of online data. This abundance of information has made it difficult for users to find relevant content. Recommendation systems (RS) address this challenge by suggesting content that aligns with users' preferences and behaviors, enhancing user experience and boosting engagement. To effectively learn user preferences and provide personalized recommendations, it is essential to capture the underlying relationships within the data. Knowledge graph (KG)-based methods provide promising solutions by capturing semantic relationships and contextual information between entities such as users and items. This paper presents a systematic literature review (SLR) of knowledge graph-based recommender systems (KG-based RS). We introduce a novel classification framework for KG-based RS models based on their architectural design, distinguishing between single-graph and multi-graph-based architectures, which are further divided into sub-categories. We also explore the application of these models across various domains and discuss the key challenges and future research directions in the field.
+SN  - 0952-1976
+SN  - 1873-6769
+DA  - FEB 15
+PY  - 2026
+VL  - 166
+C7  - 113668
+DO  - 10.1016/j.engappai.2025.113668
+C6  - JAN 2025
+AN  - WOS:001655506900001
+ER  -
+
+TY  - JOUR
+AU  - Esposito, M
+AU  - Li, XZ
+AU  - Moreschini, S
+AU  - Ahmad, N
+AU  - Cerny, T
+AU  - Vaidhyanathan, K
+AU  - Lenarduzzi, V
+AU  - Taibi, D
+TI  - Generative AI for software architecture. Applications, challenges, and future directions☆
+T2  - JOURNAL OF SYSTEMS AND SOFTWARE
+AB  - Context: Generative Artificial Intelligence (GenAI) is transforming much of software development, yet its application in software architecture is still in its infancy. Aim: Systematically synthesize the use, rationale, contexts, usability, and challenges of GenAI in software architecture. Method: Multivocal literature review (MLR), analyzing peer-reviewed and gray literature, identifying current practices, models, adoption contexts, reported challenges, and extracting themes via open coding. Results: This review identifies a significant adoption of GenAI for architectural decision support and architectural reconstruction. OpenAI GPT models are predominantly applied, and there is consistent use of techniques such as few-shot prompting and retrieval-augmented generation (RAG). GenAI has been applied mostly to the initial stages of the Software Architecture Life Cycle (SALC), such as Requirements-to-Architecture and Architecture-to-Code. Monolithic and microservice architectures were the main targets. However, rigorous testing of GenAI outputs was typically missing from the studies. Among the most frequent challenges are model precision, hallucinations, ethical aspects, privacy issues, lack of architecture-specific datasets, and the absence of sound evaluation frameworks. Conclusions: GenAI shows significant potential in software design, but there are several challenges on its way towards greater adoption. Research efforts should target designing general evaluation methodologies, handling ethics and precision, increasing transparency and explainability, and promoting architecture-specific datasets and benchmarks to overcome the gap between theoretical possibility and practical use.
+SN  - 0164-1212
+SN  - 1873-1228
+DA  - JAN
+PY  - 2026
+VL  - 231
+C7  - 112607
+DO  - 10.1016/j.jss.2025.112607
+C6  - JAN 2025
+AN  - WOS:001584453200001
+ER  -
+
+TY  - JOUR
+AU  - Erickson, JS
+AU  - Santos, H
+AU  - Pinheiro, V
+AU  - Mccusker, JP
+AU  - Mcguinness, DL
+TI  - LLM experimentation through knowledge graphs: Towards improved management, repeatability, and verification
+T2  - JOURNAL OF WEB SEMANTICS
+AB  - Generative large language models (LLMs) have transformed AI by enabling rapid, human-like text generation, but they face challenges, including managing inaccurate information generation. Strategies such as prompt engineering, Retrieval-Augmented Generation (RAG), and incorporating domain-specific Knowledge Graphs (KGs) aim to address their issues. However, challenges remain in achieving the desired levels of management, repeatability, and verification of experiments, especially for developers using closed-access LLMs via web APIs, complicating integration with external tools. To tackle this, we are exploring a software architecture to enhance LLM workflows by prioritizing flexibility and traceability while promoting more accurate and explainable outputs. We describe our approach and provide a nutrition case study demonstrating its ability to integrate LLMs with RAG and KGs for more robust AI solutions.
+SN  - 1570-8268
+SN  - 1873-7749
+DA  - MAY
+PY  - 2025
+VL  - 85
+C7  - 100853
+DO  - 10.1016/j.websem.2024.100853
+C6  - JAN 2025
+AN  - WOS:001398668400001
+ER  -
+
+TY  - JOUR
+AU  - Khadem, EA
+AU  - Movaghar, A
+TI  - Aligning DevOps and Microservice Architecture: Empirical Mapping, Taxonomy, and RAG-Based Decision Support
+T2  - IEEE ACCESS
+AB  - DevOps and microservice architecture (MSA) are central to modern software delivery, yet their conceptual alignment remains fragmented across the literature. This study empirically analyzes how DevOps practices correspond to MSA principles and how these relationships inform architectural and operational decisions. From 84 peer-reviewed sources (2016-2025), we extract and normalize over 200 DevOps-MSA concept pairs and organize them into a five-category taxonomy: deployment automation and orchestration, observability and runtime diagnostics, scalability and modularity, security and governance, and configuration and environment management. To operationalize these mappings, we develop a retrieval-augmented generation (RAG) framework that combines sentence-transformer embeddings with GPT-based reasoning to generate bidirectional concept recommendations. Quantitative evaluation shows that RAG outperforms lexical and embedding-only baselines by roughly 20 % in precision and ranking, while qualitative assessment confirms semantic accuracy and contextual relevance. Deployment automation and observability emerge as the most empirically supported categories, whereas governance-related links remain largely conceptual. Industrial case studies in software, banking, and insurance sectors demonstrate measurable improvements in release speed and developer satisfaction when the framework supports transformation planning. The complete dataset and open-source RAG prototype are released to facilitate replication and extension. Overall, the findings indicate that empirically grounded RAG enhances traceability and evidence-based decision-making between architecture and operations in complex software systems.
+SN  - 2169-3536
+PY  - 2025
+VL  - 13
+SP  - 189670
+EP  - 189685
+DO  - 10.1109/ACCESS.2025.3628665
+AN  - WOS:001615892300047
+ER  -
+
+TY  - JOUR
+AU  - Chaplia, O
+AU  - Klym, H
+TI  - Private Microservice with Retrieval-Augmented Generation and Embedded LLM
+T2  - BALTIC JOURNAL OF MODERN COMPUTING
+AB  - 0009-0005-9298-3538, Abstract. This research introduces a modern private microservice architecture that integrates Retrieval-Augmented Generation and embedded local execution of Large Language Models based on MLX-LM, specifically optimised for Apple Silicon (M-series) hardware. By embedding RAG pipelines and LLM inference directly into a unified local microservice, the system achieves enhanced data confidentiality, private data, and embedding storage compared to conventional cloud-based deployments. Performance evaluations demonstrate that the architecture efficiently manages computational resources, maintaining availability even under intense workloads. Leveraging Apple's MLX framework, the solution attains great inference speed, reduced power consumption, and flexible deployment workflows. This study provides a practical foundation and clear guidelines for deploying secure, efficient, and privacy-centric AI microservices on local Apple Silicon infrastructure, highlighting significant opportunities for future research and industrial adoption.
+SN  - 2255-8942
+SN  - 2255-8950
+PY  - 2025
+VL  - 13
+IS  - 3
+SP  - 720
+EP  - 739
+DO  - 10.22364/bjmc.2025.13.3.09
+AN  - WOS:001588104600009
+ER  -
+
+TY  - JOUR
+AU  - Chondamrongkul, N
+AU  - Hristov, G
+AU  - Temdee, P
+TI  - Addressing Technical Challenges in Large Language Model-Driven Educational Software System
+T2  - IEEE ACCESS
+AB  - The integration of large language models (LLMs) into educational systems poses significant challenges across several key attributes, including integration, explainability, testability, and scalability. These challenges arise from the complexity of coordinating system components, difficulty interpreting LLM decision-making processes, and the need for reliable, consistent model outputs in varied educational scenarios. Additionally, ensuring scalability requires robust autoscaling mechanisms and suitable architecture design to handle fluctuating workloads. This paper tackles these challenges by proposing tactics to improve system integration, enhance explainability through metadata and an algorithm process, ensure response consistency via regression testing, and facilitate efficient autoscaling through an event-driven microservice architecture. The evaluation results highlight the effectiveness of these tactics, confirming both functional consistency and robust system performance under varying loads.
+SN  - 2169-3536
+PY  - 2025
+VL  - 13
+SP  - 12846
+EP  - 12858
+DO  - 10.1109/ACCESS.2025.3531380
+AN  - WOS:001405883900001
+ER  -
+
+TY  - JOUR
+AU  - Zhang, YK
+AU  - Wang, DJ
+AU  - Wang, GS
+AU  - Xu, P
+AU  - Zhu, YH
+TI  - Data-driven building load prediction and large language models: Comprehensive overview
+T2  - ENERGY AND BUILDINGS
+AB  - Building load forecasting is essential for optimizing the architectural design and managing energy efficiently, enhancing the performance of Heating, Ventilation, and Air Conditioning systems, and enhancing occupant comfort. With advancements in data science and machine learning, the focus on predicting building loads through data analysis has significantly intensified as a research domain. However, previous studies have typically faced challenges such as data scarcity, improper feature extraction methods, and weak model generalization capabilities. To gain a deeper understanding of these issues, a comprehensive review of data processing, feature selection, and model selection methods in previous research is conducted from the perspective of the entire load forecasting process. The aim is to identify the most suitable methods for each step of load forecasting to enhance prediction accuracy. This review surveys the research progress of statistical learning methods, traditional machine learning methods, deep learning methods, and hybrid methods in different application scenarios of building load prediction. Then, it emphasized the critical role of data preprocessing and focused on techniques like data fusion and transfer learning to overcome data shortages and bolster the models' ability to generalize. Moreover, the obtainment of significant features from building characteristics, weather data, and operational statistics to boost prediction accuracy is explored. A notable contribution of this review is the proposed technical framework for EnergyPlus model generation using LLM-based Retrieval Augmented Generation (RAG) technology and room- level load prediction with Spatio-Temporal Graph Neural Networks. This framework utilize architectural design drawings to achieve an "end-to-end" prediction process, aiming to reduce the professional threshold of load prediction and provide technical support for fine-grained regulation of building operation. Exploratory experiment is conducted using a single-zone building model to verify the feasibility of LLMgenerated EnergyPlus models, with IDF simulation file generation taking only 196 s. Room-level load forecasting with LLMs remains to be explored further. It is reasonable to believe that the methods proposed in this review hold promise for advancing data-driven building load forecasting technologies.
+SN  - 0378-7788
+SN  - 1872-6178
+DA  - JAN 1
+PY  - 2025
+VL  - 326
+C7  - 115001
+DO  - 10.1016/j.enbuild.2024.115001
+C6  - NOV 2024
+AN  - WOS:001443197500001
+ER  -
+
+TY  - JOUR
+AU  - Tupayachi, J
+AU  - Xu, HW
+AU  - Omitaomu, OA
+AU  - Camur, MC
+AU  - Sharmin, A
+AU  - Li, XP
+TI  - Towards Next-Generation Urban Decision Support Systems through AI-Powered Construction of Scientific Ontology Using Large Language Models-A Case in Optimizing Intermodal Freight Transportation
+T2  - SMART CITIES
+AB  - Highlights What are the main findings? We have developed an integrated and automated methodology that leverages a pre-trained Large Language Model (LLM) to generate scenario-based ontologies and knowledge graphs from research articles and technical manuals. Our methodology utilizes the ChatGPT API as the primary reasoning engine, supplemented by Natural Language Processing modules and carefully engineered prompts. This combination enables an automated tool capable of generating ontologies independently. The ontologies generated through our AI-powered method are interoperable and can significantly facilitate the design of data models and software architecture, particularly in the development of urban decision support systems. What is the implication of the main finding? We compared ontologies generated by our LLM with those created by human experts through CQ-based qualitative evaluation, assessing the reliability and feasibility of our approach. The methodology has been successfully applied to intermodal freight data and simulations. This has allowed us to generate a scenario-based ontology and knowledge graph that enhances data discovery, integration, and management, thereby supporting network optimization and multiple criteria decision analysis. Our methodology is both generalizable and adaptive, enabling the automation of ontology generation to support the development of urban and environmental decision support systems across various disciplines.Highlights What are the main findings? We have developed an integrated and automated methodology that leverages a pre-trained Large Language Model (LLM) to generate scenario-based ontologies and knowledge graphs from research articles and technical manuals. Our methodology utilizes the ChatGPT API as the primary reasoning engine, supplemented by Natural Language Processing modules and carefully engineered prompts. This combination enables an automated tool capable of generating ontologies independently. The ontologies generated through our AI-powered method are interoperable and can significantly facilitate the design of data models and software architecture, particularly in the development of urban decision support systems. What is the implication of the main finding? We compared ontologies generated by our LLM with those created by human experts through CQ-based qualitative evaluation, assessing the reliability and feasibility of our approach. The methodology has been successfully applied to intermodal freight data and simulations. This has allowed us to generate a scenario-based ontology and knowledge graph that enhances data discovery, integration, and management, thereby supporting network optimization and multiple criteria decision analysis. Our methodology is both generalizable and adaptive, enabling the automation of ontology generation to support the development of urban and environmental decision support systems across various disciplines.Abstract The incorporation of Artificial Intelligence (AI) models into various optimization systems is on the rise. However, addressing complex urban and environmental management challenges often demands deep expertise in domain science and informatics. This expertise is essential for deriving data and simulation-driven insights that support informed decision-making. In this context, we investigate the potential of leveraging the pre-trained Large Language Models (LLMs) to create knowledge representations for supporting operations research.
+   By adopting ChatGPT-4 API as the reasoning core, we outline an applied workflow that encompasses natural language processing, Methontology-based prompt tuning, and Generative Pre-trained Transformer (GPT), to automate the construction of scenario-based ontologies using existing research articles and technical manuals of urban datasets and simulations. From these ontologies, knowledge graphs can be derived using widely adopted formats and protocols, guiding various tasks towards data-informed decision support. The performance of our methodology is evaluated through a comparative analysis that contrasts our AI-generated ontology with the widely recognized pizza ontology, commonly used in tutorials for popular ontology software. We conclude with a real-world case study on optimizing the complex system of multi-modal freight transportation. Our approach advances urban decision support systems by enhancing data and metadata modeling, improving data integration and simulation coupling, and guiding the development of decision support strategies and essential software components.
+SN  - 2624-6511
+DA  - OCT
+PY  - 2024
+VL  - 7
+IS  - 5
+SP  - 2392
+EP  - 2421
+DO  - 10.3390/smartcities7050094
+AN  - WOS:001340938000001
+ER  -
+
+TY  - JOUR
+AU  - Aggour, KS
+AU  - Kumar, VS
+AU  - Gupta, VK
+AU  - Gabaldon, A
+AU  - Cuddihy, P
+AU  - Mulwad, V
+TI  - Semantics-Enabled Data Federation: Bringing Materials Scientists Closer to FAIR Data
+T2  - INTEGRATING MATERIALS AND MANUFACTURING INNOVATION
+AB  - The development and discovery of new materials can be significantly enhanced through the adoption of FAIR (Findable, Accessible, Interoperable, and Reusable) data principles and the establishment of a robust data infrastructure in support of materials informatics. A FAIR data infrastructure and associated best practices empower materials scientists to access and make the most of a wealth of information on materials properties, structures, and behaviors, allowing them to collaborate effectively, and enable data-driven approaches to material discovery. To make data findable, accessible, interoperable, and reusable to materials scientists, we developed and are in the process of expanding a materials data infrastructure to capture, store, and link data to enable a variety of analytics and visualizations. Our infrastructure follows three key architectural design philosophies: (i) capture data across a federated storage layer to minimize the storage footprint and maximize the query performance for each data type, (ii) use a knowledge graph-based data fusion layer to provide a single logical interface above the federated data repositories, and (iii) provide an ensemble of FAIR data access and reuse services atop the knowledge graph to make it easy for materials scientists and other domain experts to explore, use, and derive value from the data. This paper details our architectural approach, open-source technologies used to build the capabilities and services, and describes two applications through which we have successfully demonstrated its use. In the first use case, we created a system to enable additive manufacturing data storage and process parameter optimization with a range of user-friendly visualizations. In the second use case, we created a system for exploring data from cathodic arc deposition experiments to develop a new steam turbine coating material, fusing a combination of materials data with physics-based equations to enable advanced reasoning over the combined knowledge using a natural language chatbot-like user interface.
+SN  - 2193-9764
+SN  - 2193-9772
+DA  - JUN
+PY  - 2024
+VL  - 13
+IS  - 2
+SP  - 420
+EP  - 434
+DO  - 10.1007/s40192-024-00348-4
+C6  - APR 2024
+AN  - WOS:001199141800001
+ER  -
+
+TY  - JOUR
+AU  - Spelten, P
+AU  - Meyer, MC
+AU  - Wagner, A
+AU  - Wolf, K
+AU  - Reith, D
+TI  - A Methodology for Integrating Hierarchical VMAP-Data Structures into an Ontology Using Semantically Represented Analyses
+T2  - INFORMATION
+AB  - Integrating physical simulation data into data ecosystems challenges the compatibility and interoperability of data management tools. Semantic web technologies and relational databases mostly use other data types, such as measurement or manufacturing design data. Standardizing simulation data storage and harmonizing the data structures with other domains is still a challenge, as current standards such as the ISO standard STEP (ISO 10303 "Standard for the Exchange of Product model data") fail to bridge the gap between design and simulation data. This challenge requires new methods, such as ontologies, to rethink simulation results integration. This research describes a new software architecture and application methodology based on the industrial standard "Virtual Material Modelling in Manufacturing" (VMAP). The architecture integrates large quantities of structured simulation data and their analyses into a semantic data structure. It is capable of providing data permeability from the global digital twin level to the detailed numerical values of data entries and even new key indicators in a three-step approach: It represents a file as an instance in a knowledge graph, queries the file's metadata, and finds a semantically represented process that enables new metadata to be created and instantiated.
+SN  - 2078-2489
+DA  - JAN
+PY  - 2024
+VL  - 15
+IS  - 1
+C7  - 21
+DO  - 10.3390/info15010021
+AN  - WOS:001150787100001
+ER  -
+
+TY  - JOUR
+AU  - Wang, L
+AU  - Sun, CH
+AU  - Zhang, CY
+AU  - Nie, WK
+AU  - Huang, KY
+TI  - Application of knowledge graph in software engineering field: A systematic literature review
+T2  - INFORMATION AND SOFTWARE TECHNOLOGY
+AB  - Context: Knowledge graphs describe knowledge resources and their carriers through visualization. Moreover, they mine, analyze, construct, draw, and display knowledge and their interrelationships to reveal the dynamic development law of the knowledge field. Furthermore, knowledge graphs provide practical and valuable references for subject research. With the development of software engineering, powerful semantic processing and organizational interconnection capabilities of knowledge graphs are gradually required. Current research suggests using knowledge graphs for code or API recommendation, vulnerability mining, and positioning to improve the efficiency and accuracy of development and design. However, software engineering lacks a systematic analysis of the knowledge graphs application.Objective: This paper explores the construction techniques and application status of knowledge graphs in the field of software engineering, broadens the application prospects of knowledge graphs in this field, and facilitates the subsequent research of researchers.Methods: We collected over 100 documents from 2017 to date and selected 55 directly related documents for systematic analysis. Then, we analyzed the organized knowledge mainly stored in software engineering knowledge graphs, including software architecture, code details, and security reports.Results: We studied the emerging research methods in ontology modeling, named entity recognition, and knowledge fusion in graph construction and found that current knowledge graphs are mainly used in intelligent software development, software vulnerability mining, security testing, and API recommendation.Conclusion: Our research on the innovation of knowledge graph in software engineering and the future construction of integrating open-source community software and developer recommendations with knowledgedriven microservice O&M aspects can inspire more scholars and knowledge workers to use knowledge graph technology, which is important to solve software engineering problems and promote the development of both fields.
+SN  - 0950-5849
+SN  - 1873-6025
+DA  - DEC
+PY  - 2023
+VL  - 164
+C7  - 107327
+DO  - 10.1016/j.infsof.2023.107327
+AN  - WOS:001149928500001
+ER  -
+
+TY  - JOUR
+AU  - Ramonell, C
+AU  - Chacón, R
+AU  - Posada, H
+TI  - Knowledge graph-based data integration system for digital twins of built assets
+T2  - AUTOMATION IN CONSTRUCTION
+AB  - The emergence of digital twin technologies offers a promising avenue for improving decision-making through the integrated use of up-to-date physical or synthetically simulated data. Nevertheless, the practical implementation of digital twins in the built environment remains a significant challenge. This paper describes a system that seamlessly integrates data into digital twins of built assets. The system uses a knowledge graph to achieve data integration, which is designed to be modular, flexible, and interoperable. The graph includes BIM models, metadata from an external IoT platform, and process-related information. The system is microservice-based and revolves around a graph database housing the knowledge graph. It employs dynamic operations to update the knowledge graph and is tested using civil engineering infrastructure examples. Results from this work can be used to create pipelines that extract and operate with data connecting computational agents integrated into the system as microservices or connected through the system API.
+SN  - 0926-5805
+SN  - 1872-7891
+DA  - DEC
+PY  - 2023
+VL  - 156
+C7  - 105109
+DO  - 10.1016/j.autcon.2023.105109
+C6  - OCT 2023
+AN  - WOS:001088544700001
+ER  -
+
+TY  - JOUR
+AU  - Li, ZD
+AU  - Shang, CQ
+AU  - Wu, JJ
+AU  - Li, Y
+TI  - Microservice extraction based on knowledge graph from monolithic applications
+T2  - INFORMATION AND SOFTWARE TECHNOLOGY
+AB  - Context: Re-architecting monolithic systems with microservice architecture is a common trend. However, determining the "optimal" size of individual services during microservice extraction has been a challenge in software engineering. Common limitations of the literature include not being reasonable enough to be put into practical application; relying too much on human experience; neglection of the impact of hardware environment on the performance.
+   Objective: To address these problems, this paper proposes a novel method based on knowledge-graph to support the extraction of microservices during the initial phases of re-architecting existing applications.
+   Method: According to the microservice extraction method based on the AKF principle which is a widely practiced microservice design principle in the industry, four kinds of entities and four types of entity-entity relationships are designed and automatically extracted from specification and design artifacts of the monolithic application to build the knowledge graph. A constrained Louvain algorithm is proposed to identify microservice candidates.
+   Results: Our approach is tested based on two open-source projects with the other three typical methods: the domain-driven design-based method, the similarity calculation-based method, and the graph clustering-based method. Conducted experiments show that our method performs well concerning all the evaluation metrics.
+SN  - 0950-5849
+SN  - 1873-6025
+DA  - OCT
+PY  - 2022
+VL  - 150
+C7  - 106992
+DO  - 10.1016/j.infsof.2022.106992
+AN  - WOS:000855271700005
+ER  -
+
+TY  - JOUR
+AU  - Al Sayed, K
+AU  - Cheng, PCH
+AU  - Penn, A
+TI  - An investigation into the cognitive, metacognitive, and spatial markers of creativity and efficiency in architectural design
+T2  - AI EDAM-ARTIFICIAL INTELLIGENCE FOR ENGINEERING DESIGN ANALYSIS AND MANUFACTURING
+AB  - This paper presents a preliminary study into the spatial features that can be used to distinguish creativity andefficiency in design layouts, and the distinct pattern of cognitive and metacognitive activity that is associated with creative design. In a design experiment, a group of 12 architects were handed a design brief. Their drawing activity was recorded and they were required to externalize their thoughts during the design process. Both design solutions and verbal comments were analysed and modelled. A separate group of experienced architects used their expert knowledge to assign creativity and efficiency scores to the 12 design solutions. The design solutions were evaluated spatially. Protocol analysis studies including linkography and macroscopic analysis were used to discern distinctive patterns in the cognitive and metacognition activity of designs marked with the highest and least creativity scores. Entropy models of the linkographs and knowledge graphs were further introduced Finally, we assessed how creativity and efficiency correlates to experiment variables, cognitive activity, metacognitive activity, spatial and functional distribution of spaces in the design solutions, and the number and type of design constraints applied through the course of design. Through this investigation, we suggest that expert knowledge can be used to assess creativity and efficiency in designs. Our findings indicate that efficient layouts have distinct spatial features, and that cognitive and metacognitive activity in design that yields a highly creative outcome corresponds to higher frequencies of design moves and higher linkages between design moves.
+SN  - 0890-0604
+SN  - 1469-1760
+DA  - NOV
+PY  - 2021
+VL  - 35
+IS  - 4
+SP  - 423
+EP  - 437
+C7  - PII S0890060421000251
+DO  - 10.1017/S0890060421000251
+C6  - JAN 2022
+AN  - WOS:000737585800001
+ER  -
+
+TY  - JOUR
+AU  - Yu, SY
+AU  - Chhetri, SR
+AU  - Canedo, A
+AU  - Goyal, P
+AU  - Al Faruque, MA
+TI  - Pykg2vec: A Python Library for Knowledge Graph Embedding
+T2  - JOURNAL OF MACHINE LEARNING RESEARCH
+AB  - Pykg2vec is a Python library for learning the representations of the entities and relations in knowledge graphs. Pykg2vec's flexible and modular software architecture currently implements 25 state-of-the-art knowledge graph embedding algorithms, and is designed to easily incorporate new algorithms. The goal of pykg2vec is to provide a practical and educational platform to accelerate research in knowledge graph representation learning. Pykg2vec is built on top of PyTorch and Python's multiprocessing framework and provides modules for batch generation, Bayesian hyperparameter optimization, evaluation of KGE tasks, embedding, and result visualization. Pykg2vec is released under the MIT License and is also available in the Python Package Index (PyPI). The source code of pykg2vec is available at https://github.com/Sujit-0/pykg2vec(dagger).
+SN  - 1532-4435
+PY  - 2021
+VL  - 22
+AN  - WOS:000628529500016
+ER  -
+
+TY  - JOUR
+AU  - Xu, XY
+AU  - Wu, JZ
+AU  - Yang, MT
+AU  - Luo, TY
+AU  - Meng, QR
+AU  - Li, WH
+AU  - Wu, YJ
+TI  - AI-CTO: Knowledge graph for automated and dependable software stack solution
+T2  - JOURNAL OF INTELLIGENT & FUZZY SYSTEMS
+AB  - As the scale of software systems continues expanding, software architecture is receiving more and more attention as the blueprint for the complex software system. An outstanding architecture requires a lot of professional experience and expertise. In current practice, architects try to find solutions manually, which is time-consuming and error-prone because of the knowledge barrier between newcomers and experienced architects. The problem can be solved by easing the process of apply experience from prominent architects. To this end, this paper proposes a novel graph-embedding-based method, AI-CTO, to automatically suggest software stack solutions according to the knowledge and experience of prominent architects. Firstly, AI-CTO converts existing industry experience to knowledge, i.e., knowledge graph. Secondly, the knowledge graph is embedded in a low-dimensional vector space. Then, the entity vectors are used to predict valuable software stack solutions by an SVM model. We evaluate AI-CTO with two case studies and compare its solutions with the software stacks of large companies. The experiment results show that AI-CTO can find effective and correct stack solutions and it outperforms other baseline methods.
+SN  - 1064-1246
+SN  - 1875-8967
+PY  - 2021
+VL  - 40
+IS  - 1
+SP  - 799
+EP  - 812
+DO  - 10.3233/JIFS-200899
+AN  - WOS:000606807200054
+ER  -
+
+TY  - JOUR
+AU  - Qiu, J
+AU  - Du, QF
+AU  - Yin, KL
+AU  - Zhang, SL
+AU  - Qian, CS
+TI  - A Causality Mining and Knowledge Graph Based Method of Root Cause Diagnosis for Performance Anomaly in Cloud Applications
+T2  - APPLIED SCIENCES-BASEL
+AB  - With the development of cloud computing technology, the microservice architecture (MSA) has become a prevailing application architecture in cloud-native applications. Many user-oriented services are supported by many microservices, and the dependencies between services are more complicated than those of a traditional monolithic architecture application. In such a situation, if an anomalous change happens in the performance metric of a microservice, it will cause other related services to be downgraded or even to fail, which would probably cause large losses to dependent businesses. Therefore, in the operation and maintenance job of cloud applications, it is critical to mine the causality of the problem and find its root cause as soon as possible. In this paper, we propose an approach for mining causality and diagnosing the root cause that uses knowledge graph technology and a causal search algorithm. We verified the proposed method on a classic cloud-native application and found that the method is effective. After applying our method on most of the services of a cloud-native application, both precision and recall were over 80%.
+SN  - 2076-3417
+DA  - MAR
+PY  - 2020
+VL  - 10
+IS  - 6
+C7  - 2166
+DO  - 10.3390/app10062166
+AN  - WOS:000529252800267
+ER  -
+
+TY  - JOUR
+AU  - Boddy, S
+AU  - Rezgui, Y
+AU  - Wetherill, M
+AU  - Cooper, G
+TI  - Knowledge informed decision making in the building lifecycle: An application to the design of a water drainage system
+T2  - AUTOMATION IN CONSTRUCTION
+AB  - Critical decisions which influence the sustainability of a construction project are made in a pressurised, time-critical environment. These decisions must be supported and informed by knowledge resources, with the reasons for these decisions feeding back into the body of knowledge, This paper reports on a research initiative which brings together a knowledge management environment and a decision support tool, bringing sustainability knowledge management into the applications used in architectural design. Validation of the resulting knowledge informed decision making environment emphasised the potential benefits that such environments can bring in assisting decision making by capitalizing on the wealth of existing related knowledge. (c) 2006 Elsevier B.V. All rights reserved.
+SN  - 0926-5805
+DA  - AUG
+PY  - 2007
+VL  - 16
+IS  - 5
+SP  - 596
+EP  - 606
+DO  - 10.1016/j.autcon.2006.10.001
+AN  - WOS:000246656000005
+ER  -
+

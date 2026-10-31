@@ -1,0 +1,806 @@
+TY  - JOUR
+T1  - TwinCompass: A multi-criteria and hybrid reasoning decision support framework for Digital Twin engineering in Cyber–Physical Systems
+AU  - Marah, Hussein
+AU  - Tezel, Barış Tekin
+AU  - Challenger, Moharram
+AU  - Vangheluwe, Hans
+JO  - Journal of Industrial Information Integration
+VL  - 52
+SP  - 101128
+PY  - 2026
+DA  - 2026/07/01/
+SN  - 2452-414X
+DO  - https://doi.org/10.1016/j.jii.2026.101128
+UR  - https://www.sciencedirect.com/science/article/pii/S2452414X26000701
+KW  - Digital Twins
+KW  - Cyber–Physical Systems
+KW  - Neuro-symbolic
+KW  - Recommendation
+KW  - LLM
+KW  - MCDM
+KW  - Decision support
+AB  - The design and development of Digital Twins (DTs) for Cyber–Physical Systems (CPS) entail navigating a vast decision space that encompasses choosing appropriate modeling paradigms, formalisms, computational tools, architectural patterns, deployment frameworks and strategies, and compliance standards. Current DT engineering practices predominantly rely on ad-hoc expert judgment and domain-specific experience, lacking systematic frameworks that integrate structured decision-making processes informed by established domain knowledge and expertise, and supported by advanced reasoning capabilities. This paper introduces TwinCompass, a multi-criteria and hybrid neuro-symbolic decision-making recommendation framework that synergistically combines Multi-Criteria Decision Making (MCDM) methods with Large Language Model (LLM)-based reasoning and symbolic logical inference. TwinCompass leverages a structured and hierarchical decision data model that encapsulates expert DT domain knowledge, represented as decision alternatives, each characterized by a well-defined set of features (criteria). To fundamentally resolve the cognitive bottleneck of manual criteria weighting in MCDM, TwinCompass provides both manual expert-driven and automated LLM-based judgment mechanisms, enabling scalable, adaptive, and context-aware recommendation generation. Furthermore, the framework incorporates a deterministic logical reasoning layer that strictly validates configurations against dependency constraints, compatibility, and prerequisites, ensuring coherent and structurally consistent DT designs. A comprehensive evaluation, including performance analysis of parsing data models, consistency validation of judgments, execution-time correlation analysis, and a qualitative assessment by 20 domain specialists, demonstrates the framework’s effectiveness. The empirical results confirm that TwinCompass provides robust decision support, achieving high data-readiness scores under strict filtering conditions. These findings establish the reliability of its recommendations and its suitability for industrial-scale engineering. By addressing this critical gap in the complexity of designing and deploying DTs throughout their lifecycles, this research provides a principled, transparent, and automated decision-making approach that integrates expert knowledge with computational intelligence to support informed, advisable engineering choices.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic fog computing for enhanced LLM execution in medical applications
+AU  - Zagar, Philipp
+AU  - Ravi, Vishnu
+AU  - Aalami, Lauren
+AU  - Krusche, Stephan
+AU  - Aalami, Oliver
+AU  - Schmiedmayer, Paul
+JO  - Smart Health
+VL  - 36
+SP  - 100577
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 2352-6483
+DO  - https://doi.org/10.1016/j.smhl.2025.100577
+UR  - https://www.sciencedirect.com/science/article/pii/S2352648325000388
+KW  - Open-source software
+KW  - Large language models
+KW  - Fog computing
+KW  - Decentralized infrastructure
+KW  - Mobile app development
+KW  - iOS
+AB  - The ability of large language models (LLMs) to process, interpret, and comprehend vast amounts of heterogeneous data presents a significant opportunity to enhance data-driven care delivery. However, the sensitive nature of protected health information (PHI) raises concerns about data privacy and trust in remote LLM platforms. Additionally, the cost of cloud-based artificial intelligence (AI) services remains a barrier to widespread adoption. To address these challenges, we propose shifting the LLM execution environment from centralized, opaque cloud providers to a decentralized and dynamic fog computing architecture. By running open-weight LLMs in more trusted environments, such as a user’s edge device or a fog layer within a local network, we aim to mitigate the privacy, trust, and financial concerns associated with cloud-based LLMs. We introduce SpeziLLM, an open-source framework designed to streamline LLM execution across multiple layers, facilitating seamless integration into digital health applications. To demonstrate its versatility, we showcase SpeziLLM across six digital health applications, highlighting its broad applicability in various healthcare settings.
+ER  - 
+
+TY  - JOUR
+T1  - Agentic Runtime Reconfiguration of Architectural Patterns in Federated Learning
+AU  - Compagnucci, Ivan
+AU  - Lu, Qinghua
+AU  - Trubiani, Catia
+JO  - Journal of Systems and Software
+VL  - 240
+SP  - 112966
+PY  - 2026
+DA  - 2026/10/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2026.112966
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121226001998
+KW  - Architectural Patterns
+KW  - Federated Learning
+KW  - AI Agents
+KW  - Large Language Models
+AB  - Federated Learning (FL) allows multiple clients to collaboratively train a global model without sharing their local data, thereby preserving privacy. However, architecting FL systems involves complex architectural design choices that depend on both intrinsic system characteristics (e.g., the number of available clients) and evolving runtime conditions, such as network instability or new data arriving between training rounds. While architectural patterns can address these concerns, existing approaches typically keep them static throughout the entire FL execution. This static activation poses a significant limitation, as a pattern that provides benefits in early training rounds may later introduce performance drawbacks as operational conditions evolve. For instance, a pattern intended to improve model accuracy might eventually introduce more time and computational overhead if it is not deactivated when no longer needed. This paper introduces an agentic approach that treats architectural patterns as runtime-reconfigurable entities. We extend the standard FL workflow with a Multiple AI-Agent layer that leverages Large Language Models (LLMs) to dynamically (de)activate patterns after each training round. These decisions are driven by real-time performance metrics and evolving system characteristics. To coordinate the agents, we implement and compare three distinct coordination strategies: Voting-based, Role-based, and Debate-based, evaluating them against three baselines. Experiments are conducted by emulating clients with heterogeneous characteristics and varying system operational conditions to test the effectiveness of our approach. Results examine different datasets and show that, by adaptively (de)selecting architectural patterns across FL rounds, agentic approaches improve learning accuracy and can reduce execution time, at the cost of a moderate overhead.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating Model Context Protocol in the context of a Conversational Agent supporting an Agro-Food Blockchain Logistics Platform
+AU  - Fernandes, Afonso
+AU  - Oliveira, Luís
+AU  - Antunes, Carlos Machado
+AU  - Maximiano, Marisa
+AU  - Gomes, Ricardo
+AU  - Távora, Vítor
+AU  - Remédios, Orlando
+JO  - Procedia Computer Science
+VL  - 278
+SP  - 742
+EP  - 750
+PY  - 2026
+DA  - 2026/01/01/
+T2  - CENTERIS - International Conference on ENTERprise Information Systems / ProjMAN - International Conference on Project MANagement / HCist - International Conference on Health and Social Care Information Systems and Technologies
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2026.03.046
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050926006381
+KW  - Agro-food
+KW  - Farm-to-fork
+KW  - Traceability
+KW  - Blockchain: LLM
+KW  - MCP
+KW  - A2A
+KW  - ReAct
+AB  - This paper presents the design and implementation of a modular conversational agent architecture that enables natural language access to blockchain-based traceability data in the agro-food industry. The research addresses a critical challenge: end-users and consumers require access to traceability data but cannot feasibly receive training on complex technical systems. We propose an LLM-based chatbot that allows stakeholders to query supply chain information using natural language interactions. The architecture integrates two complementary execution backends - LangGraph for structured reasoning with state management, and Gemini Live API for real-time multilingual voice interactions - demonstrating that conversational interfaces can effectively bridge the gap between complex blockchain systems and non-technical users. Through the Model Context Protocol, the system connects heterogeneous data sources including documents, APIs, and blockchain event logs, while role-based access controls ensure appropriate information access across different stakeholder types. A proof-of-concept implementation validates the technical feasibility of this approach, demonstrating that end-users can access verifiable supply chain data through natural dialogue without prior training in blockchain technology or traceability protocols. This work establishes an architectural foundation for making decentralized traceability systems operationally accessible, eliminating the user training barrier that has hindered consumer-facing blockchain applications in agri-food supply chains.
+ER  - 
+
+TY  - JOUR
+T1  - A model-based solution for automated (Re-)engineering of task-oriented chatbots
+AU  - Pérez-Soler, Sara
+AU  - Guerra, Esther
+AU  - de Lara, Juan
+JO  - Journal of Systems and Software
+VL  - 231
+SP  - 112600
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2025.112600
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121225002699
+KW  - Task-oriented chatbots
+KW  - Model-driven engineering
+KW  - Domain-specific languages
+KW  - Migration
+KW  - Recommendation system
+AB  - Chatbots are popular to access all sorts of software services via natural language conversation. The increasing demand for task-oriented chatbots has triggered the proposal of many tools for their construction, like Dialogflow, Lex, Rasa, or Watson. However, selecting the most appropriate one is difficult; the conceptual design behind a chatbot may become buried under the tool technicalities; and migration between chatbot development platforms must be done manually. To alleviate these problems, we propose a platform-independent design notation for task-oriented chatbots, based on the analysis of fifteen chatbot development platforms. Following model-driven engineering principles, the chatbot implementation is synthesised from the design, and designs can be extracted from the implementations, enabling the migration and re-engineering of chatbots. Moreover, a recommender suggests the most suitable platform for a given chatbot design, considering contextual factors. We have realised these ideas in Conga: an extensible web application featuring a design notation editor; a development platform recommender; platform-specific validators; and generators and parsers for Dialogflow and Rasa. We evaluated Conga over 291 Dialogflow and Rasa open-source chatbots, showing its expressiveness, portability, and usefulness for finding chatbot quality issues (found in 93,8% of the chatbots). Overall, our architecture enables neutral chatbot designs, automates migration, and provides mechanisms for defect detection at the design level.
+ER  - 
+
+TY  - JOUR
+T1  - Insights into resource utilization of code small language models serving with runtime engines and execution providers
+AU  - Durán, Francisco
+AU  - Martinez, Matias
+AU  - Lago, Patricia
+AU  - Martínez-Fernández, Silverio
+JO  - Journal of Systems and Software
+VL  - 230
+SP  - 112574
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2025.112574
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121225002432
+KW  - Deep learning
+KW  - Language models
+KW  - Model serving
+KW  - Inference
+KW  - Green AI
+AB  - The rapid growth of language models, particularly in code generation, requires substantial computational resources, raising concerns about energy consumption and environmental impact. Optimizing language models inference resource utilization is crucial, and Small Language Models (SLMs) offer a promising solution to reduce resource demands. Our goal is to analyze the impact of deep learning serving configurations, defined as combinations of runtime engines and execution providers, on resource utilization, in terms of energy consumption, execution time, and computing-resource utilization from the point of view of software engineers conducting inference in the context of code generation SLMs. We conducted a technology-oriented, multi-stage experimental pipeline using twelve code generation SLMs to investigate energy consumption, execution time, and computing-resource utilization across the configurations. Significant differences emerged across configurations. CUDA execution provider configurations outperformed CPU execution provider configurations in both energy consumption and execution time. Among the configurations, TORCH paired with CUDA demonstrated the greatest energy efficiency, achieving energy savings from 37.99% up to 89.16% compared to other serving configurations. Similarly, optimized runtime engines like ONNX with the CPU execution provider achieved from 8.98% up to 72.04% energy savings within CPU-based configurations. Also, TORCH paired with CUDA exhibited efficient computing-resource utilization. Serving configuration choice significantly impacts resource utilization. While further research is needed, we recommend the above configurations best suited to software engineers’ requirements for enhancing serving resource utilization efficiency. Editor’s note: Open Science material was validated by the Journal of Systems and Software Open Science Board.
+ER  - 
+
+TY  - JOUR
+T1  - Healthcare digital twins: A methodological literature review on integrating iot and AI for personalized medicine and predictive care
+AU  - Shahnazinia, Sara
+AU  - Tavasoli, Mahsa
+AU  - Sarrafzadeh, Abdolhossien
+AU  - Karimoddini, Ali
+JO  - Telematics and Informatics Reports
+VL  - 22
+SP  - 100325
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 2772-5030
+DO  - https://doi.org/10.1016/j.teler.2026.100325
+UR  - https://www.sciencedirect.com/science/article/pii/S2772503026000368
+KW  - Digital Twin (DT)
+KW  - IoT-AI healthcare
+KW  - Predictive healthcare
+KW  - Healthcare data integration
+KW  - Medical simulation
+KW  - Ethical-regulatory frameworks
+AB  - Digital Twin (DT) technology has the potential to revolutionize healthcare delivery and enhance patient outcomes through personalized and precision medicine, simulation models for operations and interventions, and drug discovery. However, successful implementation of DTs in Internet of Things (IoT) and artificial intelligence (AI) healthcare is contingent upon addressing key challenges such as privacy, ethics, and robust data security. This paper presents a methodological literature review of DT applications in healthcare, systematically analyzing the current state of research, key enabling technologies, and implementation challenges. The review summarizes DT categorization approaches (application-based, technology-based, and real-time function-based); delineates core DT components such as sensors, data pipelines, AI/ML capabilities, security and governance measures; and surveys data collection and sensing technologies spanning EHRs, wearable/IoMT devices, and medical imaging. It further synthesizes diverse case studies across hospital management, diagnosis and treatment, patient monitoring and management, personalized therapies, and medical devices, highlighting both performance gains and translational gaps. Based on the corpus, the review identifies data integration and interoperability across heterogeneous healthcare systems as the foundational barrier to widespread DT adoption; without standardized protocols and semantics for multi-source data fusion and real-time exchange, the promise of adaptive, personalized, and predictive care remains largely unrealized. Finally, we outline actionable directions including standards-aligned data models, privacy-preserving learning (for example, federated or split learning), measurable clinical validation, and workflow-aware user experience design to accelerate translation from prototypes to routine clinical practice.
+ER  - 
+
+TY  - JOUR
+T1  - The use of Generative AI in technical debt management: A systematic literature review
+AU  - Gosu, Saagarika
+AU  - Feitosa, Daniel
+AU  - Avgeriou, Paris
+JO  - Information and Software Technology
+VL  - 199
+SP  - 108257
+PY  - 2026
+DA  - 2026/11/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2026.108257
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584926002466
+KW  - Technical debt
+KW  - Generative AI
+KW  - Large language models
+KW  - Technical debt management
+AB  - Context:
+Generative AI is increasingly applied to Technical Debt Management (TDM), yet their adoption patterns, supported activities, and associated strategies remain fragmented across the literature.
+Objective:
+This systematic literature review consolidates current research on the integration of Generative AI in TDM, focusing on utilized artifacts, supported activities, architecture models, and role of human involvement.
+Method:
+We conducted a structured literature review to identify, analyze and synthesize findings from 29 relevant studies, examining how AI is being leveraged to address TD across various dimensions.
+Results:
+The findings indicate that current approaches primarily support identification and repayment using prompt-based, decoder-only models, while advanced techniques, broader TDM activities, and integrated human collaboration remain limited.
+Conclusion:
+Current research focuses mainly on artifact-level applications of LLMs, indicating the need for broader TDM coverage, multi-artifact analysis, comparative architectural studies, and stronger human involvement.
+ER  - 
+
+TY  - JOUR
+T1  - A Structured Methodology for Semantic Integration of Physical and Cyber Assets in Industrial Digital Twins
+AU  - Soares, Nuno F.
+AU  - Morais, Francisco
+AU  - Gomes, Miguel B.
+AU  - Lima, Ana
+AU  - Machado, Ricardo J.
+JO  - Procedia Computer Science
+VL  - 278
+SP  - 507
+EP  - 517
+PY  - 2026
+DA  - 2026/01/01/
+T2  - CENTERIS - International Conference on ENTERprise Information Systems / ProjMAN - International Conference on Project MANagement / HCist - International Conference on Health and Social Care Information Systems and Technologies
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2026.03.018
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050926006101
+KW  - Digital Twin
+KW  - Asset Administration Shell
+KW  - Industry 4.0
+KW  - Ontology-based Modelling
+KW  - Semantic Interoperability
+AB  - This paper addresses the lack of structured modelling approaches for Digital Twin (DT) systems that coherently integrate both physical and cyber assets in industrial environments. Existing standards such as the Asset Administration Shell (AAS) provide foundations for representing tangible components, but offer limited support for non-physical entities and semantic consistency across complex systems. To overcome these limitations, we propose the Y methodology—a convergent design methodology that unifies physical and cyber modelling streams into a single ontological backbone. Grounded in AAS semantics and implemented using the Digital Twin Definition Language (DTDL), the methodology enables scalable, standards-aligned deployment on Microsoft Azure Digital Twins. Its applicability is demonstrated through a real-world implementation in a discrete manufacturing line for melamine board production, where the resulting semantic graph supported modules for simulation, predictive analytics, maintenance assistance, and visualisation. The paper discusses lessons learned, remaining challenges, and future directions, including the formalisation of intangible asset modelling and the automation of semantic pipelines.
+ER  - 
+
+TY  - JOUR
+T1  - Comprehending possible manifestations and design aspects of embodied intelligence in next-generation cyber-physical systems
+AU  - Horváth, Imre
+JO  - Design and Artificial Intelligence
+SP  - 100097
+PY  - 2026
+DA  - 2026/08/06/
+SN  - 3050-7413
+DO  - https://doi.org/10.1016/j.daai.2026.100097
+UR  - https://www.sciencedirect.com/science/article/pii/S3050741326000364
+KW  - Systems design
+KW  - Cyber-physical systems
+KW  - Next generation systems
+KW  - Embodied intelligence
+KW  - Theoretical fundamentals
+KW  - Implementation possibilities
+KW  - Application opportunities
+AB  - The rapid advancement of artificial intelligence (AI) is reshaping the conceptual, architectural, and methodological foundations of cyber-physical systems (CPSs) featuring sensorimotor control. While generative and agentic AI have extended digital reasoning capabilities, embodied artificial intelligence (EAI) introduces a qualitatively distinct paradigm in which cognition is partially instantiated in morphology, materials, dynamics, and environmental interaction. This article develops a comprehensive theoretical and design-oriented framework for understanding and operationalizing embodiment in next-generation cyber-physical systems (NG-CPSs). The paper proceeds in six stages. First, it reconstructs the ontological evolution of CPSs from control-centric architectures to ecosystemic cognitive-material systems. Second, it articulates a systematic distinction between digital artificial intelligence (DAI) and EAI, clarifying their epistemological and functional differences. Third, it analyzes morphological computation and hybrid control architectures as foundational mechanisms of embodiment. Fourth, it formulates a taxonomy of embodiment-relevant system requirements and introduces the degree of embodiment (DoE) as a formal design metric. Fifth, it integrates embodied and agentic AI into a unified architectural framework. Sixth, it examines methodological, economic, and ethical implications of EAI encapsulated in the NG-CPS designs. The conceptual arguments are illustrated through the case of a full-body stroke rehabilitation (FBSR) system, demonstrating how embodied cognition enables real-time biomechanical co-regulation, adaptive proprioceptive scaffolding, and safe human–machine interaction beyond purely digital control. This position paper makes three original contributions. First, it formulates a unified theoretical framework that interprets embodiment as a distributed cognitive phenomenon spanning morphology, materials, dynamics, environment, and digital intelligence within NG-CPSs. Second, it introduces the DoE for evaluating the extent to which cognition is physically instantiated in NG-CPSs. Third, it demonstrates how EAI enables functionalities that cannot be implemented effectively through purely DAI deployment. The article concludes that strong embodiment is not universally necessary. Rather, its implementation should be justified by structural, functional, safety, environmental, and economic constraints. The findings support a paradigm shift from controlling physics with computation toward “computing” through physics in the design of NG-CPSs.
+ER  - 
+
+TY  - JOUR
+T1  - A Software Reference Architecture for Journalistic Knowledge Platforms
+AU  - Gallofré Ocaña, Marc
+AU  - Opdahl, Andreas L.
+JO  - Knowledge-Based Systems
+VL  - 276
+SP  - 110750
+PY  - 2023
+DA  - 2023/09/27/
+SN  - 0950-7051
+DO  - https://doi.org/10.1016/j.knosys.2023.110750
+UR  - https://www.sciencedirect.com/science/article/pii/S0950705123005002
+KW  - Software reference architecture
+KW  - Newsrooms
+KW  - Knowledge graphs
+KW  - Journalism
+KW  - Artificial intelligence
+KW  - Big data
+AB  - Newsrooms and journalists today rely on many different artificial-intelligence, big-data and knowledge-based systems to support efficient and high-quality journalism. However, making the different systems work together remains a challenge, calling for new unified journalistic knowledge platforms. A software reference architecture for journalistic knowledge platforms could help news organisations by capturing tried-and-tested best practices and providing a generic blueprint for how their IT infrastructure should evolve. To the best of our knowledge, no suitable architecture has been proposed in the literature. Therefore, this article proposes a software reference architecture for integrating artificial intelligence and knowledge bases to support journalists and newsrooms. The design of the proposed architecture is grounded on the research literature and on our experiences with developing a series of prototypes in collaboration with industry. Our aim is to make it easier for news organisations to evolve their existing independent systems for news production towards integrated knowledge platforms and to direct further research. Because journalists and newsrooms are early adopters of integrated knowledge platforms, our proposal can hopefully also inform architectures in other domains with similar needs.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 20 - Integration of generative artificial intelligence and large language models into Digital Twin-based smart grids
+AU  - Ieva, Saverio
+AU  - Loconte, Davide
+AU  - Loseto, Giuseppe
+AU  - Ruta, Michele
+AU  - Scioscia, Floriano
+AU  - Marche, Davide
+AU  - Notarnicola, Marianna
+A2  - Varlamis, Iraklis
+A2  - Bagula, Antoine
+A2  - Hassani, Hossein
+BT  - Digital Twin Technology and Smart Grid
+PB  - Elsevier
+SP  - 375
+EP  - 394
+PY  - 2026
+DA  - 2026/01/01/
+T2  - Advances in Digital Twin Computing and Sensor Networks
+SN  - 978-0-443-36664-2
+DO  - https://doi.org/10.1016/B978-0-443-36664-2.00024-1
+UR  - https://www.sciencedirect.com/science/article/pii/B9780443366642000241
+KW  - Digital twin
+KW  - Energy infrastructures
+KW  - Energy management
+KW  - Generative artificial intelligence
+KW  - Large language models
+KW  - Natural user interface
+KW  - Retrieval-augmented generation
+AB  - The convergence of Digital Twin (DT) platforms and generative artificial intelligence (Generative AI) is essential for addressing the usability and interpretability constraints of complex smart grid systems. This chapter introduces a modular smart grid architecture model (SGAM) that integrates large language models (LLMs) for semantic reasoning and natural language interaction. The core framework incorporates a knowledge graph (KG) to represent heterogeneous information, enabling retrieval-augmented generation (RAG) workflows for context-aware and trustworthy decision-making. Key deployment considerations are outlined, balancing the advanced capabilities and scalability of cloud-based LLM services with the data privacy and operational control offered by on-premise LLM options. With this integrated approach, DTs turn into proactive, user-friendly systems that enhance data analytics, resource management, and decision-making capabilities for energy infrastructures.
+ER  - 
+
+TY  - JOUR
+T1  - KTWIN: A serverless Kubernetes-based Digital Twin platform
+AU  - Wermann, Alexandre Gustavo
+AU  - Wickboldt, Juliano Araujo
+JO  - Computer Networks
+VL  - 259
+SP  - 111095
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2025.111095
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128625000635
+KW  - Digital Twin
+KW  - Serverless
+KW  - Kubernetes
+KW  - Event-Driven Architecture
+KW  - Internet of Things
+AB  - Digital Twins (DTs) systems are virtual representations of physical assets allowing organizations to gain insights and improve existing processes. In practice, DTs require proper modeling, coherent development and seamless deployment along cloud and edge landscapes relying on established patterns to reduce operational costs. In this work, we propose KTWIN a Kubernetes-based Serverless Platform for Digital Twins. KTWIN was developed using the state-of-the-art open-source Cloud Native tools, allowing DT operators to easily define models through open standards and configure details of the underlying services and infrastructure. The experiments carried out with the developed prototype show that KTWIN can provide a higher level of abstraction to model and deploy a Digital Twin use case without compromising the solution scalability. The tests performed also show cost savings ranging between 60% and 80% compared to overprovisioned scenarios.
+ER  - 
+
+TY  - JOUR
+T1  - Digital Twin architecture for heterogeneous fabrication and construction in AEC
+AU  - Skoury, Lior
+AU  - Menges, Achim
+AU  - Wortmann, Thomas
+JO  - Advanced Engineering Informatics
+VL  - 74
+SP  - 104728
+PY  - 2026
+DA  - 2026/09/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2026.104728
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034626004209
+KW  - Digital Twin
+KW  - Construction 4.0
+KW  - Digital fabrication
+KW  - Digital construction
+KW  - Modular architecture
+AB  - Digital Twins (DTs) hold promise for Construction 4.0, yet current applications remain fragmented, especially at the fabrication and construction level, where heterogeneous machines and workflows must be coordinated in real time. This paper addresses this gap in two steps. First, by understanding what the requirements are for developing a DT architecture for fabrication and construction. Second, using the derived requirements to propose a DT architecture for digital fabrication and construction structured around three components: tasks with a semi-structured data schema, virtual–physical pairs that bridge machines through protocol-specific virtual actors, and modular services for monitoring, simulation, and adaptive control. An execution engine coordinates these components via an event-driven mechanism, ensuring real-time task management and robust traceability. The DT architecture is validated through three case studies: prefabricated timber assembly, collective robotic construction, and large-scale 3D printing, demonstrating its capacity to integrate diverse machines, manage sequential and adaptive processes, and support on-the-fly task injection. By combining flexibility, interoperability, and data integration, the proposed framework contributes a generalisable foundation for DT-enabled fabrication and construction workflows, advancing towards more adaptive and resilient Construction 4.0 practices.
+ER  - 
+
+TY  - JOUR
+T1  - Architecting data-intensive applications: From architectural design to data quality
+AU  - Abughazala, Moamin
+AU  - Sharaf, Mohammad
+AU  - Muccini, Henry
+JO  - Information and Software Technology
+VL  - 196
+SP  - 108156
+PY  - 2026
+DA  - 2026/08/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2026.108156
+UR  - https://www.sciencedirect.com/science/article/pii/S095058492600145X
+KW  - Data architecture
+KW  - Data quality
+KW  - Data-intensive systems
+KW  - Automated data validation
+KW  - MLOps
+KW  - Data quality for machine learning
+AB  - Context:
+Data has become the lifeblood of modern business. However, as the volume of data grows exponentially, managing it has become an increasingly daunting task. The challenge is compounded by data coming from various sources, in different formats, and at different speeds. This is where data architecture provides a roadmap for describing, collecting, storing, processing, and analyzing data to meet business needs. A well-designed data architecture provides an abstract view of data-intensive applications, making it easier to transform data into valuable information. We must take these challenges seriously and invest in robust data architecture to effectively manage and use data to our advantage.
+Objective:
+To propose a comprehensive data architecture framework to improve data quality monitoring through automated quality checks.
+Method:
+The architecture framework utilizes Model Driven Engineering (MDE) techniques. Its support for data-intensive architecture descriptions enables the automated generation of data quality checks.
+Result:
+DAT Framework offers a comprehensive solution for data-intensive applications to model their architecture efficiently and monitor the quality of their data. It automates the entire process and improves precision and consistency in data quality monitoring. With DAT, architects and analysts gain access to a tool that simplifies their workflow and empowers them to make informed decisions based on reliable data insights.
+Conclusion:
+We have evaluated the DAT in five cases within various industry domains, demonstrating its effectiveness and efficiency. The evaluation demonstrates that the DAT framework achieves around 96% modeling accuracy and reduces modeling time by 63%, enhancing efficiency. Its automated data quality validation ensures reliable and consistent monitoring in data-intensive applications.
+ER  - 
+
+TY  - JOUR
+T1  - Cowl: Pushing OWL 2 over the Edge
+AU  - Bilenchi, Ivano
+AU  - Gramegna, Filippo
+AU  - Loseto, Giuseppe
+AU  - Ieva, Saverio
+AU  - Scioscia, Floriano
+AU  - Ruta, Michele
+JO  - Internet of Things
+VL  - 29
+SP  - 101439
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2024.101439
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660524003809
+KW  - Knowledge graphs
+KW  - Semantic Web
+KW  - Web Ontology Language
+KW  - Embedded systems
+AB  - The ever-complex information environments and rapidly expanding data volumes of the modern digital infrastructure demand efficient knowledge organization and retrieval techniques. The Semantic Web initiative has defined principles and technologies, such as the Resource Description Framework (RDF) and the Web Ontology Language (OWL), to create structured and semantically rich Knowledge Graphs. Current OWL toolkits, however, are largely unsuitable for resource-constrained platforms, hindering development of truly ubiquitous knowledge-enabled frameworks and applications. This paper introduces Cowl, an OWL manipulation software designed for a wide spectrum of devices, ranging from workstations to embedded systems with stringent resource limitations. Its architecture, optimizations, and novel processing techniques are detailed, emphasizing computation efficiency and minimal memory use, and providing actionable design principles for future toolkit developers. Comparative experiments reveal state-of-the-art performance and memory efficiency, and its versatility is demonstrated through a comprehensive evaluation on a popular microcontroller platform. Finally, a case study illustrates its usefulness in a knowledge-enabled smart city context.
+ER  - 
+
+TY  - JOUR
+T1  - AgentArcEval: An architecture evaluation method for foundation model based agents
+AU  - Lu, Qinghua
+AU  - Zhao, Dehai
+AU  - Liu, Yue
+AU  - Zhang, Hao
+AU  - Zhu, Liming
+AU  - Xu, Xiwei
+AU  - Shi, Angela
+AU  - Tan, Tristan
+AU  - Kazman, Rick
+JO  - Journal of Systems and Software
+VL  - 232
+SP  - 112656
+PY  - 2026
+DA  - 2026/02/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2025.112656
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121225003255
+KW  - Foundation model
+KW  - Large language model
+KW  - LLM
+KW  - Agent
+KW  - Architecture
+KW  - Evaluation
+KW  - Responsible AI
+KW  - AI safety
+AB  - The emergence of foundation models (FMs) has enabled the development of highly capable and autonomous agents, unlocking new application opportunities across a wide range of domains. Evaluating the architecture of agents is particularly important as the architectural decisions significantly impact the quality attributes of agents given their unique characteristics, including compound architecture, autonomous and non-deterministic behaviour, and continuous evolution. However, these traditional methods fall short in addressing the evaluation needs of agent architecture due to the unique characteristics of these agents. Therefore, in this paper, we present AgentArcEval, a novel agent architecture evaluation method designed specially to address the complexities of FM-based agent architecture and its evaluation. Moreover, we present a catalogue of agent-specific general scenarios, which serves as a guide for generating concrete scenarios to design and evaluate the agent architecture. We demonstrate the usefulness of AgentArcEval and the catalogue through a case study on the architecture evaluation of a real-world tax copilot, named Luna.
+ER  - 
+
+TY  - JOUR
+T1  - AI-Enhanced Event-Driven Payroll Processing:
+AU  - Chattopadhyay, Soumya
+JO  - International Journal of Cloud Applications and Computing
+VL  - 16
+IS  - 1
+PY  - 2026
+DA  - 2026/01/22/
+SN  - 2156-1834
+DO  - https://doi.org/10.4018/IJCAC.409973
+UR  - https://www.sciencedirect.com/science/article/pii/S2156183426000082
+KW  - Managed Container Services
+KW  - Event-Driven Architecture
+KW  - Machine Learning
+KW  - AI Document Intelligence
+KW  - Cost Optimization
+KW  - Compliance Automation
+KW  - AWS ECS Fargate
+KW  - Azure Container Instances
+KW  - GCP Cloud Run
+AB  - ABSTRACT
+Traditional payroll systems maintain dedicated infrastructure on rigid batch schedules, yielding idle capacity rates of 97–99% between execution cycles. This paper introduces an artificial intelligence (AI)-enhanced, event-driven framework integrating managed container services with machine learning agents for payroll processing. Empirical analysis of 94 enterprise implementations spanning 500 to 50,000 employees demonstrates 71–74% monthly cost reduction, improvement in payroll accuracy from 94.2% to 99.7%, and an 87% reduction in errors relative to traditional architectures. A quantitative decision framework incorporating payroll complexity, regulatory requirements, and AI model selection is presented, alongside comparative analysis of Amazon Web Services Elastic Container Service Fargate, Azure Container Instances, and Google Cloud Run implementations. Four pseudocode algorithms formalize the event dispatch, anomaly detection, tax form extraction, and pipeline orchestration logic. Real-world validation with an 8,500-employee healthcare organization confirms $906 monthly infrastructure cost with zero compliance violations over 120 days.
+ER  - 
+
+TY  - JOUR
+T1  - Architectures of knowing: toward a theory of AI-augmented observability in enterprise knowledge systems
+AU  - Toumi, Aissa
+AU  - Fosso Wamba, Samuel
+AU  - Hafsi, Mouaad
+JO  - Journal of Knowledge Management
+PY  - 2026
+DA  - 2026/08/14/
+SN  - 1367-3270
+DO  - https://doi.org/10.1108/JKM-09-2025-1360
+UR  - https://www.sciencedirect.com/science/article/pii/S1367327026000438
+KW  - Enterprise architecture
+KW  - Knowledge management
+KW  - Artificial intelligence
+KW  - Digital governance
+KW  - Knowledge infrastructure
+AB  - 
+Purpose This study aims to propose a new approach to enterprise architecture (EA) that integrates artificial intelligence (AI) and knowledge management (KM) to shift from static models to dynamic and reflexive systems of organizational knowledge.
+
+Design/methodology/approach Building on insights from EA, KM, AI and infrastructure, this study developed a knowledge architecture that integrates four interconnected layers: tacit, explicit, behavioral and cognitive. After analysis, these layers presented four evolutionary paths, namely, externalization, combination, validation and internalization. Findings showed that AI technologies, such as large language models, search-assisted generation and semantic graphs, mediate and structure knowledge flow. And two concrete examples are presented here as evidence. The first is a conceptual model that positions EA as a means for KM, and the second is a design science artifact that demonstrates AI-enabled observability across system layers.
+
+Findings By accounting for epistemic observability, this study realizes the ability of organizations to rely on AI to reveal, verify and exploit architectural knowledge, so as to interact with system behaviors and artifacts in real time. The findings show that EA can be reframed as a flexible, reflexive system that fosters continuous learning, adaptability and better decision-making in dynamic environments.
+
+Practical implications The proposed model and tools enhance organizations’ capacity for knowledge sharing, decision support and adaptive governance. They also provide practical avenues for applying AI technologies in EA and KM to strengthen digital infrastructures.
+
+Originality/value This study redefines EA as a dynamic knowledge system, opening up new avenues for research in information systems, hybrid thinking and digital governance. It also shows AI’s potential to expand EA’s scope and impact.
+ER  - 
+
+TY  - JOUR
+T1  - A Neuro-Symbolic framework for trustworthy agentic AI in industrial code review
+AU  - Park, Ji Hyun
+AU  - Kim, Yong Gyu
+JO  - Information and Software Technology
+VL  - 200
+SP  - 108293
+PY  - 2026
+DA  - 2026/12/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2026.108293
+UR  - https://www.sciencedirect.com/science/article/pii/S095058492600282X
+KW  - Agentic AI
+KW  - Software architecture
+KW  - Architectural tactics
+KW  - Neuro-symbolic methods
+KW  - Trustworthy AI
+KW  - Industrial case study
+AB  - Context:
+Agentic AI components, such as autonomous reviewers and refactoring tools, are increasingly embedded in development toolchains, serving as key architectural elements governing software quality. In data-centric systems like Manufacturing Execution Systems (MES), these components must address the complexity of Cross-Layer behaviors spanning volatile application code and persistent database artifacts.
+Objective:
+We frame code review as an architectural capability of Agentic AI and propose tactics to bridge the “Semantic Gap” between application logic and database behavior, mitigating risks associated with AI hallucinations.
+Method:
+We introduce a Neuro-Symbolic framework that constructs a deterministic Cross-Layer Dependency Graph (CLDG), linking application methods to database side effects. This symbolic context grounds Generative AI agents, enabling them to provide verifiable explanations and accurate repair suggestions.
+Results:
+In a 3-month industrial pilot (342 pull requests), the system identified 20 high-severity vulnerabilities (12 SQL injections, 8 potential deadlocks) missed by the baseline pipeline, achieving 87.0% precision. The framework significantly reduced average review iterations from 2.4 to 1.1. Proactive refactoring suggestions achieved a 71% overall acceptance rate, with developer trust and adoption exhibiting statistically significant improvements over time (p<0.001 and p<0.01, Wilcoxon signed-rank test).
+Conclusion:
+Treating Agentic AI as a structural component and coupling it with deterministic Cross-Layer context significantly enhances review coverage, operational efficiency, and trustworthiness in data-centric enterprise environments.
+ER  - 
+
+TY  - JOUR
+T1  - Multivocal study on microservice dependencies
+AU  - Abdelfattah, Amr S.
+AU  - Cerny, Tomas
+AU  - Chy, Md Showkat Hossain
+AU  - Uddin, Md Arfan
+AU  - Perry, Samantha
+AU  - Brown, Cameron
+AU  - Goodrich, Lauren
+AU  - Hurtado, Miguel
+AU  - Hassan, Muhid
+AU  - Cai, Yuanfang
+AU  - Kazman, Rick
+JO  - Journal of Systems and Software
+VL  - 222
+SP  - 112334
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2025.112334
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121225000020
+KW  - Microservice dependencies
+KW  - Dependency taxonomy
+KW  - Software maintenance
+KW  - Distributed systems
+KW  - Performance
+KW  - Root cause analysis
+KW  - Anomaly detection
+AB  - Background:
+Understanding dependencies within microservices is essential for maintaining and evolving scalable and efficient software architectures. Dependencies influence how changes in one microservice might propagate to other microservices. With the decentralized nature of microservices, these dependencies might not be explicit to developers and lead to unique challenges in modern software development environments.
+Objective:
+The objective of this study is to synthesize existing literature on microservice dependencies, identify the types of dependencies, and examine the strategies employed to manage and analyze these relationships. This effort aims to elucidate how dependencies affect microservice systems and to provide a comprehensive overview of dependency management within microservices.
+Method:
+We conducted a multivocal literature review, starting with an initial dataset of 1,733 papers from academic literature (white literature). This corpus was narrowed down through a rigorous filtering process to 45 key publications that address the identification, management, and impacts of dependencies in microservices. Additionally, we incorporated 926 articles from grey literature sources such as Google, Stack Overflow, and Stack Exchange, expanding the scope beyond traditional academic research. After the filtration process, 45 articles were fully synthesized to integrate practical insights and professional experiences into our review.
+Results:
+The review identifies several types of dependencies in microservice systems and synthesizes this information into a unified dependency taxonomy. This review highlights a range of approaches to dependency management, revealing a significant gap in systematic catering approaches to generate taxonomies for dependencies and the need for integrated management tools. The findings underscore the fragmented nature of existing dependency management practices and the potential for more holistic approaches.
+Conclusion:
+This study provides valuable insights for researchers and practitioners, outlining effective strategies and pointing out areas needing improvement in dependency management. By offering a structured overview of the topic, the study serves as a roadmap for future research and development efforts to enhance the robustness and maintainability of microservices.
+ER  - 
+
+TY  - JOUR
+T1  - An action research study on the digital transformation of concentrated solar thermal plants
+AU  - Miadowicz, Inga
+AU  - Quinto, Daniel Maldonado
+AU  - Pitz-Paal, Robert
+AU  - Felderer, Michael
+JO  - Solar Energy Advances
+VL  - 5
+SP  - 100102
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 2667-1131
+DO  - https://doi.org/10.1016/j.seja.2025.100102
+UR  - https://www.sciencedirect.com/science/article/pii/S2667113125000154
+KW  - Digital transformation
+KW  - Industry 4.0
+KW  - Concentrated solar technologies
+KW  - Internet of things
+KW  - Cyber–physical system
+KW  - IoT ARM
+AB  - The fourth industrial revolution (I4.0) marks the beginning of a new data-based age in which people, machines, products, and facilities are interconnected to realize smart factories. However, in practice many industrial facilities still rely on conventional automation pyramid system infrastructures according to the third industrial revolution (I3.0) paradigm. Particularly concentrated solar thermal (CST) technologies can benefit from the advances of I4.0, which can increase efficiency, flexibility, and productivity while reducing costs. However, the domain is still in its infancy with respect to the digitization and automation of its infrastructure. Comprehensive digital transformation approaches and integrated technical solution strategies are essential to illustrate how current CST facilities can update their operations and leverage I4.0 technologies holistically. To bridge the gap between scientific progress, technological advances, and practical application, this study conducts action research in a CST plant. The goal is to demonstrate the digital transformation of an existing facility into a cyber–physical system according to the principles of I4.0. Thus, the study covers the entire development lifecycle of an I4.0 middleware layer that allows to subsequently retrofit CST plants into smart factories in brownfield scenarios. As a result, we generate theory from practice and generalize the learnings as a blueprint for the digital transformation of solar energy systems and comparable industrial environments.
+ER  - 
+
+TY  - JOUR
+T1  - Semantic Digital Twins in Construction: Developing a modular System Reference Architecture based on Information Containers
+AU  - Kosse, Simon
+AU  - Hagedorn, Philipp
+AU  - König, Markus
+JO  - Advanced Engineering Informatics
+VL  - 67
+SP  - 103483
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 1474-0346
+DO  - https://doi.org/10.1016/j.aei.2025.103483
+UR  - https://www.sciencedirect.com/science/article/pii/S1474034625003763
+KW  - Digital Twin
+KW  - Construction
+KW  - Reference Architecture
+KW  - Linked data
+KW  - Asset Administration Shell
+KW  - Information Container for Linked Document Delivery
+AB  - The construction industry is increasingly adopting Digital Twin (DT) technology to support the design, construction, and operation of buildings and structures. In this context, a key challenge for DTs is integrating heterogeneous data sources to address requirements that evolve across different life cycle phases and use cases. A modular approach for deploying DTs offers a flexible and scalable solution that can adapt to these changing requirements. However, a clear definition and structure of DT modules for the built environment are still missing. This research presents a modular System Reference Architecture (SRA) for implementing Semantic DTs in the construction industry. As its central component, the SRA leverages the inherently modular Asset Administration Shell (AAS) reference model for asset DTs in Industry 4.0. Built on submodels, each addressing a specific use case or aspect, the AAS serves as a high-level framework for DTs. The SRA extends the AAS with standardized Information Containers for Linked Document Delivery (ICDD), integrated through a Linked Data approach employing a semantic layer of ontologies. The feasibility of the proposed SRA is demonstrated through a case-specific implementation for the precast concrete production. Two submodels are developed within the SRA: one for accessing dynamic sensor data via time series databases and another for integrating BIM-derived semantic data using ICDD. The architecture is evaluated through a simulated curing process, where SPARQL and REST-based queries enable real-time monitoring and feedback control. The results confirm the SRA’s ability to integrate heterogeneous data sources, support semantic interoperability, and facilitate lifecycle-oriented feedback mechanisms.
+ER  - 
+
+TY  - JOUR
+T1  - Semanti-MOP: Bridging the semantic gap in automated architecture refactoring via instability-aware Large Language Models
+AU  - Salem, Ahmed
+JO  - Information and Software Technology
+VL  - 199
+SP  - 108280
+PY  - 2026
+DA  - 2026/11/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2026.108280
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584926002697
+KW  - Microservice decomposition
+KW  - Search-Based Software Engineering
+KW  - Many-objective optimization
+KW  - Large Language Models
+KW  - Software refactoring
+KW  - Retrieval-Augmented Generation (RAG)
+AB  - Context:
+The architectural decomposition of monolithic software into microservices is an NP-hard combinatorial problem often hampered by the Semantic–Structural Conflict. This conflict arises when structural metrics (such as coupling and cohesion) reach a plateau of Pareto-optimal solutions that are technically indistinguishable yet correspond to semantically divergent service boundaries, often leading to the violation of domain intent. Conversely, Large Language Models (LLMs) possess deep semantic intuition, but their application as global classifiers is computationally prohibitive and unconstrained by explicit structural objective functions.
+Objectives:
+This paper introduces Semanti-MOP, a novel instability-triggered control mechanism for integrating LLMs into SBSE that harmonizes many-objective evolutionary optimization with targeted LLM-driven semantic steering to resolve conflicts between technical modularity and domain semantic intent.
+Methods:
+The framework incorporates a structural instability-triggered repair mechanism that monitors the Pareto-optimal population for service assignment entropy. It selectively invokes an LLM via Retrieval-Augmented Generation (RAG) only when structural metrics yield high uncertainty (Φ), allowing the LLM to act as a semantic arbiter to resolve points of structural symmetry. The LLM acts as a semantic arbiter through a memetic repair operator to steer the search toward logically valid boundaries. We evaluate Semanti-MOP on three industrial-scale target projects — Spring-PetClinic, Cargo Tracker, and Shopizer — across seven state-of-the-art optimizers totaling 2520 independent runs for the primary evaluation.To further assess scalability and robustness on a truly massive codebase, an additional 840 independent runs were conducted on Apache Flink, a massive industrial system, across two scenarios.
+Results:
+Results from the main evaluation show that Semanti-MOP statistically outperforms purely structural baselines, achieving significant semantic accuracy improvements (MoJoFM) with large effect sizes (yielding A12 up to 0.86) while simultaneously improving search quality (Hypervolume). Real-time delta plots confirm that LLM steering provides instantaneous corrective spikes, overcoming misleading “structural pull.” The dedicated experiments on Apache Flink further demonstrate Semanti-MOP’s robust performance and efficient LLM utilization on an extremely large system, confirming its scalability for industrial application.
+Conclusion:
+The selective trigger mechanism significantly minimizes computational overhead, demonstrating that Semanti-MOP is a scalable, cost-efficient, and explainable methodology for engineering GenAI-enabled tools for enterprise-scale monolithic modernization.
+ER  - 
+
+TY  - JOUR
+T1  - A systematic mapping study method for software architecture research with LLM-assisted quality assessment
+AU  - Olar, Andrei
+AU  - Picus, Oskar
+AU  - Cernău, Laura
+AU  - Dioșan, Laura
+AU  - Motogna, Simona
+JO  - MethodsX
+VL  - 17
+SP  - 104113
+PY  - 2026
+DA  - 2026/12/01/
+SN  - 2215-0161
+DO  - https://doi.org/10.1016/j.mex.2026.104113
+UR  - https://www.sciencedirect.com/science/article/pii/S2215016126003298
+KW  - Systematic mapping study
+KW  - Entity resolution
+KW  - Software architecture
+KW  - Quality assessment
+KW  - Large language models
+KW  - Method
+AB  - This article describes the protocol used to conduct a systematic mapping study (SMS) of software architecture. The presence of architectural and design instruction in primary studies cannot be determined through search and superficial review alone. A principled quality assessment must be conducted to identify studies that are both relevant and of high quality. LLM assistance offers practical means of performing such assessments in a timely and efficient manner. Therefore, our contribution is threefold: • Guidance for the following SMS steps: tooling setup, database search, deduplication and snowballing, primary study selection, quality assessment, and data extraction. • The rationale and methodology to perform quality assessment on primary studies regarding software architecture. • A method of using large language models (LLMs) together with human evaluators is presented. The method is supported by bespoke open-source software.
+ER  - 
+
+TY  - JOUR
+T1  - Requirements engineering for low-code development (RE4LCD): an empirical study from Nordic and central Europe
+AU  - Kedziora, Damian
+AU  - Wnuk, Krzysztof
+JO  - Information and Software Technology
+VL  - 200
+SP  - 108334
+PY  - 2026
+DA  - 2026/12/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2026.108334
+UR  - https://www.sciencedirect.com/science/article/pii/S095058492600323X
+KW  - Requirements engineering
+KW  - Low-code development platforms
+KW  - No-code development
+KW  - Socio-technical systems theory
+KW  - Platform-mediated development
+AB  - Context
+Low-code development platforms (LCDPs) combine visual development, reusable components, platform services, integration mechanisms, and opportunities for custom code. These characteristics challenge traditional requirements engineering (RE) because platform capabilities and constraints influence how requirements are elicited, negotiated, documented, validated, and realised.
+Objective
+This study investigates how requirements engineering is performed in low-code development settings and how socio-technical configurations emerge when business stakeholders, developers, platform vendors, and platform capabilities jointly shape requirements work. It also examines how Levy and Hadar's Requirements Engineering for No-Code Development (RE4NCD) framework can be extended to the low-code context.
+Method
+An interpretive qualitative study was conducted using fifteen semi-structured interviews with professionals from Nordic and Central European organisations experienced in low-code development. Drawing on Socio-Technical Systems theory, data were analysed using a Gioia-informed thematic analysis. The resulting RE4LCD framework was further assessed through retrospective mapping to the empirical findings and a limited face-validation exercise based on follow-up discussions with several available interview participants.
+Results
+The analysis identified five dimensions of requirements engineering in low-code environments: requirements collection methods, legacy system handling, business and platform context understanding, quality requirements management, and platform-specific considerations. The findings show that requirements work becomes more visual, iterative, and demonstration-centred; legacy systems are selectively reinterpreted rather than replicated; quality responsibility is distributed between project teams, platform configuration, custom code, integrations, and vendors; and platform feasibility becomes an early requirements concern. The follow-up discussions highlighted the growing importance of AI-assisted functionalities in LCDPs, leading to the inclusion of AI feature awareness, AI expectation management, and AI-assisted component generation in the framework. LCDPs therefore function as socio-technical mediators rather than passive implementation tools.
+Conclusion
+The study proposes the Requirements Engineering for Low-Code Development (RE4LCD) framework, extending RE4NCD to a more complex low-code context, where requirements may be realised through configuration, custom code, integration, workarounds, or rejection.
+ER  - 
+
+TY  - JOUR
+T1  - Generative AI for software architecture. Applications, challenges, and future directions
+AU  - Esposito, Matteo
+AU  - Li, Xiaozhou
+AU  - Moreschini, Sergio
+AU  - Ahmad, Noman
+AU  - Cerny, Tomas
+AU  - Vaidhyanathan, Karthik
+AU  - Lenarduzzi, Valentina
+AU  - Taibi, Davide
+JO  - Journal of Systems and Software
+VL  - 231
+SP  - 112607
+PY  - 2026
+DA  - 2026/01/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2025.112607
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121225002766
+KW  - Generative AI
+KW  - Software architecture
+KW  - Multivocal literature review
+KW  - Large language model
+KW  - Prompt engineering
+KW  - Model human interaction
+KW  - XAI
+AB  - Context:
+Generative Artificial Intelligence (GenAI) is transforming much of software development, yet its application in software architecture is still in its infancy.
+Aim:
+Systematically synthesize the use, rationale, contexts, usability, and challenges of GenAI in software architecture.
+Method:
+Multivocal literature review (MLR), analyzing peer-reviewed and gray literature, identifying current practices, models, adoption contexts, reported challenges, and extracting themes via open coding.
+Results:
+This review identifies a significant adoption of GenAI for architectural decision support and architectural reconstruction. OpenAI GPT models are predominantly applied, and there is consistent use of techniques such as few-shot prompting and retrieval-augmented generation (RAG). GenAI has been applied mostly to the initial stages of the Software Architecture Life Cycle (SALC), such as Requirements-to-Architecture and Architecture-to-Code. Monolithic and microservice architectures were the main targets. However, rigorous testing of GenAI outputs was typically missing from the studies. Among the most frequent challenges are model precision, hallucinations, ethical aspects, privacy issues, lack of architecture-specific datasets, and the absence of sound evaluation frameworks.
+Conclusions:
+GenAI shows significant potential in software design, but there are several challenges on its way towards greater adoption. Research efforts should target designing general evaluation methodologies, handling ethics and precision, increasing transparency and explainability, and promoting architecture-specific datasets and benchmarks to overcome the gap between theoretical possibility and practical use. Editor’s note: Open Science material was validated by the Journal of Systems and Software Open Science Board.
+ER  - 
+
+TY  - JOUR
+T1  - MetaTwin: A reconfigurable digital twin framework
+AU  - Yang, Zhanpeng
+AU  - Ren, Cheng
+AU  - Li, Ming
+AU  - Huang, George Q.
+JO  - Robotics and Computer-Integrated Manufacturing
+VL  - 103
+SP  - 103404
+PY  - 2027
+DA  - 2027/02/01/
+SN  - 0736-5845
+DO  - https://doi.org/10.1016/j.rcim.2026.103404
+UR  - https://www.sciencedirect.com/science/article/pii/S0736584526002255
+KW  - Digital twin
+KW  - Reconfigurable manufacturing systems
+KW  - Domain-driven design
+AB  - Digitalization initiatives have led to the widespread adoption of digital twins (DTs), particularly in manufacturing. The explosive growth of DTs makes us think about what the most abstract parts in building the DT systems are and how to promote the reconfigurability of DTs so that they can be agile to adopt the flexibility needs from Industry 4.0 manufacturing systems. However, the heterogeneous granularity and dynamic evolution of manufacturing systems present significant challenges to the reconfigurability of their corresponding DTs. To address these challenges, this paper presents MetaTwin, a reconfigurable DT framework as an integrated solution to abstract DTs into general domains. To be more specific, a novel Domain-Meta structure is first proposed, which addresses the granularity misalignment problem by decoupling the system into stable Domains and reconfigurable Meta units. Then, a dual-dimensional reconfiguration mechanism decomposes complex reconfigurations into macro and micro dimensions, achieved by composing Meta units and reconfiguring their internal pattern-driven Meta Models. A prototype-based case study involving the progressive reconfiguration from an assembly-only DT to a printing-and-assembly DT illustrates how MetaTwin supports reconfiguration scope identification, macro-level structural changes, micro-level behavioral adaptations, and runtime coordination. Furthermore, implementation-level indicators further suggest that the MetaTwin-based implementation localizes changes more effectively than a conventional implementation in the case setting.
+ER  - 
+
+TY  - JOUR
+T1  - An architectural perspective on MLOps: Structures, processes, tools, and stakeholders
+AU  - Amou Najafabadi, Faezeh
+AU  - Bogner, Justus
+AU  - Gerostathopoulos, Ilias
+AU  - Lago, Patricia
+JO  - Information and Software Technology
+VL  - 193
+SP  - 108029
+PY  - 2026
+DA  - 2026/05/01/
+SN  - 0950-5849
+DO  - https://doi.org/10.1016/j.infsof.2026.108029
+UR  - https://www.sciencedirect.com/science/article/pii/S0950584926000182
+KW  - Machine learning operations
+KW  - MLOps
+KW  - MLOps system
+KW  - MLOps architecture
+KW  - MLOps process
+KW  - MLOps tools
+KW  - Systematic mapping study
+AB  - Context:
+Despite the increasing adoption of Machine Learning Operations (MLOps), teams still encounter challenges in effectively applying this paradigm to their projects. While numerous MLOps tools exist, consolidated knowledge to inform architecture design is still lacking.
+Objective:
+In response, our goal is to provide a comprehensive overview of MLOps architectures from a structural and process perspective, the tools mentioned supporting the implementation of architecture components, and the stakeholders responsible for the MLOps process.
+Methods:
+We conduct a systematic mapping study of 93 primary studies to collect and analyze the state of the art knowledge on MLOps systems using automatic, manual, and snowballing-based search strategies. Subsequently, we use card sorting to synthesize the results.
+Results:
+We contribute: (i) a categorization of 39 MLOps architecture components and a description of several MLOps architecture variants; (ii) a systematic map between the components and the existing MLOps tools; (iii) a description of 56 process steps for MLOps systems creation, deployment, and maintenance; and (iv) a description of MLOps stakeholders, their responsibilities, and a systematic map between the process steps and the responsible stakeholders.
+Conclusion:
+Our results serve as an overview of the state of the art in MLOps architectures from a structural and a process perspective to support researchers and practitioners in the architecture design of their MLOps systems.
+ER  - 
+
+TY  - JOUR
+T1  - The double-edged sword: LLM operations (LLMOps) security in the cloud- a comprehensive review
+AU  - Ali, Sijjad
+AU  - Talpur, Dhani Bux
+AU  - Humayun, Mamoona
+AU  - Almufareh, Maraam Fahaad
+AU  - Alwakid, Ghadah Naif
+AU  - Yaqoob, Jahanzaib
+JO  - Neurocomputing
+VL  - 680
+SP  - 133313
+PY  - 2026
+DA  - 2026/06/01/
+SN  - 0925-2312
+DO  - https://doi.org/10.1016/j.neucom.2026.133313
+UR  - https://www.sciencedirect.com/science/article/pii/S0925231226007101
+KW  - LLMOps security
+KW  - Cloud AI security
+KW  - Prompt injection
+KW  - Model extraction
+KW  - Data privacy
+KW  - Threat modeling
+AB  - The rapid integration of Large Language Models (LLMs) into enterprise applications via cloud platforms has necessitated the emergence of LLM Operations (LLMOps)—a specialized discipline for managing the LLM lifecycle. While LLMOps streamlines development and maintenance, it introduces a complex and novel attack surface that traditional cybersecurity frameworks face significant challenges in addressing. This review paper provides a comprehensive analysis of the double-edged sword of LLMOps security within cloud environments. We systematically examine the LLMOps lifecycle to expose critical vulnerabilities, beginning at the API layer with sophisticated prompt injection and jailbreaking techniques that subvert model behavior. The analysis extends to the core infrastructure, examining the security of vector databases—a prime target for data exfiltration or poisoning—and the integrity of the retrieval-augmented generation (RAG) pipeline. Furthermore, we investigate the significant privacy and security risks associated with the fine-tuning phase in the cloud, where proprietary data used for adaptation becomes vulnerable to exposure or inference attacks. This paper argues that the interconnected nature of cloud-based LLMOps amplifies these threats, creating cascading risks across the entire system. By synthesizing current research and emerging threats, this review aims to establish a foundational security taxonomy for LLMOps and proposes a proactive, defense-in-depth strategy essential for securing the next generation of AI-driven applications in the cloud. The findings underscore an urgent need for robust security paradigms blueconstructed into the fabric of LLMOps practices.
+ER  - 
+
+TY  - JOUR
+T1  - Agent design pattern catalogue: A collection of architectural patterns for foundation model based agents
+AU  - Liu, Yue
+AU  - Lo, Sin Kit
+AU  - Lu, Qinghua
+AU  - Zhu, Liming
+AU  - Zhao, Dehai
+AU  - Xu, Xiwei
+AU  - Harrer, Stefan
+AU  - Whittle, Jon
+JO  - Journal of Systems and Software
+VL  - 220
+SP  - 112278
+PY  - 2025
+DA  - 2025/02/01/
+SN  - 0164-1212
+DO  - https://doi.org/10.1016/j.jss.2024.112278
+UR  - https://www.sciencedirect.com/science/article/pii/S0164121224003224
+KW  - Agent
+KW  - Foundation model
+KW  - Large language model
+KW  - Pattern
+KW  - Software engineering
+KW  - Responsible AI
+AB  - Foundation model-enabled generative artificial intelligence facilitates the development and implementation of agents, which can leverage distinguished reasoning and language processing capabilities to takes a proactive, autonomous role to pursue users’ goals. Nevertheless, there is a lack of systematic knowledge to guide practitioners in designing the agents considering challenges of goal-seeking (including generating instrumental goals and plans), such as hallucinations inherent in foundation models, explainability of reasoning process, complex accountability, etc. To address this issue, we have performed a systematic literature review to understand the state-of-the-art foundation model-based agents and the broader ecosystem. In this paper, we present a pattern catalogue consisting of 18 architectural patterns with analyses of the context, forces, and trade-offs as the outcomes from the previous literature review. We propose a decision model for selecting the patterns. The proposed catalogue can provide holistic guidance for the effective use of patterns, and support the architecture design of foundation model-based agents by facilitating goal-seeking and plan generation.
+ER  - 

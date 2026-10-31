@@ -1,0 +1,1774 @@
+TY  - CONF
+TI  - An Architecture and Protocol for Decentralized Retrieval Augmented Generation
+T2  - 2025 IEEE 22nd International Conference on Software Architecture Companion (ICSA-C)
+SP  - 31
+EP  - 35
+AU  - T. Hecking
+AU  - T. Sommer
+AU  - M. Felderer
+PY  - 2025
+KW  - Protocols
+KW  - Software architecture
+KW  - Large language models
+KW  - Retrieval augmented generation
+KW  - Knowledge based systems
+KW  - Buildings
+KW  - Data protection
+KW  - Computer architecture
+KW  - Software systems
+KW  - Data models
+KW  - Large Language Models
+KW  - Retrieval Augmented Generation
+KW  - Distributed Systems
+DO  - 10.1109/ICSA-C65153.2025.00012
+JO  - 2025 IEEE 22nd International Conference on Software Architecture Companion (ICSA-C)
+IS  - 
+SN  - 2768-4288
+VO  - 
+VL  - 
+JA  - 2025 IEEE 22nd International Conference on Software Architecture Companion (ICSA-C)
+Y1  - 31 March-4 April 2025
+AB  - Retrieval-augmented generation (RAG) has become a widely adopted approach for the integration of knowledge bases and large language models (LLMs). This paper proposes a decentralized software architecture for RAG, where retrieval, augmentation, and generation components are operated independently by distributed entities. This approach addresses challenges like efficient usage of resources when building LLM-based software systems as well as data protection issues in centralized systems. By allowing data providers to implement their own retrieval mechanisms, they fully retain control over data access and the flexibility to use their own data infrastructure. An interaction platform implements communication between client applications, data providers, and model providers. To standardize this process, the paper introduces introduces an architecture and protocol called External Retrieval Interface (ERI), which ensures compatibility of services, enforces data restrictions, and simplifies the development of decentralized RAG systems.
+ER  - 
+
+
+TY  - CONF
+TI  - MoCoRe - A Generic Model-Driven Composition and Rule-Based Refinement Framework
+T2  - 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)
+SP  - 273
+EP  - 280
+AU  - M. Gstür
+AU  - Y. R. Kirschner
+AU  - S. Singh
+AU  - A. Koziolek
+PY  - 2024
+KW  - Phase change materials
+KW  - Adaptation models
+KW  - Computer languages
+KW  - Software architecture
+KW  - Object oriented modeling
+KW  - Unified modeling language
+KW  - Predictive models
+KW  - Software Architecture
+KW  - Component-Based software Engineering
+KW  - Model-Driven Software Development
+KW  - Model-Driven Quality Prediction
+KW  - Model-Driven Reverse Engineering
+KW  - Palladio Component Model
+KW  - Model Composition
+KW  - Model Refine-ment
+DO  - 10.1109/ICSA-C63560.2024.00039
+JO  - 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)
+IS  - 
+SN  - 2768-4288
+VO  - 
+VL  - 
+JA  - 2024 IEEE 21st International Conference on Software Architecture Companion (ICSA-C)
+Y1  - 4-8 June 2024
+AB  - Modern software systems are constantly evolving and therefore subject to change. Model-based knowledge about software systems improves traceability, supports software evolution processes, and helps in quality prediction. Model transformation is often used to make heterogeneous model-based knowledge usable for model-consuming processes such as quality prediction. The goal of this work is to automate model-driven knowledge transformation and rule-based knowledge refinement to support model-consuming processes. Therefore, a model-driven composition and refinement approach is introduced that links model-generating processes such as reverse engineering with model-consuming processes such as quality prediction. The approach is realized in the form of a metamodel-independent framework that can be adapted to different target metamodels. The refinement rules of our approach are formulated using a high-level programming language. Besides the metamodel-independent framework, we present a concrete instantiation of the framework for a software architecture model for quality prediction. To demonstrate the approach, the instantiation of the framework is applied to six case studies. The results indicate that we can perform a lossless composition of input information into output models. Furthermore, the demonstration shows that the metamodel-independent framework enables knowledge refinement, achieving an F-score of 1.0 by enforcing eight specific refinement rules.
+ER  - 
+
+
+TY  - CONF
+TI  - A Safety-Orchestrated Architecture for Large Language Models-Based Remote Healthcare Guidance
+T2  - 2026 IEEE 23rd International Conference on Software Architecture Companion (ICSA-C)
+SP  - 98
+EP  - 101
+AU  - M. L. Hoang
+AU  - G. Matrella
+AU  - P. Ciampolini
+PY  - 2026
+KW  - Modeling
+KW  - Large language models
+KW  - Printing
+KW  - Safety
+KW  - Medical services
+KW  - Architecture
+KW  - Computer architecture
+KW  - Guidelines
+KW  - Retrieval augmented generation
+KW  - Measurement
+KW  - Software Architecture
+KW  - Large Language Models
+KW  - Retrieval-Augmented Generation
+KW  - AI Safety
+KW  - Healthcare Support Systems
+DO  - 10.1109/ICSA-C68850.2026.00025
+JO  - 2026 IEEE 23rd International Conference on Software Architecture Companion (ICSA-C)
+IS  - 
+SN  - 2768-4288
+VO  - 
+VL  - 
+JA  - 2026 IEEE 23rd International Conference on Software Architecture Companion (ICSA-C)
+Y1  - 22-26 June 2026
+AB  - The integration of Large Language Model (LLM) into remote healthcare support systems offers significant opportunities but also introduces critical safety and accountability challenges. This paper presents a safety-oriented architecture for LLM-assisted health guidance that enforces deterministic risk triage and guideline grounding before any language generation occurs. Patient messages are classified into four safety-critical categories: emergency, requiring immediate medical attention; clinician escalation, indicating higher-risk contexts requiring professional evaluation; self-care, appropriate for general guideline-based advice; and refuse, covering requests such as diagnosis or medication dosing that cannot be safely addressed. The proposed architecture separates processing into modular components, including rule-based triage, retrieval-augmented guideline matching, constrained response generation, and immutable audit logging. Emergency and Refusal routes are handled deterministically without any language model involvement, while self-care and escalation cases receive evidence-grounded responses with explicit citations and safety disclaimers. A working prototype was implemented using FastAPI, Term Frequency-Inverse Document Frequency (TF-IDF) retrieval over curated guidelines, and optional LLM integration. An automated scenario-based evaluation framework was developed to assess system performance. Experimental results on synthetic patient cases achieved 98% routing accuracy, 100% emergency recall, 100% refusal precision, and 92.3% citation coverage, demonstrating reliable classification and grounded response generation. The proposed design illustrates how LLM-enabled healthcare systems can be structured to improve safety, transparency, and regulatory readiness.
+ER  - 
+
+
+TY  - CONF
+TI  - Checking Conformance with Reference Architectures: A Case Study
+T2  - 2013 17th IEEE International Enterprise Distributed Object Computing Conference
+SP  - 71
+EP  - 80
+AU  - S. Herold
+AU  - M. Mair
+AU  - A. Rausch
+AU  - I. Schindler
+PY  - 2013
+KW  - Computer architecture
+KW  - Registers
+KW  - Unified modeling language
+KW  - Software systems
+KW  - Object oriented modeling
+KW  - Software architecture
+KW  - reference architectures
+KW  - software architecture erosion
+KW  - architecture conformance
+DO  - 10.1109/EDOC.2013.17
+JO  - 2013 17th IEEE International Enterprise Distributed Object Computing Conference
+IS  - 
+SN  - 1541-7719
+VO  - 
+VL  - 
+JA  - 2013 17th IEEE International Enterprise Distributed Object Computing Conference
+Y1  - 9-13 Sept. 2013
+AB  - Reference architecture can help in enterprise architecture management to develop and operate standardized and maintainable software landscapes. Similar to the software architectures of single systems, however, they are threatened by architecture erosion, i.e. the continuous divergence between intended architectures and their actual realizations. Architecture erosion has negative effects on the maintainability of software systems and on other quality attributes. In this paper, we report on the application of a rule-based architecture conformance checking approach in an industrial case study in which we investigate an industrial reference architecture for the German public administration. The reference architecture and its constraints for implementations are formalized as architecture rules enabling automatic conformance checking tool support. The results from the case study show that the approach is capable of checking reference architecture conformance in realistic settings and helps to avoid software architecture erosion.
+ER  - 
+
+
+TY  - CONF
+TI  - Enforcing Architectural Security Decisions
+T2  - 2020 IEEE International Conference on Software Architecture (ICSA)
+SP  - 35
+EP  - 45
+AU  - S. Jasser
+PY  - 2020
+KW  - Computer architecture
+KW  - Authorization
+KW  - Software measurement
+KW  - Software architecture
+KW  - Software systems
+KW  - Software-Architecture
+KW  - Security-Architecture
+KW  - Architecture-Rules
+KW  - Security-Rules
+KW  - Security-by-Design
+KW  - Architecture-Enforcement
+KW  - Architecture-Conformance
+KW  - CNL
+KW  - Ontology
+DO  - 10.1109/ICSA47634.2020.00012
+JO  - 2020 IEEE International Conference on Software Architecture (ICSA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Software Architecture (ICSA)
+Y1  - 16-20 March 2020
+AB  - Software architects should specify security measures for a software system on an architectural level. However, the implementation often diverges from this intended architecture including its security measures. This may lead to severe vulnerabilities that have a wide impact on the system and are hard to fix afterwards. In this paper, we propose an approach for checking the implementation’s conformance with the defined security measures using architectural security rules: We extend a controlled natural language approach to formalize these rules and use dynamic analysis techniques to extract information on the actual system behavior for the conformance check. We evaluate our approach by an industrial case study to show the applicability and flexibility of our conformance checking approach.
+ER  - 
+
+
+TY  - CONF
+TI  - Model-Driven Approach for Automatic Model Information Aggregation in Structured Documents
+T2  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+SP  - 403
+EP  - 413
+AU  - A. Henzgen
+AU  - L. Strey
+PY  - 2023
+KW  - Industries
+KW  - ISO Standards
+KW  - Heuristic algorithms
+KW  - Documentation
+KW  - Computer architecture
+KW  - Transforms
+KW  - Data models
+KW  - Model-Driven Engineering
+KW  - Documentation
+KW  - BPMN
+KW  - UML
+KW  - GSN
+KW  - Model-to-Document
+KW  - Architecture Description
+KW  - Instructional Information
+DO  - 10.1109/MODELS-C59198.2023.00072
+JO  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+Y1  - 1-6 Oct. 2023
+AB  - While models are widely used in software development projects originating from industry and academic research, their documentation can be a time-intensive process. This paper focuses on providing a Proof of Concept for the automatic aggregation of various model data in two different document types conforming to ISO/IEC/IEEE 42010 architecture descriptions or instructional information documents according to ISO/IEC/IEEE 26514. Therefore, this work leverages a model-driven mapping approach of model information to the required document structure, dynamic templating algorithms to transform model data into text and a prototypical implementation that executes the defined mapping and transformation logic in practice. The generation results show that most of the documentation standard requirements can be fulfilled automatically and therefore, reduce the manual processing effort while enhancing consistency.
+ER  - 
+
+
+TY  - CONF
+TI  - A UML rule-based approach for describing and checking dynamic software architectures
+T2  - 2008 IEEE/ACS International Conference on Computer Systems and Applications
+SP  - 1107
+EP  - 1114
+AU  - M. N. Miladi
+AU  - M. Hadj Kacem
+AU  - A. Boukhris
+AU  - M. Jmaiel
+AU  - K. Drira
+PY  - 2008
+KW  - Unified modeling language
+KW  - Software architecture
+KW  - Laboratories
+KW  - Computer architecture
+KW  - Formal verification
+KW  - Application software
+KW  - Standardization
+KW  - Availability
+KW  - Buildings
+KW  - Coherence
+DO  - 10.1109/AICCSA.2008.4493686
+JO  - 2008 IEEE/ACS International Conference on Computer Systems and Applications
+IS  - 
+SN  - 2161-5330
+VO  - 
+VL  - 
+JA  - 2008 IEEE/ACS International Conference on Computer Systems and Applications
+Y1  - 31 March-4 April 2008
+AB  - In this paper we propose a UML based approach for describing and checking dynamic software architectures. In fact, the UML profile enables us to model dynamic software architectures by three aspects: the first one defines the architectural style of an application, the second describes a set of reconfiguration operations and the last one specifies the coordination among the reconfiguration operations defined in the above aspect. The built models are automatically checked through a set of syntactical rules. These models are automatically transformed into formal Z specifications in order to prove architectural properties such as consistency and invariants preservation against reconfiguration.
+ER  - 
+
+
+TY  - CONF
+TI  - Fault Root Rank Algorithm Based on Random Walk Mechanism in Fault Knowledge Graph
+T2  - 2021 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB)
+SP  - 1
+EP  - 6
+AU  - Y. Sun
+AU  - L. Zhao
+AU  - Z. Wang
+AU  - D. Cui
+AU  - Y. Yang
+AU  - Z. Gao
+PY  - 2021
+KW  - Software architecture
+KW  - Computer architecture
+KW  - Companies
+KW  - Data collection
+KW  - Broadcasting
+KW  - Prediction algorithms
+KW  - Software
+KW  - dependency graph
+KW  - knowledge graph
+KW  - root cause sorting
+KW  - troubleshooting path
+DO  - 10.1109/BMSB53066.2021.9547194
+JO  - 2021 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB)
+IS  - 
+SN  - 2155-5052
+VO  - 
+VL  - 
+JA  - 2021 IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB)
+Y1  - 4-6 Aug. 2021
+AB  - As the software architecture becomes more and more complex, the software architecture changes from a monolithic architecture to a microservice architecture, ensuring the continuous and stable operation of software services directly affects the income of Internet companies. Therefore, in the microservice architecture, it is important to quickly locate possible anomalies in a large number of services and provide a list of possible diagnostic paths. The most important thing is to ensure that the prediction list given is as few as possible. But it must be accurate, so as to help engineers quickly locate service problems. In this article, the problem of complex and ambiguous call relationships between microservices is addressed. Propose an algorithm for automatically constructing a microservice dependency graph based on multiple factors, and on this basis, a fault troubleshooting path generation algorithm is proposed and arranged in descending order according to the probability. The generated result is a list of troubleshooting paths for engineers to use. Finally, a typical microservice architecture website is used as a data collection site to verify the effectiveness of the algorithm in generating the failure prediction list, and the accuracy is significantly higher than that of the comparison algorithm.
+ER  - 
+
+
+TY  - CHAP
+TI  - Ontology of Diffusion Models: Tools, Language and Architecture Design
+T2  - Diffusions in Architecture: Artificial Intelligence and Image Generators
+SP  - 44
+EP  - 54
+AU  - Matias Campo
+PY  - 2024
+KW  - Diffusion models
+KW  - Noise
+KW  - Cultural differences
+KW  - Ontologies
+KW  - Mathematical models
+KW  - Data models
+KW  - Text to image
+KW  - Computational modeling
+KW  - Noise reduction
+KW  - Machine learning algorithms
+DO  - 10.1002/9781394191802.ch7
+PB  - Wiley
+SN  - 9781394191796
+UR  - http://ieeexplore.ieee.org/document/10952262
+AB  - Summary <p>Diffusion models are a family of deep generative models that have surfaced in recent years. This chapter provides a vantage point for the ontology of diffusion models. Three versions of diffusion models are being discussed: stochastic differential equations, denoising diffusion probabilistic models, and score&#x2010;based generative models. To explain all the models, and even to attempt a categorization and discussion of all models regarding their cultural impact would be a profoundly naive approach to the problem, thus in a case diffusion models are representative for ideas about language, culture, and tools. In its very core humans are cultural beings, despite the fact that humans are generally measured by its ability to create artefacts. Just to mention a few of the various challenges for learning tools: facial recognition, fraud detection, medical diagnostics, voice recognition, traffic optimization, shipping automation, and many more.</p>
+ER  - 
+
+
+TY  - CONF
+TI  - Software architecture of advisory systems using agent and semantic Web technologies
+T2  - The 2005 IEEE/WIC/ACM International Conference on Web Intelligence (WI'05)
+SP  - 418
+EP  - 421
+AU  - J. Dunkel
+AU  - R. Bruns
+PY  - 2005
+KW  - Software architecture
+KW  - Semantic Web
+KW  - OWL
+KW  - Intelligent agent
+KW  - Ontologies
+KW  - Proposals
+KW  - Web and internet services
+KW  - Multiagent systems
+KW  - Computer science
+KW  - Art
+DO  - 10.1109/WI.2005.135
+JO  - The 2005 IEEE/WIC/ACM International Conference on Web Intelligence (WI'05)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - The 2005 IEEE/WIC/ACM International Conference on Web Intelligence (WI'05)
+Y1  - 19-22 Sept. 2005
+AB  - In this paper, we present the software architecture of a new generation of advisory systems using intelligent agent and semantic Web technologies. Software agents act as clients and advisors to implement negotiation processes in a consultancy situation. The domain knowledge is modeled with the OWL ontology language. Using an inference engine the agents reason on base of their knowledge to make decisions or proposals. The agent knowledge consists of private data and publicly accessible knowledge spread over different Web sites. As in a real consultancy an agent only reveals sensitive private data, if it is indispensable for finding a solution. Depending on the actual consultancy situation each agent dynamically expands its knowledge base by accessing OWL knowledge sources from the Internet.
+ER  - 
+
+
+TY  - JOUR
+TI  - A System for Orchestrating Multiple Procedurally Generated Content for Different Player Profiles
+T2  - IEEE Transactions on Games
+SP  - 64
+EP  - 74
+AU  - L. T. Pereira
+AU  - B. M. F. Viana
+AU  - C. F. M. Toledo
+PY  - 2024
+KW  - Video games
+KW  - Visualization
+KW  - Grammar
+KW  - Software architecture
+KW  - Procedural generation
+KW  - Content orchestration
+KW  - games
+KW  - player classification
+KW  - procedural content generation
+KW  - software architecture
+DO  - 10.1109/TG.2022.3213781
+JO  - IEEE Transactions on Games
+IS  - 1
+SN  - 2475-1510
+VO  - 16
+VL  - 16
+JA  - IEEE Transactions on Games
+Y1  - March 2024
+AB  - We propose a system able to orchestrate the procedural generation of three creative facets (levels, narrative, and rules), using quality-diversity algorithms to promote diversity while converging to the desired solutions and able to satisfy different player's profiles. We aim to facilitate the project's reproducibility and extension by presenting the system's architecture and high-level design decisions and showcasing how we decoupled it enough to change algorithms. Our generation starts with a grammar-based quest generator that works as a frame for two quality-diversity algorithms: a level generator, which also creates locked-door puzzles, and an enemy generator, which selects their visuals based on their weapons. A rule-based profile analysis uses a pretest questionnaire to classify the player into four profiles, and the quest generator creates different content for each of them. We use a game prototype to test our system with over 83 players, playing over 204 levels and answering a posttest questionnaire after each. Results show the game and contents were well received, and there was a difference in perception between profiles. Players who played content based on their profile enjoyed it more than those playing content from another profile.
+ER  - 
+
+
+TY  - CONF
+TI  - Formalizing Architectural Rules with Ontologies - An Industrial Evaluation
+T2  - 2019 26th Asia-Pacific Software Engineering Conference (APSEC)
+SP  - 55
+EP  - 62
+AU  - S. Schröder
+AU  - G. Buchgeher
+PY  - 2019
+KW  - Computer architecture
+KW  - Ontologies
+KW  - Software
+KW  - Software architecture
+KW  - Natural languages
+KW  - Semantics
+KW  - Tools
+KW  - software architecture
+KW  - architecture conformance checking
+KW  - industrial study
+KW  - ontologies
+DO  - 10.1109/APSEC48747.2019.00017
+JO  - 2019 26th Asia-Pacific Software Engineering Conference (APSEC)
+IS  - 
+SN  - 2640-0715
+VO  - 
+VL  - 
+JA  - 2019 26th Asia-Pacific Software Engineering Conference (APSEC)
+Y1  - 2-5 Dec. 2019
+AB  - Architecture conformance checking is an important means for quality control to assess that the system implementation adheres to its defined software architecture. Ideally, this process is automated to support continuous quality control. Many different approaches exist for automated conformance checking. However, these approaches are often limited in terms of supported concepts for describing and analyzing software architectures. We have developed an ontology-based approach that seeks to overcome the limited expressiveness of existing approaches. As a frontend of the formalism, we provide a Controlled Natural Language. In this paper, we present an industrial validation of the approach. For this, we collected architectural rules from three industrial projects. In total, we discovered 56 architectural rules in the projects. We successfully formalized 80% of those architectural rules. Additionally, we discussed the formalization with the corresponding software architect of each project. We found that the original intention of each architectural rule is properly reflected in the formalization. The results of the study show that projects could greatly benefit from applying an ontology-based approach, since it helps to precisely define and preserve concepts throughout the development process.
+ER  - 
+
+
+TY  - CONF
+TI  - Improving the performance of proposed multi-agent domain specific search engine using query refinement component
+T2  - 2010 5th International Symposium on Telecommunications
+SP  - 584
+EP  - 590
+AU  - E. Hajimani
+AU  - E. Nazemi
+PY  - 2010
+KW  - Ontologies
+KW  - Search engines
+KW  - Databases
+KW  - Web pages
+KW  - Intelligent agents
+KW  - Engines
+KW  - Semantics
+KW  - Search engines
+KW  - Domain ontology
+KW  - Fuzzy ontology
+KW  - intelligent agents
+KW  - query refinement
+DO  - 10.1109/ISTEL.2010.5734092
+JO  - 2010 5th International Symposium on Telecommunications
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2010 5th International Symposium on Telecommunications
+Y1  - 4-6 Dec. 2010
+AB  - The web size is increasing continuously. Chinese researchers have shown that web growth obeys the Moor's law and the Internet will double in size every 5.32 years. The more the Internet is growing; the more tendencies the people have to use the search engines. Moreover, since most of the commercial search engines are based on keyword indexing, there are many records in their result lists that are irrelevant to the user's information needs. It is shown that for retrieving more relevant and precise results, the following two points should be concerned: First of all, the query (either it is generated by a human or an intelligent agent) should be expressed in an accurate and exact manner. Second, we should empower search engines with the ability to capture the semantic relation between the words and the query context. Hence, different search engine architectures, each of which containing query refinement or semantic understanding components, have been proposed. Each architectural model has its own specific properties; but, most of them focus on only one of the two points mentioned above to improve the overall system efficiency. Moreover, in existing architectures, query refinement components have direct interaction with users which may either take their time or threat their privacy while gathering basic information. In this paper, we proposed an improved architectural model for agent and ontology based search engine which uses domain ontology for semantic understanding and a query refinement subsystem based on fuzzy ontology. This subsystem helps Search Agents to refine their queries, express them in a more precise way and get more relevant results. The simulation result shows that using this query refinement subsystem by Search Agents can improve the system efficiency up to 5.2%.
+ER  - 
+
+
+TY  - CONF
+TI  - Complementing model-driven development for the detection of software architecture erosion
+T2  - 2013 5th International Workshop on Modeling in Software Engineering (MiSE)
+SP  - 24
+EP  - 30
+AU  - S. Herold
+AU  - A. Rausch
+PY  - 2013
+KW  - Unified modeling language
+KW  - Computer architecture
+KW  - Object oriented modeling
+KW  - Software architecture
+KW  - Ontologies
+KW  - Java
+KW  - software architecture
+KW  - software architecture erosion
+KW  - architecture conformance checking
+KW  - inter-model consistency
+DO  - 10.1109/MiSE.2013.6595292
+JO  - 2013 5th International Workshop on Modeling in Software Engineering (MiSE)
+IS  - 
+SN  - 2156-7891
+VO  - 
+VL  - 
+JA  - 2013 5th International Workshop on Modeling in Software Engineering (MiSE)
+Y1  - 18-19 May 2013
+AB  - Detecting software architecture erosion is an important task during the development and maintenance of software systems. Even in model-driven approaches in which consistency between artifacts can partially be established by construction and consistency issues have been intensively investigated, the intended architecture and its realization may diverge with negative effects on software quality. In this article, we describe an approach to flexible architecture erosion detection for model-driven development approaches. Consistency constraints expressed by architectural aspects called architectural rules are specified as formulas on a common ontology, and models are mapped to instances of that ontology. A knowledge representation and reasoning system is then utilized to check whether these architectural rules are satisfied for a given set of models. We describe three case studies in which this approach has been used to detect architecture erosion flexibly and argue that the negative effects of architecture erosion can be minimized effectively.
+ER  - 
+
+
+TY  - CONF
+TI  - Ontology Proposal for Quality Oriented Reuse
+T2  - 2006 IEEE International Conference on Information Reuse & Integration
+SP  - 533
+EP  - 538
+AU  - P. Ghiotto
+AU  - M. Ortega
+AU  - A. Griman
+AU  - L. Mendoza
+AU  - M. Perez
+PY  - 2006
+KW  - Ontologies
+KW  - Proposals
+KW  - Programming
+KW  - Productivity
+KW  - Quality assurance
+KW  - History
+KW  - Software libraries
+KW  - Design engineering
+KW  - Software architecture
+KW  - Area measurement
+DO  - 10.1109/IRI.2006.252470
+JO  - 2006 IEEE International Conference on Information Reuse & Integration
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2006 IEEE International Conference on Information Reuse & Integration
+Y1  - 16-18 Sept. 2006
+AB  - Quality and productivity improvement are some advantages of reuse in the software development process. Although the reuse concept is not new, there is not a rigorous representation of related reuse concepts and quality. In this paper, we present a historical review of the reuse concepts, and ontology based on reuse definitions and its relation with quality assurance processes. This ontology is part of a research in progress that promotes reuse from the beginning of the software development process in a specific domain, focusing in quality criteria
+ER  - 
+
+
+TY  - CONF
+TI  - Towards a Semantic-driven Automation of Modelling and Co-Simulation of Energy Systems
+T2  - 2026 Open Source Modelling and Simulation of Energy Systems (OSMSES)
+SP  - 1
+EP  - 6
+AU  - M. Taheri
+AU  - P. R. Mazzarino
+AU  - D. S. Schiera
+PY  - 2026
+KW  - Semantic Web
+KW  - Limiting
+KW  - Semantics
+KW  - Pipelines
+KW  - Microgrids
+KW  - Manuals
+KW  - Syntactics
+KW  - Ontologies
+KW  - Standards
+KW  - Physics
+KW  - co-simulation
+KW  - ontology
+KW  - energy systems
+KW  - FMI
+KW  - semantic web
+KW  - knowledge representation
+KW  - digital twins
+DO  - 10.1109/OSMSES69376.2026.11457202
+JO  - 2026 Open Source Modelling and Simulation of Energy Systems (OSMSES)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 Open Source Modelling and Simulation of Energy Systems (OSMSES)
+Y1  - 23-25 March 2026
+AB  - Co-simulation of multi-domain energy systems requires coordinating heterogeneous models with complex physical interdependencies, yet existing platforms ensure only syntactic interoperability and depend on manual semantic checks, limiting configuration to experts fluent in both domain physics and orchestration tools. We introduce an ontology-driven framework that uses formal semantic descriptions and a multi-layer validation pipeline to automate this process. The framework aligns established simulation and energy standards within a four-tier architecture comprising structural checks, ontology-derived constraint validation, semantic reasoning over knowledge graphs, and a two-stage physical assessment integrating energy-carrier compatibility with component-level feasibility. Its contributions include automatic constraint generation from ontological axioms, unified verification of electrical properties and energy-carrier semantics, interactive semantic enrichment of legacy FMUs, and persistent composite models stored as reusable graph patterns. In a microgrid case study, the framework automatically identified physically invalid connections, reduced configuration effort, and enabled domain experts to define scenarios autonomously through semantic queries over the model catalog.
+ER  - 
+
+
+TY  - CONF
+TI  - MVC Test Orchestrator: SRS-Driven Architecture Extraction and Enforcement in AI-Assisted Software Development
+T2  - 2026 5th International Informatics and Software Engineering Conference (IISEC)
+SP  - 519
+EP  - 524
+AU  - İ. Dim
+AU  - Y. Saklavcı
+AU  - K. Aytekin
+AU  - M. Karakaya
+PY  - 2026
+KW  - Visualization
+KW  - Large language models
+KW  - Retrieval augmented generation
+KW  - Computer architecture
+KW  - Static analysis
+KW  - Turning
+KW  - Software
+KW  - Usability
+KW  - Software development management
+KW  - Testing
+KW  - Software Architecture Extraction
+KW  - Requirements Engineering
+KW  - Architecture Scaffolding
+KW  - Retrieval-Augmented Generation (RAG)
+DO  - 10.1109/IISEC69317.2026.11418519
+JO  - 2026 5th International Informatics and Software Engineering Conference (IISEC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 5th International Informatics and Software Engineering Conference (IISEC)
+Y1  - 5-6 Feb. 2026
+AB  - One of the biggest problems in modern software development is ensuring that the Software Requirements Specifications (SRS) align with the final software design. Manually turning requirements into designs takes a lot of time, costs more, and often leads to mistakes or misunderstandings. This article introduces MVC Test Orchestrator, a tool powered by large language models that automatically creates Model-View-Controller (MVC) designs and test-compliant constructs directly from SRS documents. The system uses large language models with a flexible, agent-based setup and methods such as Retrieval-Augmented Generation, rule-based reasoning, and structured steps to ensure design choices align with the original requirements. The created designs are saved in a computer-friendly JSON format and turned into basic MVC project templates, which help keep designs consistent, make it easier to trace requirements, and reduce manual work early in software design and testing. Tests on five SRS examples show that the system's designs are over 96% accurate and follow requirements, do about 2-3% better than people on key measures, and keep errors very low at under 0.5%, showing that MVC Test Orchestrator is a promising way to build software that closely follows requirements.
+ER  - 
+
+
+TY  - CONF
+TI  - Continuous Architectural Knowledge Integration: Making Heterogeneous Architectural Knowledge Available in Large-Scale Organizations
+T2  - 2017 IEEE International Conference on Software Architecture (ICSA)
+SP  - 189
+EP  - 192
+AU  - J. Musil
+AU  - F. J. Ekaputra
+AU  - M. Sabou
+AU  - T. Ionescu
+AU  - D. Schall
+AU  - A. Musil
+AU  - S. Biffl
+PY  - 2017
+KW  - Tools
+KW  - Semantics
+KW  - Cognition
+KW  - Adaptation models
+KW  - Software architecture
+KW  - Organizations
+KW  - Software
+KW  - Architectural knowledge management
+KW  - continuous software architecture
+KW  - semantic integration
+DO  - 10.1109/ICSA.2017.28
+JO  - 2017 IEEE International Conference on Software Architecture (ICSA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE International Conference on Software Architecture (ICSA)
+Y1  - 3-7 April 2017
+AB  - The timely discovery, sharing and integration of architectural knowledge (AK) have become critical aspects in enabling the software architects to make meaningful conceptual and technical design decisions and trade-offs. In large-scale organizations particular obstacles in making AK available to architects are a heterogeneous pool of internal and external knowledge sources, poor interoperability between AK management tools and limited support of computational AK reasoning. Therefore we introduce the Continuous Architectural Knowledge Integration (CAKI) approach that combines the continuous integration of internal and external AK sources together with enhanced semantic reasoning and personalization capabilities dedicated to large organizations. Preliminary evaluation results show that CAKI potentially reduces AK search effort by concurrently yielding more diverse and relevant results.
+ER  - 
+
+
+TY  - CONF
+TI  - Adaptive Service-Oriented Application Architecture and System Engineering
+T2  - 2006 18th IEEE International Conference on Tools with Artificial Intelligence (ICTAI'06)
+SP  - xx
+EP  - xx
+AU  - R. Paul
+PY  - 2006
+KW  - Systems engineering and theory
+KW  - Computer networks
+KW  - Grid computing
+KW  - Application software
+KW  - Computer architecture
+KW  - Government
+KW  - Companies
+KW  - Service oriented architecture
+KW  - Computer languages
+KW  - Software architecture
+DO  - 10.1109/ICTAI.2006.27
+JO  - 2006 18th IEEE International Conference on Tools with Artificial Intelligence (ICTAI'06)
+IS  - 
+SN  - 2375-0197
+VO  - 
+VL  - 
+JA  - 2006 18th IEEE International Conference on Tools with Artificial Intelligence (ICTAI'06)
+Y1  - 13-15 Nov. 2006
+AB  - Service-oriented computing is making strides due to acceptance by government and major computer and software companies, however there are several issues that we need to address. SOA is related to a number of traditional professional areas such as business models, programming languages, model construction, verification, software architecture and design, software reusability, databases, ontology, autonomic computing, grid computing, and computer networks.
+ER  - 
+
+
+TY  - CONF
+TI  - Ontology Based Test Case Reduction in Regression Testing
+T2  - 2023 26th International Conference on Computer and Information Technology (ICCIT)
+SP  - 1
+EP  - 6
+AU  - U. Farooq
+AU  - U. Qamar
+AU  - A. Shaukat
+AU  - A. Bakar
+AU  - Z. Ashraf
+AU  - M. Naz
+PY  - 2023
+KW  - Software testing
+KW  - Quality assurance
+KW  - Semantics
+KW  - Ontologies
+KW  - Software systems
+KW  - Testing
+KW  - Software engineering
+KW  - ontology
+KW  - test case reduction
+KW  - semantic knowledge
+KW  - regression testing
+KW  - software development
+KW  - software testing
+DO  - 10.1109/ICCIT60459.2023.10441049
+JO  - 2023 26th International Conference on Computer and Information Technology (ICCIT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 26th International Conference on Computer and Information Technology (ICCIT)
+Y1  - 13-15 Dec. 2023
+AB  - Ontology-based test case reduction in regression testing during software testing is a sophisticated approach that leverages semantic knowledge representation to optimize the selection of test cases. By harnessing domain-specific ontologies, this methodology facilitates a more intelligent and efficient reduction process, ensuring that only the most relevant test cases are retained for subsequent testing cycles. This research paper explores the application of ontology-based technique to enhance the efficiency of regression testing in software development. By leveraging ontological knowledge representations, the study introduces a novel approach for reducing the number of test cases while preserving test coverage, thereby significantly optimizing the regression testing process. The proposed framework not only streamlines testing efforts but also enhances the overall quality assurance of software systems, making it a valuable contribution to software engineering practices.
+ER  - 
+
+
+TY  - CONF
+TI  - Agentic RAG with Human-in-the-Retrieval
+T2  - 2025 IEEE 22nd International Conference on Software Architecture Companion (ICSA-C)
+SP  - 498
+EP  - 502
+AU  - X. Xu
+AU  - D. Zhang
+AU  - Q. Liu
+AU  - Q. Lu
+AU  - L. Zhu
+PY  - 2025
+KW  - Accuracy
+KW  - Software architecture
+KW  - Knowledge based systems
+KW  - Retrieval augmented generation
+KW  - Computer architecture
+KW  - Human in the loop
+KW  - Cognition
+KW  - Generators
+KW  - Planning
+KW  - RAG
+KW  - Agentic RAG
+KW  - GenAI
+DO  - 10.1109/ICSA-C65153.2025.00074
+JO  - 2025 IEEE 22nd International Conference on Software Architecture Companion (ICSA-C)
+IS  - 
+SN  - 2768-4288
+VO  - 
+VL  - 
+JA  - 2025 IEEE 22nd International Conference on Software Architecture Companion (ICSA-C)
+Y1  - 31 March-4 April 2025
+AB  - Retrieval-Augmented Generation (RAG) has emerged as a promising solution to address key challenges faced by GenAI, such as hallucination, outdated or non-removable parametric knowledge, and non-traceable reasoning processes. Existing RAG frameworks introduce dynamism into RAG process through adaptive, recursive and interactive usage of retriever and generator. More recently, agentic RAG adds another layer of intelligence to RAG by leveraging GenAI agents to further enhance dynamism by autonomously planning the retrieval process as a complex orchestration workflow with various external tools. However, current RAG architectures often overlook the significant role that domain experts can play in the retrieval process, alongside passive knowledge bases. This paper introduces a new paradigm for agentic RAG systems, capable of integrating external passive knowledge bases as well as active domain experts. This integration further enhances the versatility and factual accuracy of RAG systems. The paper discusses the key components of this new paradigm and examines the associated design challenges.
+ER  - 
+
+
+TY  - JOUR
+TI  - A Model Identity Card to Support Simulation Model Development Process in a Collaborative Multidisciplinary Design Environment
+T2  - IEEE Systems Journal
+SP  - 1151
+EP  - 1162
+AU  - G. Sirin
+AU  - C. J. J. Paredis
+AU  - B. Yannou
+AU  - E. Coatanéa
+AU  - E. Landel
+PY  - 2015
+KW  - Microwave integrated circuits
+KW  - Biological system modeling
+KW  - Vehicles
+KW  - Ontologies
+KW  - Adaptation models
+KW  - Computational modeling
+KW  - Collaboration
+KW  - common vocabulary
+KW  - model consistency
+KW  - multidisciplinary modeling
+KW  - ontology
+KW  - system engineering
+KW  - Collaboration
+KW  - common vocabulary
+KW  - model consistency
+KW  - multidisciplinary modeling
+KW  - ontology
+KW  - system engineering
+DO  - 10.1109/JSYST.2014.2371541
+JO  - IEEE Systems Journal
+IS  - 4
+SN  - 1937-9234
+VO  - 9
+VL  - 9
+JA  - IEEE Systems Journal
+Y1  - Dec. 2015
+AB  - Today, one of the major challenges in full-vehicle model creation is to get domain models from different experts while detecting any potential inconsistency problem before the Integration, Verification, Validation, and Qualification phase. To overcome such challenges, the conceptual design phase has been adapted to the current model development process. For that, the system engineers start to define the most relevant system architecture by respecting quality and time constraints. Next, the simulation model architects design the delivered system architecture in a more formal way with a modeling and simulation point of view to support the integration of domain-level simulation models in a consistent fashion. Finally, the model architects negotiate with different simulation model providers with the aim of specifying vehicle- and domain-level simulation models and their interface connections. To improve knowledge sharing between the mentioned actors, we propose a model identity card (MIC) for classifying simulation model knowledge, including input/output parameters, method, and usage specifications. The fundamental concepts that form the basis of all simulation models are identified and typed for implementation into a computational environment. An industrial case study of the engine-after-treatment model is used to show how MICs and the integrated model design phase might be used in a given scenario. A validation protocol is conducted through a heuristic observation to estimate the rate of model rework and ambiguity reduction.
+ER  - 
+
+
+TY  - CONF
+TI  - Architectural Refactoring for Functional Properties in Evolutionary Architecture
+T2  - 2022 IEEE 19th International Conference on Software Architecture (ICSA)
+SP  - 146
+EP  - 156
+AU  - N. Chondamrongkul
+AU  - J. Sun
+PY  - 2022
+KW  - Software architecture
+KW  - Design methodology
+KW  - Conferences
+KW  - Software algorithms
+KW  - Computer architecture
+KW  - Model checking
+KW  - Software systems
+KW  - Design Refactoring
+KW  - Formal Method
+KW  - Model Checking
+KW  - Functional property
+KW  - Evolutionary Architecture
+DO  - 10.1109/ICSA53651.2022.00022
+JO  - 2022 IEEE 19th International Conference on Software Architecture (ICSA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE 19th International Conference on Software Architecture (ICSA)
+Y1  - 12-15 March 2022
+AB  - The evolutionary architecture supports software systems to make small functional changes frequently and reliably. With fitness functions defined, we can ensure that the architectural goals are met as the system evolves. However, some functionality changes cause architectural changes, which impact a large part of the software system. Therefore, we aim at ensuring that changes in the architectural design do not impact the existing functionalities, while new functionalities are incorporated into the new design. This paper proposes an approach to automate architectural design refactoring that supports changes in functionalities. Our approach applies formal modeling and verification to refactor and verify the evolution process of software systems. The proposed algorithms help to automatically refactor the design by referencing the given architecture design. With our appproach, the evolution process can be planned and formally verified to guarantee that the system can evolve safely to support functionality changes. We evaluated our approach with four real-world systems. The results show the effectiveness of our refactoring approach to support new functional properties.
+ER  - 
+
+
+TY  - CONF
+TI  - Implementing a Student Rover Design Exercise in the Digital Engineering Factory
+T2  - 2024 IEEE Aerospace Conference
+SP  - 1
+EP  - 11
+AU  - J. Gregory
+AU  - A. Salado
+PY  - 2024
+KW  - Space vehicles
+KW  - Structured Query Language
+KW  - Software architecture
+KW  - Project management
+KW  - Knowledge graphs
+KW  - Computer architecture
+KW  - Ontologies
+DO  - 10.1109/AERO58975.2024.10521444
+JO  - 2024 IEEE Aerospace Conference
+IS  - 
+SN  - 1095-323X
+VO  - 
+VL  - 
+JA  - 2024 IEEE Aerospace Conference
+Y1  - 2-9 March 2024
+AB  - One area of digital engineering that has received significant attention in recent years is the digital thread. The digital thread refers to the integration of digital information across the entire lifecycle of a system. This necessarily means that different engineering tools, each supporting some aspect of the system lifecycle, must be integrated in some way as to enable the seamless transfer and utilization of data. Today’s industry leaders consider digital thread initiatives to be a top priority. Engineering education has the potential to benefit significantly from the deployment of a digital thread. Integrating data across multiple engineering courses would enable students to see a complete end-to-end engineering process, observe the consequences of their decisions downstream, gain experience working collaboratively in a digital environment, and evaluate each other’s work more effectively. Students no longer submit homework, but commit models to a repository. In this paper, the authors detail the application of the Digital Engineering Factory (DEF) to an example student project. The DEF is a browser-based collaborative engineering environment under development by the authors to support systems and software engineering students at the University of Arizona. The DEF enables the integration of data from tools spanning multiple engineering domains, covering project management, information artifacts, reporting, enterprise architecture, system and software architecture, acquisition, requirements, analysis, verification, and manufacturing. The DEF is also capable of generating a Resource Description Framework (RDF) representation of a dataset to enable the application of semantic web technologies such as reasoning, validation, and querying. A Mars Rover student design exercise that spans multiple engineering courses is defined. Rover requirements have been captured in Jama Connect. The Rover architecture has been modeled using Duro. Student responsibilities have been captured in Jira. The entire project dataset is captured in the DEF, and a representative RDF knowledge graph is generated. This knowledge graph enables students to validate their work and enables querying to support grading by instructors.
+ER  - 
+
+
+TY  - CONF
+TI  - Towards OpenWorld Software Architectures with Semantic Architectural Styles, Components and Connectors
+T2  - 2009 14th IEEE International Conference on Engineering of Complex Computer Systems
+SP  - 40
+EP  - 49
+AU  - W. Zhang
+AU  - K. M. Hansen
+AU  - J. Fernandes
+PY  - 2009
+KW  - Software architecture
+KW  - Connectors
+KW  - Pervasive computing
+KW  - Open wireless architecture
+KW  - OWL
+KW  - Semantic Web
+KW  - Runtime
+KW  - Java
+KW  - Ontologies
+KW  - Computer science
+KW  - software architectures
+KW  - OWL/SWRL
+KW  - open world software
+KW  - validation
+KW  - component
+KW  - connector
+DO  - 10.1109/ICECCS.2009.7
+JO  - 2009 14th IEEE International Conference on Engineering of Complex Computer Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 14th IEEE International Conference on Engineering of Complex Computer Systems
+Y1  - 2-4 June 2009
+AB  - There is a growing trend to develop open world softwarewith the forthcoming of the pervasive computing era.Traditional research on software architecture, components,and connectors is not geared towards the characteristicsof open world software, and are not easily used in openworld environments. In this paper, we present an extensibleknowledge base called SACoCo (Semantic Architecturalstyles, Components, and Connectors), by applying WebOntology Language (OWL) and Semantic Web Rule Language(SWRL) where an Open World Assumption (OWA)is adopted. Runtime validations of component configurationsand software architectural styles can be specified withSWRL rules. SACoCo improves the semantics of classicalarchitectural styles, components and connectors, andcan be used to dynamically validate software architecturalstyles and component configurations. Experiments with apervasive web service compiler using OSGi and the Repositorystyle show that the knowledge base is effective in improvingthe semantics of components and connectors, andis effective to validate component configurations and architectural styles, especially in open world environments.
+ER  - 
+
+
+TY  - CONF
+TI  - ReSA: An ontology-based requirement specification language tailored to automotive systems
+T2  - 10th IEEE International Symposium on Industrial Embedded Systems (SIES)
+SP  - 1
+EP  - 10
+AU  - N. Mahmud
+AU  - C. Seceleanu
+AU  - O. Ljungkrantz
+PY  - 2015
+KW  - Ontologies
+KW  - Vehicles
+KW  - Automotive engineering
+KW  - Syntactics
+KW  - Natural languages
+KW  - Grammar
+KW  - Semantics
+DO  - 10.1109/SIES.2015.7185035
+JO  - 10th IEEE International Symposium on Industrial Embedded Systems (SIES)
+IS  - 
+SN  - 2150-3117
+VO  - 
+VL  - 
+JA  - 10th IEEE International Symposium on Industrial Embedded Systems (SIES)
+Y1  - 8-10 June 2015
+AB  - Automotive systems are developed using multi-leveled architectural abstractions in an attempt to manage the increasing complexity and criticality of automotive functions. Consequently, well-structured and unambiguously specified requirements are needed on all levels of abstraction, in order to enable early detection of possible design errors. However, automotive industry often relies on requirements specified in ambiguous natural language, sometimes in large and incomprehensible documents. Semi-formal requirements specification approaches (e.g., requirement boilerplates, pattern-based specifications, etc.) aim to reduce requirements ambiguity, without altering their readability and expressiveness. Nevertheless, such approaches do not offer support for specifying requirements in terms of multi-leveled architectural concepts, nor do they provide means for early-stage rigorous analysis of the specified requirements. In this paper, we propose a language, called ReSA, which allows requirements specification at various levels of abstraction, modeled in the architectural language of EAST-ADL. ReSA uses an automotive systems' ontology that offers typing and syntactic axioms for the specification. Besides enforcing structure and more rigor in specifying requirements, our approach enables checking refinement as well as consistency of requirements, by proving ordinary boolean implications. To illustrate ReSA's applicability, we show how to specify some requirements of the Adjustable Speed Limiter, which is a complex, safety-critical Volvo Trucks user function.
+ER  - 
+
+
+TY  - CONF
+TI  - CONNECT Challenges: Towards Emergent Connectors for Eternal Networked Systems
+T2  - 2009 14th IEEE International Conference on Engineering of Complex Computer Systems
+SP  - 154
+EP  - 161
+AU  - V. Issarny
+AU  - B. Steffen
+AU  - B. Jonsson
+AU  - G. Blair
+AU  - P. Grace
+AU  - M. Kwiatkowska
+AU  - R. Calinescu
+AU  - P. Inverardi
+AU  - M. Tivoli
+AU  - A. Bertolino
+AU  - A. Sabetta
+PY  - 2009
+KW  - Connectors
+KW  - Network synthesis
+KW  - Protocols
+KW  - Digital systems
+KW  - Ontologies
+KW  - Middleware
+KW  - Computer networks
+KW  - Distributed computing
+KW  - Bridges
+KW  - Embedded software
+DO  - 10.1109/ICECCS.2009.44
+JO  - 2009 14th IEEE International Conference on Engineering of Complex Computer Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2009 14th IEEE International Conference on Engineering of Complex Computer Systems
+Y1  - 2-4 June 2009
+AB  - The CONNECT European project that started in February 2009 aims at dropping the interoperability barrier faced by todaypsilas distributed systems. It does so by adopting a revolutionary approach to the seamless networking of digital systems, that is, synthesizing on the fly the connectors via which networked systems communicate. CONNECT then investigates formal foundations for connectors together with associated automated support for learning, reasoning about and adapting the interaction behavior of networked systems.
+ER  - 
+
+
+TY  - CONF
+TI  - Vastu Generative Framework (VGF): A Hybrid AI Framework for Vastu-Compliant Architectural Layout Generation
+T2  - 2026 2nd International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health Informatics (IC3ECSBHI)
+SP  - 1
+EP  - 5
+AU  - A. Kumar
+AU  - R. Malik
+AU  - M. Mahapatra
+AU  - S. Verma
+AU  - P. Arora
+PY  - 2026
+KW  - Central Processing Unit
+KW  - Protocols
+KW  - Communication systems
+KW  - HTTP
+KW  - Internet
+KW  - Radio access networks
+KW  - Regional area networks
+KW  - SIMO
+KW  - Computer networks
+KW  - Fuses
+KW  - Vastu Shastra
+KW  - generative AI
+KW  - architectural design
+KW  - simulated annealing
+KW  - constraint optimization
+KW  - cultural computing
+KW  - LLM orchestration
+DO  - 10.1109/IC3ECSBHI67834.2026.11469006
+JO  - 2026 2nd International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health Informatics (IC3ECSBHI)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 2nd International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health Informatics (IC3ECSBHI)
+Y1  - 12-14 Feb. 2026
+AB  - Architectural design requires knowledge and expertise in space planning, technical and cultural standards. Existing tools are either used to analyze designs that already exists, or to produce layouts without cultural context. This creates a disconnected workflow requiring iterative manual corrections. This paper introduces methodology Vastu Generative Framework (VGF) which is a hybrid Artificial Intelligence (AI) architecture that generates the Vastu compliant architectural plan directly from Natural Language input. The framework includes large language models (LLMs) on requirements extraction, a new Vastu Potential Map on how to convert the expression into continuous suitability landscapes, and a rule-based optimiser of Simulated Annealing to optimise both architectural and Vastu Shastra requirements constraints. Experiments with rectangular, L-shaped and triangular plots have proven that the maximum VGF complies between $85-94 \%$ with zero geometric overlaps where methods based on the baseline yield only between 15 45% compliance. The system produces production ready vector layouts at practical solve times ranging between 30 seconds to 90 seconds with a residential configuration. This means combining traditional's architectural wisdom with this modern, generative artificial intelligence technology; this transformative new workforce means that culturally aware design has become a reality for the user without needing technical expertise from this process or repeated iteration
+ER  - 
+
+
+TY  - CONF
+TI  - From Linguistic Linked Open Data to Multimodal Natural Interaction: A Case Study
+T2  - 2018 22nd International Conference Information Visualisation (IV)
+SP  - 315
+EP  - 320
+AU  - M. Grazioso
+AU  - V. Cera
+AU  - M. Di Maro
+AU  - A. Origlia
+AU  - F. Cutugno
+PY  - 2018
+KW  - Semantics
+KW  - Three-dimensional displays
+KW  - Cultural differences
+KW  - Solid modeling
+KW  - Art
+KW  - Vocabulary
+KW  - Thesauri
+KW  - data model, VOCABULARIES BASED ONTOLOGY, multimodal interaction
+DO  - 10.1109/iV.2018.00060
+JO  - 2018 22nd International Conference Information Visualisation (IV)
+IS  - 
+SN  - 2375-0138
+VO  - 
+VL  - 
+JA  - 2018 22nd International Conference Information Visualisation (IV)
+Y1  - 10-13 July 2018
+AB  - We present here the conversion of Linguistic Linked Open Data into Semantic Maps to be used to produce contents in a set of technological applications for Cultural Heritage. The paper describes the architectural data collection and annotation procedure adopted in the Cultural Heritage Orienting Multimodal Experiences (CHROME) project (PRIN 2015 funded by Italian University and Research Ministry). Such data will be used in Multimodal Dialogue Systems to obtain precise information about Architectural Heritage, by means of pointing gestures or verbal requests. In particular, we design conversational agents accessing fine-detailed semantic data linked to available 3D models of historical buildings. The starting point of our scientific approach is the Getty Vocabulary on Art & Architecture Thesaurus, integrated with the Getty Thesaurus of Geographic Names (TGN) and the Union List of Artist Names (ULAN). These data are related to 3D mesh of the considered buildings in order to associate abstract concepts to architectural elements. In the field of 3D architectural investigation, a significant amount of research has been conducted to allow domain experts to represent semantic data while keeping spatial references. We will discuss how this will make it possible to support multimodal user interaction and generate Cultural Heritage presentations.
+ER  - 
+
+
+TY  - CONF
+TI  - AI Driven Self Healing Software Architectures for Automated Code Diagnostics and Repair
+T2  - 2025 International Conference on Sustainable Communication Networks and Application (ICSCN)
+SP  - 1728
+EP  - 1735
+AU  - C. Maddilety
+AU  - G. Lokesh
+AU  - A. V. Vathsala
+AU  - M. Swapna
+AU  - K. Samunnisa
+AU  - M. Bhavsingh
+PY  - 2025
+KW  - Location awareness
+KW  - Runtime
+KW  - Software architecture
+KW  - Fault detection
+KW  - Computer architecture
+KW  - Maintenance engineering
+KW  - Transformers
+KW  - Software systems
+KW  - Real-time systems
+KW  - Biological information theory
+KW  - Self-healing software
+KW  - automated program repair
+KW  - biological computing
+KW  - transformer models
+KW  - fault localization
+KW  - neural patch generation
+KW  - runtime resilience
+DO  - 10.1109/ICSCN67106.2025.11308520
+JO  - 2025 International Conference on Sustainable Communication Networks and Application (ICSCN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2025 International Conference on Sustainable Communication Networks and Application (ICSCN)
+Y1  - 15-17 Oct. 2025
+AB  - Modern software systems deployed in safety- critical and real-time environments demand continuous operation and resilience to unforeseen faults. Traditional fault-handling mechanisms rely on reactive, rule-based strategies and manual debugging, which are insufficient for dynamic, autonomous systems. Inspired by biological repair mechanisms, this study proposes a self-healing software architecture capable of autonomous fault detection, diagnosis, and patching at runtime. The primary objective of this research is to design and evaluate a biologically inspired, AI-driven framework that performs real-time software fault recovery with minimal human intervention. The proposed architecture integrates a transformer-based fault localization engine with a neural patch synthesis model trained on the ManySStuBs4J dataset. Runtime fault detection and control are handled through a modular feedback mechanism that ensures safe patch deployment and rollback. Evaluation is conducted using the Defects4J and ManySStuBs4J datasets across 395 real-world bugs and over 150,000 bug-fix pairs. Experimental results demonstrate that the proposed system achieves a fault localization accuracy of 88.6%, patch generation success rate of 74.2%, and patch correctness rate of 68.3%, while maintaining a mean patch generation latency of 310.4ms —substantially outperforming state-of-the- art baselines including GenProg, DeepFix, and RLRepair. This architecture advances the state of autonomous software repair by combining biological principles with machine learning, enabling scalable, low-latency, and deployable self-healing capabilities for mission-critical applications.
+ER  - 
+
+
+TY  - CONF
+TI  - Process of s-maintenance: decision support system for maintenance intervention
+T2  - 2005 IEEE Conference on Emerging Technologies and Factory Automation
+SP  - 8 pp.
+EP  - 686
+AU  - I. Rasoyska
+AU  - B. Chebel-Morello
+AU  - N. Zerhouni
+PY  - 2005
+KW  - Decision support systems
+KW  - Maintenance
+KW  - Application software
+KW  - Software architecture
+KW  - Ontologies
+KW  - Problem-solving
+KW  - Logistics
+KW  - Scheduling
+KW  - Cost function
+KW  - Power generation economics
+DO  - 10.1109/ETFA.2005.1612741
+JO  - 2005 IEEE Conference on Emerging Technologies and Factory Automation
+IS  - 
+SN  - 1946-0759
+VO  - 2
+VL  - 2
+JA  - 2005 IEEE Conference on Emerging Technologies and Factory Automation
+Y1  - 19-22 Sept. 2005
+AB  - The European project Proteus aimed at developing a generic software architecture for Web-based e-maintenance. The goal was to propose a good technical and management support to optimize the maintenance strategy, to improve maintenance performance and reliability and finally to reduce maintenance costs. We introduce a notion of semantic e-maintenance platform based on the common semantic and ontology. We propose the decision support system for maintenance intervention based on this architecture and on the case based reasoning as the problem solving method. The ontology is used in the CBR cycle to improve the principles of its retrieve and reuse phases.
+ER  - 
+
+
+TY  - CONF
+TI  - Towards Continuous Round-Trip Engineering of Architectural Performance Models
+T2  - 2026 IEEE 23rd International Conference on Software Architecture Companion (ICSA-C)
+SP  - 409
+EP  - 416
+AU  - A. T. Genç
+AU  - M. Armbruster
+AU  - M. Mazkatli
+AU  - A. Koziolek
+PY  - 2026
+KW  - Codes
+KW  - Modeling
+KW  - Source coding
+KW  - Java
+KW  - Phase change materials
+KW  - Propagation
+KW  - Software
+KW  - Printing
+KW  - Instant messaging
+KW  - Software architecture
+KW  - software architecture model
+KW  - consistency preservation
+KW  - performance model
+KW  - round-trip engineering
+DO  - 10.1109/ICSA-C68850.2026.00079
+JO  - 2026 IEEE 23rd International Conference on Software Architecture Companion (ICSA-C)
+IS  - 
+SN  - 2768-4288
+VO  - 
+VL  - 
+JA  - 2026 IEEE 23rd International Conference on Software Architecture Companion (ICSA-C)
+Y1  - 22-26 June 2026
+AB  - Architectural performance models (APMs) achieve a high-level view on source code, enriched with performancerelated annotations. This allows performance predictions to explore design alternatives. As a result, the APM can be adapted to gained insights. Since iterative software development practices (e.g., DevOps) embrace frequent code changes, keeping APMs and their source code consistent can become challenging and laborious. Thus, we want to investigate the continuous roundtrip engineering between APMs and source code in DevOps. In this paper, we report on our current work in progress in this direction, where we build upon the Continuous Integration of architectural Performance Models approach, which handles the code-to-APM direction. In this paper, we present an approach for the direction APM to code, which obtains changes on an APM, preprocesses them, and (semi-)automatically propagates them via incremental, rule-based model transformations to the source code. We prototypically implemented parts of the approach and provide an initial evaluation. In the future, we plan to extend the implementation and evaluation and to investigate the role of LLMs.
+ER  - 
+
+
+TY  - CONF
+TI  - Mastering Reference Architectures with Modeling Assistants
+T2  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+SP  - 705
+EP  - 709
+AU  - A. Di Salle
+AU  - L. Iovino
+AU  - L. Mariani
+PY  - 2023
+KW  - Knowledge based systems
+KW  - Sociology
+KW  - Software systems
+KW  - Model driven engineering
+KW  - Mobile applications
+KW  - Security
+KW  - Feeds
+KW  - reference architecture
+KW  - architectural model
+KW  - modeling assistants
+KW  - mining architectures
+DO  - 10.1109/MODELS-C59198.2023.00113
+JO  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 ACM/IEEE International Conference on Model Driven Engineering Languages and Systems Companion (MODELS-C)
+Y1  - 1-6 Oct. 2023
+AB  - Reference architectures (RA) can significantly simplify and speed up the design and evolution of software systems in virtually any domain. Rather than starting from scratch or trying to reuse models not meant for reuse, software architects can exploit RAs to initiate their designs from rigorously-defined architectural models specifically defined to support reuse. RAs can guarantee the satisfaction of key functional and non-functional requirements, including those related to technical and societal challenges, such as security and sustainability, significantly reducing the design effort and improving the design quality. The growing popularity of RAs is confirmed by the many providers, including Amazon AWS, Microsoft Azure, IBM, and Salesforce, that offer RAs for application deployment on their infrastructures. Unfortunately, RAs are expensive to define since they must comprehensively synthesize the design knowledge of specific application domains (e.g., e-commerce, automotive, etc.) and technical contexts (e.g., cloud systems, mobile apps, IoT, etc.). This challenge limits the availability of RAs to a few domains and contexts, hindering their adoption. We envision the opportunity to facilitate RA-based design by introducing a novel combination of mining in-the-wild and continuous knowledge refinement through a framework named ASSISTRA. Mining in-the-wild consists of bots crawling architectural models at scale (e.g., from public repos) and analyzing them continuously to automatically synthesize RAs and extract RAs-related practices that shall feed knowledge bases. Continuous knowledge refinement consists of a population of recommender systems that, while interactively supporting the architects in their activity using the shared knowledge bases, shall continuously refine the mined content in the knowledge base (e.g., based on architects accepting, modifying, or rejecting suggestions). This process shall generate high-quality recommendations, drastically simplifying the design activity. This paper elaborates on this vision, highlights the key challenges, and calls for novel research contributions.
+ER  - 
+
+
+TY  - CONF
+TI  - Towards a System of Systems Engineering Architecture Framework
+T2  - 2022 17th Annual System of Systems Engineering Conference (SOSE)
+SP  - 221
+EP  - 226
+AU  - C. Mandel
+AU  - M. Guenther
+AU  - A. Martin
+AU  - E. Windisch
+AU  - N. Bursac
+AU  - S. Rapp
+AU  - H. Anacker
+AU  - A. Albers
+PY  - 2022
+KW  - Industries
+KW  - Production systems
+KW  - Conferences
+KW  - Companies
+KW  - Modeling
+KW  - Interviews
+KW  - Complex systems
+KW  - ASE
+KW  - MBSE
+KW  - Ontology
+KW  - PGE
+KW  - Viewpoints
+DO  - 10.1109/SOSE55472.2022.9812634
+JO  - 2022 17th Annual System of Systems Engineering Conference (SOSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 17th Annual System of Systems Engineering Conference (SOSE)
+Y1  - 7-11 June 2022
+AB  - Model-based approaches such as Model-Based Systems Engineering (MBSE) are widely regarded as a necessity to enable and support the development of ever more complex Systems of Systems (SoS). A key to the application of model-based development approaches in companies is the introduction of systems engineering architecture frameworks (SEAF) to structure the models of systems to be developed. This paper displays the research to develop a SEAF for SoS. Through workshops and interviews with 18 partners from industry and research, we derived perspectives to be considered for describing and modeling SoS. By analyzing existing SEAFs from literature we concluded, that not all perspectives we identified as relevant are covered by a single framework. Based on our research, especially the explicit consideration of SoS characteristics such as autonomy and interdependence, the integrated consideration of product, production system and validation system development, as well as consideration of different product generations and (re-)use of models appears to be not profoundly addressed. Advancing the state of research, we therefore propose a six-dimensional SoS engineering architecture framework to cover all perspectives we identified as relevant. The proposed framework can further serve as a reference for developers to derive and build specific frameworks tailored to their needs while at the same time supporting consistency, reusability and compatibility of the specific frameworks. The presented framework is an initial proposition which continuously being used and evaluated by its application to structure modeling for a variety of real systems from different industries. Insights from the application are fed back for its further development.
+ER  - 
+
+
+TY  - CONF
+TI  - Relating CHAM descriptions of software architectures
+T2  - Proceedings of the 8th International Workshop on Software Specification and Design
+SP  - 66
+EP  - 74
+AU  - P. Inverardi
+AU  - D. Yankelevich
+PY  - 1996
+KW  - Software architecture
+KW  - Computer architecture
+KW  - Biomembranes
+DO  - 10.1109/IWSSD.1996.501148
+JO  - Proceedings of the 8th International Workshop on Software Specification and Design
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Proceedings of the 8th International Workshop on Software Specification and Design
+Y1  - 22-23 March 1996
+AB  - We propose an approach to compare descriptions of software architectures based on the CHAM formalism. The need to compare descriptions of the same system at different level of abstraction often arises typically when the software practice uses a stepwise refinement approach. Differently from other approaches presented in the literature, our framework allows for expressing correct refinement both of the static structure and of the dynamic behaviour of an architecture. Statically we rely on a suitable definition of partial morphism between the signatures of the two architectures. Dynamically we propose a notion of structure preserving simulation which allows the behaviours of the two CHAM descriptions to be (pre orderly) related. In both definitions an important role is played by the membrane construct which allows for expressing non functional constraints on the architecture to be refined. The main idea is to use the membranes to denote basic software components of the architecture that can be further decomposed during a refinement process but that cannot be destroyed even if the behaviour of the overall system is preserved. One point in favour of our approach is that we do not constrain too much the further development since we only require the membrane structure to be preserved.
+ER  - 
+
+
+TY  - CONF
+TI  - An ontology-driven framework for supporting complex decision process
+T2  - 2010 World Automation Congress
+SP  - 1
+EP  - 6
+AU  - J. Chai
+AU  - J. N. K. Liu
+PY  - 2010
+KW  - Problem-solving
+KW  - Semantics
+KW  - Decision support systems
+KW  - Ontology
+KW  - group decision-making
+KW  - decision process
+KW  - workshop system
+KW  - GDSS
+DO  - 
+JO  - 2010 World Automation Congress
+IS  - 
+SN  - 2154-4824
+VO  - 
+VL  - 
+JA  - 2010 World Automation Congress
+Y1  - 19-23 Sept. 2010
+AB  - The study proposes a framework of ONTOlogy-based Group Decision Support System (ONTOGDSS) for decision process which exhibits the complex structure of decision-problem and decision-group. It is capable of reducing the complexity of problem structure and group relations. The system allows decision makers to participate in group decision-making through the web environment, via the ontology relation. It facilitates the management of decision process as a whole, from criteria generation, alternative evaluation, and opinion interaction to decision aggregation. The embedded ontology structure in ONTOGDSS provides the important formal description features to facilitate decision analysis and verification. It examines the software architecture, the selection methods, the decision path, etc. Finally, the ontology application of this system is illustrated with specific real case to demonstrate its potentials towards decision-making development.
+ER  - 
+
+
+TY  - CONF
+TI  - Fostering Exploration of Georeferenced Data Semantics for Supporting E-government Initiatives
+T2  - 2018 International Conference on eDemocracy & eGovernment (ICEDEG)
+SP  - 223
+EP  - 228
+AU  - A. Maigua-Quinteros
+AU  - W. Pérez-Nata
+AU  - F. Fernández-Peña
+AU  - P. Urrutia-Urrutia
+PY  - 2018
+KW  - Semantics
+KW  - Ontologies
+KW  - Prototypes
+KW  - Electronic government
+KW  - Proposals
+KW  - OWL
+KW  - User interfaces
+KW  - web ontologies
+KW  - semantics
+KW  - georeferenced data
+KW  - data retrievement
+DO  - 10.1109/ICEDEG.2018.8372363
+JO  - 2018 International Conference on eDemocracy & eGovernment (ICEDEG)
+IS  - 
+SN  - 2573-1998
+VO  - 
+VL  - 
+JA  - 2018 International Conference on eDemocracy & eGovernment (ICEDEG)
+Y1  - 4-6 April 2018
+AB  - Proper data retrievement is fundamental for decision making in e-governments initiatives. In this paper, the influence of the explicit declaration of the semantics of georeferenced data in the acceptance of a semantically-enriched data retriever for e-government is evaluated. The semantics of the georeferenced data were formalized and a prototype of data retriever was built. Our premise was that the explicit encoding of the semantics of data items and of the relationships among data views allows to generate dynamic reports from a generic data source. A case study was carried out for the analysis of human behavior in a learning process based on social media and the results confirmed us the positive impact of integrating the concept of tabular view with an interactive map component in order to facilitate data interpretation and the navigation among semantically annotated data views.
+ER  - 
+
+
+TY  - JOUR
+TI  - FINDER, a system providing complex decision support for commercial transport replanning operations
+T2  - IEEE Aerospace and Electronic Systems Magazine
+SP  - 12
+EP  - 19
+AU  - V. Bittermann
+AU  - G. Deker
+AU  - P. Sassus
+AU  - J. . -C. Mielnik
+AU  - J. . -M. Jud
+PY  - 1994
+KW  - Aircraft
+KW  - Knowledge based systems
+KW  - Real time systems
+KW  - Aerospace electronics
+KW  - Air traffic control
+KW  - Artificial intelligence
+KW  - Design optimization
+KW  - Constraint optimization
+KW  - Automation
+KW  - Certification
+DO  - 10.1109/62.275376
+JO  - IEEE Aerospace and Electronic Systems Magazine
+IS  - 3
+SN  - 1557-959X
+VO  - 9
+VL  - 9
+JA  - IEEE Aerospace and Electronic Systems Magazine
+Y1  - March 1994
+AB  - Decision-aid systems, likely to appear in future aircraft generations, could play a central role in the cockpit thanks to the broad spectrum of functionalities and decision support facilities they will offer to the crew. As part of such systems, the exploratory FINDER mock-up is a knowledge-based system (KBS) designed to help crew members continually optimize their flight plan by suggesting solutions considering exhaustive information related to flight context, either on pilot request or upon external information occurrence. The successful evaluation by AIR FRANCE pilots of that first mock-up dedicated to diversion procedure on pilot request has led to the current development of an enhanced system with nominal Enroute operations and real-time capabilities. Nominal Enroute operations concern the optimization with respect to an evolutive constraining or favouring environment (due to weather, traffic or regulated areas, ETOPS constraints). This study paves the way for a future Flight Assistant System concept which is already under investigation and may take place in SEXTANT Avionique's future development steps.<>
+ER  - 
+
+
+TY  - CONF
+TI  - Knowledge-Enhanced Generative Method for Preliminary Residential Layout Design Using Large Language Models
+T2  - 2025 44th Chinese Control Conference (CCC)
+SP  - 9193
+EP  - 9198
+AU  - C. Wang
+AU  - Y. Dang
+AU  - K. Wang
+PY  - 2025
+KW  - PSNR
+KW  - Large language models
+KW  - Layout
+KW  - Knowledge based systems
+KW  - Stability criteria
+KW  - Process control
+KW  - Transforms
+KW  - Reliability engineering
+KW  - Standards
+KW  - Principal component analysis
+KW  - Large Language Models (LLMs)
+KW  - Preliminary Residential Layout
+KW  - Generative Design
+DO  - 10.23919/CCC64809.2025.11178835
+JO  - 2025 44th Chinese Control Conference (CCC)
+IS  - 
+SN  - 1934-1768
+VO  - 
+VL  - 
+JA  - 2025 44th Chinese Control Conference (CCC)
+Y1  - 28-30 July 2025
+AB  - This research introduces a knowledge-enhanced generative method for preliminary residential layout design with Graph Topological Constraints using large language models (LLMs), addressing the intricate requirements and expertise needed in architectural design. Leveraging the RPLAN dataset of over 80,000 real residential layouts, the study transforms layout data into graph-structured formats and develops a specialized knowledge base, encapsulating essential elements such as room types, spatial relationships, area metrics, and adjacency matrices. This enhancement improves the LLMs' capability to generate high-quality, adaptable preliminary designs that meet complex spatial and functional constraints. The generated layouts undergo a comprehensive evaluation using Structural Similarity Index (SSIM), Jaccard similarity, and Peak Signal-to-Noise Ratio (PSNR), complemented by Principal Component Analysis (PCA) to assess real-world data alignment and a professional building standards score assessment. Results show that the knowledge-enhanced LLM method surpasses traditional fine-tuning approaches, producing layouts with strong structural coherence and spatial accuracy while showing potential for scaling to more complex designs. This study provides a foundational approach for integrating LLMs into architectural layout generation, presenting a robust and efficient tool to streamline the architectural design process.
+ER  - 
+
+
+TY  - CONF
+TI  - Development of collaborative editing applications through semantic publish-subscribe platforms
+T2  - 2017 21st Conference of Open Innovations Association (FRUCT)
+SP  - 351
+EP  - 357
+AU  - F. Viola
+AU  - F. Antoniazzi
+AU  - A. D'Elia
+AU  - G. Corsi
+AU  - L. Roffia
+AU  - T. S. Cinotti
+PY  - 2017
+KW  - Collaboration
+KW  - Semantics
+KW  - Ontologies
+KW  - Graphics
+KW  - Semantic Web
+KW  - Publish-subscribe
+KW  - Knowledge based systems
+DO  - 10.23919/FRUCT.2017.8250203
+JO  - 2017 21st Conference of Open Innovations Association (FRUCT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 21st Conference of Open Innovations Association (FRUCT)
+Y1  - 6-10 Nov. 2017
+AB  - Cloud computing revolutionized the way resources (i.e. services and data) are accessed and used. Among the many changes in data processing and service provision paradigms, Software as a Service (SaaS) and collaborative editing are two of the most significant. This paper presents an approach based on semantic publish/subscribe paradigm to the development of collaborative editing applications. The main aim of this research work consists in exploiting emerging technologies (i.e. semantic web data representation formalisms, publish-subscribe platforms) in order to (1) overcome limitations coming from the traditional paradigm of single-author workflows, (2) enhance the editing capabilities of the users, (3) ease the development and maintainment of applications and (4) provide a shared high- level abstraction of the documents that fosters information-level interoperability and reusability. The proposed approach is then validated through an ad-hoc vector graphics application, SCEd (Semantic Collaborative Editor) built upon a SPARQL Event Processing Architecture derived from the Smart-M3 semantic publish-subscribe platform.
+ER  - 
+
+
+TY  - CONF
+TI  - Leveraging Architectural Context in LLM-based Access Control Policy Generation for Microservices
+T2  - 2026 IEEE International Conference on Software Services Engineering (SSE)
+SP  - 56
+EP  - 66
+AU  - C. Önal
+AU  - M. Tonnarelli
+AU  - I. Kumara
+AU  - D. A. Tamburri
+AU  - W. -J. van den Heuvel
+PY  - 2026
+KW  - Modeling
+KW  - Large language models
+KW  - Maintenance engineering
+KW  - Access control
+KW  - Context
+KW  - Printing
+KW  - Syntactics
+KW  - Codes
+KW  - Knowledge graphs
+KW  - Architecture
+KW  - Large Language Models
+KW  - Policy-as-Code
+KW  - Access Control
+KW  - Microservices
+KW  - Knowledge Graph
+KW  - Graph RAG
+DO  - 10.1109/SSE72781.2026.00016
+JO  - 2026 IEEE International Conference on Software Services Engineering (SSE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2026 IEEE International Conference on Software Services Engineering (SSE)
+Y1  - 13-18 July 2026
+AB  - In a microservice architecture, services use access control policies to prevent being abused by external users and other (compromised) services. An emerging approach to implementing policies is Policy-as-Code (PaC), in which policies are defined, enforced, and managed via code. However, writing and maintaining the policies in PaC is complex, error-prone, and requires expertise in the PaC frameworks. Moreover, as the complexity of microservice applications and their access control policies increases, manual policy creation and management become challenging. On the other hand, large language models (LLMs) have shown a remarkable ability to generate complex code from natural-language specifications (user intents). This paper presents an approach to automate access-control policy generation for microservice architectures by systematically injecting architectural knowledge into LLM-based PaC generation. For a given microservice architecture, its services, operations, and their inter-dependencies are modeled using a knowledge graph. A user provides natural-language policy requests (intents), and the LLM-based PaC generation and repair pipeline retrieves and embeds the necessary information from the knowledge graph to generate the required access-control policies at the operation, service, and application levels. We evaluated our approach using six microservice benchmarks and four LLMs, with the Open Policy Agent serving as the PaC framework. The results show that hybrid approaches leveraging structured prompting and knowledge graph-based context injection significantly improve the syntactic correctness and semantic alignment of generated PaC scripts.
+ER  - 
+
+
+TY  - CONF
+TI  - Research on Power Knowledge Extraction Technology Based on Large Model
+T2  - 2025 IEEE 7th International Conference on Power, Intelligent Computing and Systems (ICPICS)
+SP  - 1595
+EP  - 1600
+AU  - B. Wang
+AU  - Y. Zhou
+AU  - Z. Lin
+AU  - X. Wang
+AU  - J. Qin
+AU  - D. Li
+PY  - 2025
+KW  - Training
+KW  - Accuracy
+KW  - Computational modeling
+KW  - Semantics
+KW  - Microservice architectures
+KW  - Vectors
+KW  - Data models
+KW  - Power systems
+KW  - Data mining
+KW  - Engines
+KW  - Power knowledge extraction
+KW  - BERT model
+KW  - microservice architecture
+KW  - knowledge service engine
+DO  - 10.1109/ICPICS66386.2025.11347366
+JO  - 2025 IEEE 7th International Conference on Power, Intelligent Computing and Systems (ICPICS)
+IS  - 
+SN  - 2834-8567
+VO  - 
+VL  - 
+JA  - 2025 IEEE 7th International Conference on Power, Intelligent Computing and Systems (ICPICS)
+Y1  - 29-31 Aug. 2025
+AB  - This paper studies power knowledge extraction technology, proposes a solution based on BERT model optimization, and integrates microservice architecture and knowledge service engine. By deeply integrating the ontology knowledge in the power field, the BERT model input layer is transformed, and the power semantic vector is constructed to realize multi-source knowledge fusion. In the experimental stage, a large-scale data set containing multi-source texts such as internal documents of power companies, public academic resources, and industry reports is constructed, with a total of about 50GB. After professional annotation, there are 70% training set, 15% validation set, 15% test set. Experiments are carried out to compare the performance of improved BERT model with traditional model fine-tuning and classical CRF algorithm. Results show that the improved BERT model achieves 92.5% precision, 91.2% recall rate and $91.8 \% ~\mathrm{F} 1$ value. The accuracy, recall rate, and F1 value increased 3.2%, 2.7% and 2.9% respectively compared with traditional large model. Compared with CRF algorithm, the improvement was significant at $10.5 \%, 9.8 \%, 10.1 \%$. The advantages are also obvious in the relationship extraction and attribute extraction tasks. The results of this study provide a new direction for the development of power knowledge extraction technology and strongly promote the intelligent development of power systems.
+ER  - 
+
+
+TY  - CONF
+TI  - Self-Architecting Software SYstems (SASSY) from QoS-annotated activity models
+T2  - 2009 ICSE Workshop on Principles of Engineering Service Oriented Systems
+SP  - 62
+EP  - 69
+AU  - S. Malek
+AU  - N. Esfahani
+AU  - D. A. Menasce
+AU  - J. P. Sousa
+AU  - H. Gomaa
+PY  - 2009
+KW  - Software systems
+KW  - Computer architecture
+KW  - Service oriented architecture
+KW  - Large-scale systems
+KW  - Quality of service
+KW  - Programming
+KW  - Shape
+KW  - Pervasive computing
+KW  - Power system modeling
+KW  - Computer science
+DO  - 10.1109/PESOS.2009.5068821
+JO  - 2009 ICSE Workshop on Principles of Engineering Service Oriented Systems
+IS  - 
+SN  - 2156-793X
+VO  - 
+VL  - 
+JA  - 2009 ICSE Workshop on Principles of Engineering Service Oriented Systems
+Y1  - 18-19 May 2009
+AB  - As the complexity associated with software development has increased, software engineers have sought novel ways to represent, reason about, and compose large-scale software systems. However, the majority of these approaches are geared to technically well versed engineers, making them unwieldy for use in a growing class of real-world pervasive computing systems. In this paper, we propose a new approach intended to address the current shortcomings in service-oriented software systems. Given the functional and QoS requirements specified by a domain expert in an activity oriented modeling language, an architecture satisfying the requirements is generated. We describe our approach in the context of a framework, entitled Self-Architecting Software SYstems (SASSY), which shapes our ongoing research and aims to automate the composition, analysis, adaptation, and evolution of service-oriented software systems.
+ER  - 
+
+
+TY  - CONF
+TI  - Nicky: Toward a Virtual Assistant for Test and Measurement Instrument Recommendations
+T2  - 2017 IEEE 11th International Conference on Semantic Computing (ICSC)
+SP  - 196
+EP  - 203
+AU  - R. Kincaid
+AU  - G. Pollock
+PY  - 2017
+KW  - Instruments
+KW  - Ontologies
+KW  - Personal digital assistants
+KW  - Current measurement
+KW  - Voltage measurement
+KW  - Semantics
+KW  - Knowledge discovery
+KW  - question answering
+KW  - intelligent assistant
+KW  - chatbot
+KW  - ontology
+KW  - semantic query
+KW  - reasoning
+DO  - 10.1109/ICSC.2017.11
+JO  - 2017 IEEE 11th International Conference on Semantic Computing (ICSC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 IEEE 11th International Conference on Semantic Computing (ICSC)
+Y1  - 30 Jan.-1 Feb. 2017
+AB  - Natural language question answering has been an area of active computer science research for decades. Recent advances have led to a new generation of virtual assistants or chatbots, frequently based on semantic modeling of some broadly general domain knowledge. However, answering questions about detailed, highly technical, domain-specific capabilities and attributes remains a difficult and complex problem. In this paper we discuss a prototype conversational virtual assistant designed for choosing test and measurement equipment based on the detailed measurement requirements of the test engineer. Our system allows for multi-stage queries which retain sufficient short-term context to support query refinement as well as compound questions. In addition to the software architecture, we explore an approach to ontology development that leverages inference from reasoners and minimizes the complexity of entering the specifications for a large collection of instruments. Finally, we provide insights into the issues of building this system and provide recommendations for future designs.
+ER  - 
+
+
+TY  - CONF
+TI  - Automatic resource and service management for ubiquitous computing environments
+T2  - IEEE Annual Conference on Pervasive Computing and Communications Workshops, 2004. Proceedings of the Second
+SP  - 219
+EP  - 223
+AU  - S. Maffioletti
+AU  - M. S. Kouadri
+AU  - B. Hirsbrunner
+PY  - 2004
+KW  - Environmental management
+KW  - Resource management
+KW  - Ubiquitous computing
+KW  - Context-aware services
+KW  - Context modeling
+KW  - Application software
+KW  - Pervasive computing
+KW  - Computer architecture
+KW  - Ontologies
+KW  - Informatics
+DO  - 10.1109/PERCOMW.2004.1276935
+JO  - IEEE Annual Conference on Pervasive Computing and Communications Workshops, 2004. Proceedings of the Second
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE Annual Conference on Pervasive Computing and Communications Workshops, 2004. Proceedings of the Second
+Y1  - 14-17 March 2004
+AB  - The high degree of dynamism and heterogeneity of the resources involved in a pervasive computing environment makes service adaptation and interoperability a difficult task. We present UBIDEV, a service framework that faces the heterogeneity problem by hiding at the application level the dynamism of the underlying environment. We describe the UBIDEV architecture focusing on the description and the management of services and resources. We also describe how this approach decreases the complexity of the design and development of service-oriented applications. A prototype implementation of a unified messaging system is presented as a validation of the architectural design.
+ER  - 
+
+
+TY  - CONF
+TI  - A qualification effort assessment framework for development processes of safety-critical system functions
+T2  - 2021 IEEE/AIAA 40th Digital Avionics Systems Conference (DASC)
+SP  - 1
+EP  - 10
+AU  - D. N. Darwesh
+AU  - B. Annighöfer
+AU  - M. Lehmann
+PY  - 2021
+KW  - Knowledge based systems
+KW  - Systems architecture
+KW  - Aerospace electronics
+KW  - Tools
+KW  - Middleware
+KW  - Task analysis
+KW  - Aircraft
+KW  - assessment framework
+KW  - safety-critical avionics functions
+KW  - model-based development
+KW  - software development effort estimation
+KW  - fault-tolerant
+KW  - integrated modular avionics
+KW  - qualification
+KW  - certification
+DO  - 10.1109/DASC52595.2021.9594375
+JO  - 2021 IEEE/AIAA 40th Digital Avionics Systems Conference (DASC)
+IS  - 
+SN  - 2155-7209
+VO  - 
+VL  - 
+JA  - 2021 IEEE/AIAA 40th Digital Avionics Systems Conference (DASC)
+Y1  - 3-7 Oct. 2021
+AB  - This paper proposes an evaluation framework for quantifying the impact on the qualification effort using the Selective Middleware approach for safety-critical avionics functions. The qualification process of safety-critical avionics functions is troublesome and time-consuming. Most of the effort is spent on the qualification process to meet the qualification means or so-called objectives defined by recommended standards and guidelines. Therefore, tools or automation approaches are usually used to minimize the effort in the qualification process. In this research, the platform development approach called Selective Middleware (SMW) is investigated. It provides an efficient development approach for deploying a platform management middleware used for safety-critical avionics functions on IMA. The SMW approach provides a knowledge-based toolchain that automatically derives the platform management middleware instance from a manually designed high-level system architecture model. In addition to the platform management software, the required design and verification artifacts are also automatically generated. Therefore, this paper investigates to what extent the SMW approach reduces the qualification effort considering DO-178C, ARP4754A, and DO-297. To this object, a detailed assessment framework is defined in terms that captures and evaluates the impact on relevant effort reduction in each aircraft function life cycle process. The assessment framework is applied to the SMW approach concerning the guidelines, and a detailed and quantified analysis is performed.
+ER  - 
+
+
+TY  - CONF
+TI  - Building Tomorrow: Navigating Sustainable Construction with Artificial Intelligence
+T2  - 2024 International Conference on Social and Sustainable Innovations in Technology and Engineering (SASI-ITE)
+SP  - 125
+EP  - 130
+AU  - R. Pasupuleti
+AU  - E. R. Orekanti
+AU  - B. N. K. Rao
+PY  - 2024
+KW  - Fuzzy logic
+KW  - Technological innovation
+KW  - Energy consumption
+KW  - Navigation
+KW  - Buildings
+KW  - Neural networks
+KW  - Knowledge based systems
+KW  - Artificial Intelligence
+KW  - Sustainable Buildings
+KW  - Neural Networks
+KW  - Sustainable Construction
+DO  - 10.1109/SASI-ITE58663.2024.00029
+JO  - 2024 International Conference on Social and Sustainable Innovations in Technology and Engineering (SASI-ITE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2024 International Conference on Social and Sustainable Innovations in Technology and Engineering (SASI-ITE)
+Y1  - 23-25 Feb. 2024
+AB  - In the realm of modern architecture and construction projects, a multitude of factors weigh heavily on designers, driving them to make intricate and challenging decisions. These factors encompass the imperative to curtail energy consumption, manage resources efficiently, incorporate eco-friendly materials, harness an array of contemporary technologies, and navigate the intricate, multi-branch nature of architectural and construction endeavors. The work at hand seeks to unveil a spectrum of project tools that are currently in use within the construction industry, facilitating sustainable building design analysis. Additionally, it offers a panoramic view of the potential applications of artificial intelligence methodologies and tools, including Knowledge-Based Engineering (KBE), fuzzy logic, neural networks, and genetic algorithms. These innovative approaches can substantially enhance the early stages of design by streamlining decision making processes and optimizing both the design phase and the overall project. This article expounds upon the prospective avenues for the development and broader implementation of AI techniques in sustainable building construction, with a strong emphasis on their commercial viability.
+ER  - 
+
+
+TY  - CONF
+TI  - BIM-LOD: The envelope interactive design and energy system dynamic scheduling considering carbon emissions throughout the smart building life cycle*
+T2  - 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)
+SP  - 2376
+EP  - 2381
+AU  - Y. Tian
+AU  - Z. Gao
+AU  - J. Wu
+AU  - Z. Xu
+AU  - X. Guan
+PY  - 2025
+KW  - Heating systems
+KW  - Insulation
+KW  - Costs
+KW  - Cooling
+KW  - Buildings
+KW  - Carbon dioxide
+KW  - Dynamic scheduling
+KW  - Rocks
+KW  - Windows
+KW  - Wool
+DO  - 10.1109/CASE58245.2025.11164042
+JO  - 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)
+IS  - 
+SN  - 2161-8089
+VO  - 
+VL  - 
+JA  - 2025 IEEE 21st International Conference on Automation Science and Engineering (CASE)
+Y1  - 17-21 Aug. 2025
+AB  - Nowdays, the interplay between building ontology and energy systems is progressively intensifying with the development of new energy technologies, creating new challenges in terms of economic and low-carbon requirments. In order to effectively address this issue, a parametric modelling approach was first used to investigate the architecture of an interactive optimal structure for the building envelope and energy system. Secondly, BIM-LOD was employed to conduct modelling research on the evaluation and calculation of building energy systems based on information physical integration, muti-objectives, and constraint conditions such as energy balance and enclosure structure etc. Thirdly, using the actual case to provide decisions for the simulation object, and carry out analysis. The results of the study show that the average carbon emission is reduced by 77.29% and the average cost is reduced by 75.63% compared to the corresponding reference model. In addition, the effect of combined optimal solution was shown to increase by 19.21%, 15.43% and 20.35% respectively in the heating, transition and cooling seasons compared to the baseline scheme. The practical value of this study lies in its potential to manage envelope structures and energy systems in complex scenarios, thereby providing interactive design strategies and dynamic scheduling for optimising carbon emissions.
+ER  - 
+
+
+TY  - JOUR
+TI  - End-to-End Architecture for LLM-Based Business Process Automation: A Low-Code Integration Framework With Performance Benchmarking
+T2  - IEEE Access
+SP  - 105921
+EP  - 105940
+AU  - R. Soma
+PY  - 2026
+KW  - Large language models
+KW  - Modeling
+KW  - Codes
+KW  - Automation
+KW  - Routing
+KW  - Architecture
+KW  - Business
+KW  - Computer architecture
+KW  - Costing
+KW  - Costs
+KW  - Large language models
+KW  - business process automation
+KW  - low-code integration
+KW  - performance benchmarking
+KW  - enterprise architecture
+DO  - 10.1109/ACCESS.2026.3696852
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 14
+VL  - 14
+JA  - IEEE Access
+Y1  - 2026
+AB  - Intelligent decision-making remains a major gap in traditional Business Process Management (BPM) systems, which are typically limited to rule-based workflows and require human intervention for complex decisions. This paper introduces LLMFlow, a novel low-code integration framework that connects large language models (LLMs), such as GPT-4, with the Microsoft Power Platform to deliver intelligent, end-to-end business process automation. LLMFlow was evaluated across three enterprise deployments: invoice processing, customer service automation, and supply chain optimization, achieving 92% processing accuracy, 62% faster response times, and 53% lower operational costs per transaction compared to traditional BPM solutions. The system sustained 132 requests per second, with a consistent average response time of 456 ms. To our knowledge, this work presents one of the early production-validated implementations of a multi-LLM orchestration framework that integrates predictive response-time routing with low-code workflow compilation and enterprise benchmarking.
+ER  - 
+
+
+TY  - CONF
+TI  - Dynamic Workflow Orchestration in Multiagent Systems
+T2  - 2026 International Conference on Emerging Smart Computing and Informatics (ESCI)
+SP  - 1
+EP  - 6
+AU  - R. Totare
+AU  - P. Patil
+AU  - S. Malwadkar
+AU  - V. Mehta
+PY  - 2026
+KW  - Telemetry
+KW  - Aerospace and electronic systems
+KW  - Feedback
+KW  - Circuits
+KW  - Protocols
+KW  - Communication systems
+KW  - Internet
+KW  - Interoperability
+KW  - Internetworking
+KW  - Data communication
+KW  - Agent coordination
+KW  - TypeScript framework
+KW  - dynamic adaptation
+KW  - workflow orchestration
+KW  - real-time observability
+KW  - generative reasoning
+KW  - and multi-agent systems
+DO  - 10.1109/ESCI68015.2026.11493350
+JO  - 2026 International Conference on Emerging Smart Computing and Informatics (ESCI)
+IS  - 
+SN  - 2996-1815
+VO  - 
+VL  - 
+JA  - 2026 International Conference on Emerging Smart Computing and Informatics (ESCI)
+Y1  - 11-13 March 2026
+AB  - Contemporary intelligent systems increasingly demand sophisticated coordination mechanisms to govern the intricate interactions among autonomous computational entities operating within multi-agent ecosystems. Conventional orchestration paradigms, fundamentally constrained by their deterministic rule-based architectures and static operational protocols, demonstrate pronounced inadequacies when confronted with the inherent dynamism and emergent complexity characteristic of modern distributed environments. These limitations manifest as diminished operational efficiency and fundamental challenges to system scalability. This research introduces an innovative architectural framework, implemented within the TypeScript ecosystem, that fundamentally reimagines workflow orchestration through the systematic integration of generative reasoning mechanisms within multi-agent systems. Our proposed architecture employs a sophisticated hierarchical decomposition strategy, enabling the instantiation of specialized autonomous agents that achieve coordinated behavior through an intelligent supervisory control mechanism. The framework incorporates comprehensive integration protocols designed for extensibility, complemented by sophisticated real-time observability infrastructure that ensures both operational transparency and system adaptability. By synthesizing principles from distributed systems theory—particularly those ensuring fault tolerance through decentralized coordination patterns—our solution presents a modular, developer-centric methodology that systematically addresses the fundamental challenges of dynamic task decomposition, inter-agent negotiation, and runtime performance optimization. Preliminary theoretical analysis demonstrates substantial enhancements across multiple dimensions, including system adaptability, computational cost-effectiveness, and horizontal scalability. These findings position the proposed framework as a compelling architectural foundation for next-generation applications spanning automated workflow management, intelligent data processing pipelines, and complex decision support systems.
+ER  - 
+
+
+TY  - STD
+TI  - IEEE Standard Glossary of Software Engineering Terminology
+T2  - IEEE Std 610.12-1990
+SP  - 1
+EP  - 84
+PY  - 1990
+KW  - Terminology
+KW  - Software engineering
+KW  - Standards
+KW  - glossary
+KW  - terminology
+KW  - dictionary
+KW  - Software engineering
+KW  - Definitions
+DO  - 10.1109/IEEESTD.1990.101064
+JO  - IEEE Std 610.12-1990
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - IEEE Std 610.12-1990
+Y1  - 31 Dec. 1990
+AB  - This IEEE Standards product is part of the family on Software Engineering. This standard identifies terms currently in use in the field of Software Engineering. Standard definitions for those terms are established.
+ER  - 
+
+
+TY  - JOUR
+TI  - Practical Intrusion Detection of Emerging Threats
+T2  - IEEE Transactions on Network and Service Management
+SP  - 582
+EP  - 600
+AU  - R. Mills
+AU  - A. K. Marnerides
+AU  - M. Broadbent
+AU  - N. Race
+PY  - 2022
+KW  - Intrusion detection
+KW  - Anomaly detection
+KW  - Labeling
+KW  - Telemetry
+KW  - Security
+KW  - Real-time systems
+KW  - Internet of Things
+KW  - Intrusion detection
+KW  - machine learning
+KW  - cyber threat intelligence
+DO  - 10.1109/TNSM.2021.3091517
+JO  - IEEE Transactions on Network and Service Management
+IS  - 1
+SN  - 1932-4537
+VO  - 19
+VL  - 19
+JA  - IEEE Transactions on Network and Service Management
+Y1  - March 2022
+AB  - The Internet of Things (IoT), in combination with advancements in Big Data, communications and networked systems, offers a positive impact across a range of sectors including health, energy, manufacturing and transport. By virtue of current business models adopted by manufacturers and ICT operators, IoT devices are deployed over various networked infrastructures with minimal security, opening up a range of new attack vectors. Conventional rule-based intrusion detection mechanisms used by network management solutions rely on pre-defined attack signatures and hence are unable to identify new attacks. In parallel, anomaly detection solutions tend to suffer from high false positive rates due to the limited statistical validation of ground truth data, which is used for profiling normal network behaviour. In this work we go beyond current solutions and leverage the coupling of anomaly detection and Cyber Threat Intelligence (CTI) with parallel processing for the profiling and detection of emerging cyber attacks. We demonstrate the design, implementation, and evaluation of Citrus: a novel intrusion detection framework which is adept at tackling emerging threats through the collection and labelling of live attack data by utilising diverse Internet vantage points in order to detect and classify malicious behaviour using graph-based metrics as well as a range of machine learning (ML) algorithms. Citrus considers the importance of ground truth data validation and its flexible software architecture enables both the real-time and offline profiling, detection and classification of emerging cyber-attacks under optimal computational costs. Thus, establishing it as a viable and practical solution for next generation network defence and resilience strategies.
+ER  - 
+
+
+TY  - CONF
+TI  - A Closed-Loop Adaptive System for Personalized Yoga Therapy Using Computer Vision
+T2  - 2026 9th International Conference on Electronics, Materials Engineering & Nano-Technology (IEMENTech)
+SP  - 1
+EP  - 6
+AU  - S. Singh
+AU  - S. Singh
+AU  - S. Sarkar
+PY  - 2026
+KW  - Training
+KW  - Computer vision
+KW  - Adaptation models
+KW  - Adaptive systems
+KW  - Computational modeling
+KW  - Medical treatment
+KW  - Real-time systems
+KW  - Software reliability
+KW  - Convolutional neural networks
+KW  - Usability
+KW  - Human Pose Estimation
+KW  - VGG16
+KW  - MediaPipe
+KW  - Real-Time Pose Analysis
+KW  - Computer Vision in Healthcare
+KW  - Yoga Therapy
+DO  - 10.1109/IEMENTech202669403.2026.11434377
+JO  - 2026 9th International Conference on Electronics, Materials Engineering & Nano-Technology (IEMENTech)
+IS  - 
+SN  - 2767-9934
+VO  - 9
+VL  - 9
+JA  - 2026 9th International Conference on Electronics, Materials Engineering & Nano-Technology (IEMENTech)
+Y1  - 6-8 Feb. 2026
+AB  - YogaWise is an adaptive and personalized yoga coaching tool combining computer vision techniques (posture recognition) with rule based methods to deliver coaching that is both safety oriented and directed toward a user's goals. As part of its decision-making process YogaWise uses criteria specific to each user (e.g., user's age, body mass index (BMI), health conditions, and fitness goals). This data is used to create userspecific yoga routines that eliminate postures that are inappropriate for the user. The posture recognition was performed using a convolutional neural network (CNN) based on VGG16 and the landmark detection (MediaPipe Pose) to identify the location of the user's joints. The geometry of the angles between the identified landmarks provide a basis for determining when a deviation occurs from the expected range of motion and provide instantaneous corrective feedback. The accuracy reached 96.2% for the training set and 94.5% for the validation dataset. The development of YogaWise utilised a software architecture consisting of a Python-based back-end and a React-based front end and demonstrated consistent reliability and practical usability in real-world yoga and wellness applications
+ER  - 
+
+

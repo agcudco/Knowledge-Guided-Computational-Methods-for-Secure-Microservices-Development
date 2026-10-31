@@ -1,0 +1,1837 @@
+TY  - JOUR
+AU  - Subramanian, N.
+AU  - Chung, L.
+TI  - SA3 - A tool for supporting adaptable software architecture generation for embedded systems
+PY  - 2003
+T2  - Computer Standards and Interfaces
+VL  - 25
+IS  - 3
+SP  - 283
+EP  - 290
+DO  - 10.1016/S0920-5489(02)00100-9
+UR  - https://www.scopus.com/pages/publications/0037410186?origin=resultslist
+AB  - Adaptability is emerging as an important attribute or nonfunctional requirement (NFR) for embedded systems. Intuitively, adaptability is the ability of a software system to accommodate changes in its environment. However, in order for the embedded system to be adaptable its architecture, the first step in the development, should itself be adaptable. It will be helpful if the generation of this architecture could be automated. In this paper, we describe a tool called the Software Architecture Adaptability Assistant (SA3) that helps generate adaptable architectures. SA3 uses the properties of the NFR Framework, in particular its knowledge base properties, to create a catalog of various constituents of architecture such as components and connections, and then searches the catalog to find adaptable constituents for the architecture. In this paper, we describe the theory behind SA3 and then describe the tool itself. We then demonstrate the architecture generation capability of the tool for embedded systems. We also discuss why these architectures are adaptable as well as point out directions for further improvement. © 2002 Elsevier Science B.V. All rights reserved.
+KW  - Adaptability
+KW  - Knowledge base
+KW  - NFR Framework
+KW  - Nonfunctional requirements
+KW  - Software architecture
+KW  - Computer architecture
+KW  - Embedded systems
+KW  - Evolutionary algorithms
+KW  - Knowledge based systems
+KW  - Software architectures
+KW  - Computer aided software engineering
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-0037410186
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Chai, J.
+AU  - Liu, J.N.K.
+TI  - An ontology-driven framework for supporting complex decision process
+PY  - 2010
+T2  - 2010 World Automation Congress, WAC 2010
+C7  - 5665639
+UR  - https://www.scopus.com/pages/publications/78651439512?origin=resultslist
+AB  - The study proposes a framework of ONTOlogy-based Group Decision Support System (ONTOGDSS) for decision process which exhibits the complex structure of decision-problem and decision-group. It is capable of reducing the complexity of problem structure and group relations. The system allows decision makers to participate in group decision-making through the web environment, via the ontology relation. It facilitates the management of decision process as a whole, from criteria generation, alternative evaluation, and opinion interaction to decision aggregation. The embedded ontology structure in ONTOGDSS provides the important formal description features to facilitate decision analysis and verification. It examines the software architecture, the selection methods, the decision path, etc. Finally, the ontology application of this system is illustrated with specific real case to demonstrate its potentials towards decision-making development. © 2010 TSI Press.
+KW  - Decision process
+KW  - GDSS
+KW  - Group decision-making
+KW  - Ontology
+KW  - Workshop system
+KW  - Artificial intelligence
+KW  - Decision support systems
+KW  - Decision theory
+KW  - Ontology
+KW  - Software architecture
+KW  - Complex decision
+KW  - Complex structure
+KW  - Decision analysis
+KW  - Decision makers
+KW  - Decision paths
+KW  - Decision process
+KW  - Formal Description
+KW  - GDSS
+KW  - Group decision support systems
+KW  - Group decision-making
+KW  - Ontology-based
+KW  - Problem structure
+KW  - Selection methods
+KW  - Web environment
+KW  - Workshop system
+KW  - Decision making
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-78651439512
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 14
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Bruns, R.
+AU  - Dunkel, J.
+TI  - Intelligent agents for e-learning
+PY  - 2007
+T2  - Intelligent Information Technologies and Applications
+SP  - 25
+EP  - 42
+DO  - 10.4018/978-1-59904-958-8.ch002
+UR  - https://www.scopus.com/pages/publications/84900279247?origin=resultslist
+AB  - We propose the software architecture of a new generation of advisory systems using Intelligent Agent and Semantic Web technologies. Multi-agent systems provide a well-suited paradigm to implement negotiation processes in consultancy situations. Intelligent software agents act as clients and advisors using their knowledge in order to assist human users. In the proposed architecture, the domain knowledge is semantically modeled by means of XML-based ontology languages such as OWL. Using an inference engine, the agents reason on the base of their knowledge to make decisions or proposals. The agent knowledge consists of different types of data: on the one hand private data, which has to be protected against unauthorized access, and on the other hand publicly accessible data spread over different Web sites. Comparable to a real consultancy situation, an agent only reveals sensitive private data if it is indispensable for finding a solution. In addition, depending on the actual consultancy situation, each agent dynamically expands its knowledge base by accessing OWL knowledge sources from the Internet. The usefulness of our approach is proved by the implementation of an advisory system whose objective is to develop virtual student advisers that render support to university students in order to successfully organize und perform their studies. © 2008, IGI Global.
+M3  - Book chapter
+DB  - Scopus
+N1  - EID: 2-s2.0-84900279247
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Sun, J.
+AU  - Wang, H.H.
+AU  - Hu, T.
+TI  - Design software architecture models using ontology
+PY  - 2011
+T2  - SEKE 2011 - Proceedings of the 23rd International Conference on Software Engineering and Knowledge Engineering
+SP  - 191
+EP  - 196
+UR  - https://www.scopus.com/pages/publications/84862933613?origin=resultslist
+AB  - Software architecture plays an essential role in the high level description of a system design, where the structure and communication are emphasized. Despite its importance in the software engineering process, the lack of formal description and automated verification hinders the development of good software architecture models. In this paper, we present an approach to support the rigorous design and verification of software architecture models using the semantic web technology. We view software architecture models as ontology representations, where their structures and communication constraints are captured by the Web Ontology Language (OWL) and the Semantic Web Rule Language (SWRL). Specific configurations on the design are represented as concrete instances of the ontology, to which their structures and dynamic behaviors must conform. Furthermore, ontology reasoning tools can be applied to perform various automated verification on the design to ensure correctness, such as consistency checking, style recognition, and behavioral inference.
+KW  - Automata theory
+KW  - Behavioral research
+KW  - Communication
+KW  - Design
+KW  - Formal methods
+KW  - Knowledge engineering
+KW  - Ontology
+KW  - Semantic Web
+KW  - Software design
+KW  - Systems analysis
+KW  - Verification
+KW  - Automated verification
+KW  - Communication constraints
+KW  - Consistency checking
+KW  - Design softwares
+KW  - Dynamic behaviors
+KW  - Formal Description
+KW  - High level description
+KW  - Semantic web rule languages
+KW  - Semantic Web technology
+KW  - Software architecture model
+KW  - Software engineering process
+KW  - Web ontology language
+KW  - Software architecture
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-84862933613
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 11
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - 31st International Conference on Computer-Aided Architectural Design Research in Asia, CAADRIA 2026
+PY  - 2026
+T2  - Proceedings of the International Conference on Computer-Aided Architectural Design Research in Asia
+VL  - 1
+UR  - https://www.scopus.com/pages/publications/105048660233?origin=resultslist
+AB  - The proceedings contain 218 papers. The special focus in this conference is on Computer-Aided Architectural Design Research in Asia. The topics include: LLM-Driven Architectural Geometry Generation: From Prompt to Parametric Model; Carbon-Conscious Design Agents: A Multi-Agent LLM Framework for Balancing Embodied Carbon and Cost in Early Building Design; visual Sentiment Cartography: Exploring Collective Urban Visual Experiences Through Machine Learning; Tacit to Explicit: LLM-Augmented Pattern Language for Representing Architectural Design Knowledge; encoding Transitions: Self-Supervised Learning of Architectural Thresholds with Masked Spatiotemporal Transformers; designing Cooler Cities with Tree Canopy Morphology Insights An interactive evaluation tool using interpretable machine learning; Interpreting User Responses as Emotional Evidence in Spatial Design Using EEG: A Pilot Study Toward Emotion-Informed Design Recommendation; Chain-of-Design: Sequencing Agentic AI Design Reasoning for Architecture in 3D; archGraph: Knowledge Graph-Driven Intelligence for Architectural History: A Case Study on Palladio's Architecture; Modular Neural Cellular Automata (m-NCA): A Physics-Informed Framework for Real-Time Dynamic Simulation in Architectural Design; semantic Drift in Architectural Research: A Diachronic Analysis Using Word Embedding; architectural Prompts as Design Intent: An Experimental Study of Information Transmission in Text-to-Image Generation; sensing Street Rhythm: A Natural Language Processing-Based Approach: Mapping Human Perception by Understanding Deep Semantic Features in Street View Images; latent Maps for Architectural Reasoning: Multi-Modal Precedent Retrieval as Real-Time Context for Design; Developing an Agentic AI Framework with MCP for Knowledge Continuity in AEC Industry; Human-in-the-Loop Selection for AI-Assisted Point Cloud Reconstruction: Evaluating Designer Agency with Ground Truth; a Hierarchical N-ary Relation Extraction Method for Structured Semantic Representation of Building Regulations.
+M3  - Conference review
+DB  - Scopus
+N1  - EID: 2-s2.0-105048660233
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Zhang, P.
+AU  - Xu, X.
+AU  - Sun, M.
+AU  - Gao, H.
+AU  - Ma, N.
+AU  - Wang, X.
+AU  - Zhang, R.
+AU  - Wang, J.
+AU  - Niyato, D.
+TI  - Toward Native AI in 6G Standardization: The Roadmap of Semantic Communication
+PY  - 2026
+T2  - IEEE Communications Standards Magazine
+DO  - 10.1109/MCOMSTD.2026.3669900
+UR  - https://www.scopus.com/pages/publications/105033715497?origin=resultslist
+AB  - Semantic communication (SemCom) has emerged as a transformative paradigm for future 6G networks, offering task-oriented and meaning-aware transmission that fundamentally redefines traditional bit-centric design. Recognized by leading standardization bodies including the institute of electrical and electronics engineers (IEEE) and the international telecommunication union (ITU), and actively discussed within the 3rd generation partnership project (3GPP) working groups, SemCom is rapidly gaining traction as a foundational enabler for native-AI 6G. This paper presents a comprehensive overview of recent progress in SemCom from both academic and industrial perspectives, with a focus on its ongoing and upcoming standardization activities. We systematically examine advances in representative application scenarios, architectural design, semantic-traditional system compatibility, unified evaluation metrics, and validation methodologies. Furthermore, we highlight several key enabling technologies, such as joint source-channel coding (JSCC), SemCom-based multiple access (MA) technologies such as model division MA (MDMA), and semantic knowledge base (KB), that support the practical implementation of SemCom in standard-compliant systems. Additionally, we present a case study for channel state information (CSI) feedback, illustrating the concrete performance gains of SemCom under 3GPP-compliant fading channels. Finally, we discuss emerging challenges and research opportunities for incorporating semantic-native mechanisms into the evolving 6G standardization landscape, and provide forward-looking insights into its development and global adoption. © 2017 IEEE.
+KW  - Communication channels (information theory)
+KW  - Compliant mechanisms
+KW  - Knowledge based systems
+KW  - Semantics
+KW  - 3rd generation
+KW  - Application scenario
+KW  - Design semantics
+KW  - Institute of Electricals and Electronics Engineers
+KW  - International telecommunications unions
+KW  - Recent progress
+KW  - Roadmap
+KW  - Semantic communication
+KW  - Task-oriented
+KW  - Working groups
+KW  - Standardization
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105033715497
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Pahl, C.
+TI  - Semantic model-driven architecting of service-based software systems
+PY  - 2007
+T2  - Information and Software Technology
+VL  - 49
+IS  - 8
+SP  - 838
+EP  - 850
+DO  - 10.1016/j.infsof.2006.09.007
+UR  - https://www.scopus.com/pages/publications/34249726689?origin=resultslist
+AB  - Model-driven development is a software development framework that emphasises model-based abstraction and automated code generation. Service-based software architectures benefit in particular from semantic, ontology-based modelling. We present ontology-based transformation and reasoning techniques for layered semantic service architecture modelling. Integrated ontological layers support abstract domain modelling, architectural design, and interoperability aspects. Ontologies are beneficial due to their potential to formally define models, to allow reasoning about semantic models, and to automate transformations at all layers. Ontologies are suitable in particular for the Web Services platform due to their ubiquity within the Semantic Web and their application to support semantic Web services. © 2006 Elsevier B.V. All rights reserved.
+KW  - Model-driven development
+KW  - Ontologies
+KW  - Semantic modelling
+KW  - Software architecture
+KW  - Web services
+KW  - Automatic programming
+KW  - Interoperability
+KW  - Ontology
+KW  - Semantic Web
+KW  - Semantics
+KW  - Web services
+KW  - Model driven development
+KW  - Semantic modeling
+KW  - Semantic service architecture
+KW  - Semantic Web services
+KW  - Services platforms
+KW  - Software architecture
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-34249726689
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 43
+ER  -
+
+TY  - CONF
+AU  - Wang, C.
+AU  - Dang, Y.
+AU  - Wang, K.
+TI  - Knowledge-Enhanced Generative Method for Preliminary Residential Layout Design Using Large Language Models
+PY  - 2025
+T2  - Chinese Control Conference, CCC
+SP  - 9193
+EP  - 9198
+DO  - 10.23919/CCC64809.2025.11178835
+UR  - https://www.scopus.com/pages/publications/105020268952?origin=resultslist
+AB  - This research introduces a knowledge-enhanced generative method for preliminary residential layout design with Graph Topological Constraints using large language models (LLMs), addressing the intricate requirements and expertise needed in architectural design. Leveraging the RPLAN dataset of over 80,000 real residential layouts, the study transforms layout data into graph-structured formats and develops a specialized knowledge base, encapsulating essential elements such as room types, spatial relationships, area metrics, and adjacency matrices. This enhancement improves the LLMs' capability to generate high-quality, adaptable preliminary designs that meet complex spatial and functional constraints. The generated layouts undergo a comprehensive evaluation using Structural Similarity Index (SSIM), Jaccard similarity, and Peak Signal-to-Noise Ratio (PSNR), complemented by Principal Component Analysis (PCA) to assess real-world data alignment and a professional building standards score assessment. Results show that the knowledge-enhanced LLM method surpasses traditional fine-tuning approaches, producing layouts with strong structural coherence and spatial accuracy while showing potential for scaling to more complex designs. This study provides a foundational approach for integrating LLMs into architectural layout generation, presenting a robust and efficient tool to streamline the architectural design process. © 2025 Technical Committee on Control Theory, Chinese Association of Automation.
+KW  - Generative Design
+KW  - Large Language Models (LLMs)
+KW  - Preliminary Residential Layout
+KW  - Architectural design
+KW  - Graph theory
+KW  - Graphic methods
+KW  - Housing
+KW  - Knowledge graph
+KW  - Knowledge management
+KW  - Office buildings
+KW  - Essential elements
+KW  - Generative design
+KW  - Generative methods
+KW  - Language model
+KW  - Large language model
+KW  - Layout data
+KW  - Layout designs
+KW  - Preliminary residential layout
+KW  - Specialized knowledge
+KW  - Topological constraints
+KW  - Principal component analysis
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-105020268952
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Concepción, E.
+AU  - Gervás, P.
+AU  - Méndez, G.
+TI  - Afanasyev: A collaborative architectural model for automatic story generation
+PY  - 2018
+T2  - Proceedings of AISB Annual Convention 2018
+UR  - https://www.scopus.com/pages/publications/85056853224?origin=resultslist
+AB  - The present article focuses on detailing the characteristics of Afanasyev, an architectural framework for the construction of story generation systems through replaceable services. The basic idea behind this approach is the development of a collaborative environment for generating stories. This entails the inclusion of a common representation model to allow the interoperation between different story generation systems as a base for a collaborative environment to run an enhanced process of literary creation. In addition to this objective, this model aims at the development of a story representation formalism for creating a common knowledge base that can be fed in the future with the outcomes of new storytelling systems, without the need to adapt it to every system-specific representation model. © Proceedings of AISB Annual Convention 2018. All rights reserved.
+KW  - Architectural frameworks
+KW  - Architectural modeling
+KW  - Automatic story generations
+KW  - Collaborative environments
+KW  - Common knowledge
+KW  - Representation model
+KW  - Story generation systems
+KW  - Story representation
+KW  - Knowledge based systems
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85056853224
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 6
+ER  -
+
+TY  - CONF
+AU  - Kincaid, R.
+AU  - Pollock, G.
+TI  - Nicky: Toward a Virtual Assistant for Test and Measurement Instrument Recommendations
+PY  - 2017
+T2  - Proceedings - IEEE 11th International Conference on Semantic Computing, ICSC 2017
+C7  - 7889528
+SP  - 196
+EP  - 203
+DO  - 10.1109/ICSC.2017.11
+UR  - https://www.scopus.com/pages/publications/85018340749?origin=resultslist
+AB  - Natural language question answering has been an area of active computer science research for decades. Recent advances have led to a new generation of virtual assistants or chatbots, frequently based on semantic modeling of some broadly general domain knowledge. However, answering questions about detailed, highly technical, domain-specific capabilities and attributes remains a difficult and complex problem. In this paper we discuss a prototype conversational virtual assistant designed for choosing test and measurement equipment based on the detailed measurement requirements of the test engineer. Our system allows for multi-stage queries which retain sufficient short-term context to support query refinement as well as compound questions. In addition to the software architecture, we explore an approach to ontology development that leverages inference from reasoners and minimizes the complexity of entering the specifications for a large collection of instruments. Finally, we provide insights into the issues of building this system and provide recommendations for future designs. © 2017 IEEE.
+KW  - chatbot
+KW  - intelligent assistant
+KW  - ontology
+KW  - Question answering
+KW  - reasoning
+KW  - semantic query
+KW  - Ontology
+KW  - Semantics
+KW  - Chatbot
+KW  - Intelligent assistants
+KW  - Question Answering
+KW  - reasoning
+KW  - Semantic query
+KW  - Natural language processing systems
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85018340749
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 19
+ER  -
+
+TY  - JOUR
+AU  - Tsai, J.J.P.
+AU  - Liu, A.
+AU  - Juan, E.
+AU  - Sahay, A.
+TI  - Knowledge-based software architectures: Acquisition, specification, and verification
+PY  - 1999
+T2  - IEEE Transactions on Knowledge and Data Engineering
+VL  - 11
+IS  - 1
+SP  - 187
+EP  - 201
+DO  - 10.1109/69.755628
+UR  - https://www.scopus.com/pages/publications/0032689821?origin=resultslist
+AB  - The concept of knowledge-based software architecture has recently emerged as a new way to improve our ability to effectively construct and maintain complex large-scale software systems. Under this new paradigm, software engineers are able to do evolutionary design of complex systems through architecture specification, design rationale capture, architecture validation and verification, and architecture transformation. This paper surveys some of the important techniques that have been developed to support these activities. In particular, we are interested in knowledge/requirement acquisition and analysis. We survey some tools that use the knowledge-based approach to solve these problems. We also discuss various software architecture styles, architecture description languages (ADLs), and features of ADLs that help build better software systems. We then compare various ADLs based on these features. The efficient methods that were developed for verification, validation, and high assurance of architectures are also discussed. Based on our survey results, we give a basis for comparing the various knowledge-based systems and list these comparisons in the form of a table.
+KW  - Computer architecture
+KW  - Computer programming languages
+KW  - Computer software selection and evaluation
+KW  - Knowledge based systems
+KW  - Large scale systems
+KW  - Problem solving
+KW  - Software engineering
+KW  - Compositional verification
+KW  - Computer software description language
+KW  - Formal verification
+KW  - Knowledge acquisition
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-0032689821
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 11
+ER  -
+
+TY  - CONF
+AU  - Chondamrongkul, N.
+AU  - Sun, J.
+AU  - Warren, I.
+TI  - Ontology-based software architectural pattern recognition and reasoning
+PY  - 2018
+T2  - Proceedings of the International Conference on Software Engineering and Knowledge Engineering, SEKE
+VL  - 2018-July
+SP  - 23
+EP  - 28
+DO  - 10.18293/SEKE2018-012
+UR  - https://www.scopus.com/pages/publications/85056876703?origin=resultslist
+AB  - Designing software architecture is a knowledgeintensive task that typically involves textual and diagrammatic notation. Using these kinds of notation is often inconsistent, misleading, and ambiguous. Ontology representation is, therefore, a suitable approach, as it can semantically define architectural design model that can be automatically verified through reasoning. However, a large-scale software system is usually complex and applies more than one architectural styles with various behavioral patterns. Therefore, the scalability of automated verification for a complex software architecture design is a challenge. We propose an approach that helps to formally define complex architectural design model and automate different verifications such as consistency checking, architectural styles recognition, and behavioral sequence inference. Ontology Web Language (OWL) is used to semantically define basic architectural elements and architectural styles, while a set of rules defined in Semantic Web Rule Language (SWRL) helps to capture behavioral pattern according to style. We evaluated the scalability of our approach. The result shows that different levels of complexity in architectural design model has a minor impact on the verification performance. © 2018 Universitat zu Koln. All rights reserved.
+KW  - Behavioral research
+KW  - Knowledge engineering
+KW  - Ontology
+KW  - Pattern recognition
+KW  - Scalability
+KW  - Software architecture
+KW  - Verification
+KW  - Architectural element
+KW  - Automated verification
+KW  - Diagrammatic notation
+KW  - Large-scale software systems
+KW  - Ontology representations
+KW  - Ontology web language
+KW  - Semantic Web Rule Language(SWRL)
+KW  - Software architectural
+KW  - Architectural design
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85056876703
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 10
+ER  -
+
+TY  - CONF
+AU  - Alonso, F.
+AU  - Frutos, S.
+AU  - Martínez, L.
+AU  - Javier Soriano, F.
+TI  - The synthesis stage in the software agent development process
+PY  - 2005
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 3690 LNAI
+SP  - 193
+EP  - 202
+DO  - 10.1007/11559221_20
+UR  - https://www.scopus.com/pages/publications/33646163460?origin=resultslist
+AB  - In most existing software agents methodologies, system analysis is dependent on an agent-oriented, object-oriented or knowledge-based design paradigm. This simplifies the complex transformation of the conceptual model produced during analysis into the physical model output at design time. We, like other authors, believe that the conceptual model has to be conceived as independent of the design paradigm and that the physical model should be driven by the solution, both models leading to very different conceptions of the problem. In this paper we present the SONIA agents development methodology that includes a transitional synthesis stage between analysis and architectural design that mends the break between the construction of the two models. © Springer-Verlag Berlin Heidelberg 2005.
+KW  - Knowledge based systems
+KW  - Mathematical models
+KW  - Mathematical transformations
+KW  - Numerical analysis
+KW  - Object oriented programming
+KW  - Systems analysis
+KW  - Complex transformation
+KW  - Knowledge-based design paradigm
+KW  - SONIA agents development methodology
+KW  - Software agents
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-33646163460
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Sengupta, S.
+AU  - Dasgupta, R.
+TI  - Architectural design of a LMS with LTSA-conformance
+PY  - 2017
+T2  - Education and Information Technologies
+VL  - 22
+IS  - 1
+SP  - 271
+EP  - 296
+DO  - 10.1007/s10639-015-9443-z
+UR  - https://www.scopus.com/pages/publications/84944936765?origin=resultslist
+AB  - This paper illustrates an approach for architectural design of a Learning Management System (LMS), which is verifiable against the Learning Technology System Architecture (LTSA) conformance rules. We introduce a new method for software architectural design that extends the Unified Modeling Language (UML) component diagram with the formal architectural style of Acme, hence, combines the advantages of the visual appeal of a graphical method and preciseness of a formal method. We propose some new stereotypes for UML component-connector style to incorporate Acme style within UML. A UML meta-model for the design components is also proposed to elucidate the relationships between the components. We also propose a verification method to ensure that the design artifact is holding conformance with LTSA standard. The design process as well as the verification process entails additional knowledge about the domain, which is supplied by the domain Ontology. The LTSA conformance rules, written in natural language, are represented more formally with help of Conceptual Graph representation, before using them in the verification process. Finally, we introduce a verification method that tries to find out a design pattern in the architectural design that conforms to the particular conformance rule intended to check. The verification process also introduces a goodness measure of the conformance. © 2015, Springer Science+Business Media New York.
+KW  - Acme
+KW  - Architectural design
+KW  - Design verification
+KW  - LMS
+KW  - LTSA
+KW  - UML
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84944936765
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Rubin, E.
+AU  - Wand, Y.
+TI  - Software architecture to support domain semantics representation
+PY  - 2005
+T2  - Proceedings - IEEE International Conference on Software - Science, Technology and Engineering 2005, SwSTE '05
+VL  - 2005
+C7  - 1421060
+SP  - 3
+EP  - 12
+DO  - 10.1109/SWSTE.2005.19
+UR  - https://www.scopus.com/pages/publications/33744461540?origin=resultslist
+AB  - This study incorporates the development of a framework and software architecture aimed to improve the integration of software implementation with the general system analysis and design (SAD) process by assuring that conceptual knowledge is effectively preserved in software code. As software systems become more powerful, they are expected to handle a wider range of situations without losing functionality. However, such expectations are often materialized by increasing levels of knowledge about the system domain. It is already well recognized that the process of system implementation, analysis and design requires much knowledge about the modeled domain. However, as the process approaches the implementation phase, many conceptual ideas are lost due to physical concerns. The software architecture developed in this study addresses this situation. It also provides a general conceptual approach for the development of a new generation of semantically rich software architectures.
+KW  - Computer software
+KW  - Knowledge based systems
+KW  - Optimization
+KW  - Semantics
+KW  - Systems analysis
+KW  - Implementation phase
+KW  - Software code
+KW  - System analysis and design (SAD)
+KW  - Software engineering
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-33744461540
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Manglano-Redondo, P.
+AU  - Paricio-Garcia, A.
+AU  - Lopez-Carmona, M.A.
+AU  - Parames-Lasheras, G.
+TI  - Edge-Resident GraphRAG Architecture for Conversational Smart-City Traffic Digital Twins
+PY  - 2026
+T2  - Proceedings of the ICCSPA 2026 - 7th International Conference on Communications, Signal Processing, and their Applications
+DO  - 10.1109/ICCSPA69228.2026.11600862
+UR  - https://www.scopus.com/pages/publications/105045855973?origin=resultslist
+AB  - Smart-city Intelligent Transport Systems increasingly rely on low-latency data analytics that combine real measurements with data generated by Digital Twins. These systems require local data sovereignty and strong data retention control. Cloud-based traffic planning assistants may introduce privacy exposure, unpredictable response times, and Large Language Model bias, limiting their use in operational workflows. This paper presents an edge-resident traffic Digital Twin framework that (i) converts standard map representations into local knowledge graphs of road topology and traffic controls, (ii) implements a Graph Retrieval-Augmented Generation engine for topology-aware retrieval, and (iii) defines a modular software architecture for on-premise Large Language Model inference orchestration. We further introduce an unidirectional "Secure Edge Fusion"mechanism that ingests live traffic telemetry and compares it against twin results from simulation models. The system implements hybrid retrieval (vector + graph traversal), cross-encoder reranking, a two-tier cache for read-only queries, and entity-validation guardrails to prevent invalid references. An experimental edge implementation is tested across three urban scenarios, achieving cold-path turnaround averages of 1320 ms, and entity validation achieves 0% invalid-entity references, versus 12% for baseline. Results demonstrate a valid foundational framework for urban traffic Digital Twins. © 2026 IEEE.
+KW  - Data Sovereignty
+KW  - Digital Twins
+KW  - Edge Computing
+KW  - GraphRAG
+KW  - Intelligent Transport Systems
+KW  - Knowledge Graphs
+KW  - Large Language Models
+KW  - Data privacy
+KW  - Digital twin
+KW  - Graph theory
+KW  - Intelligent vehicle highway systems
+KW  - Knowledge graph
+KW  - Network security
+KW  - Smart city
+KW  - Software architecture
+KW  - Street traffic control
+KW  - City traffic
+KW  - Data sovereignty
+KW  - Edge computing
+KW  - Graphrag
+KW  - Intelligent transport
+KW  - Intelligent transport system
+KW  - Knowledge graphs
+KW  - Language model
+KW  - Large language model
+KW  - Transport systems
+KW  - Edge computing
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-105045855973
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Bogdanović, B.V.
+AU  - Marković, V.D.
+AU  - Segedinac, M.T.
+AU  - Konjović, Z.D.
+TI  - BAB software framework and micro-service technology as the basis for cooperative process-aware information systems on the Java platform
+ST  - Softverski okvir BAB i tehnologija mikro-servisa kao osnove za kooperativne procesno-svesne informacione sisteme na Java platformi
+PY  - 2026
+T2  - Military Technical Courier/Vojnotehnicki glasnik
+VL  - 74
+IS  - 3
+SP  - 613
+EP  - 641
+DO  - 10.5937/vojtehg74-59807
+UR  - https://www.scopus.com/pages/publications/105048849701?origin=resultslist
+AB  - Introduction/purpose: The objective of this research is to investigate the viability of using the Business Application Builder (BAB) software framework and microservice technology for the development of cooperative process-aware information systems (CPAIS) tailored for smaller business organizations with limited expert resources. The central hypothesis is that the BAB framework, based on an ontological model, combined with a microservice architecture, can facilitate automatic code generation, ensure rigorous consistency within an individual system, and enable seamless cooperation between multiple information systems. Methods: The research methodology utilized the BAB ontology, implemented with RDF and OWL, as the conceptual model for the information system. Microservice technology was employed for communication between distributed applications, while the CodeOntology, in conjunction with predefined templates, was used for automatic code generation in the Java programming language on the Jakarta EE platform. The research design was validated through the implementation of a proof-of-concept CPAIS for a group of companies in the transport logistics sector, where each company's information system acted as a BAB instance. Results: The implementation of the proof-of-concept system yielded significant quantitative improvements. Development time was reduced by nearly 60%, from an estimated 120 days for a traditional approach to 50 days using the BAB framework. Integration testing revealed a 75% reduction in errors related to the persistence and communication layers. The framework demonstrated high flexibility, allowing a new system node to be integrated in a single working day. The system successfully automated core logistics processes and enabled real-time data synchronization between distributed actors via standardized REST APIs. Conclusion: The findings confirm that the BAB framework is a highly effective platform for the accelerated development of scalable, interoperable, and flexible cooperative process-aware information systems. The research validates the initial hypothesis, demonstrating that this approach provides a distinct advantage for agile business environments, especially small-to medium-sized enterprises, by drastically reducing development effort, improving software quality, and enabling rapid adaptation to changing business requirements. © 2026 The Authors.
+KW  - business information systems
+KW  - cooperative information systems
+KW  - microservice architecture
+KW  - PAIS
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105048849701
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - 31st International Conference on Computer-Aided Architectural Design Research in Asia, CAADRIA 2026
+PY  - 2026
+T2  - Proceedings of the International Conference on Computer-Aided Architectural Design Research in Asia
+VL  - 2
+UR  - https://www.scopus.com/pages/publications/105048847641?origin=resultslist
+AB  - The proceedings contain 218 papers. The special focus in this conference is on Computer-Aided Architectural Design Research in Asia. The topics include: LLM-Driven Architectural Geometry Generation: From Prompt to Parametric Model; Carbon-Conscious Design Agents: A Multi-Agent LLM Framework for Balancing Embodied Carbon and Cost in Early Building Design; visual Sentiment Cartography: Exploring Collective Urban Visual Experiences Through Machine Learning; Tacit to Explicit: LLM-Augmented Pattern Language for Representing Architectural Design Knowledge; encoding Transitions: Self-Supervised Learning of Architectural Thresholds with Masked Spatiotemporal Transformers; designing Cooler Cities with Tree Canopy Morphology Insights An interactive evaluation tool using interpretable machine learning; Interpreting User Responses as Emotional Evidence in Spatial Design Using EEG: A Pilot Study Toward Emotion-Informed Design Recommendation; Chain-of-Design: Sequencing Agentic AI Design Reasoning for Architecture in 3D; archGraph: Knowledge Graph-Driven Intelligence for Architectural History: A Case Study on Palladio's Architecture; Modular Neural Cellular Automata (m-NCA): A Physics-Informed Framework for Real-Time Dynamic Simulation in Architectural Design; semantic Drift in Architectural Research: A Diachronic Analysis Using Word Embedding; architectural Prompts as Design Intent: An Experimental Study of Information Transmission in Text-to-Image Generation; sensing Street Rhythm: A Natural Language Processing-Based Approach: Mapping Human Perception by Understanding Deep Semantic Features in Street View Images; latent Maps for Architectural Reasoning: Multi-Modal Precedent Retrieval as Real-Time Context for Design; Developing an Agentic AI Framework with MCP for Knowledge Continuity in AEC Industry; Human-in-the-Loop Selection for AI-Assisted Point Cloud Reconstruction: Evaluating Designer Agency with Ground Truth; a Hierarchical N-ary Relation Extraction Method for Structured Semantic Representation of Building Regulations.
+M3  - Conference review
+DB  - Scopus
+N1  - EID: 2-s2.0-105048847641
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - label.ris.referenceType.BOOK_CHAPTER
+AU  - Ye, Y.
+AU  - Wang, F.
+AU  - Xu, H.
+AU  - Wang, H.
+TI  - Discussion on the Ontology Inconsistency and 3D Model Generation in Architectural Design Assisted by AIGC
+PY  - 2026
+T2  - Computational Design and Robotic Fabrication
+VL  - Part F1368
+SP  - 31
+EP  - 39
+DO  - 10.1007/978-981-95-0974-4_3
+UR  - https://www.scopus.com/pages/publications/105029796260?origin=resultslist
+AB  - AIGC technology is playing an increasingly crucial role in generative design. At present, many AIGC tools are used to generate images in the architectural design, such as Midjourney, Stable Diffusion. Although the single image generated by AIGC tools might have high quality, it is difficult to maintain the consistency of the ontology when representing the same building from different angles due to the inevitable randomness of the generation process, which means different pictures contradict each other in details. This article discusses the possible solutions of ontology inconsistency problem with the guidance of different AIGC tools, and points out that generating 3D model is the most effective way to solve the problem, but the current generation tools still have various defects. With the contrast of different approaches, the technical path of Sketch-Multiple Pictures-Contradiction Elimination-3D Model is considered to be more appropriate for architectural design process. This path also puts forward technical requirements for the future specialization of current AIGC tools. © The Author(s) 2026.
+KW  - 3D model generation
+KW  - AIGC
+KW  - Architectural design
+KW  - Ontology inconsistency
+KW  - Artificial intelligence
+KW  - Image processing
+KW  - Ontology
+KW  - Tools
+KW  - 3d model generation
+KW  - 3D models
+KW  - 3d-modeling
+KW  - AIGC
+KW  - Generative design
+KW  - High quality
+KW  - Model generation
+KW  - Ontology inconsistency
+KW  - Ontology's
+KW  - Single images
+KW  - Architectural design
+M3  - Book chapter
+DB  - Scopus
+N1  - EID: 2-s2.0-105029796260
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Tanik, U.J.
+TI  - Synergistic validation methodology for knowledge-based engineering systems
+PY  - 2010
+T2  - Journal of Integrated Design and Process Science
+VL  - 14
+IS  - 4
+SP  - 1
+EP  - 24
+UR  - https://www.scopus.com/pages/publications/84859472284?origin=resultslist
+AB  - A methodology for validation is provided for the architecture of Knowledge based Engineering (KBE) applications. A standard approach to validation is introduced, followed by the Synergistic Validation Methodology (SVM), which addresses four key aspects of KBE system validation: a) software architecture, b) product design process, c) artificial intelligence, and d) knowledge acquisition. The synergistic methodology is introduced as a comprehensive approach to validation of Knowledge-based engineering systems. This SVM approach is shown to be divided into four target divisions addressing multiple areas each, which correspond to well-defined methodologies in terms of general standards, techniques, and methods utilized. The five-tier pre-validation and post-validation process is intended to verify and validate reconfigurable, modular, and scalable KBE systems.
+KW  - artificial intelligence
+KW  - knowledge acquisition
+KW  - knowledge base engineering
+KW  - product design process
+KW  - software architecture
+KW  - validation
+KW  - verification
+KW  - Artificial intelligence
+KW  - Knowledge acquisition
+KW  - Software architecture
+KW  - Verification
+KW  - Knowledge-based engineering
+KW  - Multiple areas
+KW  - Pre-validation
+KW  - product design process
+KW  - Re-configurable
+KW  - System validation
+KW  - validation
+KW  - Validation methodologies
+KW  - Knowledge based systems
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84859472284
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Lera, I.
+AU  - Juiz, C.
+AU  - Puigjaner, R.
+AU  - Kurz, C.
+AU  - Haring, G.
+AU  - Zottl, J.
+TI  - Performance assessment on ambient intelligent applications through ontologies
+PY  - 2005
+T2  - Proceedings of the Fifth International Workshop on Software and Performance, WOSP'05
+SP  - 205
+EP  - 216
+DO  - 10.1145/1071021.1071045
+UR  - https://www.scopus.com/pages/publications/33749020563?origin=resultslist
+AB  - This paper brings together the performance assessment of ambient intelligence architectures systems with ontology engineering. Thus, firstly appropriate description methods for distributed intelligent applications are summarized. Derived from the system characterization, typical software performance engineering techniques are based on the augmented description of the model regarding performance annotations. However, these annotations are only related with the syntactical view of the software architecture. In the next generation of performance assessment tools for ambient intelligent systems, the description of the system would be capable of reasoning and acquiring knowledge about performance. Having an appropriate architectural description including performance aspects, any possible design options for intelligent distributed applications can be evaluated according to their performance impact. Therefore, we propose the use of an ontology with performance-related information not only to possible evaluate the architecture through the common off-line procedure but also the first step to build a broker that assesses the performance of the system during its execution. Copyright 2005 ACM.
+KW  - Agents
+KW  - Ambient intelligence
+KW  - Distributed software performance engineering
+KW  - Performance evaluation
+KW  - Performance Ontologies
+KW  - Computer applications
+KW  - Computer architecture
+KW  - Computer software
+KW  - Distributed computer systems
+KW  - Knowledge acquisition
+KW  - Software engineering
+KW  - Ambient intelligence
+KW  - Intelligence architectures systems
+KW  - Performance evaluation
+KW  - Performance Ontologies
+KW  - Intelligent agents
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-33749020563
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 9
+ER  -
+
+TY  - CONF
+AU  - Sun, Y.
+AU  - Wang, R.
+AU  - Huang, Y.
+AU  - Liu, Z.
+TI  - A Knowledge Graph-Driven Approach for Architecture Design Space Generation and Reduction
+PY  - 2024
+T2  - Mechanisms and Machine Science
+VL  - 155 MMS
+SP  - 129
+EP  - 143
+DO  - 10.1007/978-981-97-0922-9_9
+UR  - https://www.scopus.com/pages/publications/85199282857?origin=resultslist
+AB  - The process of architecture design for complex systems relies on domain knowledge, which involves identifying architecture decision issues from text-based requirements and generating the architecture design space. As the complexity of the system increases, higher requirement is proposed for the storage and reuse of design knowledge. To address this challenge, this paper proposes a knowledge graph-driven approach for architecture design space generating and reduction. To represent and store knowledge in architecture decisions, a decision-oriented design knowledge graph (DDKG) is constructed by analyzing the relationship among requirements, functions, and knowledge in architecture decisions. The nodes in DDKG to generate the architecture design space are matched with decision issue keywords extracted from the user’s requirement text. Moreover, the design space is generated from nodes matched in DDKG and reduced by forming a Constraint Satisfaction Problem (CSP) model. The method proposed in this paper has been validated in the generation and reduction of architectural design space for the first-stage separation systems of launch vehicles. © The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd. 2024.
+KW  - Architecture design space
+KW  - Conceptual design
+KW  - Knowledge graph
+KW  - Architectural design
+KW  - Constraint satisfaction problems
+KW  - Domain Knowledge
+KW  - Knowledge graph
+KW  - % reductions
+KW  - Architecture decisions
+KW  - Architecture design space
+KW  - Architecture designs
+KW  - Design knowledge
+KW  - Design spaces
+KW  - Domain knowledge
+KW  - Knowledge graphs
+KW  - Space generation
+KW  - Space reductions
+KW  - Conceptual design
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85199282857
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Plaza, A.M.
+AU  - Díaz, J.
+AU  - Pérez, J.
+TI  - Software architectures for health care cyber-physical systems: A systematic literature review
+PY  - 2018
+T2  - Journal of Software: Evolution and Process
+VL  - 30
+IS  - 7
+C7  - e1930
+DO  - 10.1002/smr.1930
+UR  - https://www.scopus.com/pages/publications/85040629121?origin=resultslist
+AB  - Cyber-physical systems (CPS) refer to the next generation of Information and Communication Technology systems that mainly integrate sensing, computing, and communication to monitor, control, and interact with a physical process to provide citizens and businesses with smart applications and services: health care, smart homes, smart cities, and so on. In recent years, health care has become one of the most important services due to the continuous increases in its costs. This has motivated extensive research on health care CPS, and some of that research has focused on describing the software architecture behind these systems. However, there is no secondary study to consolidate the research. This paper aims to identify and compare existing research on software architectures for health care CPS in order to determine successful solutions that could guide other architects and practitioners in their health care projects. We conducted a systematic literature review and compared the selected studies based on a characterization schema. The research synthesis results in a knowledge base of software architectures for health care CPS, describing their stakeholders, functional and non-functional features, quality attributes architectural views and styles, components, and implementation technologies. This systematic literature review also identifies research gaps, such as the lack of open common platforms, as well as directions for future research. Copyright © 2018 John Wiley & Sons, Ltd.
+KW  - cyber-physical systems
+KW  - health care
+KW  - Internet of Things
+KW  - software architecture
+KW  - systematic literature review
+KW  - Automation
+KW  - Cyber Physical System
+KW  - Embedded systems
+KW  - Health care
+KW  - Intelligent buildings
+KW  - Internet of things
+KW  - Knowledge based systems
+KW  - Software architecture
+KW  - Architectural views
+KW  - Characterization schema
+KW  - Cyber-Physical System (CPS)
+KW  - Information and Communication Technologies
+KW  - Non-functional features
+KW  - Quality attributes
+KW  - Smart applications
+KW  - Systematic literature review
+KW  - Home health care
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85040629121
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 22
+ER  -
+
+TY  - CONF
+AU  - Freitas, C.F.
+AU  - Ramos, C.
+AU  - Alferes, J.
+TI  - An architecture for idea generation in smart meeting rooms
+PY  - 2009
+T2  - Ambient Intelligence Perspectives II - Selected Papers from the 2nd International Ambient Intelligence Forum 2009, AmIF 2009
+VL  - 5
+SP  - 159
+EP  - 166
+DO  - 10.3233/978-1-60750-481-8-159
+UR  - https://www.scopus.com/pages/publications/84877713987?origin=resultslist
+AB  - In this we propose a software architecture to support the Groups in meetings of Ideas Generation in an Ambient Intelligence context. The main issue is how the explicit information, that already exists in the meetings, is represented in order to be easily accessed for future usage. This enables environments in the context of work (Meeting Rooms) to be able to review the past, to be aware of the current context and to be able to propose solutions/ideas for future meetings. The knowledge management is achieve by means of intelligent agents, which must perform tasks such as building knowledge on Domain Ontologies, finding related/equal/opposite issues on indexed knowledge, and delivering the knowledge to the users in appropriate time. © 2009 The authors and IOS Press. All rights reserved.
+KW  - Ideas generation
+KW  - Knowledge management and reasoning
+KW  - Ontologies
+KW  - Intelligent agents
+KW  - Knowledge management
+KW  - Ontology
+KW  - Ambient intelligence
+KW  - Domain ontologies
+KW  - Explicit information
+KW  - Idea generation
+KW  - Ideas generation
+KW  - Smart meeting rooms
+KW  - Artificial intelligence
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-84877713987
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Sengupta, S.
+AU  - Dasgupta, R.
+TI  - LTSA conformance testing to architectural design of LMS using ontology
+PY  - 2017
+T2  - Education and Information Technologies
+VL  - 22
+IS  - 6
+SP  - 3017
+EP  - 3035
+DO  - 10.1007/s10639-016-9569-7
+UR  - https://www.scopus.com/pages/publications/85007197319?origin=resultslist
+AB  - This paper proposes a new methodology for checking conformance of the software architectural design of Learning Management System (LMS) to Learning Technology System Architecture (LTSA). In our approach, the architectural designing of LMS follows the formal modeling style of Acme. An ontology is built to represent the LTSA rules and the software architecture in Acme style. Conformity of the design with LTSA rules is tested by reasoning the ontology with the query language SPARQL. A Java-based plug-in system is introduced to implement functionalities like loading the elements of the architectural design into the ontology, mapping the architectural elements with LTSA elements, and performing the conformance test. The advantage of the proposed methodology is two-folded. First, it verifies an important software quality attribute – conformance to technical standard – at an early stage of development, like high-level design phase. Secondly, instead of the conventional manual checklist based approach of conformance testing, this methodology focuses on an automated way to finding the conformance level of the system under check. © 2016, Springer Science+Business Media New York.
+KW  - Acme
+KW  - LMS
+KW  - LTSA
+KW  - Ontology
+KW  - Owl
+KW  - Software architecture
+KW  - SPARQL
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-85007197319
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 1
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - Software Architecture, 2005. WICSA 2005. 5th Working IEEE/IFIP Conference on 2005
+PY  - 2005
+T2  - Proceedings - 5th Working IEEE/IFIP Conference on Software Architecture, WICSA 2005
+VL  - 2005
+UR  - https://www.scopus.com/pages/publications/33947173297?origin=resultslist
+AB  - The proceedings contain 56 papers. The topics discussed include: quantitative observation and theoretical construction in software architecture; what architects should know about reverse engineering and reengineering; sparking research ideas from the friction between doctrine and reality; on the meeting of software architecture and reverse engineering; using architectural perspectives; customized benchmark generation using MDA; extending the ATAM architecture evaluation to product line architectures; predicting change impact in architecture design with Bayesian belief networks; a survey of the use and documentation of architectural design rationale; a declarative approach to architectural reflection; architecting session report; measuring architecting effort; architecture description languages in practice session report; components and services session report; architectural design decision session report; an architecture and its rationale; and position on ontology-based architecture.
+KW  - Bayesian networks
+KW  - Benchmarking
+KW  - Ontology
+KW  - Reverse engineering
+KW  - Architectural design rationale
+KW  - Architecture description languages
+KW  - Product line architectures
+KW  - Software architecture
+M3  - Conference review
+DB  - Scopus
+N1  - EID: 2-s2.0-33947173297
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Kim, T.W.
+AU  - Rajagopal, R.
+AU  - Fischer, M.
+AU  - Kam, C.
+TI  - A knowledge-based framework for automated space-use analysis
+PY  - 2013
+T2  - Automation in Construction
+VL  - 32
+SP  - 165
+EP  - 176
+DO  - 10.1016/j.autcon.2012.08.002
+UR  - https://www.scopus.com/pages/publications/84878363611?origin=resultslist
+AB  - Space-use can only be effectively determined when space, user, and activity perspectives are taken into account simultaneously. We develop a knowledge-based framework for automated space-use analysis to enable analyzers to predict and update space utilization simultaneously considering these three perspectives with computational assistance. The framework includes the formalization of the concepts for space-use analysis such as users, user activities, spaces, equipment, and space utilization, the ontological relationships among the concepts, and the automated space-use analysis process. We demonstrate the effectiveness of the proposed framework through a trial run on select areas in an academic building at Stanford University. Our results show that the proposed framework can support iterative refinement of the architectural design and its usage by predicting the utilization and visualizing the results automatically. This automation in space-use analysis contributes a consistent, clear, and efficient means of analyzing space-use in support of architects' and clients' decision-making about the design. © 2012 Elsevier B.V. All rights reserved.
+KW  - Automated space-use analysis process
+KW  - Framework
+KW  - Space utilization
+KW  - Space-use analysis
+KW  - User activity
+KW  - Automation
+KW  - Decision making
+KW  - Knowledge based systems
+KW  - Analysis process
+KW  - Framework
+KW  - Space use
+KW  - Space utilization
+KW  - User activity
+KW  - Network function virtualization
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-84878363611
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 29
+ER  -
+
+TY  - CONF
+AU  - Lu, B.
+AU  - Pham, D.
+AU  - Chang, T.-C.
+AU  - Lovette, M.
+AU  - Bui, T.
+AU  - Ma, S.
+TI  - SHACL-SKOS Based Knowledge Representation of Material Safety Data Sheet (SDS) for the Pharmaceutical Industry
+PY  - 2025
+T2  - Proceedings - IEEE International Conference on Semantic Computing, ICSC
+SP  - 110
+EP  - 117
+DO  - 10.1109/ICSC64641.2025.00021
+UR  - https://www.scopus.com/pages/publications/105009455275?origin=resultslist
+AB  - We report the development of a knowledge representation and reasoning (KRR) system built on hybrid SHACL-SKOS ontologies for globally harmonized system (GHS) material Safety Data Sheets (SDS) to enhance chemical safety communication and regulatory compliance. SDS are comprehensive documents containing safety and handling information for chemical substances. Thus, they are an essential part of workplace safety and risk management. However, the vast number of Safety Data Sheets from multiple organizations, manufacturers, and suppliers that produce and distribute chemicals makes it challenging to centralize and access SDS documents through a single repository. To accomplish the underlying issues of data exchange related to chemical shipping and handling, we construct SDS related controlled vocabulary and conditions validated by SHACL, and knowledge systems of similar domains linked via SKOS. The resulting hybrid ontologies aim to provide standardized yet adaptable representations of SDS information, facilitating better data sharing, retrieval, and integration across various platforms. This paper outlines our SHACL-SKOS system architectural design and showcases our implementation for an industrial application streamlining the generation of a composite shipping cover sheet. © 2025 IEEE.
+KW  - chemical safety
+KW  - etl
+KW  - ghs
+KW  - hazcom
+KW  - krr
+KW  - ontology
+KW  - sds
+KW  - shacl
+KW  - skos
+KW  - sparql
+KW  - vlm
+KW  - Accident prevention
+KW  - Data Sharing
+KW  - Electronic data interchange
+KW  - Knowledge management
+KW  - Regulatory compliance
+KW  - Risk management
+KW  - Simple knowledge organization system (SKOS)
+KW  - Chemical safety
+KW  - Etl
+KW  - Ghs
+KW  - Hazcom
+KW  - Krr
+KW  - Ontology's
+KW  - Sds
+KW  - Shacl
+KW  - Skos
+KW  - Sparql
+KW  - Vlm
+KW  - Ontology
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-105009455275
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Sahu, M.
+AU  - Maringanti, H.B.
+TI  - A rational cognitive architectural model of language generation
+PY  - 2018
+T2  - Procedia Computer Science
+VL  - 132
+SP  - 149
+EP  - 156
+DO  - 10.1016/j.procs.2018.05.177
+UR  - https://www.scopus.com/pages/publications/85049113241?origin=resultslist
+AB  - In this paper, a prototype model demonstrating the rationality in humans is developed. For queries to be answered, the internal knowledge representation mechanism is understood to be in the form of inter-related clusters permanently stored in the long term memory (LTM). In response to a query involving a single predicate (simplest case), only one cluster along with its various attributes and values may be retrieved. In contrast, a complex query involving multiple predicates requires the retrieval of multiple related chunks, forming a network of knowledge, often referred to as a concept map, from which the response is generated. An internal process that happens is the matching of predicate of the question with the facts in the knowledge-base and retrieval of the chunk(s) with the corresponding Attribute-Value pairs, through a process akin to unification, a substitution procedure. However, an unanswered query due to the absence of a specific knowledge generates a negative response. © 2018 The Authors. Published by Elsevier Ltd.
+KW  - ACT-R
+KW  - Association rule
+KW  - Brain map
+KW  - Chunks
+KW  - Concept map
+KW  - generation
+KW  - Knowledge representation
+KW  - Language understanding
+KW  - Memory model
+KW  - Short Term Memory
+KW  - Association rules
+KW  - Knowledge based systems
+KW  - Knowledge representation
+KW  - ACT-R
+KW  - Chunks
+KW  - Concept maps
+KW  - generation
+KW  - Language understanding
+KW  - Memory modeling
+KW  - Short term memory
+KW  - Indium compounds
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85049113241
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Maffioletti, S.
+AU  - Kouadri M., S.
+AU  - Hirsbrunner, B.
+TI  - Automatic resource and service management for ubiquitous computing environments
+PY  - 2004
+T2  - Proceedings - Second IEEE Annual Conference on Pervasive Computing and Communications, Workshops, PerCom
+SP  - 219
+EP  - 223
+DO  - 10.1109/PERCOMW.2004.1276935
+UR  - https://www.scopus.com/pages/publications/2942566005?origin=resultslist
+AB  - The high degree of dynamism and heterogeneity of the resources involved in a pervasive computing environment makes service adaptation and interoperability a difficult task. This paper presents UBIDEV, a service framework that faces the heterogeneity problem by hiding at the application level the dynamism of the underlying environment. We describe the UBIDEV architecture focusing on the description and the management of services and resources. We also describe how this approach decreases the complexity of the design and development of service-oriented applications. A prototype implementation of a unified messaging system is presented as a validation of the architectural design.
+KW  - Abstracting
+KW  - Computational methods
+KW  - Computer architecture
+KW  - Computer operating systems
+KW  - Distributed computer systems
+KW  - Interfaces (computer)
+KW  - Middleware
+KW  - Monitoring
+KW  - Sensors
+KW  - Telecommunication services
+KW  - Network operating systems
+KW  - Ontology
+KW  - Resource monitoring
+KW  - Ubiquitous computing
+KW  - Computer science
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-2942566005
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 16
+ER  -
+
+TY  - CONF
+AU  - Nguyen, M.
+AU  - Wrede, S.
+AU  - Hochgeschwender, N.
+TI  - Automated Behaviour-Driven Acceptance Testing of Robotic Systems
+PY  - 2025
+T2  - IEEE International Conference on Intelligent Robots and Systems 
+SP  - 1327
+EP  - 1333
+DO  - 10.1109/IROS60139.2025.11246121
+UR  - https://www.scopus.com/pages/publications/105029931076?origin=resultslist
+AB  - The specification and validation of robotics applications require bridging the gap between formulating requirements and systematic testing. This often involves manual and error-prone tasks that become more complex as requirements, design, and implementation evolve. To address this challenge systematically, we propose extending behaviour-driven development (BDD) to define and verify acceptance criteria for robotic systems. In this context, we use domain-specific modelling and represent composable BDD models as knowledge graphs for robust querying and manipulation, facilitating the generation of executable testing models. A domain-specific language helps to efficiently specify robotic acceptance criteria. We explore the potential for automated generation and execution of acceptance tests through a software architecture that integrates a BDD framework, Isaac Sim, and model transformations, focusing on acceptance criteria for pick-and-place applications. We tested this architecture with an existing pick-and-place implementation and evaluated the execution results, which shows how this application behaves and fails differently when tested against variations of the agent and environment. This research advances the rigorous and automated evaluation of robotic systems, contributing to their reliability and trustworthiness.  © 2025 IEEE.
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-105029931076
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Menaouer, B.
+AU  - Younes, C.
+AU  - Mokhtar, E.E.
+AU  - Mohammed, S.
+TI  - Pharmaceutical chatbot assistant using generative AI and knowledge graph with specific pharmaceutical resources
+PY  - 2026
+T2  - Iran Journal of Computer Science
+VL  - 9
+IS  - 1
+C7  - 40
+DO  - 10.1007/s42044-026-00396-3
+UR  - https://www.scopus.com/pages/publications/105036032775?origin=resultslist
+AB  - Artificial Intelligence (AI) has the potential to revolutionize the medical and pharmaceutical sectors. AI and related technologies can significantly address some supply and demand challenges in the pharmaceutical system, such as pharmaceutical AI assistants, chatbot technology, and PharmaRobots. Generative AI (GenAI) is a type of AI that aims to produce new content rather than merely recognizing it. One of the most significant advances in natural-language processing (NLP) in recent years is the development of Large Language Models (LLMs). In this study, we propose a chatbot system to support pharmacists through the development of a pharmaceutical chatbot assistant, called PharmaBot, which is proficient in delivering accurate and contextually relevant responses concerning medications. To this end, we developed a general architectural design that focuses on tailoring LLMs, utilizing retrieval-augmented generation (RAG) and Knowledge Graphs (KGs) to evaluate their performance with specific pharmaceutical resources. A comprehensive knowledge base was constructed by meticulously preprocessing 18,698 pharmaceutical files from the Vidal Group. A key architectural innovation is a dual-embedding strategy that captures both semantic and structural information, facilitating nuanced and context-aware similarity searches. By adopting sophisticated evaluation measures, such as ROUGE, BERTScore, METEOR, and Cosine Similarity, the effectiveness of the algorithms used in producing precise and cohesive summaries was evaluated. The empirical findings conclusively identified that the Google Gemma 2 27B model is the optimal configuration, as it achieved the highest performance across all quality metrics (BERTScore F1-score: 0.834, ROUGE-L F1-score: 0.561, and METEOR score: 0.616), and demonstrates exceptional efficiency with the shortest average response time. Based on the aggregated proposals and findings in the existing literature, this paper concludes with a set of challenges and research recommendations, hopefully contributing to guiding research in the extremely active pharmaceutical domain. © The Author(s), under exclusive licence to Springer Nature Switzerland AG 2026.
+KW  - Decision support systems
+KW  - Generative AI (GenAI)
+KW  - Information retrieval
+KW  - Knowledge graphs (KGs)
+KW  - Knowledge management
+KW  - Large language models (LLMs)
+KW  - Pharmaceutical chatbot
+KW  - Retrieval-augmented generation (RAG)
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105036032775
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Suleykin, A.
+AU  - Panfilov, P.
+TI  - Smart Technical Support System Development Using Knowledge Map-Aided Approach
+PY  - 2024
+T2  - Proceedings - 2024 6th International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency, SUMMA 2024
+SP  - 455
+EP  - 460
+DO  - 10.1109/SUMMA64428.2024.10803829
+UR  - https://www.scopus.com/pages/publications/105014210816?origin=resultslist
+AB  - Strong technical support is crucial to success of any brand. It provides answers to customer's questions and solutions to different situations and is an important factor in keeping customers loyal. A new level of technical support can be achieved through combination of traditional service automation offers with the current advancement of Generative Artificial Intelligence (GenAI) embedded into technical support. GenAI in general and the large language models (LLM s) in particular create new opportunities for natural conversational interfaces and the development of 'smart' technical support systems. Based on experiences and observations from other intelligent assistance projects, this paper presents new methodological perspectives from academia and best practice from industry on architecting intelligent technical support systems. It discusses the impact of GenAI and LLMs through real cases supporting an ongoing validation. The maj or focus of this paper is on architectural models for intelligent technical support systems, showing the fundamental Knowledge Map mechanism of AIbased customer service, which allows for not only controlling the information used to generate responses and minimizing errors but also automatically processes requests in accounting systems. An example of successful implementation of Knowledge Mapbased approach is given, where the intelligent assistant chat-bot demonstrates high accuracy of answers and in case of uncertainty redirects requests to human operators. The paper presents the key architectural model perspectives for the development of intelligent technical support systems.  © 2024 IEEE.
+KW  - chat-bot
+KW  - knowledge graph
+KW  - knowledge map
+KW  - large language model
+KW  - smart assistant
+KW  - technical support
+KW  - Knowledge graph
+KW  - Architectural modeling
+KW  - Chat bots
+KW  - Knowledge graphs
+KW  - Knowledge map
+KW  - Language model
+KW  - Large language model
+KW  - Smart assistant
+KW  - System development
+KW  - Technical support
+KW  - Technical support systems
+KW  - Sales
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-105014210816
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Hajimani, E.
+AU  - Nazemi, E.
+TI  - Improving the performance of proposed multi-agent domain specific search engine using query refinement component
+PY  - 2010
+T2  - 2010 5th International Symposium on Telecommunications, IST 2010
+C7  - 5734092
+SP  - 584
+EP  - 590
+DO  - 10.1109/ISTEL.2010.5734092
+UR  - https://www.scopus.com/pages/publications/79953897662?origin=resultslist
+AB  - The web size is increasing continuously. Chinese researchers have shown that web growth obeys the Moor's law and the Internet will double in size every 5.32 years. The more the Internet is growing; the more tendencies the people have to use the search engines. Moreover, since most of the commercial search engines are based on keyword indexing, there are many records in their result lists that are irrelevant to the user's information needs. It is shown that for retrieving more relevant and precise results, the following two points should be concerned: First of all, the query (either it is generated by a human or an intelligent agent) should be expressed in an accurate and exact manner. Second, we should empower search engines with the ability to capture the semantic relation between the words and the query context. Hence, different search engine architectures, each of which containing query refinement or semantic understanding components, have been proposed. Each architectural model has its own specific properties; but, most of them focus on only one of the two points mentioned above to improve the overall system efficiency. Moreover, in existing architectures, query refinement components have direct interaction with users which may either take their time or threat their privacy while gathering basic information. In this paper, we proposed an improved architectural model for agent and ontology based search engine which uses domain ontology for semantic understanding and a query refinement subsystem based on fuzzy ontology. This subsystem helps Search Agents to refine their queries, express them in a more precise way and get more relevant results. The simulation result shows that using this query refinement subsystem by Search Agents can improve the system efficiency up to 5.2%. © 2010 IEEE.
+KW  - Domain ontology
+KW  - Fuzzy ontology
+KW  - Intelligent agents
+KW  - Query refinement
+KW  - Search engines
+KW  - Architecture
+KW  - Artificial intelligence
+KW  - Information retrieval
+KW  - Intelligent agents
+KW  - Internet
+KW  - Ontology
+KW  - Semantics
+KW  - Architectural models
+KW  - Direct interactions
+KW  - Domain ontologies
+KW  - Domain-specific search engines
+KW  - Fuzzy ontology
+KW  - Information need
+KW  - Multi-Agent
+KW  - Ontology-based
+KW  - Query context
+KW  - Query refinement
+KW  - Search agents
+KW  - Semantic relations
+KW  - Semantic understanding
+KW  - Simulation result
+KW  - System efficiency
+KW  - Two-point
+KW  - Search engines
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-79953897662
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Bruns, R.
+AU  - Dunkel, J.
+AU  - Ossowski, S.
+TI  - Applying advisory agents on the semantic web for e-learning
+PY  - 2006
+T2  - International Journal of Intelligent Information Technologies
+VL  - 2
+IS  - 3
+SP  - 40
+EP  - 54
+DO  - 10.4018/jiit.2006070103
+UR  - https://www.scopus.com/pages/publications/33748543199?origin=resultslist
+AB  - In this article, we present the software architecture of a new generation of advisory systems using Intelligent Agent and Semantic Web technologies. Multi-agent systems provide a vell-suited paradigm to implement negotiation processes in a consultancy situation. Software agents act as clients and advisors, using their knowledge to assist human users. In the presented architecture, the domain knowledge is modeled semantically by means of XML-based ontology languages such as OWL. Using an inference engine, the agents reason, based on their knowledge to make decisions or proposals. The agent know ledge consists of different types of data: on the one hand, private data, which has to be protected against unauthorized access; and on the other hand, publicly accessible knowledge spread over different Web sites. As in a real consultancy, an agent only reveals sensitive private data, if they are indispensable for finding a solution. In addition, depending on the actual consultancy situation, each agent dynamically expands its knowledge base by accessing OWL knowledge sources from the Internet. Due to the standardization of OWL, knowledge models easily can be shared and accessed via the Internet. The usefulness of our approach is proved by the implementation of an advisory system in the Semantic E-learning Agent (SEA) project, whose objective is to develop virtual student advisers that render support to university students in order to successfully organize and perform their studies. Copyright © 2006, Idea Group Inc.
+KW  - Agents
+KW  - e-learning
+KW  - Ontology
+KW  - Semantic Web application
+KW  - Computer software
+KW  - Intelligent agents
+KW  - Internet
+KW  - Mathematical models
+KW  - Semantics
+KW  - XML
+KW  - e-learning
+KW  - Ontology
+KW  - Semantic E-learning Agent (SEA)
+KW  - Semantic Web applications
+KW  - Software engineering
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-33748543199
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 1
+ER  -
+
+TY  - CONF
+AU  - Haindl, P.
+AU  - Buchgeher, G.
+AU  - Khan, M.
+AU  - Moser, B.
+TI  - Towards a Reference Software Architecture for Human-AI Teaming in Smart Manufacturing
+PY  - 2022
+T2  - Proceedings - International Conference on Software Engineering
+SP  - 96
+EP  - 100
+DO  - 10.1109/ICSE-NIER55298.2022.9793509
+UR  - https://www.scopus.com/pages/publications/85132183705?origin=resultslist
+AB  - With the proliferation of AI-enabled software systems in smart manufacturing, the role of such systems moves away from a reactive to a proactive role that provides context-specific support to manufacturing operators. In the frame of the EU funded Teaming.AI project, we identified the monitoring of teaming aspects in human-AI collaboration, the runtime monitoring and validation of ethical policies, and the support for experimentation with data and machine learning algorithms as the most relevant challenges for human-AI teaming in smart manufacturing. Based on these challenges, we developed a reference software architecture based on knowledge graphs, tracking and scene analysis, and components for relational machine learning with a particular focus on its scalability. Our approach uses knowledge graphs to capture product and process specific knowledge in the manufacturing process and to utilize it for relational machine learning. This allows for context-specific recommendations for actions in the manufacturing process for the optimization of product quality and the prevention of physical harm. The empirical validation of this software architecture will be conducted in cooperation with three large-scale companies in the automotive, energy systems, and precision machining domain. In this paper we discuss the identified challenges for such a reference software architecture, present its preliminary status, and sketch our further research vision in this project.  © 2022 IEEE.
+KW  - human-AI teaming
+KW  - IIoT
+KW  - knowledge graphs
+KW  - relational machine learning
+KW  - smart manufacturing
+KW  - software architecture
+KW  - Flow control
+KW  - Knowledge graph
+KW  - Learning algorithms
+KW  - Life cycle
+KW  - Machine components
+KW  - Manufacture
+KW  - Software architecture
+KW  - Human-AI teaming
+KW  - IIoT
+KW  - Knowledge graphs
+KW  - Machine-learning
+KW  - Manufacturing process
+KW  - Reference software
+KW  - Relational machine learning
+KW  - Runtime Monitoring
+KW  - Smart manufacturing
+KW  - Software-systems
+KW  - Machine learning
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85132183705
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 17
+ER  -
+
+TY  - CONF
+AU  - Kotonya, G.
+TI  - An architecture-centric development environment for black-box component-based systems
+PY  - 2008
+T2  - Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)
+VL  - 5292 LNCS
+SP  - 98
+EP  - 113
+DO  - 10.1007/978-3-540-88030-1_9
+UR  - https://www.scopus.com/pages/publications/56849091892?origin=resultslist
+AB  - Component-based software system development typifies traditional engineering philosophy by promoting the construction of systems from pre-fabricated software components. Underlying this philosophy is the promise of accelerated, low cost development and reliable software systems. However, the development strategy is hampered by the lack of practical methods and tools that support the reuse-driven paradigm embodied in black-box components. Current methods and tool environments provide poor support for the challenges posed by developing systems from off-the-shelf black-box components. These include poor support for: component discovery and verification, modelling and mapping requirements to component architectures, negotiation, architectural design and composition, and managing change. This paper describes an architecture-centric approach and environment for formulating, integrating and deploying black-box component-based systems. Practical experience of using the approach is illustrated with a real case study. © 2008 Springer-Verlag Berlin Heidelberg.
+KW  - Architecture
+KW  - Black-box components
+KW  - Development environment
+KW  - Architectural design
+KW  - Architecture
+KW  - Computer software
+KW  - Ontology
+KW  - Philosophical aspects
+KW  - Planning
+KW  - Strategic planning
+KW  - And environments
+KW  - And verifications
+KW  - Black boxes
+KW  - Black-box components
+KW  - Component architectures
+KW  - Developing systems
+KW  - Development environment
+KW  - Development environments
+KW  - Development strategies
+KW  - Engineering philosophies
+KW  - Low costs
+KW  - Practical experiences
+KW  - Practical methods
+KW  - Real cases
+KW  - Software components
+KW  - Software system developments
+KW  - Software systems
+KW  - Software architecture
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-56849091892
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 2
+ER  -
+
+TY  - JOUR
+AU  - Boddy, S.
+AU  - Rezgui, Y.
+AU  - Wetherill, M.
+AU  - Cooper, G.
+TI  - Knowledge informed decision making in the building lifecycle: An application to the design of a water drainage system
+PY  - 2007
+T2  - Automation in Construction
+VL  - 16
+IS  - 5
+SP  - 596
+EP  - 606
+DO  - 10.1016/j.autcon.2006.10.001
+UR  - https://www.scopus.com/pages/publications/34147172921?origin=resultslist
+AB  - Critical decisions which influence the sustainability of a construction project are made in a pressurised, time-critical environment. These decisions must be supported and informed by knowledge resources, with the reasons for these decisions feeding back into the body of knowledge. This paper reports on a research initiative which brings together a knowledge management environment and a decision support tool, bringing sustainability knowledge management into the applications used in architectural design. Validation of the resulting knowledge informed decision making environment emphasised the potential benefits that such environments can bring in assisting decision making by capitalizing on the wealth of existing related knowledge. © 2006 Elsevier B.V. All rights reserved.
+KW  - Architectural design
+KW  - Decision making
+KW  - Design knowledge
+KW  - Problem solving
+KW  - Sustainable construction
+KW  - Architectural design
+KW  - Construction industry
+KW  - Decision making
+KW  - Knowledge based systems
+KW  - Knowledge management
+KW  - Problem solving
+KW  - Project management
+KW  - Sustainable development
+KW  - Design knowledge
+KW  - Sustainable construction
+KW  - Life cycle
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-34147172921
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 14
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - Recent Trends in Algebraic Development Techniques -17th International Workshop, WADT 2004
+PY  - 2005
+T2  - Lecture Notes in Computer Science
+VL  - 3423
+UR  - https://www.scopus.com/pages/publications/24344460958?origin=resultslist
+AB  - The proceedings contain 15 papers from the Recent Trends in Algebraic Development Techniques - 17th International Workshop, WADT 2004. The topics discussed include: behavior-preserving refinement relations between dynamic software architectures; cryptomorphisms at work; towards a formal specification of an electronic payment system in CSP-CASL; algebraic semantics of design abstractions for context-awareness; ontologies for the semantic web in CASL; behavioural semantics of algebraic specifications in arbitrary logical systems; a simple refinement language for CASL; a distributed and mobile component system based on the ambient calculus; and type class polymorphism in an institutional framework.
+KW  - Computer software
+KW  - Distributed computer systems
+KW  - Semantics
+KW  - World Wide Web
+KW  - Institutional frameworks
+KW  - Logical systems
+KW  - Polymorphism
+KW  - Software architectures
+KW  - Algebra
+M3  - Conference review
+DB  - Scopus
+N1  - EID: 2-s2.0-24344460958
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Johnson, W.
+AU  - Narayanaswamy, K.
+AU  - Balzer, R.
+TI  - Interactive elaboration of generic designs
+PY  - 1993
+T2  - Proceedings of 8th Knowledge-Based Software Engineering Conference, KBSE 1993
+C7  - 341210
+SP  - 96
+EP  - 103
+DO  - 10.1109/KBSE.1993.341210
+UR  - https://www.scopus.com/pages/publications/85064688832?origin=resultslist
+AB  - The paper describes a family of tools called Binders that support the elaboration of generic designs. Rather than taking the approach of building new languages and environments, a Binder is designed to inter-operate with existing languages and tools. Binders support grammatical extensions to a language (for example, a language to describe architectures or a language to describe processes) that permits the inclusion of uninstantiated descriptions in the language. Design elaboration is performed interactively-the Binder informs the designer as to which elements of the design require further elaboration, and suggests possible ways in which the elaboration may be performed. The Binder relies upon application specific knowledge bases of design constraints to be satisfied, and methods for satisfying those constraints. Two Binders have been developed using the above methodology: An Architecture Binder for developing software architectures from generic architectures, and a Process Binder that supports refinement of generic processes during process enactment. © 1993 IEEE.
+KW  - Knowledge based systems
+KW  - Software engineering
+KW  - Application-specific knowledge
+KW  - Design constraints
+KW  - Generic architecture
+KW  - Generic design
+KW  - Generic process
+KW  - Process enactment
+KW  - Binders
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85064688832
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Gregory, J.
+AU  - Salado, A.
+TI  - Implementing a Student Rover Design Exercise in the Digital Engineering Factory
+PY  - 2024
+T2  - IEEE Aerospace Conference Proceedings
+DO  - 10.1109/AERO58975.2024.10521444
+UR  - https://www.scopus.com/pages/publications/85192382878?origin=resultslist
+AB  - One area of digital engineering that has received significant attention in recent years is the digital thread. The digital thread refers to the integration of digital information across the entire lifecycle of a system. This necessarily means that different engineering tools, each supporting some aspect of the system lifecycle, must be integrated in some way as to enable the seamless transfer and utilization of data. Today's industry leaders consider digital thread initiatives to be a top priority. Engineering education has the potential to benefit significantly from the deployment of a digital thread. Integrating data across multiple engineering courses would enable students to see a complete end-to-end engineering process, observe the consequences of their decisions downstream, gain experience working collaboratively in a digital environment, and evaluate each other's work more effectively. Students no longer submit homework, but commit models to a repository. In this paper, the authors detail the application of the Digital Engineering Factory (DEF) to an example student project. The DEF is a browser-based collaborative engineering environment under development by the authors to support systems and software engineering students at the University of Arizona. The DEF enables the integration of data from tools spanning multiple engineering domains, covering project management, information artifacts, reporting, enterprise architecture, system and software architecture, acquisition, requirements, analysis, verification, and manufacturing. The DEF is also capable of generating a Resource Description Framework (RDF) representation of a dataset to enable the application of semantic web technologies such as reasoning, validation, and querying. A Mars Rover student design exercise that spans multiple engineering courses is defined. Rover requirements have been captured in Jama Connect. The Rover architecture has been modeled using Duro. Student responsibilities have been captured in Jira. The entire project dataset is captured in the DEF, and a representative RDF knowledge graph is generated. This knowledge graph enables students to validate their work and enables querying to support grading by instructors. © 2024 IEEE.
+KW  - Curricula
+KW  - Data integration
+KW  - Education computing
+KW  - Engineering education
+KW  - Grading
+KW  - Information management
+KW  - Life cycle
+KW  - Project management
+KW  - Resource Description Framework (RDF)
+KW  - Verification
+KW  - Digital engineering
+KW  - Digital information
+KW  - Engineering course
+KW  - Engineering tools
+KW  - Entire life cycles
+KW  - Knowledge graphs
+KW  - Resources description frameworks
+KW  - Rover designs
+KW  - System lifecycle
+KW  - Systems and software
+KW  - Students
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85192382878
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 8
+ER  -
+
+TY  - CONF
+AU  - Schuchter, T.
+AU  - Breckle, T.
+AU  - Stetter, R.
+AU  - Till, M.
+AU  - Derksen, P.
+AU  - Rudolph, S.
+TI  - Conception of an Automated Graph-Based Assembly System Development Process for a Balancing Scooter
+PY  - 2026
+T2  - Lecture Notes in Mechanical Engineering
+SP  - 469
+EP  - 477
+DO  - 10.1007/978-3-032-16889-4_44
+UR  - https://www.scopus.com/pages/publications/105040731366?origin=resultslist
+AB  - Using a balancing scooter as an example, the development of an automated design process for a hybrid assembly system is illustrated. A framework of graph-based design languages is used for the modeling, starting with an ontology which defines the concepts and their relationships in Unified Modeling Language (UML) syntax. Based on this, a design graph is generated using a rule-based approach. Furthermore, the question of how manual assembly steps can be simulated and analysed as part of an automated design process is addressed. All processes are automatically derived on the basis of the product model and the associated joining information, which form the basis for a 2D- and 3D-layout of an assembly cell. The manual assembly system is evaluated via an Unreal Engine 5 interface using the created layout. The virtual execution of the assembly enables the recording of movement data, which serves as the basis for an economic simulation. The results of this simulation provide the foundation for continuous adaptation of the assembly system, ensuring that the assembly process is designed in accordance with economic principles. The architectural design allows for the validation of hybrid assembly systems in their developmental phase. © The Author(s) 2026.
+KW  - Assembly system design
+KW  - Ergonomic manufacturing
+KW  - Graph-based design languages
+KW  - Production layout
+KW  - Virtual reality
+KW  - Assembly
+KW  - Automation
+KW  - Balancing
+KW  - Graphic methods
+KW  - Product design
+KW  - Riveting
+KW  - Systems analysis
+KW  - Unified Modeling Language
+KW  - Assembly system design
+KW  - Assembly systems
+KW  - Automated design
+KW  - Design languages
+KW  - Design-process
+KW  - Ergonomic manufacturing
+KW  - Graph-based
+KW  - Graph-based design language
+KW  - Hybrid assembly
+KW  - Production layout
+KW  - Virtual reality
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-105040731366
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Castillo-Barrera, F.-E.
+AU  - Medina-Ramirez, C.
+TI  - Chichen-Itza II: A semantic framework for verification and learning of pipes and filters architectural pattern
+PY  - 2016
+T2  - CEUR Workshop Proceedings
+VL  - 1807
+SP  - 22
+EP  - 33
+UR  - https://www.scopus.com/pages/publications/85016423045?origin=resultslist
+AB  - In software engineering, verification of architectural designs is a task that requires a very high level of abstraction. In companies, verification techniques for architectural designs are difficult to integrate into the standard software development process because it requires specialized expertise in an application domain. This paper describes a semantic framework for verifying models and how it is used for learning of Pipes and Filters Architectural Patterns (PFAP). Elements of this architecture are seen as software components which are assembled among them and each assembling implies a contract. Each contract is verified using semantic web technologies based on the rules of PFAP. We show an example of the verification of Voice over an IP model using an extended and new version of the prototype called Chichen-Itza II to show the feasibility of our approach. Copyright © 2016 for this paper by its authors.
+KW  - Assembling
+KW  - Contracts
+KW  - Ontology
+KW  - Pellet OWL-DL reasoner
+KW  - Pipes and filters architectural pattern
+KW  - Software components
+KW  - SPARQL
+KW  - Verification
+KW  - VoIP
+KW  - Application programs
+KW  - Architectural design
+KW  - Bandpass filters
+KW  - Contracts
+KW  - Ontology
+KW  - Software design
+KW  - Software engineering
+KW  - Verification
+KW  - Voice/data communication systems
+KW  - Web crawler
+KW  - And filters
+KW  - Assembling
+KW  - Reasoner
+KW  - Software component
+KW  - SPARQL
+KW  - VoIP
+KW  - Semantic Web
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-85016423045
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Dunkel, J.
+AU  - Bruns, R.
+TI  - Software architecture of advisory systems using agent and Semantic Web technologies
+PY  - 2005
+T2  - Proceedings - 2005 IEEE/WIC/ACM InternationalConference on Web Intelligence, WI 2005
+VL  - 2005
+C7  - 1517883
+SP  - 418
+EP  - 421
+DO  - 10.1109/WI.2005.135
+UR  - https://www.scopus.com/pages/publications/33748857212?origin=resultslist
+AB  - In this paper, we present the software architecture of a new generation of advisory systems using Intelligent Agent and Semantic Web technologies. Software agents act as clients and advisors to implement negotiation processes in a consultancy situation. The domain knowledge is modeled with the OWL ontology language. Using an inference engine the agents reason on base of their knowledge to make decisions or proposals. The agent knowledge consists of private data and publicly accessible knowledge spread over different web sites. As in a real consultancy an agent only reveals sensitive private data, if it is indispensable for finding a solution. Depending on the actual consultancy situation each agent dynamically expands its knowledge base by accessing OWL knowledge sources from the Internet. © 2005 IEEE.
+KW  - Computer architecture
+KW  - Formal languages
+KW  - Semantics
+KW  - Websites
+KW  - Advisory systems
+KW  - OWL ontology language
+KW  - Semantic Web technologies
+KW  - Software engineering
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-33748857212
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 8
+ER  -
+
+TY  - CONF
+AU  - Talukder, A.
+AU  - Mridul, M.A.
+AU  - Seneviratne, O.
+TI  - Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach
+PY  - 2026
+T2  - CEUR Workshop Proceedings
+VL  - 4246
+SP  - 103
+EP  - 122
+UR  - https://www.scopus.com/pages/publications/105048926291?origin=resultslist
+AB  - Automatically generating formal ontologies from unstructured natural language remains a central challenge in knowledge engineering. While large language models (LLMs) show promise, it remains unclear which architectural design choices drive generation quality and why current approaches fail. We present a controlled experimental study using domain-specific insurance contracts to investigate these questions. We first establish a single-agent LLM baseline, identifying key failure modes such as poor Ontology Design Pattern compliance, structural redundancy, and ineffective iterative repair. We then introduce a multi-agent architecture that decomposes ontology construction into four artifact-driven roles: Domain Expert, Manager, Coder, and Quality Assurer. We evaluate performance across architectural quality (via a panel of heterogeneous LLM judges) and functional usability (via competency question driven SPARQL evaluation with complementary retrieval augmented generation based assessment). Results show that the multi-agent approach significantly improves structural quality and modestly enhances queryability, with gains driven primarily by front-loaded planning. These findings highlight planning-first, artifact-driven generation as a promising and more auditable path toward scalable automated ontology engineering. © 2026 Copyright for this paper by its authors.
+KW  - Artifact-Driven Workflows
+KW  - Automated Ontology Generation
+KW  - Competency Questions (CQs)
+KW  - Knowledge Graph Construction
+KW  - Large Language Models (LLMs)
+KW  - Multi-Agent Systems
+KW  - Ontology Design Patterns (ODPs)
+KW  - Ontology Engineering
+KW  - Retrieval-Augmented Generation (RAG)
+KW  - SPARQL Evaluation
+KW  - Architectural design
+KW  - Automation
+KW  - Computational linguistics
+KW  - Failure (mechanical)
+KW  - Insurance
+KW  - Intelligent agents
+KW  - Iterative methods
+KW  - Knowledge engineering
+KW  - Natural language processing systems
+KW  - Ontology
+KW  - Safety engineering
+KW  - Artifact-driven workflow
+KW  - Automated ontology generation
+KW  - Competency question
+KW  - Design Patterns
+KW  - Graph construction
+KW  - Knowledge graph construction
+KW  - Knowledge graphs
+KW  - Language model
+KW  - Large language model
+KW  - Multiagent systems (MASs)
+KW  - Ontology design
+KW  - Ontology design pattern
+KW  - Ontology engineering
+KW  - Ontology generation
+KW  - Retrieval-augmented generation
+KW  - SPARQL evaluation
+KW  - Work-flows
+KW  - Multi agent systems
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-105048926291
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - BOOK
+AU  - Scheffer, L.
+AU  - Lavagno, L.
+AU  - Martin, G.
+TI  - EDA for IC System Design, Verification, and Testing
+PY  - 2016
+T2  - EDA for IC System Design, Verification, and Testing
+SP  - 1
+EP  - 543
+UR  - https://www.scopus.com/pages/publications/85051269420?origin=resultslist
+AB  - Electronic design automation (EDA) is among the crown jewels of electrical engineering. Without EDA tools, today's complex integrated circuits (ICs) would be impossible. Doesn't such an important field deserve a comprehensive, in-depth, and authoritative reference? The Electronic Design Automation for Integrated Circuits Handbook is that reference, ranging from system design through physical implementation. Organized for convenient access, this handbook is available as a set of two carefully focused books dedicated to the front- and back-end aspects of EDA, respectively. What's included in the Handbook? EDA for IC System Design, Verification, and Testing This first installment examines logical design, focusing on system-level and micro-architectural design, verification, and testing. It begins with a general overview followed by application-specific tools and methods, specification and modeling languages, high-level synthesis approaches, power estimation methods, simulation techniques, and testing procedures. EDA for IC Implementation, Circuit Design, and Process Technology Devoted to physical design, this second book analyzes the classical RTL to GDS II design flow, analog and mixed-signal design, physical verification, analysis and extraction, and technology computer aided design (TCAD). It explores power analysis and optimization, equivalence checking, placement and routing, design closure, design for manufacturability, process simulation, and device modeling. Comprising the work of expert contributors guided by leaders in the field, the Electronic Design Automation for Integrated Circuits Handbook provides a foundation of knowledge based on fundamental concepts and current industrial applications. It is an ideal resource for designers and users of EDA tools as well as a detailed introduction for newcomers to the field. © 2006 by Taylor & Francis Group, LLC. All rights reserved.
+KW  - Automation
+KW  - Computer aided analysis
+KW  - Computer aided design
+KW  - Computer aided software engineering
+KW  - Design for manufacturability
+KW  - High level languages
+KW  - High level synthesis
+KW  - Integrated circuit manufacture
+KW  - Integrated circuits
+KW  - Knowledge based systems
+KW  - Machine design
+KW  - Modeling languages
+KW  - Systems analysis
+KW  - Timing circuits
+KW  - Analog and mixed-signal design
+KW  - Equivalence checking
+KW  - Fundamental concepts
+KW  - Integrated circuits (ICs)
+KW  - Placement and routing
+KW  - Power estimation method
+KW  - Simulation technique
+KW  - Technology computer aided design
+KW  - Integrated circuit design
+M3  - Book
+DB  - Scopus
+N1  - EID: 2-s2.0-85051269420
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 30
+ER  -
+
+TY  - CONF
+AU  - Casanovas, P.
+AU  - Casellas, N.
+AU  - Vallbé, J.-J.
+AU  - Poblet, M.
+AU  - Ramos, F.
+AU  - Gorrõogoitia, J.
+AU  - Contreras, J.
+AU  - Blázquez, M.
+AU  - Benjamins, R.
+TI  - Iuriservice II: Ontology development and architectural design
+PY  - 2005
+T2  - Proceedings of the International Conference on Artificial Intelligence and Law
+SP  - 188
+EP  - 194
+DO  - 10.1145/1165485.1165514
+UR  - https://www.scopus.com/pages/publications/77950445386?origin=resultslist
+AB  - This paper shows the ontology development for the second version of the prototype Iuriservice II, an i-FAQ for judicial use containing a repository of professional judicial knowledge. We define the epistemological and ontological levels as separate issues. The domain and middle-out ontology will be connected to the SEKT top and upper level ontology PROTON. In the second part of the paper, we introduce a refinement of the architectural design, especially conceived to improve the user/system interaction by using searching, scoring and matching algorithms for a multidisciplinary ontological processing. Copyright 2005 ACM.
+KW  - Legal architectural design
+KW  - Legal ontologies
+KW  - Professional knowledge
+KW  - Semantic web
+KW  - Architectural design
+KW  - Interiors (building)
+KW  - Professional aspects
+KW  - Web Design
+KW  - Legal architectural design
+KW  - Legal ontology
+KW  - Matching algorithm
+KW  - Ontology development
+KW  - Ontology's
+KW  - Professional knowledge
+KW  - Scoring algorithms
+KW  - Searching algorithms
+KW  - Semantic-Web
+KW  - User-system interaction
+KW  - Ontology
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-77950445386
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 10
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - ENASE 2015 - Proceedings of the 10th International Conference on Evaluation of Novel Approaches to Software Engineering
+PY  - 2015
+T2  - ENASE 2015 - Proceedings of the 10th International Conference on Evaluation of Novel Approaches to Software Engineering
+UR  - https://www.scopus.com/pages/publications/84935420824?origin=resultslist
+AB  - The proceedings contain 42 papers. The topics discussed include: software engineering standards and guides for very small entities - implementation in two start-ups; a survey of cloud computing variable pricing models; workflow optimization through business reengineering for tele-cardiac system; intelligent broker - a knowledge based approach for semantic web services discovery; toward a model of computation for time-constrained applications on manycores; computing attributes of software architectures - a static method and its validation; cost-effective functional testing of reactive software; identifying quality characteristic interactions during software development; using personality traits and a spatial ability test to identify talented aspiring designers in user-centered design methodologies; and a defect dependency based approach to improve software quality in integrated software products.
+M3  - Conference review
+DB  - Scopus
+N1  - EID: 2-s2.0-84935420824
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Wang, Z.
+AU  - Huang, C.
+AU  - Ye, Y.
+TI  - Intelligent architectural design generation for townscape continuity based on knowledge-guided AIGC: A case of Jiangnan water town
+PY  - 2026
+T2  - Frontiers of Architectural Research
+DO  - 10.1016/j.foar.2026.03.011
+UR  - https://www.scopus.com/pages/publications/105038683009?origin=resultslist
+AB  - Townscape continuity, which integrates modern architecture with traditional building features, is vital to preserving urban identity. Nevertheless, current architectural practice, particularly façade design, which is the key element in maintaining townscape continuity, remains labor-intensive due to fragmented understanding and inadequate tool support. This study proposes a knowledge-guided AI-generated content (AIGC) approach to improve the efficiency of architectural design. Jiangnan water town in China was adopted as a case study. Specifically, a comprehensive design knowledge repository was developed by integrating academic literature and high-quality design cases. In this process, a large language model (LLM) and a convolutional neural network (CNN) were used to distill the professional achievement, while eye-tracking experiments captured the public perception. This repository was then used to fine-tune a Stable Diffusion model and informed prompt engineering to improve generative quality, thereby improving generative controllability and semantic reliability. A custom evaluation model, trained on preliminary knowledge-guided AIGC, further filtered suboptimal outputs. The final generation results demonstrated strong townscape continuity and adaptability across various architectural scenarios. Finally, expert evaluations confirmed that the proposed approach outperformed baseline models in the design quality. In short, this study offers a systematic knowledge repository for leveraging AIGC in architectural design, supporting practitioners in achieving townscape continuity more effectively. © 2026 The Authors. Publishing services by Elsevier B.V. on behalf of KeAi Communications Co. Ltd. This is an open access article under the CC BY-NC-ND license. http://creativecommons.org/licenses/by-nc-nd/4.0/
+KW  - AIGC
+KW  - Design generation
+KW  - Jiangnan water town
+KW  - Knowledge-guided
+KW  - Townscape continuity
+KW  - Architectural design
+KW  - Convolutional neural networks
+KW  - Historic preservation
+KW  - Knowledge management
+KW  - Product design
+KW  - Quality control
+KW  - AI-generated content
+KW  - Design generation
+KW  - Jiangnan water town
+KW  - Knowledge repository
+KW  - Knowledge-guided
+KW  - Modern architectures
+KW  - Townscape continuity
+KW  - Traditional buildings
+KW  - Urban identity
+KW  - Water towns
+KW  - Semantics
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-105038683009
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - label.ris.referenceType.CONFERENCE_REVIEW.p
+TI  - 31st International Conference on Computer-Aided Architectural Design Research in Asia, CAADRIA 2026
+PY  - 2026
+T2  - Proceedings of the International Conference on Computer-Aided Architectural Design Research in Asia
+VL  - 3
+UR  - https://www.scopus.com/pages/publications/105048868421?origin=resultslist
+AB  - The proceedings contain 218 papers. The special focus in this conference is on Computer-Aided Architectural Design Research in Asia. The topics include: LLM-Driven Architectural Geometry Generation: From Prompt to Parametric Model; Carbon-Conscious Design Agents: A Multi-Agent LLM Framework for Balancing Embodied Carbon and Cost in Early Building Design; visual Sentiment Cartography: Exploring Collective Urban Visual Experiences Through Machine Learning; Tacit to Explicit: LLM-Augmented Pattern Language for Representing Architectural Design Knowledge; encoding Transitions: Self-Supervised Learning of Architectural Thresholds with Masked Spatiotemporal Transformers; designing Cooler Cities with Tree Canopy Morphology Insights An interactive evaluation tool using interpretable machine learning; Interpreting User Responses as Emotional Evidence in Spatial Design Using EEG: A Pilot Study Toward Emotion-Informed Design Recommendation; Chain-of-Design: Sequencing Agentic AI Design Reasoning for Architecture in 3D; archGraph: Knowledge Graph-Driven Intelligence for Architectural History: A Case Study on Palladio's Architecture; Modular Neural Cellular Automata (m-NCA): A Physics-Informed Framework for Real-Time Dynamic Simulation in Architectural Design; semantic Drift in Architectural Research: A Diachronic Analysis Using Word Embedding; architectural Prompts as Design Intent: An Experimental Study of Information Transmission in Text-to-Image Generation; sensing Street Rhythm: A Natural Language Processing-Based Approach: Mapping Human Perception by Understanding Deep Semantic Features in Street View Images; latent Maps for Architectural Reasoning: Multi-Modal Precedent Retrieval as Real-Time Context for Design; Developing an Agentic AI Framework with MCP for Knowledge Continuity in AEC Industry; Human-in-the-Loop Selection for AI-Assisted Point Cloud Reconstruction: Evaluating Designer Agency with Ground Truth; a Hierarchical N-ary Relation Extraction Method for Structured Semantic Representation of Building Regulations.
+M3  - Conference review
+DB  - Scopus
+N1  - EID: 2-s2.0-105048868421
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+TI  - International Conference on Computer Science and its Applications, CSA 2017
+PY  - 2018
+T2  - Lecture Notes in Electrical Engineering
+VL  - 474
+UR  - https://www.scopus.com/pages/publications/85039446533?origin=resultslist
+AB  - The proceedings contain 234 papers. The special focus in this conference is on Computer Science and its Applications. The topics include: A model-based transformation from SCR specification models into altatica3.0 design models; simulation and verification of software architecture for loosely-coupled distributed system; research on hybrid storage method of massive heterogeneous data for mobile environment; user targeting SaaS application interworking service framework using complex context and rule-matrix; a framework for preventing illegitimate e-prescribing practices; research on horizontal damage zone airspace of ship-to-air missile under cooperative operation; key issues of military simulation and analysis system; a study on the comparison of “Internet+” paradigm and means and the analysis and evaluation of its typical development path; stripe noise correction for infrared imaging system using neural network theory; secure multicast using proxy re-encryption in IoT environment; a smart indoor gardening system using IoT technology; A user-defined code reinforcement technology based on LLVM-obfuscator; An iPOJO components-based workflow architecture in ubiquitous cloud environments; An effective framework for identifying good XML feedback fragments; minimum-cost consensus models for group decision making under intuitionistic fuzzy environment; research on ontology-based data fusion; an effective high resolution rainfall estimation based on spatiotemporal modeling; a general and effective network failure ant colony algorithm based on network fault location methods; study on smart automated sales system with blockchain-based data storage and management; pairwise relation analysis and quality estimation of classical Chinese poetry in ancient Korea; Fast provisioning service in shared-storage based VDI according to user’s type; A parallel adaptive circumference method with OpenMP.
+M3  - Conference review
+DB  - Scopus
+N1  - EID: 2-s2.0-85039446533
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Dym, C.L.
+AU  - Henchey, R.P.
+AU  - Delis, E.A.
+AU  - Gonick, S.
+TI  - A knowledge-based system for automated architectural code checking
+PY  - 1988
+T2  - Computer-Aided Design
+VL  - 20
+IS  - 3
+SP  - 137
+EP  - 145
+DO  - 10.1016/0010-4485(88)90021-8
+UR  - https://www.scopus.com/pages/publications/0023994935?origin=resultslist
+AB  - Recent efforts to develop a knowledge-based expert system capable of reviewing an architectural design for conformance with the Life Safety Code (LSC) of the National Fire Protection Association are described. These efforts include the specification of a frame-based representation of floor-plans and the development of a rule-based representation of LSC requirements. The representation was developed to operate on top of a geometrical database contained in a CADD system, within which the expert system will be embedded. That part of the LSC relating to egress requirements and fire protection in hospitals was selected as the particular domain for this prototype. The work reported has implications for the representation of architectural information in the context of computer-aided design, as well as for the representation of legally mandated code requirements. © 1988.
+KW  - architectural design
+KW  - computer-aided design
+KW  - knowledge-based system
+KW  - ARTIFICIAL INTELLIGENCE - Expert Systems
+KW  - AUTOMATED ARCHITECTURAL CODE CHECKING
+KW  - GEOMETRICAL DATABASE
+KW  - KNOWLEDGE-BASED SYSTEM
+KW  - LIFE SAFETY CODE (LSC)
+KW  - NATIONAL FIRE PROTECTION ASSOCIATION
+KW  - ARCHITECTURE
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-0023994935
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 37
+ER  -
+
+TY  - CONF
+AU  - Meador, C.Lawrence
+TI  - ARCHITECTURAL FORMS AND FUNCTIONS FOR FUTURE DECISION SUPPORT SYSTEMS.
+PY  - 1985
+T2  - Proceedings of the Hawaii International Conference on System Science
+SP  - 601
+EP  - 607
+UR  - https://www.scopus.com/pages/publications/0021793762?origin=resultslist
+AB  - Future computing system architectures for decision support system (DSS) applications will include fast data flow processors, telecommunication and micro computer 'families' for distributed DSS, and much smarter software. Emerging fourth and fifth generation hardware and software architectures are expected to take advantage of results of artificial intelligence research, especially natural language interaction, knowledge-based systems and expert systems. Some of the capabilities and limitations of such systems are reviewed.
+KW  - COMPUTER ARCHITECTURE - Applications
+KW  - SYSTEMS SCIENCE AND CYBERNETICS - Artificial Intelligence
+KW  - ARCHITECTURAL FORMS AND FUNCTIONS
+KW  - DISTRIBUTED DSS
+KW  - FAST DATA FLOW PROCESSORS
+KW  - FUTURE DECISION SUPPORT SYSTEMS
+KW  - NATURAL LANGUAGE INTERACTION
+KW  - SMARTER SOFTWARE
+KW  - DECISION THEORY AND ANALYSIS
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-0021793762
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Brown, G.Z.
+TI  - Desirable interface characteristics of knowledge-based energy software used by architects
+PY  - 1990
+T2  - ASHRAE Transactions
+IS  - pt 2
+SP  - 550
+EP  - 556
+UR  - https://www.scopus.com/pages/publications/0025558078?origin=resultslist
+AB  - This paper describes ongoing research projects on the development of user interfaces for energy software to be used by building designers. The paper takes the position that the goal of knowledge-based design software should be to help the building designer visualize the unimagined. In order to approach this goal, the unique characteristics of the building design process must be understood and used in the creation of software. The two characteristics discussed are (1) that the architectural design process emphasizes synthesis rather than analysis and (2) that the symbols used to transmit knowledge are primarily graphic abstractions rather than alphanumeric abstractions.
+KW  - Architectural Design--Computer Aided Design
+KW  - Computer Graphics--Interactive
+KW  - Computer Interfaces--Design
+KW  - Computer Software--Software Engineering
+KW  - Expert Systems--Knowledge Bases
+KW  - Computer Aided Building Design
+KW  - Computer Software Interface Design
+KW  - Expert Building Design Systems
+KW  - Knowledge-Based Energy Software
+KW  - Object-Oriented Expert Systems
+KW  - Buildings
+M3  - Conference paper
+DB  - Scopus
+N1  - EID: 2-s2.0-0025558078
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 6
+ER  -
+
+TY  - JOUR
+AU  - Fensel, D.
+AU  - Groenboom, R.
+TI  - Software architecture for knowledge-based systems
+PY  - 1999
+T2  - Knowledge Engineering Review
+VL  - 14
+IS  - 2
+SP  - 153
+EP  - 173
+DO  - 10.1017/S0269888999142097
+UR  - https://www.scopus.com/pages/publications/0032673441?origin=resultslist
+AB  - The paper introduces a software architecture for the specification and verification of knowledge-based systems combining conceptual and formal techniques. Our focus is component-based specification enabling their reuse. We identify four elements of the specification of a knowledge-based system: a task definition, a problem-solving method, a domain model, and an adaptor. We present algebraic specifications and a variant of dynamic logic as formal means to specify and verify these different elements. As a consequence of our architecture we can decompose the overall specification and verification task of the knowledge-based systems into subtasks. We identify different subcomponents for specification and different proof obligations for verification. The use of the architecture in specification and verification improves understandability and reduces the effort for both activities. In addition, its decomposition and modularization enables reuse of components and proofs. Therefore, a knowledge-based system can be built by combining and adapting different reusable components.
+KW  - Artificial intelligence
+KW  - Computer systems programming
+KW  - Knowledge based systems
+KW  - Problem solving
+KW  - Component-based specification
+KW  - Software engineering
+M3  - Article
+DB  - Scopus
+N1  - EID: 2-s2.0-0032673441
+N1  - Export Date: 23 September 2026
+N1  - Cited By: 9
+ER  -
+
